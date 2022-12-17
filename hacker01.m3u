@@ -1147,6 +1147,8 @@ https://v10.siar.us/rctv/live/playlist.m3u8
 http://122.248.43.138:1935/ch11/myStream/chunklist_w2044873838.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L6fs0wnX/SMTV.png" group-title="ALL TV",SMTV (Sumedang)
 http://122.248.43.138:1935/ch25/myStream/live.m3u8
+#EXTINF:-1 tvg-ID="gp" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7Dw0aKxoz9cxMQe5NhmF3sJzllIHtoujKkw&usqp=CAU" group-title="ALL TV",UPIN & IPIN
+http://tv1.yurend.my.id:25461/seulanga/seulanga3210/7?&token=bY2xa1DSbTQ8JxGCpbqTcvEs4vUCdq6QaQnJgxkU_Y=l3lJo49pM2GSj7d4RHYvftZ8cpB5VrBaVWabDoVBHxH4fq0u0muhkntRuUF6HNsO8HUspgOYP2IP9ctMOGDF0M8noY9BUMipHupuBQWzBjrELZLn_uk2N01F=qNk4JfV5PMF6xFPfuPjjcNi9hmsZOsZ3=FOrn4BAJdHWsB0_2l9y11_vL__2GOx81wWuw10LLT7WypF6xsx9kKri2KMf0zymmNBhKWImyQpOfKfQ28sAdwzTtfsOXEM5crXmY0fx79EanGFUlNtyRSrw_TDOlMhA458TLOluMIwNy0pdD1WmgJ7gK_TktKSAAm5cLCCIG7zdf=8qxQ0weIxOeHfyC=8KlZ5tw6eVFWOcWnOktY1ORqNjnplGv7ORiljHVeV26h4uzFXKPtAGEAHp55Gn==6uuQXTQM4mIDx6xBdZ3MD1BsUgaA8NI3IY3pfcrBY_WNDAZ0D=4n4p3kU19OWrUXxDUgQl9j_AD7jyd80_P4R7ihaIoKzmOqxw_Pm6OR3zCeNbAkmXup2eAyShSi0zTprs3J7_DTUtPBE8Vuhy6PogGg2z9EQ=V4Yj2RvNOtsHmXXPa4N=2=SyueDkK5=Yd8kc0FzIXfrVhHn2BFeOLgZW4zbPRAucpOHzVz36Ag7x5SIGuD2ZCXC6IhToEemXH2SgjV2BIqBvjcmm82c9t_d=U8UChKkuhuzqUMTeqY8MuTMAQuq5xRpD4O=1SWCyHdx5onyipgNfND0kSsN0neiN0HERZG6k4LJ3DNU6VKZ4Y7i5cbNtbGPpOC_CbxE4TSYN7XCmBi8rxdHmAoujFMtVP6QrWaic27pQPIgodUeyg8qRNDV4uVy8ge3wEXQVX3so
 
 
 
@@ -2300,3 +2302,5 @@ https://v10.siar.us/rctv/live/playlist.m3u8
 http://122.248.43.138:1935/ch11/myStream/chunklist_w2044873838.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L6fs0wnX/SMTV.png" group-title="CHANNEL DAERAH",SMTV (Sumedang)
 http://122.248.43.138:1935/ch25/myStream/live.m3u8
+#EXTINF:-1 tvg-ID="gp" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7Dw0aKxoz9cxMQe5NhmF3sJzllIHtoujKkw&usqp=CAU" group-title="KIDS",UPIN & IPIN
+http://tv1.yurend.my.id:25461/seulanga/seulanga3210/7?&token=bY2xa1DSbTQ8JxGCpbqTcvEs4vUCdq6QaQnJgxkU_Y=l3lJo49pM2GSj7d4RHYvftZ8cpB5VrBaVWabDoVBHxH4fq0u0muhkntRuUF6HNsO8HUspgOYP2IP9ctMOGDF0M8noY9BUMipHupuBQWzBjrELZLn_uk2N01F=qNk4JfV5PMF6xFPfuPjjcNi9hmsZOsZ3=FOrn4BAJdHWsB0_2l9y11_vL__2GOx81wWuw10LLT7WypF6xsx9kKri2KMf0zymmNBhKWImyQpOfKfQ28sAdwzTtfsOXEM5crXmY0fx79EanGFUlNtyRSrw_TDOlMhA458TLOluMIwNy0pdD1WmgJ7gK_TktKSAAm5cLCCIG7zdf=8qxQ0weIxOeHfyC=8KlZ5tw6eVFWOcWnOktY1ORqNjnplGv7ORiljHVeV26h4uzFXKPtAGEAHp55Gn==6uuQXTQM4mIDx6xBdZ3MD1BsUgaA8NI3IY3pfcrBY_WNDAZ0D=4n4p3kU19OWrUXxDUgQl9j_AD7jyd80_P4R7ihaIoKzmOqxw_Pm6OR3zCeNbAkmXup2eAyShSi0zTprs3J7_DTUtPBE8Vuhy6PogGg2z9EQ=V4Yj2RvNOtsHmXXPa4N=2=SyueDkK5=Yd8kc0FzIXfrVhHn2BFeOLgZW4zbPRAucpOHzVz36Ag7x5SIGuD2ZCXC6IhToEemXH2SgjV2BIqBvjcmm82c9t_d=U8UChKkuhuzqUMTeqY8MuTMAQuq5xRpD4O=1SWCyHdx5onyipgNfND0kSsN0neiN0HERZG6k4LJ3DNU6VKZ4Y7i5cbNtbGPpOC_CbxE4TSYN7XCmBi8rxdHmAoujFMtVP6QrWaic27pQPIgodUeyg8qRNDV4uVy8ge3wEXQVX3so
