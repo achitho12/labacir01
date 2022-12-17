@@ -1079,7 +1079,7 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIMalukuambon)/index.m3u8
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIPapua)/index.m3u8
 #EXTINF:-1 tvg-logo="https://s.id/1jguM" group-title="ALL TV",ADI TV
 https://v2.siar.us/aditv/livestream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://s.id/1jgtU" group-title="ALL TV,arek TV
+#EXTINF:-1 tvg-logo="https://s.id/1jgtU" group-title="ALL TV",arek TV
 http://wowza58.indostreamserver.com:1935/arektv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s.id/1jgvQ" group-title="ALL TV",Banjar TV
 https://v2.siar.us/banjartv/livestream/playlist.m3u8
@@ -1087,7 +1087,7 @@ https://v2.siar.us/banjartv/livestream/playlist.m3u8
 https://v2.siar.us/barayatv/live/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://s.id/1jgx3" group-title="ALL TV",Banyumas TV
 https://v2.siar.us/bmstv/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s.id/1jgxu" group-title="ALL TV,DM TV
+#EXTINF:-1 tvg-logo="https://s.id/1jgxu" group-title="ALL TV",DM TV
 https://bravo.kugo.id/dmtvmalang/rtmp.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8MiHHUKJ8aZ8VbxgxL81xKtg6ZDy-8iytfQ&usqp=CAU" group-title="ALL TV",GPR TV
 https://wowza.convergen.co/gprtv/myLive/playlist.m3u8
@@ -1101,7 +1101,7 @@ https://bravo.kugo.id/ksb/udp.stream/playlist.m3u8
 https://re1.siar.us/madutv/hd720/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s.id/1dYgk" group-title="ALL TV",PAL TV
 https://v3.siar.us/paltv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s.id/1dYgt" group-title="ALL TV,Puja TV
+#EXTINF:-1 tvg-logo="https://s.id/1dYgt" group-title="ALL TV",Puja TV
 https://v6.siar.us/pujatv/live/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://s.id/1dYgR" group-title="ALL TV",RC TV
 https://v10.siar.us/rctv/live/playlist.m3u8
