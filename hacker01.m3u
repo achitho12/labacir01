@@ -843,7 +843,7 @@ https://lamaddu.github.io/lamaddu/fox11.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="live20" tvg-logo="https://s.id/1pSQw" group-title="ALL TV",LIVE 20
-http://comag.rip:8000/live/50738601689735/03751643107136/176198.m3u8
+http://comag.rip:8000/50738601689735/03751643107136/176198
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
