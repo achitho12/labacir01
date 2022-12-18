@@ -2278,9 +2278,9 @@ https://h1.intechmedia.net/intech/ch52.m3u8
 https://h1.intechmedia.net/intech/ch58.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggz0NrW37opkukWcnqqHiN6dYOiSKQfsSwUGpiT9HFd9KcjLxJDvBdGPCshGjcRnUy0quVW4UTvrdXOSb_qLzqYBq6NwLeW49X3x9g-97J2dVP6Bw6qH4yDbcmC38QBbF3efrIvq37rabRbWlBzB-ihJ8XBB5DvDWK6PFW86SMVXKaoXyssaww4VI9sQ/s1280/20220826_192319.png"group-title="CHANNEL DAERAH",RA TV
 https://h1.intechmedia.net/intech/ch59.m3u8
-#EXTINF:-1 group-title="CHANNEL DAERAH",ATV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1n-DL_3pGUwa1hYUxsLNLTnzKZukFGPF4wiQ3iSd04hsLt5i1oIiQnM2W&s=10",group-title="CHANNEL DAERAH",ATV
 https://h1.intechmedia.net/intech/ch80.m3u8
-#EXTINF:-1 group-title="CHANNEL DAERAH",UGTV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJwaA3KIRD55rZptjf4Wcbefe-g4Z-xqr_LA&usqp=CAU" group-title="CHANNEL DAERAH",UGTV
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 #EXTINF:-1  tvg-id="JITV.id" group-title="CHANNEL DAERAH" tvg-logo="https://i.imgur.com/wkK7YNx.png",JITV
 https://h1.intechmedia.net/intech/ch65.m3u8
@@ -2294,7 +2294,7 @@ http://video2.onlivestreaming.net/saktitv/livestream/chunks.m3u8
 https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv_high.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QCXHQsD4/KAWANUA-TV.png" group-title="CHANNEL DAERAH",KAWANUA TV (Manado)
 http://122.248.43.138:1935/ch18/myStream/live.m3u8
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/6qYMQHhm/Radar-Cirebon-TV.png " group-title="CHANNEL DAERAH",RADAR TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRuwDHKwc_knU7vJ0qNv-gplvO-N3pCrWtZU7p4JSJnWDKrBjsGbZ4ArGy&s=10" group-title="CHANNEL DAERAH",RADAR TV
 https://v10.siar.us/rctv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TwQ2r3pv/RIAU-TV.png" group-title="CHANNEL DAERAH",RIAU TV
 http://122.248.43.138:1935/ch11/myStream/chunklist_w2044873838.m3u8
