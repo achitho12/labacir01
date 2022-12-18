@@ -1127,7 +1127,7 @@ https://h1.intechmedia.net/intech/ch59.m3u8
 https://h1.intechmedia.net/intech/ch80.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJwaA3KIRD55rZptjf4Wcbefe-g4Z-xqr_LA&usqp=CAU",group-title="ALL TV",UGTV
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrLIFd1yZGqn1r7R-2t5Hkrjk4XZJwLhsq9w&usqp=CAU",group-title="ALL TV",JITV
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpHeeejMBNPU0qFoo-J9Vg8IaaceROkNndrg&usqp=CAU",group-title="ALL TV",JITV
 https://h1.intechmedia.net/intech/ch65.m3u8
 #EXTINF:-1  tvg-id="TVKU.id" group-title="ALL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/91/TVKU-BChannel.png",TVKU
 http://103.30.1.14:8080/hls/live.m3u8
@@ -1135,7 +1135,7 @@ http://103.30.1.14:8080/hls/live.m3u8
 http://bmstv.onlivestreaming.net/bmstv/livestream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/65gyv7BS/SAKTI-TV.png"group-title="ALL TV",SAKTI TV
 http://video2.onlivestreaming.net/saktitv/livestream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://www.erwintj.my.id/wp-content/uploads/2020/11/MGS-TV.jpg",group-title="ALL TV",MGSTV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrLIFd1yZGqn1r7R-2t5Hkrjk4XZJwLhsq9w&usqp=CAU",group-title="ALL TV",MGSTV
 https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv_high.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QCXHQsD4/KAWANUA-TV.png" group-title="ALL TV",KAWANUA TV (Manado)
 http://122.248.43.138:1935/ch18/myStream/live.m3u8
