@@ -1133,15 +1133,15 @@ https://h1.intechmedia.net/intech/ch65.m3u8
 http://103.30.1.14:8080/hls/live.m3u8
 #EXTINF:-1  tvg-id="BMSTV.id" group-title="ALL TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/800px-BMSTV_Banyumas-Purwokerto.png",BMSTV
 http://bmstv.onlivestreaming.net/bmstv/livestream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/65gyv7BS/SAKTI-TV.png"group-title="ALL TV",SAKTI TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logo-saktitv.png/640px-Logo-saktitv.png" group-title="ALL TV",SAKTI TV
 http://video2.onlivestreaming.net/saktitv/livestream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrLIFd1yZGqn1r7R-2t5Hkrjk4XZJwLhsq9w&usqp=CAU",group-title="ALL TV",MGSTV
 https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv_high.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QCXHQsD4/KAWANUA-TV.png" group-title="ALL TV",KAWANUA TV (Manado)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlLddtyGLsGkDq1jo69g4IvixjdljdiLqUqg&usqp=CAU" group-title="ALL TV",KAWANUA TV (Manado)
 http://122.248.43.138:1935/ch18/myStream/live.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-cRtTFVL7aE0/XDv6R0glUaI/AAAAAAAAACA/7F0Bg_z3htgAH1efgZY8nTSf1sDOqyFngCLcBGAs/s1600/Picture2.png",group-title="ALL TV",RADAR TV
 https://v10.siar.us/rctv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TwQ2r3pv/RIAU-TV.png" group-title="ALL TV",RIAU TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d9/Riau_TV.png/640px-Riau_TV.png" group-title="ALL TV",RIAU TV
 http://122.248.43.138:1935/ch11/myStream/chunklist_w2044873838.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L6fs0wnX/SMTV.png" group-title="ALL TV",SMTV (Sumedang)
 http://122.248.43.138:1935/ch25/myStream/live.m3u8
