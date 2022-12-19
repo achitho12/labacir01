@@ -1160,28 +1160,28 @@ http://comag.rip:8000/50738601689735/03751643107136/22314
 http://comag.rip:8000/50738601689735/03751643107136/22317
 #EXTINF:-1 tvg-id="skyf1" tvg-logo="https://s3.sky.ch/img/moviecover/ch/images/channel/8.png" group-title="ALL TV",SKY F1
 http://comag.rip:8000/50738601689735/03751643107136/22320
-#EXTINF:-1 tvg-id="rmc1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/800px-Logo_RMC_Sport_2018.svg.png" group-title="ALL TV",RMC 1
+#EXTINF:-1 tvg-id="rmc1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT-B2lIfYr34zOvbGjzrT1hP8n0O9BrZXnxg&usqp=CAU" group-title="ALL TV",RMC 1
 http://comag.rip:8000/live/50738601689735/03751643107136/89996.m3u8
-#EXTINF:-1 tvg-id="rmc2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkzUHRzYIhC4tIOIKuTerXziQtToXN121Vtg&usqp=CAU" group-title="ALL TV",RMC 2
+#EXTINF:-1 tvg-id="rmc2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT-B2lIfYr34zOvbGjzrT1hP8n0O9BrZXnxg&usqp=CAU" group-title="ALL TV",RMC 2
 http://comag.rip:8000/live/50738601689735/03751643107136/22280.m3u8
-#EXTINF:-1 tvg-id="rmc3" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/71/Logo_RMC_Sport_3_2018.svg" group-title="ALL TV",RMC 3
+#EXTINF:-1 tvg-id="rmc3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT-B2lIfYr34zOvbGjzrT1hP8n0O9BrZXnxg&usqp=CAU" group-title="ALL TV",RMC 3
 http://comag.rip:8000/50738601689735/03751643107136/22279
-#EXTINF:-1 tvg-id="rmc4" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/66/Logo_RMC_Sport_4_2018.svg/1280px-Logo_RMC_Sport_4_2018.svg.png" group-title="ALL TV",RMC 4
+#EXTINF:-1 tvg-id="rmc4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT-B2lIfYr34zOvbGjzrT1hP8n0O9BrZXnxg&usqp=CAU" group-title="ALL TV",RMC 4
 http://comag.rip:8000/50738601689735/03751643107136/22371
-#EXTINF:-1 tvg-id="rmc5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/85/RMC_SPORT_LIVE_5_2018_OFFICIEL.png/revision/latest?cb=20191103084952" group-title="ALL TV",RMC 5
+#EXTINF:-1 tvg-id="rmc5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT-B2lIfYr34zOvbGjzrT1hP8n0O9BrZXnxg&usqp=CAU" group-title="ALL TV",RMC 5
 http://comag.rip:8000/50738601689735/03751643107136/22372
 #EXTINF:-1 tvg-id="eurosport 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR14JyHLeA2y2sp5n_ZvBhKCe_YPHZhXzZPQA&usqp=CAU" group-title="ALL TV",EURO SPORT 1
 http://comag.rip:8000/50738601689735/03751643107136/377
 #EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUQL_cH-Vvo8uBSPG3Be-mcE5uZ2n9SebsEg&usqp=CAU" group-title="ALL TV",EURO SPORT 2
 http://comag.rip:8000/50738601689735/03751643107136/47372
-#EXTINF:-1 tvg-id="densplay" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7Dw0aKxoz9cxMQe5NhmF3sJzllIHtoujKkw&usqp=CAU" group-title="ALL TV",DENS PLAY
-http://210.210.155.35/x6bnqe/s/s37/index.m3u8
-#EXTINF:-1 tvg-id="dragontv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7Dw0aKxoz9cxMQe5NhmF3sJzllIHtoujKkw&usqp=CAU" group-title="ALL TV",DRAGON TV
-http://210.210.155.35/x6bnqe/s/s29/index.m3u8
-#EXTINF:-1 tvg-id="eggnetwork" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7Dw0aKxoz9cxMQe5NhmF3sJzllIHtoujKkw&usqp=CAU" group-title="ALL TV",EGG NETWORK
-http://210.210.155.35/uq2663/h/h22/index.m3u8
-#EXTINF:-1 tvg-id="gem" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7Dw0aKxoz9cxMQe5NhmF3sJzllIHtoujKkw&usqp=CAU" group-title="ALL TV",GEM
-http://210.210.155.35/uq2663/h/h19/index.m3u8
+#EXTINF:-1 tvg-id="espn1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdVpx6X6Mp66E7nYX-FVeQgJUlMp2R9YLbGA&usqp=CAU" group-title="ALL TV",ESPN 1
+http://comag.rip:8000/50738601689735/03751643107136/202947
+#EXTINF:-1 tvg-id="espn2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdVpx6X6Mp66E7nYX-FVeQgJUlMp2R9YLbGA&usqp=CAU" group-title="ALL TV",ESPN 2
+http://comag.rip:8000/live/50738601689735/03751643107136/202946.m3u8
+#EXTINF:-1 tvg-id="espn3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdVpx6X6Mp66E7nYX-FVeQgJUlMp2R9YLbGA&usqp=CAU" group-title="ALL TV",ESPN 3
+http://comag.rip:8000/live/50738601689735/03751643107136/202945.m3u8
+#EXTINF:-1 tvg-id="espnextra" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdVpx6X6Mp66E7nYX-FVeQgJUlMp2R9YLbGA&usqp=CAU" group-title="ALL TV",ESPN EXTRA
+http://ae7f6ae4.rostelekom.xyz/iptv/KASEFU7Z8EG48L/19056/index.m3u8
 #EXTINF:-1 tvg-id="hits" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7Dw0aKxoz9cxMQe5NhmF3sJzllIHtoujKkw&usqp=CAU" group-title="ALL TV",HITS
 http://210.210.155.35/dr9445/h/h37/index.m3u8
 #EXTINF:-1 tvg-id="indosiar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7Dw0aKxoz9cxMQe5NhmF3sJzllIHtoujKkw&usqp=CAU" group-title="ALL TV",INDOSIAR
