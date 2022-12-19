@@ -1160,14 +1160,14 @@ http://comag.rip:8000/50738601689735/03751643107136/22314
 http://comag.rip:8000/50738601689735/03751643107136/22317
 #EXTINF:-1 tvg-id="skyf1" tvg-logo="https://s3.sky.ch/img/moviecover/ch/images/channel/8.png" group-title="ALL TV",SKY F1
 http://comag.rip:8000/50738601689735/03751643107136/22320
-#EXTINF:-1 tvg-id="rmc1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7Dw0aKxoz9cxMQe5NhmF3sJzllIHtoujKkw&usqp=CAU" group-title="ALL TV",RMC 1
+#EXTINF:-1 tvg-id="rmc1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/800px-Logo_RMC_Sport_2018.svg.png" group-title="ALL TV",RMC 1
 http://comag.rip:8000/live/50738601689735/03751643107136/89996.m3u8
-#EXTINF:-1 tvg-id="cctv4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7Dw0aKxoz9cxMQe5NhmF3sJzllIHtoujKkw&usqp=CAU" group-title="ALL TV",CCTV4
-http://210.210.155.35/qwr9ew/s/s19/index.m3u8
-#EXTINF:-1 tvg-id="documentary" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7Dw0aKxoz9cxMQe5NhmF3sJzllIHtoujKkw&usqp=CAU" group-title="ALL TV",DOCUMENTARY
-http://210.210.155.35/qwr9ew/s/s20/02.m3u8
-#EXTINF:-1 tvg-id="cna" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7Dw0aKxoz9cxMQe5NhmF3sJzllIHtoujKkw&usqp=CAU" group-title="ALL TV",CNA
-http://210.210.155.35/uq2663/h/h29/index.m3u8
+#EXTINF:-1 tvg-id="rmc2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkzUHRzYIhC4tIOIKuTerXziQtToXN121Vtg&usqp=CAU" group-title="ALL TV",RMC 2
+http://comag.rip:8000/live/50738601689735/03751643107136/22280.m3u8
+#EXTINF:-1 tvg-id="rmc3" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/71/Logo_RMC_Sport_3_2018.svg" group-title="ALL TV",RMC 3
+http://comag.rip:8000/50738601689735/03751643107136/22279
+#EXTINF:-1 tvg-id="rmc4" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/66/Logo_RMC_Sport_4_2018.svg/1280px-Logo_RMC_Sport_4_2018.svg.png" group-title="ALL TV",RMC 4
+http://comag.rip:8000/50738601689735/03751643107136/22371
 #EXTINF:-1 tvg-id="celestial movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7Dw0aKxoz9cxMQe5NhmF3sJzllIHtoujKkw&usqp=CAU" group-title="ALL TV",CELESTIAL MOVIES
 http://210.210.155.35/dr9445/h/h14/index.m3u8
 #EXTINF:-1 tvg-id="cinema world" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7Dw0aKxoz9cxMQe5NhmF3sJzllIHtoujKkw&usqp=CAU" group-title="ALL TV",CINEMA WORLD
