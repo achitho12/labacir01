@@ -741,108 +741,33 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="live1" tvg-logo="https://s.id/1pSQw" group-title="ALL TV",LIVE 1
+#EXTINF:-1 tvg-ID="beinsportmax1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmDU8laKAzrZrQJZrEIy3LuVOlbUOcDmx0yQ&usqp=CAU" group-title="ALL TV",BEIN SPORT MAX 1
 https://lamaddu.github.io/lamaddu/bmax3-3.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="live2" tvg-logo="https://s.id/1pSQw" group-title="ALL TV",LIVE 2
+#EXTINF:-1 tvg-ID="beinsportmax2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmDU8laKAzrZrQJZrEIy3LuVOlbUOcDmx0yQ&usqp=CAU" group-title="ALL TV",BEIN SPORT MAX 2
 https://lamaddu.github.io/lamaddu/bmax2-2.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="live3" tvg-logo="https://s.id/1pSQw" group-title="ALL TV",LIVE 3
+#EXTINF:-1 tvg-ID="beinsportmax3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmDU8laKAzrZrQJZrEIy3LuVOlbUOcDmx0yQ&usqp=CAU" group-title="ALL TV",BEIN SPORT MAX 3
 https://raw.githubusercontent.com/lamaddu/lamaddu/main/bmax1-1.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="live4" tvg-logo="https://s.id/1pSQw" group-title="ALL TV",LIVE 4
+#EXTINF:-1 tvg-ID="beinsportmax4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmDU8laKAzrZrQJZrEIy3LuVOlbUOcDmx0yQ&usqp=CAU" group-title="ALL TV",BEIN SPORT MAX 4
 https://lamaddu.github.io/lamaddu/bmax4-4.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="live5" tvg-logo="https://s.id/1pSQw" group-title="ALL TV",LIVE 5
+#EXTINF:-1 tvg-ID="beinsportmax5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmDU8laKAzrZrQJZrEIy3LuVOlbUOcDmx0yQ&usqp=CAU" group-title="ALL TV",BEIN SPORT MAX 5
 https://lamaddu.github.io/lamaddu/bmax5-5.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="live6" tvg-logo="https://s.id/1pSQw" group-title="ALL TV",LIVE 6
+#EXTINF:-1 tvg-ID="beinsportmax6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmDU8laKAzrZrQJZrEIy3LuVOlbUOcDmx0yQ&usqp=CAU" group-title="ALL TV",BEIN SPORT MAX 6
 https://lamaddu.github.io/lamaddu/bmax6-6.m3u8
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="live7" tvg-logo="https://s.id/1pSQw" group-title="ALL TV",LIVE 7
-https://lamaddu.github.io/lamaddu/sp1-1.m3u8
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="live8" tvg-logo="https://s.id/1pSQw" group-title="ALL TV",LIVE 8
-https://lamaddu.github.io/lamaddu/sp2-2.m3u8
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="live9" tvg-logo="https://s.id/1pSQw" group-title="ALL TV",LIVE 9
-https://lamaddu.github.io/lamaddu/sp3-3.m3u8
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="live10" tvg-logo="https://s.id/1pSQw" group-title="ALL TV",LIVE 10
-https://lamaddu.github.io/lamaddu/spv1-1.m3u8
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="live11" tvg-logo="https://s.id/1pSQw" group-title="ALL TV",LIVE 11
-https://lamaddu.github.io/lamaddu/spv2-2.m3u8
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="live12" tvg-logo="https://s.id/1pSQw" group-title="ALL TV",LIVE 12
-https://lamaddu.github.io/lamaddu/spv3-3.m3u8
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="live13" tvg-logo="https://s.id/1pSQw" group-title="ALL TV",LIVE 13
-https://lamaddu.github.io/lamaddu/tsn1-1.m3u8
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="live14" tvg-logo="https://s.id/1pSQw" group-title="ALL TV",LIVE 14
-https://lamaddu.github.io/lamaddu/tsn2-2.m3u8
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="live15" tvg-logo="https://s.id/1pSQw" group-title="ALL TV",LIVE 15
-https://lamaddu.github.io/lamaddu/tsn3-3.m3u8
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="live16" tvg-logo="https://s.id/1pSQw" group-title="ALL TV",LIVE 16
-https://lamaddu.github.io/lamaddu/tsn4-4.m3u8
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="live17" tvg-logo="https://s.id/1pSQw" group-title="ALL TV",LIVE 17
-https://lamaddu.github.io/lamaddu/tsn5-5.m3u8
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="live18" tvg-logo="https://s.id/1pSQw" group-title="ALL TV",LIVE 18
-https://lamaddu.github.io/lamaddu/fs1-1.m3u8
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="live19" tvg-logo="https://s.id/1pSQw" group-title="ALL TV",LIVE 19
-https://lamaddu.github.io/lamaddu/fox11.m3u8
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="live20" tvg-logo="https://s.id/1pSQw" group-title="ALL TV",LIVE 20
-http://comag.rip:8000/50738601689735/03751643107136/176198
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="ligabri" tvg-logo="https://s.id/1pSQw" group-title="ALL TV",LIGA BRI
-http://golive.yn.lt/live/liga1/01.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
