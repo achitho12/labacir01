@@ -280,8 +280,8 @@ https://av-live-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="starmovieshd" tvg-logo="https://s.id/1d0XA" group-title="ALL TV",STAR MOVIES HD
-http://103.99.249.107:81/play/a00o
+#EXTINF:-1 tvg-ID="hbo1" tvg-logo="https://s.id/1d0TX" group-title="ALL TV",HBO 1 HD
+http://jadetv.de/live/eagleiptv/SsFAljPDDi/69564.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
@@ -511,8 +511,8 @@ https://thefirst-oando.amagi.tv/playlist.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="foxcrime" tvg-logo="https://s.id/1d1f3" group-title="ALL TV",FOXCRIME
-http://103.162.136.235:4500/play/a00c/index.m3u8
+#EXTINF:-1 tvg-ID="hbo2" tvg-logo="https://s.id/1d0TX" group-title="ALL TV",HBO 2 HD
+http://163.172.33.7:25461/live/serveramsterdam/2292020/33.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
