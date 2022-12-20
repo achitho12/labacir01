@@ -5,6 +5,7 @@ https://live-production.secureswiftcontent.com/exp=1671522108~acl=/vp9/205_strea
 
 #EXTINF:-1 tvg-ID="sctv" tvg-logo="https://s.id/1d0vb" group-title="ALL TV",SCTV
 https://etslive-2-vidio-com.akamaized.net/exp=1671522161~acl=/vp9/204_stream.mpd!/vp9/204/*!/vp9/*/204_stream.mpd!/vp9/*/204/*~hmac=a37a898bef6d45285feabf7d12a14f9dcc796a8428951ee9c89addd2e930b698/vp9/204_stream.mpd
+
 #EXTINF:-1 tvg-ID="sctv" tvg-logo="https://s.id/1d0vb" group-title="ALL TV",SCTV
 https://achitho12.github.io/labacir01/sctv.m3u8
 #EXTM3U
