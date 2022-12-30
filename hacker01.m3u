@@ -2305,3 +2305,61 @@ http://122.248.43.138:1935/ch11/myStream/chunklist_w2044873838.m3u8
 http://122.248.43.138:1935/ch25/myStream/live.m3u8
 #EXTINF:-1 tvg-ID="upin & ipin" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7Dw0aKxoz9cxMQe5NhmF3sJzllIHtoujKkw&usqp=CAU" group-title="KIDS",UPIN & IPIN
 http://tv1.yurend.my.id:25461/seulanga/seulanga3210/7?&token=bY2xa1DSbTQ8JxGCpbqTcvEs4vUCdq6QaQnJgxkU_Y=l3lJo49pM2GSj7d4RHYvftZ8cpB5VrBaVWabDoVBHxH4fq0u0muhkntRuUF6HNsO8HUspgOYP2IP9ctMOGDF0M8noY9BUMipHupuBQWzBjrELZLn_uk2N01F=qNk4JfV5PMF6xFPfuPjjcNi9hmsZOsZ3=FOrn4BAJdHWsB0_2l9y11_vL__2GOx81wWuw10LLT7WypF6xsx9kKri2KMf0zymmNBhKWImyQpOfKfQ28sAdwzTtfsOXEM5crXmY0fx79EanGFUlNtyRSrw_TDOlMhA458TLOluMIwNy0pdD1WmgJ7gK_TktKSAAm5cLCCIG7zdf=8qxQ0weIxOeHfyC=8KlZ5tw6eVFWOcWnOktY1ORqNjnplGv7ORiljHVeV26h4uzFXKPtAGEAHp55Gn==6uuQXTQM4mIDx6xBdZ3MD1BsUgaA8NI3IY3pfcrBY_WNDAZ0D=4n4p3kU19OWrUXxDUgQl9j_AD7jyd80_P4R7ihaIoKzmOqxw_Pm6OR3zCeNbAkmXup2eAyShSi0zTprs3J7_DTUtPBE8Vuhy6PogGg2z9EQ=V4Yj2RvNOtsHmXXPa4N=2=SyueDkK5=Yd8kc0FzIXfrVhHn2BFeOLgZW4zbPRAucpOHzVz36Ag7x5SIGuD2ZCXC6IhToEemXH2SgjV2BIqBvjcmm82c9t_d=U8UChKkuhuzqUMTeqY8MuTMAQuq5xRpD4O=1SWCyHdx5onyipgNfND0kSsN0neiN0HERZG6k4LJ3DNU6VKZ4Y7i5cbNtbGPpOC_CbxE4TSYN7XCmBi8rxdHmAoujFMtVP6QrWaic27pQPIgodUeyg8qRNDV4uVy8ge3wEXQVX3so
+
+
+"#EXTINF:0 group-title="MOVIES" tvg-logo="https://i.imgur.com/44aJ4YV.png" ,Xing Kong TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
+https://liveaneviadev.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony_one_in.png" group-title="MOVIES",One
+https://liveaneviadev.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:0 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_86.png",MNC Entertainment
+https://liveaneviadev.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:0 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_96.png",MNC Infotainment
+https://liveaneviadev.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19765549_ico.png?ts=1654800851" group-title="MOVIES",ACTION MOVIES
+http://hpull.kktv8.com:80/livekktv/128600025/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19974462_ico.png?ts=1655149767" group-title="MOVIES",AMC
+https://bcovlive-a.akamaihd.net/ebf15ff84e98490e8b00209ed77c77f5/us-east-1/6240731308001/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19974448_ico.png?ts=1655149932" group-title="MOVIES",MOVIE SHAPIER
+https://moviesphere-plex.amagi.tv/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/1011.png" group-title="MOVIES",VIP Comedy HD
+https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/1012.png" group-title="MOVIES",VIP Megahit HD
+https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/1013.png" group-title="MOVIES",VIP Premiere HD
+https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/2838.png" group-title="MOVIES",VIP Serial HD
+https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/1200px-KBS_World_%282009%29.svg.png" 
+group-title="MOVIES",KBS World 
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Rakuten_Global_Brand_Logo.svg/440px-Rakuten_Global_Brand_Logo.svg.png" group-title="MOVIES", Rakuten Action Movies
+https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Rakuten_Global_Brand_Logo.svg/440px-Rakuten_Global_Brand_Logo.svg.png" group-title="MOVIES", Rakuten Comedy Movies
+https://rakuten-comedymovies-1-gb.samsung.wurl.com/manifest/1200.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Rakuten_Global_Brand_Logo.svg/440px-Rakuten_Global_Brand_Logo.svg.png" group-title="MOVIES", Rakuten Family
+http://rakuten-family-2-es.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Rakuten-Global-Logo.jpg/1200px-Rakuten-Global-Logo.jpg" group-title="MOVIES", Family 6 (Rakuten) 
+https://rakuten-family-6-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.ple
