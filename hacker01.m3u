@@ -1254,82 +1254,82 @@ http://birutv.com/dens@play/cm.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="ccm" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAtnnoU7KfSrYTsb-mdOhhBPGDxw7lqu4s7w&usqp=CAU" group-title="BIRU TV",CELESTIAL MOVIES CLASSIC
+#EXTINF:-1 tvg-ID="ccm" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6ziFUb_ZRaZ3BRChdIpeJDLg_Nh62vXC5Gw&usqp=CAU" group-title="BIRU TV",CELESTIAL MOVIES CLASSIC
 http://birutv.com/dens@play/ccm.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="hits" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAtnnoU7KfSrYTsb-mdOhhBPGDxw7lqu4s7w&usqp=CAU" group-title="BIRU TV",HITS
+#EXTINF:-1 tvg-ID="hits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HITS-WWW-Banner1.png" group-title="BIRU TV",HITS
 http://birutv.com/dens@play/hits.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="egg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAtnnoU7KfSrYTsb-mdOhhBPGDxw7lqu4s7w&usqp=CAU" group-title="BIRU TV",EGG
+#EXTINF:-1 tvg-ID="egg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpDEUAH02Z8PJ7aeAhmzpqkIjtIGEHTAQWdA&usqp=CAU" group-title="BIRU TV",EGG
 http://birutv.com/dens@play/egg.m3u8/
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="tvn" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAtnnoU7KfSrYTsb-mdOhhBPGDxw7lqu4s7w&usqp=CAU" group-title="BIRU TV",TVN
+#EXTINF:-1 tvg-ID="tvn" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqKrtJHJPuGqsIJLLM7wO7gsoH3zGHYyp3g&usqp=CAU" group-title="BIRU TV",TVN
 http://birutv.com/dens@play/tvn.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="tvnmovies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAtnnoU7KfSrYTsb-mdOhhBPGDxw7lqu4s7w&usqp=CAU" group-title="BIRU TV",TVN
+#EXTINF:-1 tvg-ID="tvnmovies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt5VuPzQL-4IEHUylcDgnvyZwRLjl8rF8a2w&usqp=CAU" group-title="BIRU TV",TVN
 http://birutv.com/dens@play/tvnmov.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="kix" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAtnnoU7KfSrYTsb-mdOhhBPGDxw7lqu4s7w&usqp=CAU" group-title="BIRU TV",KIX
+#EXTINF:-1 tvg-ID="kix" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy9T3-Nne_lO8LluVGJLAabSKuWTu3HzIDLg&usqp=CAU" group-title="BIRU TV",KIX
 http://birutv.com/dens@play/kix.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="cinemaworld" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAtnnoU7KfSrYTsb-mdOhhBPGDxw7lqu4s7w&usqp=CAU" group-title="BIRU TV",CINEMA WORLD
+#EXTINF:-1 tvg-ID="cinemaworld" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiDqkkZOHEJQeplTqhcFmxyTy6CflvxfhFsA&usqp=CAU" group-title="BIRU TV",CINEMA WORLD
 http://birutv.com/dens@play/cinema.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="k+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAtnnoU7KfSrYTsb-mdOhhBPGDxw7lqu4s7w&usqp=CAU" group-title="BIRU TV",K+
+#EXTINF:-1 tvg-ID="k+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2vqm8zv9Y2cimMu73ByGZK9cTqFV_WuRoQg&usqp=CAU" group-title="BIRU TV",K+
 http://birutv.com/dens@play/k+.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="rockant" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAtnnoU7KfSrYTsb-mdOhhBPGDxw7lqu4s7w&usqp=CAU" group-title="BIRU TV",ROCK ANT
+#EXTINF:-1 tvg-ID="rockant" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKHJ52MPdRpvcXG16AX7jIXt4lT1IasDcPBA&usqp=CAU" group-title="BIRU TV",ROCK ANT
 http://birutv.com/dens@play/rock.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="rockext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAtnnoU7KfSrYTsb-mdOhhBPGDxw7lqu4s7w&usqp=CAU" group-title="BIRU TV",ROCK EXT
+#EXTINF:-1 tvg-ID="rockext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0b9xfAQ8ya7TuOkqE2SsNMj9qSXoC4qD_-A&usqp=CAU" group-title="BIRU TV",ROCK EXT
 http://birutv.com/dens@play/extreme.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="zeebioskop" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAtnnoU7KfSrYTsb-mdOhhBPGDxw7lqu4s7w&usqp=CAU" group-title="BIRU TV",ZEE BIOSKOP
+#EXTINF:-1 tvg-ID="zeebioskop" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl0ZgYJLH9VlR6QrsryJgkAEEQsMjVSQZ0iw&usqp=CAU" group-title="BIRU TV",ZEE BIOSKOP
 http://birutv.com/dens@play/zeeb.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="thrill" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAtnnoU7KfSrYTsb-mdOhhBPGDxw7lqu4s7w&usqp=CAU" group-title="BIRU TV",THRILL
+#EXTINF:-1 tvg-ID="thrill" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLswJ26Sr_ar4aPj073ysrK7dpqaVaewGQbw&usqp=CAU" group-title="BIRU TV",THRILL
 http://birutv.com/dens@play/thrill.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="mca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAtnnoU7KfSrYTsb-mdOhhBPGDxw7lqu4s7w&usqp=CAU" group-title="BIRU TV",MCA
+#EXTINF:-1 tvg-ID="mca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAllWgWxUuzBAOEdJlMrTZ75tqX8AW6hZ4PQ&usqp=CAU" group-title="BIRU TV",MCA
 http://birutv.com/dens@play/myc.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="mcn" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAtnnoU7KfSrYTsb-mdOhhBPGDxw7lqu4s7w&usqp=CAU" group-title="BIRU TV",MCN
+#EXTINF:-1 tvg-ID="mcn" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSylApfuzvKgaJ0GPGPe4yahTeSa5GL28NZCg&usqp=CAU" group-title="BIRU TV",MCN
 http://birutv.com/dens@play/mcn.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="mfc" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAtnnoU7KfSrYTsb-mdOhhBPGDxw7lqu4s7w&usqp=CAU" group-title="BIRU TV",MFC
+#EXTINF:-1 tvg-ID="mfc" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi-VF0RrmppIRMVaO3Oq45abKnUf12wefKQA&usqp=CAU" group-title="BIRU TV",MFC
 http://birutv.com/dens@play/family.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="tv5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAtnnoU7KfSrYTsb-mdOhhBPGDxw7lqu4s7w&usqp=CAU" group-title="BIRU TV",TV5
+#EXTINF:-1 tvg-ID="tv5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIepuN6Hm6wkAk2dPc7i5hfeJrQHmrVhL0lw&usqp=CAU" group-title="BIRU TV",TV5
 http://birutv.com/dens@play/tv5.m3u8
 
 
