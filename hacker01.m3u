@@ -1145,14 +1145,10 @@ http://154.62.74.29:1935/live/barza/chunklist_w1914664603.m3u8
 http://93.155.227.38:555/m3u8/webmtelsport_web.m3u8
 #EXTINF:-1 tvg-id="maxsport2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgHT76uVCqzo82c2LhPGmjf9R91qQF4P1H-A&usqp=CAU" group-title="ALL TV",MAX SPORT 2
 http://93.155.227.38:555/m3u8/webmtelsport2_web.m3u8
-
 #EXTINF:-1 tvg-id="star1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4vcilAJRL6WkK5mMJeSBC5dicOLqEwqqryw&usqp=CAU" group-title="ALL TV",STAR1
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS200&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-id="star2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4vcilAJRL6WkK5mMJeSBC5dicOLqEwqqryw&usqp=CAU" group-title="ALL TV",STAR2
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS201&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-ID="upin & ipin" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7Dw0aKxoz9cxMQe5NhmF3sJzllIHtoujKkw&usqp=CAU" group-title="KIDS",UPIN & IPIN
-http://tv1.yurend.my.id:25461/seulanga/seulanga3210/7?&token=bY2xa1DSbTQ8JxGCpbqTcvEs4vUCdq6QaQnJgxkU_Y=l3lJo49pM2GSj7d4RHYvftZ8cpB5VrBaVWabDoVBHxH4fq0u0muhkntRuUF6HNsO8HUspgOYP2IP9ctMOGDF0M8noY9BUMipHupuBQWzBjrELZLn_uk2N01F=qNk4JfV5PMF6xFPfuPjjcNi9hmsZOsZ3=FOrn4BAJdHWsB0_2l9y11_vL__2GOx81wWuw10LLT7WypF6xsx9kKri2KMf0zymmNBhKWImyQpOfKfQ28sAdwzTtfsOXEM5crXmY0fx79EanGFUlNtyRSrw_TDOlMhA458TLOluMIwNy0pdD1WmgJ7gK_TktKSAAm5cLCCIG7zdf=8qxQ0weIxOeHfyC=8KlZ5tw6eVFWOcWnOktY1ORqNjnplGv7ORiljHVeV26h4uzFXKPtAGEAHp55Gn==6uuQXTQM4mIDx6xBdZ3MD1BsUgaA8NI3IY3pfcrBY_WNDAZ0D=4n4p3kU19OWrUXxDUgQl9j_AD7jyd80_P4R7ihaIoKzmOqxw_Pm6OR3zCeNbAkmXup2eAyShSi0zTprs3J7_DTUtPBE8Vuhy6PogGg2z9EQ=V4Yj2RvNOtsHmXXPa4N=2=SyueDkK5=Yd8kc0FzIXfrVhHn2BFeOLgZW4zbPRAucpOHzVz36Ag7x5SIGuD2ZCXC6IhToEemXH2SgjV2BIqBvjcmm82c9t_d=U8UChKkuhuzqUMTeqY8MuTMAQuq5xRpD4O=1SWCyHdx5onyipgNfND0kSsN0neiN0HERZG6k4LJ3DNU6VKZ4Y7i5cbNtbGPpOC_CbxE4TSYN7XCmBi8rxdHmAoujFMtVP6QrWaic27pQPIgodUeyg8qRNDV4uVy8ge3wEXQVX3so
-
 
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1174,6 +1170,12 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=HD&ccode=JP&m=d0:20
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="wowowcinema" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoF31oLBYxXxt3SZWTMIGh7aV1_BG_Ltf3zA&usqp=CAU" group-title="ALL TV",WOWOW CINEMA
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS193&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="metrotv" tvg-logo="https://thumbor.prod.vidiocdn.com/CN732k1UkV-MWtonPwmlMzDE-gY=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/777/metro-tv-461c64.jpg" group-title="BIRU TV",METRO TV
+http://rr.dens.tv/h/h12/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Metro_TV
 
 
 
