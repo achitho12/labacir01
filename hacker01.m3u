@@ -1360,7 +1360,7 @@ http://birutv.com/dens@play/tv5.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="ligabri" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQQdv5ibshdVizuBelWpILQ4uOOc7E1AOIfg&usqp=CAU" group-title="EVENT",LIGA BRI
-https://d2s97x1gdf3esf.cloudfront.net/out/v1/c1c8f8c23f4e40f089a96ebda156816a/index.m3u8
+https://global.zkshuye.cn/live/sd-1-3782049.m3u8
 
 
 
