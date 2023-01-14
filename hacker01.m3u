@@ -1388,11 +1388,7 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunk
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="edgesport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyuFyuTJCg06ESYxmitUg_y0hwTJ0pZgjGBQ&usqp=CAU" group-title="ALL TV",EDGE SPORT
 https://edgesports-sportstribal.amagi.tv/playlist.m3u8?token=GXHFjmENz7eOj8lpI53DcLjSggUjB3
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="edgesport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyuFyuTJCg06ESYxmitUg_y0hwTJ0pZgjGBQ&usqp=CAU" group-title="ALL TV",EDGE SPORT
-https://edgesports-sportstribal.amagi.tv/playlist.m3u8?token=GXHFjmENz7eOj8lpI53DcLjSggUjB3
+
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
@@ -1401,9 +1397,13 @@ http://edge01eu.ekranet.com/rtshsport1/index.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="dubaisport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjZfSs6NL1MNKmnf-8WtDGWMDbcslZVhAkgg&usqp=CAU" group-title="ALL TV",DUBAI SPORT
+#EXTINF:-1 tvg-ID="dubaisport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxfTd4nbFanz3qnyMbomG-LJWiWI8AYrz3Qg&usqp=CAU" group-title="ALL TV",DUBAI SPORT
 https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
-
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="dubaisport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxfTd4nbFanz3qnyMbomG-LJWiWI8AYrz3Qg&usqp=CAU" group-title="ALL TV",DUBAI SPORT 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
 
 
 
