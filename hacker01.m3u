@@ -782,48 +782,7 @@ http://warkop.cf/80/bein/04.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="beinsports5" tvg-logo="https://s.id/1d1IX" group-title="ALL TV",BEIN SPORT 5
-http://warkop.cf/80/bein/05.m3u8
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="beinsports6" tvg-logo="https://s.id/1d1JS" group-title="ALL TV",BEIN SPORT 6
-http://warkop.cf/80/bein/06.m3u8
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="beinsports7" tvg-logo="https://s.id/1d1Kp" group-title="ALL TV",BEIN SPORT 7
-http://warkop.cf/80/bein/07.m3u8
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="beinsports1english" tvg-logo="https://s.id/1d1Gl" group-title="ALL TV",BEIN SPORT 1 ENGLISH
-http://golive.yn.lt/live/epl/23.m3u8
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="beinsports2english" tvg-logo="https://s.id/1d1GJ" group-title="ALL TV",BEIN SPORT 2 ENGLISH
-http://warkop.cf/80/bein/12.m3u8
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="beinsports3english" tvg-logo="https://s.id/1d1HB" group-title="ALL TV",BEIN SPORT 3 ENGLISH
-http://warkop.cf/80/bein/13.m3u8
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="beinsports1france" tvg-logo="https://s.id/1d1Gl" group-title="ALL TV",BEIN SPORT 1 FRANCE
-http://warkop.cf/80/bein/14.m3u8
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="beinsports2france" tvg-logo="https://s.id/1d1GJ" group-title="ALL TV",BEIN SPORT 2 FRANCE
-http://warkop.cf/80/bein/15.m3u8
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="beinsports3france" tvg-logo="https://s.id/1d1HB" group-title="ALL TV",BEIN SPORT 3 FRANCE
-http://warkop.cf/80/bein/16.m3u8
+
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
@@ -1047,78 +1006,6 @@ http://tv1.yurend.my.id:25461/seulanga/seulanga3210/7?&token=bY2xa1DSbTQ8JxGCpbq
 
 
 
-#EXTINF:-1 tvg-id="cartoon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7Dw0aKxoz9cxMQe5NhmF3sJzllIHtoujKkw&usqp=CAU" group-title="ALL TV",CARTOON
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c363ac9e41be30cb6054c7c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTAROPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&token=RgY2q20lU22uILBd2IueHAQNySI3Qt9sgxOBkKqRQ0U2rsaNHV0DLyPmuPJz9=L70=TiZLSlYXTt19i_wAoCn5bSdHlSvXnE5YfUJ18O6fEQYmW27FiTBB_fj9VRu_OWVFoWSVFDNBs_lQqbRVBD2dzAKnw0nZ5UmtdLQCZRbdaUisflw1v1vvl1GRkQKAqEZIgdot9rwLP9S=BjBLFct1sXcXPSpEHj3d0LOGOdy15qH6AFtFJX2QV2ZGU3NVNoqMaagFdPZziX9kgKC5oVO9KatVPHhQqyHfmWjs_SIipp0h6y9ad4acp6Hh53QHCeOTq6U3LZl2we7YG8eapxNtCosywT_dOic3CkiARwXW0lPD4D9u7OgfU8ZHsVH1r68hN5iRh3w8NjiMPKyKj5=peuQs8AYHIWXEswzDmZhYR6=eSx6BOIQTRoIP6Uin77f8yHqoUVOKFo_KLgnij=NF8nDlXfbaSKNWfAHCwTJRfPSVELRGV73IiBUgpAZ=sjIgeyFRRj2uA5H71M0B_LNFgLP3Ry9eNL5QRSMaFnbyFt1XH9KX7Juo98snc1CFmmBv64ulE5dNvMrUbFwbsSZ1ca56Mlp3npTNjYCdsKM2=2biZ3be0aqrWlwALp5Z91UtaxH4SvGc_ybXdeTcxmKpwp7XNHu_g=ZbqeEIDfJLsJ6cWKpNPt_u2jXInEoOPUQP8vSlYkG9cuCrRpAYPEPqlj6DOyae5qjEzLmhwYh3WxE1XiPzKhNyMMjOYP5IAXBFyE1K==H7pCJkkR24X1zVyYlLV1zN2ttt6CAXVklZDuC76ekKtTHbLS3j_dVAe7oPjL_5TwsoSO4bD08=bfikc3pZQVFUGqpHCvZnh2EM=XCW6mjN5MwRhAGf=XmA4az=gY
-#EXTINF:-1 tvg-id="skysport1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3PIx185R3uA38H6IKtiyVk_YhVKOwjF00oA&usqp=CAU" group-title="ALL TV",SKY SPORT 1
-http://comag.rip:8000/50738601689735/03751643107136/22314
-#EXTINF:-1 tvg-id="skysport2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOWMqIi4nhWXpDZzcwnYtc2DS4wJ7_jyRZDg&usqp=CAU" group-title="ALL TV",SKY SPORT 2
-http://comag.rip:8000/50738601689735/03751643107136/22317
-#EXTINF:-1 tvg-id="skyf1" tvg-logo="https://s3.sky.ch/img/moviecover/ch/images/channel/8.png" group-title="ALL TV",SKY F1
-http://comag.rip:8000/50738601689735/03751643107136/22320
-#EXTINF:-1 tvg-id="rmc1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT-B2lIfYr34zOvbGjzrT1hP8n0O9BrZXnxg&usqp=CAU" group-title="ALL TV",RMC 1
-http://comag.rip:8000/live/50738601689735/03751643107136/89996.m3u8
-#EXTINF:-1 tvg-id="rmc2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT-B2lIfYr34zOvbGjzrT1hP8n0O9BrZXnxg&usqp=CAU" group-title="ALL TV",RMC 2
-http://comag.rip:8000/live/50738601689735/03751643107136/22280.m3u8
-#EXTINF:-1 tvg-id="rmc3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT-B2lIfYr34zOvbGjzrT1hP8n0O9BrZXnxg&usqp=CAU" group-title="ALL TV",RMC 3
-http://comag.rip:8000/50738601689735/03751643107136/22279
-#EXTINF:-1 tvg-id="rmc4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT-B2lIfYr34zOvbGjzrT1hP8n0O9BrZXnxg&usqp=CAU" group-title="ALL TV",RMC 4
-http://comag.rip:8000/50738601689735/03751643107136/22371
-#EXTINF:-1 tvg-id="rmc5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT-B2lIfYr34zOvbGjzrT1hP8n0O9BrZXnxg&usqp=CAU" group-title="ALL TV",RMC 5
-http://comag.rip:8000/50738601689735/03751643107136/22372
-#EXTINF:-1 tvg-id="eurosport 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR14JyHLeA2y2sp5n_ZvBhKCe_YPHZhXzZPQA&usqp=CAU" group-title="ALL TV",EURO SPORT 1
-http://comag.rip:8000/50738601689735/03751643107136/377
-#EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUQL_cH-Vvo8uBSPG3Be-mcE5uZ2n9SebsEg&usqp=CAU" group-title="ALL TV",EURO SPORT 2
-http://comag.rip:8000/50738601689735/03751643107136/47372
-#EXTINF:-1 tvg-id="espn1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdVpx6X6Mp66E7nYX-FVeQgJUlMp2R9YLbGA&usqp=CAU" group-title="ALL TV",ESPN 1
-http://iptvtree.net:8080/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/5779
-#EXTINF:-1 tvg-id="espn2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdVpx6X6Mp66E7nYX-FVeQgJUlMp2R9YLbGA&usqp=CAU" group-title="ALL TV",ESPN 2
-http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/7787
-#EXTINF:-1 tvg-id="espn3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdVpx6X6Mp66E7nYX-FVeQgJUlMp2R9YLbGA&usqp=CAU" group-title="ALL TV",ESPN 3
-http://iptvtree.net:8080/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/3032
-#EXTINF:-1 tvg-id="espnextra" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdVpx6X6Mp66E7nYX-FVeQgJUlMp2R9YLbGA&usqp=CAU" group-title="ALL TV",ESPN EXTRA
-http://ae7f6ae4.rostelekom.xyz/iptv/KASEFU7Z8EG48L/19056/index.m3u8
-#EXTINF:-1 tvg-id="bt1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTa_PkVlTVJqhFlY2Cxec1wf08YUTB_uwcVg&usqp=CAU" group-title="ALL TV",BT SPORT 1
-http://comag.rip:8000/50738601689735/03751643107136/22306
-#EXTINF:-1 tvg-id="bt2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTa_PkVlTVJqhFlY2Cxec1wf08YUTB_uwcVg&usqp=CAU" group-title="ALL TV",BT SPORT 2
-http://comag.rip:8000/50738601689735/03751643107136/22303
-#EXTINF:-1 tvg-id="bt3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTa_PkVlTVJqhFlY2Cxec1wf08YUTB_uwcVg&usqp=CAU" group-title="ALL TV",BT SPORT 3
-http://comag.rip:8000/live/50738601689735/03751643107136/22300.m3u8
-#EXTINF:-1 tvg-id="btespn" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTa_PkVlTVJqhFlY2Cxec1wf08YUTB_uwcVg&usqp=CAU" group-title="ALL TV",BT SPORT ESPN
-http://comag.rip:8000/50738601689735/03751643107136/22298
-#EXTINF:-1 tvg-id="eleven1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCK88nVH9ayhlZPf_41A1-bCEVC41H7EUSmg&usqp=CAU" group-title="ALL TV",ELEVEN 1
-http://comag.rip:8000/50738601689735/03751643107136/199181
-#EXTINF:-1 tvg-id="eleven2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCK88nVH9ayhlZPf_41A1-bCEVC41H7EUSmg&usqp=CAU" group-title="ALL TV",ELEVEN 2
-http://comag.rip:8000/50738601689735/03751643107136/199176
-#EXTINF:-1 tvg-id="supersport1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4vDUaLJXLv10fM9jyzZ6W9-KnGBU8OzQDSg&usqp=CAU" group-title="ALL TV",SUPER SPORT 1
-http://comag.rip:8000/50738601689735/03751643107136/190382
-#EXTINF:-1 tvg-id="supersport2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4vDUaLJXLv10fM9jyzZ6W9-KnGBU8OzQDSg&usqp=CAU" group-title="ALL TV",SUPER SPORT 2
-http://comag.rip:8000/50738601689735/03751643107136/190380
-#EXTINF:-1 tvg-id="supersport3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4vDUaLJXLv10fM9jyzZ6W9-KnGBU8OzQDSg&usqp=CAU" group-title="ALL TV",SUPER SPORT 3
-http://comag.rip:8000/50738601689735/03751643107136/190379
-#EXTINF:-1 tvg-id="sporttv1" tvg-logo="https://1.bp.blogspot.com/-5VEMXsL8q9Y/WT2FMruoncI/AAAAAAAAGhk/1RBFbRfw4m4CdlwfXpX1jxSkdYCu3w9XQCLcB/s1600/sport_tv_pt.png" group-title="ALL TV",SPORT TV1
-http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/7426
-#EXTINF:-1 tvg-id="sporttv2" tvg-logo="https://1.bp.blogspot.com/-5VEMXsL8q9Y/WT2FMruoncI/AAAAAAAAGhk/1RBFbRfw4m4CdlwfXpX1jxSkdYCu3w9XQCLcB/s1600/sport_tv_pt.png" group-title="ALL TV",SPORT TV2
-http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/2677
-#EXTINF:-1 tvg-id="sporttv3" tvg-logo="https://1.bp.blogspot.com/-5VEMXsL8q9Y/WT2FMruoncI/AAAAAAAAGhk/1RBFbRfw4m4CdlwfXpX1jxSkdYCu3w9XQCLcB/s1600/sport_tv_pt.png" group-title="ALL TV",SPORT TV3
-http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/2676
-#EXTINF:-1 tvg-id="sporttv4" tvg-logo="https://1.bp.blogspot.com/-5VEMXsL8q9Y/WT2FMruoncI/AAAAAAAAGhk/1RBFbRfw4m4CdlwfXpX1jxSkdYCu3w9XQCLcB/s1600/sport_tv_pt.png" group-title="ALL TV",SPORT TV4
-http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/2675
-#EXTINF:-1 tvg-id="sporttv5" tvg-logo="https://1.bp.blogspot.com/-5VEMXsL8q9Y/WT2FMruoncI/AAAAAAAAGhk/1RBFbRfw4m4CdlwfXpX1jxSkdYCu3w9XQCLcB/s1600/sport_tv_pt.png" group-title="ALL TV",SPORT TV5
-http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/2674
-#EXTINF:-1 tvg-id="digisport1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwKc22BkPicNXwTAhS6Wd-WFki_tv360saAQ&usqp=CAU" group-title="ALL TV",DIGI SPORT 1
-http://comag.rip:8000/live/50738601689735/03751643107136/179647.m3u8
-#EXTINF:-1 tvg-id="digisport2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwKc22BkPicNXwTAhS6Wd-WFki_tv360saAQ&usqp=CAU" group-title="ALL TV",DIGI SPORT 2
-http://comag.rip:8000/live/50738601689735/03751643107136/179648.m3u8
-#EXTINF:-1 tvg-id="barcatv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCUgfY_6Goh5k1O8BNduDLAYLR0eY9BIWxJQ&usqp=CAU" group-title="ALL TV",BARCA TV
-http://154.62.74.29:1935/live/barza/chunklist_w1914664603.m3u8
-#EXTINF:-1 tvg-id="maxsport1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgHT76uVCqzo82c2LhPGmjf9R91qQF4P1H-A&usqp=CAU" group-title="ALL TV",MAX SPORT 1
-http://93.155.227.38:555/m3u8/webmtelsport_web.m3u8
-#EXTINF:-1 tvg-id="maxsport2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgHT76uVCqzo82c2LhPGmjf9R91qQF4P1H-A&usqp=CAU" group-title="ALL TV",MAX SPORT 2
-http://93.155.227.38:555/m3u8/webmtelsport2_web.m3u8
-#EXTINF:-1 tvg-id="star1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4vcilAJRL6WkK5mMJeSBC5dicOLqEwqqryw&usqp=CAU" group-title="ALL TV",STAR1
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS200&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-id="star2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4vcilAJRL6WkK5mMJeSBC5dicOLqEwqqryw&usqp=CAU" group-title="ALL TV",STAR2
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS201&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1326,4 +1213,118 @@ http://birutv.com/dens@play/family.m3u8
 http://birutv.com/dens@play/tv5.m3u8
 
 
+#EXTINF:-1 tvg-id="cartoon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7Dw0aKxoz9cxMQe5NhmF3sJzllIHtoujKkw&usqp=CAU" group-title="ALL TV",CARTOON
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c363ac9e41be30cb6054c7c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTAROPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&token=RgY2q20lU22uILBd2IueHAQNySI3Qt9sgxOBkKqRQ0U2rsaNHV0DLyPmuPJz9=L70=TiZLSlYXTt19i_wAoCn5bSdHlSvXnE5YfUJ18O6fEQYmW27FiTBB_fj9VRu_OWVFoWSVFDNBs_lQqbRVBD2dzAKnw0nZ5UmtdLQCZRbdaUisflw1v1vvl1GRkQKAqEZIgdot9rwLP9S=BjBLFct1sXcXPSpEHj3d0LOGOdy15qH6AFtFJX2QV2ZGU3NVNoqMaagFdPZziX9kgKC5oVO9KatVPHhQqyHfmWjs_SIipp0h6y9ad4acp6Hh53QHCeOTq6U3LZl2we7YG8eapxNtCosywT_dOic3CkiARwXW0lPD4D9u7OgfU8ZHsVH1r68hN5iRh3w8NjiMPKyKj5=peuQs8AYHIWXEswzDmZhYR6=eSx6BOIQTRoIP6Uin77f8yHqoUVOKFo_KLgnij=NF8nDlXfbaSKNWfAHCwTJRfPSVELRGV73IiBUgpAZ=sjIgeyFRRj2uA5H71M0B_LNFgLP3Ry9eNL5QRSMaFnbyFt1XH9KX7Juo98snc1CFmmBv64ulE5dNvMrUbFwbsSZ1ca56Mlp3npTNjYCdsKM2=2biZ3be0aqrWlwALp5Z91UtaxH4SvGc_ybXdeTcxmKpwp7XNHu_g=ZbqeEIDfJLsJ6cWKpNPt_u2jXInEoOPUQP8vSlYkG9cuCrRpAYPEPqlj6DOyae5qjEzLmhwYh3WxE1XiPzKhNyMMjOYP5IAXBFyE1K==H7pCJkkR24X1zVyYlLV1zN2ttt6CAXVklZDuC76ekKtTHbLS3j_dVAe7oPjL_5TwsoSO4bD08=bfikc3pZQVFUGqpHCvZnh2EM=XCW6mjN5MwRhAGf=XmA4az=gY
+#EXTINF:-1 tvg-id="skysport1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3PIx185R3uA38H6IKtiyVk_YhVKOwjF00oA&usqp=CAU" group-title="ALL TV",SKY SPORT 1
+http://comag.rip:8000/50738601689735/03751643107136/22314
+#EXTINF:-1 tvg-id="skysport2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOWMqIi4nhWXpDZzcwnYtc2DS4wJ7_jyRZDg&usqp=CAU" group-title="ALL TV",SKY SPORT 2
+http://comag.rip:8000/50738601689735/03751643107136/22317
+#EXTINF:-1 tvg-id="skyf1" tvg-logo="https://s3.sky.ch/img/moviecover/ch/images/channel/8.png" group-title="ALL TV",SKY F1
+http://comag.rip:8000/50738601689735/03751643107136/22320
+#EXTINF:-1 tvg-id="rmc1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT-B2lIfYr34zOvbGjzrT1hP8n0O9BrZXnxg&usqp=CAU" group-title="ALL TV",RMC 1
+http://comag.rip:8000/live/50738601689735/03751643107136/89996.m3u8
+#EXTINF:-1 tvg-id="rmc2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT-B2lIfYr34zOvbGjzrT1hP8n0O9BrZXnxg&usqp=CAU" group-title="ALL TV",RMC 2
+http://comag.rip:8000/live/50738601689735/03751643107136/22280.m3u8
+#EXTINF:-1 tvg-id="rmc3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT-B2lIfYr34zOvbGjzrT1hP8n0O9BrZXnxg&usqp=CAU" group-title="ALL TV",RMC 3
+http://comag.rip:8000/50738601689735/03751643107136/22279
+#EXTINF:-1 tvg-id="rmc4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT-B2lIfYr34zOvbGjzrT1hP8n0O9BrZXnxg&usqp=CAU" group-title="ALL TV",RMC 4
+http://comag.rip:8000/50738601689735/03751643107136/22371
+#EXTINF:-1 tvg-id="rmc5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT-B2lIfYr34zOvbGjzrT1hP8n0O9BrZXnxg&usqp=CAU" group-title="ALL TV",RMC 5
+http://comag.rip:8000/50738601689735/03751643107136/22372
+#EXTINF:-1 tvg-id="eurosport 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR14JyHLeA2y2sp5n_ZvBhKCe_YPHZhXzZPQA&usqp=CAU" group-title="ALL TV",EURO SPORT 1
+http://comag.rip:8000/50738601689735/03751643107136/377
+#EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUQL_cH-Vvo8uBSPG3Be-mcE5uZ2n9SebsEg&usqp=CAU" group-title="ALL TV",EURO SPORT 2
+http://comag.rip:8000/50738601689735/03751643107136/47372
+#EXTINF:-1 tvg-id="espn1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdVpx6X6Mp66E7nYX-FVeQgJUlMp2R9YLbGA&usqp=CAU" group-title="ALL TV",ESPN 1
+http://iptvtree.net:8080/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/5779
+#EXTINF:-1 tvg-id="espn2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdVpx6X6Mp66E7nYX-FVeQgJUlMp2R9YLbGA&usqp=CAU" group-title="ALL TV",ESPN 2
+http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/7787
+#EXTINF:-1 tvg-id="espn3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdVpx6X6Mp66E7nYX-FVeQgJUlMp2R9YLbGA&usqp=CAU" group-title="ALL TV",ESPN 3
+http://iptvtree.net:8080/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/3032
+#EXTINF:-1 tvg-id="espnextra" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdVpx6X6Mp66E7nYX-FVeQgJUlMp2R9YLbGA&usqp=CAU" group-title="ALL TV",ESPN EXTRA
+http://ae7f6ae4.rostelekom.xyz/iptv/KASEFU7Z8EG48L/19056/index.m3u8
+#EXTINF:-1 tvg-id="bt1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTa_PkVlTVJqhFlY2Cxec1wf08YUTB_uwcVg&usqp=CAU" group-title="ALL TV",BT SPORT 1
+http://comag.rip:8000/50738601689735/03751643107136/22306
+#EXTINF:-1 tvg-id="bt2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTa_PkVlTVJqhFlY2Cxec1wf08YUTB_uwcVg&usqp=CAU" group-title="ALL TV",BT SPORT 2
+http://comag.rip:8000/50738601689735/03751643107136/22303
+#EXTINF:-1 tvg-id="bt3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTa_PkVlTVJqhFlY2Cxec1wf08YUTB_uwcVg&usqp=CAU" group-title="ALL TV",BT SPORT 3
+http://comag.rip:8000/live/50738601689735/03751643107136/22300.m3u8
+#EXTINF:-1 tvg-id="btespn" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTa_PkVlTVJqhFlY2Cxec1wf08YUTB_uwcVg&usqp=CAU" group-title="ALL TV",BT SPORT ESPN
+http://comag.rip:8000/50738601689735/03751643107136/22298
+#EXTINF:-1 tvg-id="eleven1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCK88nVH9ayhlZPf_41A1-bCEVC41H7EUSmg&usqp=CAU" group-title="ALL TV",ELEVEN 1
+http://comag.rip:8000/50738601689735/03751643107136/199181
+#EXTINF:-1 tvg-id="eleven2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCK88nVH9ayhlZPf_41A1-bCEVC41H7EUSmg&usqp=CAU" group-title="ALL TV",ELEVEN 2
+http://comag.rip:8000/50738601689735/03751643107136/199176
+#EXTINF:-1 tvg-id="supersport1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4vDUaLJXLv10fM9jyzZ6W9-KnGBU8OzQDSg&usqp=CAU" group-title="ALL TV",SUPER SPORT 1
+http://comag.rip:8000/50738601689735/03751643107136/190382
+#EXTINF:-1 tvg-id="supersport2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4vDUaLJXLv10fM9jyzZ6W9-KnGBU8OzQDSg&usqp=CAU" group-title="ALL TV",SUPER SPORT 2
+http://comag.rip:8000/50738601689735/03751643107136/190380
+#EXTINF:-1 tvg-id="supersport3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4vDUaLJXLv10fM9jyzZ6W9-KnGBU8OzQDSg&usqp=CAU" group-title="ALL TV",SUPER SPORT 3
+http://comag.rip:8000/50738601689735/03751643107136/190379
+#EXTINF:-1 tvg-id="sporttv1" tvg-logo="https://1.bp.blogspot.com/-5VEMXsL8q9Y/WT2FMruoncI/AAAAAAAAGhk/1RBFbRfw4m4CdlwfXpX1jxSkdYCu3w9XQCLcB/s1600/sport_tv_pt.png" group-title="ALL TV",SPORT TV1
+http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/7426
+#EXTINF:-1 tvg-id="sporttv2" tvg-logo="https://1.bp.blogspot.com/-5VEMXsL8q9Y/WT2FMruoncI/AAAAAAAAGhk/1RBFbRfw4m4CdlwfXpX1jxSkdYCu3w9XQCLcB/s1600/sport_tv_pt.png" group-title="ALL TV",SPORT TV2
+http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/2677
+#EXTINF:-1 tvg-id="sporttv3" tvg-logo="https://1.bp.blogspot.com/-5VEMXsL8q9Y/WT2FMruoncI/AAAAAAAAGhk/1RBFbRfw4m4CdlwfXpX1jxSkdYCu3w9XQCLcB/s1600/sport_tv_pt.png" group-title="ALL TV",SPORT TV3
+http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/2676
+#EXTINF:-1 tvg-id="sporttv4" tvg-logo="https://1.bp.blogspot.com/-5VEMXsL8q9Y/WT2FMruoncI/AAAAAAAAGhk/1RBFbRfw4m4CdlwfXpX1jxSkdYCu3w9XQCLcB/s1600/sport_tv_pt.png" group-title="ALL TV",SPORT TV4
+http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/2675
+#EXTINF:-1 tvg-id="sporttv5" tvg-logo="https://1.bp.blogspot.com/-5VEMXsL8q9Y/WT2FMruoncI/AAAAAAAAGhk/1RBFbRfw4m4CdlwfXpX1jxSkdYCu3w9XQCLcB/s1600/sport_tv_pt.png" group-title="ALL TV",SPORT TV5
+http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/2674
+#EXTINF:-1 tvg-id="digisport1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwKc22BkPicNXwTAhS6Wd-WFki_tv360saAQ&usqp=CAU" group-title="ALL TV",DIGI SPORT 1
+http://comag.rip:8000/live/50738601689735/03751643107136/179647.m3u8
+#EXTINF:-1 tvg-id="digisport2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwKc22BkPicNXwTAhS6Wd-WFki_tv360saAQ&usqp=CAU" group-title="ALL TV",DIGI SPORT 2
+http://comag.rip:8000/live/50738601689735/03751643107136/179648.m3u8
+#EXTINF:-1 tvg-id="barcatv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCUgfY_6Goh5k1O8BNduDLAYLR0eY9BIWxJQ&usqp=CAU" group-title="ALL TV",BARCA TV
+http://154.62.74.29:1935/live/barza/chunklist_w1914664603.m3u8
+#EXTINF:-1 tvg-id="maxsport1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgHT76uVCqzo82c2LhPGmjf9R91qQF4P1H-A&usqp=CAU" group-title="ALL TV",MAX SPORT 1
+http://93.155.227.38:555/m3u8/webmtelsport_web.m3u8
+#EXTINF:-1 tvg-id="maxsport2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgHT76uVCqzo82c2LhPGmjf9R91qQF4P1H-A&usqp=CAU" group-title="ALL TV",MAX SPORT 2
+http://93.155.227.38:555/m3u8/webmtelsport2_web.m3u8
+#EXTINF:-1 tvg-id="star1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4vcilAJRL6WkK5mMJeSBC5dicOLqEwqqryw&usqp=CAU" group-title="ALL TV",STAR1
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS200&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-id="star2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4vcilAJRL6WkK5mMJeSBC5dicOLqEwqqryw&usqp=CAU" group-title="ALL TV",STAR2
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS201&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-ID="beinsports5" tvg-logo="https://s.id/1d1IX" group-title="ALL TV",BEIN SPORT 5
+http://warkop.cf/80/bein/05.m3u8
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="beinsports6" tvg-logo="https://s.id/1d1JS" group-title="ALL TV",BEIN SPORT 6
+http://warkop.cf/80/bein/06.m3u8
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="beinsports7" tvg-logo="https://s.id/1d1Kp" group-title="ALL TV",BEIN SPORT 7
+http://warkop.cf/80/bein/07.m3u8
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="beinsports1english" tvg-logo="https://s.id/1d1Gl" group-title="ALL TV",BEIN SPORT 1 ENGLISH
+http://golive.yn.lt/live/epl/23.m3u8
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="beinsports2english" tvg-logo="https://s.id/1d1GJ" group-title="ALL TV",BEIN SPORT 2 ENGLISH
+http://warkop.cf/80/bein/12.m3u8
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="beinsports3english" tvg-logo="https://s.id/1d1HB" group-title="ALL TV",BEIN SPORT 3 ENGLISH
+http://warkop.cf/80/bein/13.m3u8
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="beinsports1france" tvg-logo="https://s.id/1d1Gl" group-title="ALL TV",BEIN SPORT 1 FRANCE
+http://warkop.cf/80/bein/14.m3u8
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="beinsports2france" tvg-logo="https://s.id/1d1GJ" group-title="ALL TV",BEIN SPORT 2 FRANCE
+http://warkop.cf/80/bein/15.m3u8
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="beinsports3france" tvg-logo="https://s.id/1d1HB" group-title="ALL TV",BEIN SPORT 3 FRANCE
+http://warkop.cf/80/bein/16.m3u8
 
