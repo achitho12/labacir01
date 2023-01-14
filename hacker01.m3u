@@ -1378,6 +1378,11 @@ http://iptv.prosto.tv:7000/ch108/video.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="ziggosport2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Ziggo_Sport_Logo.jpg" group-title="ALL TV",ZIGGO SPORT 2
 http://iptvtree.net:8080/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/2502
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="premiersport" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Ziggo_Sport_Logo.jpg" group-title="ALL TV",PREMIER SPORT
+http://dotfli.tv/m/p/premier-sports
 
 
 #EXTINF:-1 tvg-ID="gp" tvg-logo="https://s.id/1hhBQ" group-title="ALL TV",LIVE 1 MOTO GP
