@@ -592,13 +592,13 @@ http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/18632
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="didiktv" tvg-logo="https://s.id/1jhhj" group-title="ALL TV",DIDIKTV
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
+#EXTINF:-1 tvg-ID="astroawani" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png" group-title="ALL TV",ASTRO AWANI
+http://iptv12k.com:35461/86599050501/645678/13613
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="tv6" tvg-logo="https://s.id/1jhbm" group-title="ALL TV",TV6
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8
+#EXTINF:-1 tvg-ID="astrosupersport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="ALL TV",ASSP1
+http://iptv12k.com:35461/live/86599050501/645678/13552.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
