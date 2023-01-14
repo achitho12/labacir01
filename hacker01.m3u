@@ -872,13 +872,13 @@ http://iptvtree.net:8080/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/55802
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="sportstv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYKZRgf5uihQq-hMiO4ckwwMTd-IW4ExBhwQ&usqp=CAU" group-title="ALL TV",SPORTSTV
+#EXTINF:-1 tvg-ID="sportstv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYKZRgf5uihQq-hMiO4ckwwMTd-IW4ExBhwQ&usqp=CAU" group-title="ALL TV",SPORTS TV
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="superpsl" tvg-logo="https://s.id/1jgrP" group-title="ALL TV",SUPER PSL
-http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/39407
+#EXTINF:-1 tvg-ID="tv2sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRQzIXpypGxPCjCONcu5SCGndeSNSgJvjkaQ&usqp=CAU" group-title="ALL TV",TV2 SPORT
+http://comag.rip:8000/live/50738601689735/03751643107136/238974.m3u8
 
 #EXTINF:-1 tvg-ID="gp" tvg-logo="https://s.id/1hhBQ" group-title="ALL TV",LIVE 1 MOTO GP
 http://warkop.cf/86/motogp/01.m3u8
