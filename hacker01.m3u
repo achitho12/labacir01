@@ -1340,12 +1340,12 @@ https://rmtv-canela.amagi.tv/playlist.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="ssc1" tvg-logo="https://s.id/1jh1A" group-title="ALL TV",SSC1
+#EXTINF:-1 tvg-ID="ssc1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyKbV8hQVg2MowvHrQqUn36IRM2_tmlxFotQ&usqp=CAU" group-title="ALL TV",SSC1
 http://iptv12k.com:35461/86599050501/645678/15672
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="ssc2" tvg-logo="https://s.id/1jh1A" group-title="ALL TV",SSC2
+#EXTINF:-1 tvg-ID="ssc2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyKbV8hQVg2MowvHrQqUn36IRM2_tmlxFotQ&usqp=CAU" group-title="ALL TV",SSC2
 http://iptv12k.com:35461/86599050501/645678/15671
 
 
