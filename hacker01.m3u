@@ -1381,7 +1381,7 @@ http://iptvtree.net:8080/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/2502
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="sharjasport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs_w8D26KMycmwyyUkpj5TylxXp5QSW4zw_Q&usqp=CAU" group-title="ALL TV",SHARJA SPORT
+#EXTINF:-1 tvg-ID="shajrasport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs_w8D26KMycmwyyUkpj5TylxXp5QSW4zw_Q&usqp=CAU" group-title="ALL TV",SHAJRA SPORT
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
