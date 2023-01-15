@@ -1409,6 +1409,12 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="dubaisport3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxfTd4nbFanz3qnyMbomG-LJWiWI8AYrz3Qg&usqp=CAU" group-title="ALL TV",DUBAI SPORT 3
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1300000.m3u8?token=KMUruIp76imE69QMAcjlgDUzaYEYjs
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="pbo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbzZs3-mpNAJC9Hq0mkpDxZV-b4n9Xelg2Rg&usqp=CAU" group-title="ALL TV",PBO
+http://worldiptv.me:8080/zkjcfsfB/mpEp76eW/26975
+
 
 
 
