@@ -1414,6 +1414,17 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chu
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="pbo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbzZs3-mpNAJC9Hq0mkpDxZV-b4n9Xelg2Rg&usqp=CAU" group-title="ALL TV",PBO
 http://worldiptv.me:8080/zkjcfsfB/mpEp76eW/26975
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="sbsviceland" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIZQ-ADSach7XZjV3s2ABmkqSgXYcGJneQKQ&usqp=CAU" group-title="ALL TV",SBS VICELAND
+http://iptvtree.net:8080/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/146812
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="wion" tvg-logo="http://cdn.wionews.com/sites/default/files/2018/09/11/46514-WION.jpg" group-title="ALL TV",WION
+http://rr.dens.tv/h/h91/index2.m3u8
+
 
 
 
