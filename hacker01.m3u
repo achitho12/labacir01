@@ -805,14 +805,13 @@ https://v10.siar.us/rctv/live/playlist.m3u8
 http://122.248.43.138:1935/ch11/myStream/chunklist_w2044873838.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBhl-SK3GcRIMDbLVCQfVBLP7NMPeF7YavkA&usqp=CAU" group-title="ALL TV",SMTV (Sumedang)
 http://122.248.43.138:1935/ch25/myStream/live.m3u8
-#EXTINF:-1 tvg-id="upin & ipin" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7Dw0aKxoz9cxMQe5NhmF3sJzllIHtoujKkw&usqp=CAU" group-title="ALL TV",UPIN & IPIN
-http://tv1.yurend.my.id:25461/seulanga/seulanga3210/7?&token=bY2xa1DSbTQ8JxGCpbqTcvEs4vUCdq6QaQnJgxkU_Y=l3lJo49pM2GSj7d4RHYvftZ8cpB5VrBaVWabDoVBHxH4fq0u0muhkntRuUF6HNsO8HUspgOYP2IP9ctMOGDF0M8noY9BUMipHupuBQWzBjrELZLn_uk2N01F=qNk4JfV5PMF6xFPfuPjjcNi9hmsZOsZ3=FOrn4BAJdHWsB0_2l9y11_vL__2GOx81wWuw10LLT7WypF6xsx9kKri2KMf0zymmNBhKWImyQpOfKfQ28sAdwzTtfsOXEM5crXmY0fx79EanGFUlNtyRSrw_TDOlMhA458TLOluMIwNy0pdD1WmgJ7gK_TktKSAAm5cLCCIG7zdf=8qxQ0weIxOeHfyC=8KlZ5tw6eVFWOcWnOktY1ORqNjnplGv7ORiljHVeV26h4uzFXKPtAGEAHp55Gn==6uuQXTQM4mIDx6xBdZ3MD1BsUgaA8NI3IY3pfcrBY_WNDAZ0D=4n4p3kU19OWrUXxDUgQl9j_AD7jyd80_P4R7ihaIoKzmOqxw_Pm6OR3zCeNbAkmXup2eAyShSi0zTprs3J7_DTUtPBE8Vuhy6PogGg2z9EQ=V4Yj2RvNOtsHmXXPa4N=2=SyueDkK5=Yd8kc0FzIXfrVhHn2BFeOLgZW4zbPRAucpOHzVz36Ag7x5SIGuD2ZCXC6IhToEemXH2SgjV2BIqBvjcmm82c9t_d=U8UChKkuhuzqUMTeqY8MuTMAQuq5xRpD4O=1SWCyHdx5onyipgNfND0kSsN0neiN0HERZG6k4LJ3DNU6VKZ4Y7i5cbNtbGPpOC_CbxE4TSYN7XCmBi8rxdHmAoujFMtVP6QrWaic27pQPIgodUeyg8qRNDV4uVy8ge3wEXQVX3so
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="animax" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcgmrAKDj5BWWHWS5odeSqwnBqYDGyZCmcVA&usqp=CAU" group-title="ALL TV",ANIMAX
+http://iptv12k.com:35461/86599050501/645678/13466
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="qsport" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLIwZii3icTE8VT9jqJ1RiDuJJxm0b1KQfu6Swnp2nkALF2MxiIpldEgeSpT5ET-oM6v7RRtaggYdhjBYZTSdamSFDQ_v5H_xhS_IMWcVJa1ILFVVDK9aP6KbQHeD3LuYGwIV0PM532d3Ah8SyMcHf9I8ZOAM_Exy5-PRZzDsXkreWWkEXW19wFwMD5w/s1280/20230121_202640.jpg" group-title="ALL TV",Q SPORT
+http://62.182.83.91/dani79/58zQqJU5d5utrJ5/1101
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
@@ -833,8 +832,6 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=HD&ccode=JP&m=d0:20
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="wowowcinema" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoF31oLBYxXxt3SZWTMIGh7aV1_BG_Ltf3zA&usqp=CAU" group-title="ALL TV",WOWOW CINEMA
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS193&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-
 
 
 #EXTM3U
