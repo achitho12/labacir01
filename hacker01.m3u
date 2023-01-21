@@ -1427,8 +1427,13 @@ http://rr.dens.tv/h/h91/index2.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="fashion" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2S1l6e4gQretdwdKFnwoFgtgPBOFeQFBh2A&usqp=CAU" group-title="ALL TV",FASHION
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/chunklist_b1400000_t64NDgwcA==.m3u8
+#EXTINF:-1 tvg-ID="digisport1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL_Obsw5Dq4lsdFBsfUz_4AXvaM2JwfRViLw&usqp=CAU" group-title="ALL TV",DIGI SPORT 1
+http://comag.rip:8000/live/50738601689735/03751643107136/179647.m3u8
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="digisport2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL_Obsw5Dq4lsdFBsfUz_4AXvaM2JwfRViLw&usqp=CAU" group-title="ALL TV",DIGI SPORT 2
+http://comag.rip:8000/50738601689735/03751643107136/179648
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
