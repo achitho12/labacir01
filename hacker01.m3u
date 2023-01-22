@@ -1446,77 +1446,82 @@ http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/2821
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="livesports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjBuN0MZvRnsejJtcrkq3WGUnctUZou2riQQ&usqp=CAU" group-title="LIVE EVENT",LIVE 1
-https://91play.xinzhongjituan.com/live/sd-1-3755356.m3u8
+https://91play.xinzhongjituan.com/live/sd-1-3747246.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="livesports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjBuN0MZvRnsejJtcrkq3WGUnctUZou2riQQ&usqp=CAU" group-title="LIVE EVENT",LIVE 2
-https://91play.xinzhongjituan.com/live/sd-1-3755362.m3u8
+https://91play.xinzhongjituan.com/live/sd-1-3747249.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="livesports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjBuN0MZvRnsejJtcrkq3WGUnctUZou2riQQ&usqp=CAU" group-title="LIVE EVENT",LIVE 3
-https://91play.xinzhongjituan.com/live/sd-1-3755824.m3u8
+https://91play.xinzhongjituan.com/live/sd-1-3747239.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="livesports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjBuN0MZvRnsejJtcrkq3WGUnctUZou2riQQ&usqp=CAU" group-title="LIVE EVENT",LIVE 4
-https://91play.xinzhongjituan.com/live/sd-1-3747251.m3u8
+https://91play.xinzhongjituan.com/live/sd-1-3747245.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="livesports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjBuN0MZvRnsejJtcrkq3WGUnctUZou2riQQ&usqp=CAU" group-title="LIVE EVENT",LIVE 5
-https://91play.xinzhongjituan.com/live/sd-1-3747244.m3u8
+https://91play.xinzhongjituan.com/live/sd-1-3748765.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="livesports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjBuN0MZvRnsejJtcrkq3WGUnctUZou2riQQ&usqp=CAU" group-title="LIVE EVENT",LIVE 6
-https://91play.xinzhongjituan.com/live/sd-1-3755811.m3u8
+https://91play.xinzhongjituan.com/live/sd-1-3748796.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="livesports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjBuN0MZvRnsejJtcrkq3WGUnctUZou2riQQ&usqp=CAU" group-title="LIVE EVENT",LIVE 7
-https://91play.xinzhongjituan.com/live/sd-1-3755822.m3u8
+https://91play.xinzhongjituan.com/live/sd-1-3755824.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="livesports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjBuN0MZvRnsejJtcrkq3WGUnctUZou2riQQ&usqp=CAU" group-title="LIVE EVENT",LIVE 8
-https://91play.xinzhongjituan.com/live/sd-1-3755807.m3u8
+https://91play.xinzhongjituan.com/live/sd-1-3755820.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="livesports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjBuN0MZvRnsejJtcrkq3WGUnctUZou2riQQ&usqp=CAU" group-title="LIVE EVENT",LIVE 9
-https://91play.xinzhongjituan.com/live/sd-1-3755359.m3u8
+https://91play.xinzhongjituan.com/live/sd-1-3755827.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="livesports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjBuN0MZvRnsejJtcrkq3WGUnctUZou2riQQ&usqp=CAU" group-title="LIVE EVENT",LIVE 10
-https://91play.xinzhongjituan.com/live/sd-1-3755357.m3u8
+https://91play.xinzhongjituan.com/live/sd-1-3755818.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="livesports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjBuN0MZvRnsejJtcrkq3WGUnctUZou2riQQ&usqp=CAU" group-title="LIVE EVENT",LIVE 11
-https://91play.xinzhongjituan.com/live/sd-1-3748784.m3u8
+https://91play.xinzhongjituan.com/live/sd-1-3755362.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="livesports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjBuN0MZvRnsejJtcrkq3WGUnctUZou2riQQ&usqp=CAU" group-title="LIVE EVENT",LIVE 12
-https://91play.xinzhongjituan.com/live/sd-1-3755354.m3u8
+https://91play.xinzhongjituan.com/live/sd-1-3755356.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="livesports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjBuN0MZvRnsejJtcrkq3WGUnctUZou2riQQ&usqp=CAU" group-title="LIVE EVENT",LIVE 13
-https://91play.xinzhongjituan.com/live/sd-1-3748819.m3u8
+https://91play.xinzhongjituan.com/live/sd-1-3755355.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="livesports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjBuN0MZvRnsejJtcrkq3WGUnctUZou2riQQ&usqp=CAU" group-title="LIVE EVENT",LIVE 14
-https://91play.xinzhongjituan.com/live/sd-1-3747244.m3u8
+https://91play.xinzhongjituan.com/live/sd-1-3755353.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="livesports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjBuN0MZvRnsejJtcrkq3WGUnctUZou2riQQ&usqp=CAU" group-title="LIVE EVENT",LIVE 15
-https://91play.xinzhongjituan.com/live/sd-1-3748784.m3u8
+https://91play.xinzhongjituan.com/live/sd-1-3748796.m3u8
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="livesports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjBuN0MZvRnsejJtcrkq3WGUnctUZou2riQQ&usqp=CAU" group-title="LIVE EVENT",LIVE 16
+https://91play.xinzhongjituan.com/live/sd-1-3781119.m3u8
 
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
