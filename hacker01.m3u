@@ -658,8 +658,8 @@ http://iptv12k.com:35461/86599050501/645678/13532
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="lovenature4k" tvg-logo="https://s.id/1jhnQ" group-title="ALL TV",LOVE NATURE4K
-https://bamus-eng-roku.amagi.tv/playlist404p.m3u8
+#EXTINF:-1 tvg-ID="dmaax" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuXjLdceQyOLzhU5THiLiRbqI7Ovc_IprFaQ&usqp=CAU" group-title="ALL TV",DMAAX
+http://iptv12k.com:35461/86599050501/645678/13539
 
 
 #EXTINF:-1 group-title="ALL TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLq0lsiA8gUOHC2wNuUShJCNisFDauOUADIQ&usqp=CAU",PLUTO TV 1
