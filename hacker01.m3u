@@ -1456,7 +1456,7 @@ http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/2821
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="livesports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjBuN0MZvRnsejJtcrkq3WGUnctUZou2riQQ&usqp=CAU" group-title="LIVE EVENT",LIVE 1
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-037/stream.mpd
+https://hls3.04lv.com/live/H1256300.m3u8?txSecret=7f1e694a277fb967ed8c603d47c88665&txTime=63CEB518&_s=stream
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
