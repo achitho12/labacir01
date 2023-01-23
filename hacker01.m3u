@@ -1532,27 +1532,27 @@ https://sport.esportstv.vip/sport/202_278280_33045.m3u8?txSecret=b38793a874f26e8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="livesports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTyOVwGj8pq2XggED_1ALNbfyacNLf1GEoYw&usqp=CAU" group-title="LIGA 1",LIVE 1
-https://91play.xinzhongjituan.com/live/sd-1-3782161.m3u8
+https://pili-live-hls.tuantuan3.com/tuantuan3-com/sd-1-3782169.m3u8?sign=35e3ae0fd456274d6313134bd5b8297b&t=63ce5c30
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="livesports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTyOVwGj8pq2XggED_1ALNbfyacNLf1GEoYw&usqp=CAU" group-title="LIGA 1",LIVE 2
-https://91play.xinzhongjituan.com/live/sd-1-3782162.m3u8
+https://pili-live-hls.tuantuan3.com/tuantuan3-com/sd-1-3782169.m3u8?sign=35e3ae0fd456274d6313134bd5b8297b&t=63ce5c30
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="livesports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTyOVwGj8pq2XggED_1ALNbfyacNLf1GEoYw&usqp=CAU" group-title="LIGA 1",LIVE 3
-https://91play.xinzhongjituan.com/live/sd-1-3782164.m3u8
+https://pili-live-hls.tuantuan3.com/tuantuan3-com/sd-1-3782169.m3u8?sign=35e3ae0fd456274d6313134bd5b8297b&t=63ce5c30
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="livesports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTyOVwGj8pq2XggED_1ALNbfyacNLf1GEoYw&usqp=CAU" group-title="LIGA 1",LIVE 4
-https://91play.xinzhongjituan.com/live/sd-1-3865874.m3u8
+https://pili-live-hls.tuantuan3.com/tuantuan3-com/sd-1-3782169.m3u8?sign=35e3ae0fd456274d6313134bd5b8297b&t=63ce5c30
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="livesports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTyOVwGj8pq2XggED_1ALNbfyacNLf1GEoYw&usqp=CAU" group-title="LIGA 1",LIVE 5
-https://91play.xinzhongjituan.com/live/sd-1-3865874.m3u8
+https://pili-live-hls.tuantuan3.com/tuantuan3-com/sd-1-3782169.m3u8?sign=35e3ae0fd456274d6313134bd5b8297b&t=63ce5c30
 
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
