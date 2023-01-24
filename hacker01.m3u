@@ -843,12 +843,12 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS193&r=HD&ccode=JP&m=d0:20
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="indosiar" tvg-logo="https://thumbor.prod.vidiocdn.com/6_ilo1sVpgPuKNo0D1xeHwZNVw0=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-bb689b.jpg" group-title="BIRU TV",INDOSIAR
-http://210.210.155.37/qwr9ew/s/s04/01.m3u8
+https://cdn.renotv.my.id/get.m3u8?ch=OWRhZmQyYjM4NDZkYjJlNGZRMVNEWXVoZDlDejlvOC80ZEFKdHRUeHl5NU5XaVNyTjBpRUNMdzVyNjMvcU50YS9iL0ZYdnZlQnZVaDliUkErSEZiTzlZR2I1RnRsZ0dIV0dSZ0ZCWWNxVEg1bmFYbXR5ZlBWRkVpSzBJPQ==
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="sctv" tvg-logo="https://thumbor.prod.vidiocdn.com/WL48ZBsxNGEncu7T5Bj0LuOmG2A=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-f23abc.jpg" group-title="BIRU TV",SCTV
-http://210.210.155.37/qwr9ew/s/s03/01.m3u8
+https://geocities.ws/ariev7xx/sctv.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
