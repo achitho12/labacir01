@@ -1551,42 +1551,42 @@ http://golive.yn.lt/live/efl/01.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="livesports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjBuN0MZvRnsejJtcrkq3WGUnctUZou2riQQ&usqp=CAU" group-title="LIVE EVENT",LIVE 16
+#EXTINF:-1 tvg-ID="livesports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjBuN0MZvRnsejJtcrkq3WGUnctUZou2riQQ&usqp=CAU" group-title="LIVE EVENT",LIVE 17
 http://golive.yn.lt/live/efl/02.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="livesports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjBuN0MZvRnsejJtcrkq3WGUnctUZou2riQQ&usqp=CAU" group-title="LIVE EVENT",LIVE 16
+#EXTINF:-1 tvg-ID="livesports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjBuN0MZvRnsejJtcrkq3WGUnctUZou2riQQ&usqp=CAU" group-title="LIVE EVENT",LIVE 18
 http://golive.yn.lt/live/efl/03.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="livesports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjBuN0MZvRnsejJtcrkq3WGUnctUZou2riQQ&usqp=CAU" group-title="LIVE EVENT",LIVE 16
+#EXTINF:-1 tvg-ID="livesports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjBuN0MZvRnsejJtcrkq3WGUnctUZou2riQQ&usqp=CAU" group-title="LIVE EVENT",LIVE 19
 http://golive.yn.lt/live/copadelrey/01.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="livesports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjBuN0MZvRnsejJtcrkq3WGUnctUZou2riQQ&usqp=CAU" group-title="LIVE EVENT",LIVE 16
+#EXTINF:-1 tvg-ID="livesports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjBuN0MZvRnsejJtcrkq3WGUnctUZou2riQQ&usqp=CAU" group-title="LIVE EVENT",LIVE 20
 http://golive.yn.lt/live/copadelrey/02.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="livesports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjBuN0MZvRnsejJtcrkq3WGUnctUZou2riQQ&usqp=CAU" group-title="LIVE EVENT",LIVE 16
+#EXTINF:-1 tvg-ID="livesports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjBuN0MZvRnsejJtcrkq3WGUnctUZou2riQQ&usqp=CAU" group-title="LIVE EVENT",LIVE 21
 http://golive.yn.lt/live/copadelrey/03.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="livesports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjBuN0MZvRnsejJtcrkq3WGUnctUZou2riQQ&usqp=CAU" group-title="LIVE EVENT",LIVE 16
+#EXTINF:-1 tvg-ID="livesports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjBuN0MZvRnsejJtcrkq3WGUnctUZou2riQQ&usqp=CAU" group-title="LIVE EVENT",LIVE 22
 http://golive.yn.lt/live/copadelrey/04.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="livesports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjBuN0MZvRnsejJtcrkq3WGUnctUZou2riQQ&usqp=CAU" group-title="LIVE EVENT",LIVE 16
+#EXTINF:-1 tvg-ID="livesports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjBuN0MZvRnsejJtcrkq3WGUnctUZou2riQQ&usqp=CAU" group-title="LIVE EVENT",LIVE 23
 http://golive.yn.lt/live/copadelrey/05.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="livesports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjBuN0MZvRnsejJtcrkq3WGUnctUZou2riQQ&usqp=CAU" group-title="LIVE EVENT",LIVE 16
+#EXTINF:-1 tvg-ID="livesports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjBuN0MZvRnsejJtcrkq3WGUnctUZou2riQQ&usqp=CAU" group-title="LIVE EVENT",LIVE 24
 http://golive.yn.lt/live/copadelrey/06.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1616,7 +1616,7 @@ http://golive.yn.lt/live/liga1/05.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="livesports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTyOVwGj8pq2XggED_1ALNbfyacNLf1GEoYw&usqp=CAU" group-title="LIGA 1",LIVE 5
+#EXTINF:-1 tvg-ID="livesports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTyOVwGj8pq2XggED_1ALNbfyacNLf1GEoYw&usqp=CAU" group-title="LIGA 1",LIVE 6
 http://golive.yn.lt/live/liga1/06.m3u8
 
 #EXTM3U
