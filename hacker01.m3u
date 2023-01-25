@@ -655,11 +655,6 @@ http://iptv12k.com:35461/86599050501/645678/13532
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="dmaax" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuXjLdceQyOLzhU5THiLiRbqI7Ovc_IprFaQ&usqp=CAU" group-title="ALL TV",DMAAX
 http://iptv12k.com:35461/86599050501/645678/13539
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="laligatv" tvg-logo="https://assets.laliga.com/assets/201506/w_900x700_22180033comunicado_laliga_640x360.jpg" group-title="ALL TV",LALIGA TV
-https://s7.flowerscast.com:999/hls/laligauk.m3u8?md5=1exS0V1wk6vA5k5YVv7LuQ&expires=1674692299
 
 
 #EXTINF:-1 group-title="ALL TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLq0lsiA8gUOHC2wNuUShJCNisFDauOUADIQ&usqp=CAU",PLUTO TV 1
@@ -817,6 +812,7 @@ http://122.248.43.138:1935/ch11/myStream/chunklist_w2044873838.m3u8
 http://122.248.43.138:1935/ch25/myStream/live.m3u8
 #EXTINF:-1 tvg-id="animax" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcgmrAKDj5BWWHWS5odeSqwnBqYDGyZCmcVA&usqp=CAU" group-title="ALL TV",ANIMAX
 http://iptv12k.com:35461/86599050501/645678/13466
+
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
@@ -1100,6 +1096,7 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS200&r=FHD&ccode=JP&m=d0:2
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS201&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-ID="beinsports5" tvg-logo="https://s.id/1d1IX" group-title="ALL TV",BEIN SPORT 5
 http://warkop.cf/80/bein/05.m3u8
+
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
@@ -1140,7 +1137,6 @@ http://warkop.cf/80/bein/15.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="beinsports3france" tvg-logo="https://s.id/1d1HB" group-title="ALL TV",BEIN SPORT 3 FRANCE
 http://warkop.cf/80/bein/16.m3u8
-://rmtv-canela.amagi.tv/playlist.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
