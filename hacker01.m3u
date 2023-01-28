@@ -1514,27 +1514,27 @@ http://golive.yn.lt/live/bundesliga/21.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="livesports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjBuN0MZvRnsejJtcrkq3WGUnctUZou2riQQ&usqp=CAU" group-title="LIVE EVENT",LIVE 7
+#EXTINF:-1 tvg-ID="livesports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjBuN0MZvRnsejJtcrkq3WGUnctUZou2riQQ&usqp=CAU" group-title="LIVE EVENT",LIVE 8
 http://golive.yn.lt/live/bundesliga/22.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="livesports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjBuN0MZvRnsejJtcrkq3WGUnctUZou2riQQ&usqp=CAU" group-title="LIVE EVENT",LIVE 7
+#EXTINF:-1 tvg-ID="livesports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjBuN0MZvRnsejJtcrkq3WGUnctUZou2riQQ&usqp=CAU" group-title="LIVE EVENT",LIVE 9
 http://golive.yn.lt/live/bundesliga/23.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="livesports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjBuN0MZvRnsejJtcrkq3WGUnctUZou2riQQ&usqp=CAU" group-title="LIVE EVENT",LIVE 7
+#EXTINF:-1 tvg-ID="livesports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjBuN0MZvRnsejJtcrkq3WGUnctUZou2riQQ&usqp=CAU" group-title="LIVE EVENT",LIVE 10
 http://golive.yn.lt/live/bundesliga/24.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="livesports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjBuN0MZvRnsejJtcrkq3WGUnctUZou2riQQ&usqp=CAU" group-title="LIVE EVENT",LIVE 7
+#EXTINF:-1 tvg-ID="livesports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjBuN0MZvRnsejJtcrkq3WGUnctUZou2riQQ&usqp=CAU" group-title="LIVE EVENT",LIVE 11
 http://golive.yn.lt/live/bundesliga/25.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="livesports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjBuN0MZvRnsejJtcrkq3WGUnctUZou2riQQ&usqp=CAU" group-title="LIVE EVENT",LIVE 7
+#EXTINF:-1 tvg-ID="livesports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjBuN0MZvRnsejJtcrkq3WGUnctUZou2riQQ&usqp=CAU" group-title="LIVE EVENT",LIVE 12
 http://golive.yn.lt/live/bundesliga/26.m3u8
 
 
