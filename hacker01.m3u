@@ -1710,12 +1710,25 @@ http://golive.yn.lt/live/fa/02.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="livesports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjBuN0MZvRnsejJtcrkq3WGUnctUZou2riQQ&usqp=CAU" group-title="LIVE EVENT",LIVE 39
 http://golive.yn.lt/live/fa/03.m3u8
-
+###VOD###
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="vod" tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/78/Puss_in_Boots_The_Last_Wish_poster.jpg" group-title="VOD",Puss In Boots 2022
+#EXTINF:-1 tvg-ID="vod" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnT6mqmiADjy5H_u9c212dmPpqHY1DRKtD1A&usqp=CAU" group-title="VOD",PUSS IN BOOTS : THE LAST WISH 2022
 https://srv02.dropload.io/hls2/01/00006/kw2kw6xmp2ui_h/master.m3u8?t=ATzWlcfSxD1_lVVM2A43aMaiiJNXmYBmH3aUujQbYSs&s=1674927019&e=21600&f=30872&i=0.0&sp=0
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="vod" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmHJHBF6WyxddSiXa37__bYNlcwngXVy7a8w&usqp=CAU" group-title="VOD",M3GAN 2022
+https://sv03.pelisfile.net/videos/hls/9We6EqCG9Xey6hNn9Yh39w/1674942022/168082/733d5c1ac831fadef748f7079e050fa8/EP.0.2.v2.1673388469.m3u8
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="vod" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxLT7znZ-U8i03FgMjhQE9BilYWG-B4j341g&usqp=CAU" group-title="VOD",AVATAR : THE WAY OF WATER 2022
+https://srv02.dropload.io/hls2/01/00004/4pp7poewdww4_h/master.m3u8?t=cuas5xvquuCqkUxfS6O5iy2kMFc1NO8VuUcaIZLXs3U&s=1674927818&e=21600&f=27214&i=0.0&sp=0
+
+
+
 
 
 
