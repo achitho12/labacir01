@@ -1726,6 +1726,34 @@ https://sv03.pelisfile.net/videos/hls/9We6EqCG9Xey6hNn9Yh39w/1674942022/168082/7
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="vod" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxLT7znZ-U8i03FgMjhQE9BilYWG-B4j341g&usqp=CAU" group-title="VOD",AVATAR : THE WAY OF WATER 2022
 https://srv02.dropload.io/hls2/01/00004/4pp7poewdww4_h/master.m3u8?t=cuas5xvquuCqkUxfS6O5iy2kMFc1NO8VuUcaIZLXs3U&s=1674927818&e=21600&f=27214&i=0.0&sp=0
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="vod" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeHenKTY3MpBgY2K5otIhGDvqZHFOgfaRPcQ&usqp=CAU" group-title="VOD",DEVOTION 2022
+https://pr32.akamai-cdn-content.com/hls/tysxeiiheg66j6cdabxblwqhfr5lzgx6pk35v65h7,esplxkmwyprtualcd2a,nxplxkmwypt2hznjpzq,.urlset/master.m3u8
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="vod" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsafo36klLfqUZ3oKkDTtR2t-2T4bypGEuYQ&usqp=CAU" group-title="VOD",VIOLENT NIGHT 2022
+https://srv02.dropload.io/hls2/01/00005/ck8h3c87t8hm_h/master.m3u8?t=Kcu4Zrswc-dsqb0HtnhNQEfmqR_tPTGDuWSazMmFr1k&s=1674928530&e=21600&f=26156&i=0.0&sp=0
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="vod" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrCPLibbFKU-9KEiv4FLynxKGzF56aEkmIlQ&usqp=CAU" group-title="VOD",BLACK ADAM 2022
+https://sv08.pelisfile.net/videos/hls/i2TwMaQ-KZ_VvNHo-rhEcA/1674943057/166597/aa601c2f555fbb31c58d2f941bd6eb2e/EP.0.0.v3.1668752509.m3u8
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="vod" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf-FmG9d8xZzEMF9YEQ6dIedM4s5P2FVrsgA&usqp=CAU" group-title="VOD",BLACK PANTHER : WAKANDA FOREVER 2022
+https://pr32.akamai-cdn-content.com/hls/tysxeiiheg66j6cdabxblwqhfr5lzgx6pk35v65h7,esplxkmwyprtualcd2a,nxplxkmwypt2hznjpzq,.urlset/master.m3u8
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="vod" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwPXC_qBVzPZ_amLtUr410plD77-o3uqB8Hg&usqp=CAU" group-title="VOD",BLACK PANTHER : R.I.P.D 2: RISE OF THE DAMNED 2022
+https://pr32.akamai-cdn-content.com/hls/tysxeiiheg66j6cdabxblwqhfr5lzgx6pk35v65h7,esplxkmwyprtualcd2a,nxplxkmwypt2hznjpzq,.urlset/master.m3u8
+
+
+
 
 
 
