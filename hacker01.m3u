@@ -1729,8 +1729,8 @@ https://srv02.dropload.io/hls2/01/00004/4pp7poewdww4_h/master.m3u8?t=cuas5xvquuC
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="vod" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeHenKTY3MpBgY2K5otIhGDvqZHFOgfaRPcQ&usqp=CAU" group-title="VOD",DEVOTION 2022
-https://fvs.io/redirector?token=VmNoY0lrYmszY0ljb3RtRVVhODBqNUh2T3RiUnNTOEVaY2Q1NUVMeWRNQjFsOTMyVU82R09HVXcvNkVCVzRsNG9EdEZ4TGg1WG5NTVZDZlhTSGdSYlpUWDdwc0VCNEM3bWdvMHRsRkZ6MmdlWkt2UU9vRmx1Q2RraUU2YzJTTXBLMnBXT1laT3A5QSt6ZzVYUU91bWdHNTBuOFpjZTF2SjJrNis6U0dFaS9rSlUrTm1sb2ZnZ01wYzZDQT09Er9U
+#EXTINF:-1 tvg-ID="vod" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQss8ljAV5rMzgOjFcLrhf8QQyytp1e-ISuiw&usqp=CAU" group-title="VOD",CRAWLSPACE 2022
+https://sv05.pelisfile.net/videos/hls/dWkbda40PUBmlWoKbSEoSg/1674945044/149624/43637548d369cd58bcf77ebf10684c88/EP.0.2.v1.1658207493.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
@@ -1749,8 +1749,18 @@ https://srv02.dropload.io/hls2/01/00003/s3ebqdl8kjj5_h/master.m3u8?t=bUjPxVRM2OZ
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="vod" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwPXC_qBVzPZ_amLtUr410plD77-o3uqB8Hg&usqp=CAU" group-title="VOD",R.I.P.D 2: RISE OF THE DAMNED 2022
+#EXTINF:-1 tvg-ID="vod" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwPXC_qBVzPZ_amLtUr410plD77-o3uqB8Hg&usqp=CAU" group-title="VOD",R.I.P.D 2:RISE OF THE DAMNED 2022
 https://srv01.dropload.io/hls2/01/00005/foizq4z5auil_h/master.m3u8?t=EO7XuWOddrA43DkyLidQa_grGMKz4qAoYKEw0u0XDaQ&s=1674930165&e=21600&f=29951&i=0.0&sp=0
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="vod" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSesRva_iueRtRa_Qvct1yq6aD-Q7qq8hzoKw&usqp=CAU" group-title="VOD",DRACULA : THE ORIGINAL LIVING VAMPIRE 2022
+https://mixdrop.co/e/vndkorp3aqqde3o
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="vod" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdvxRIlGrSd9wLQQ3UeU3SnGdxt4uxQ9AM4g&usqp=CAU" group-title="VOD",MORBIUS 2022
+https://sv08.pelisfile.net/videos/hls/Br82C6w_hYcs4RcqqwZ8eg/1674945525/167007/bb21b931bfd82a8410712cfa94ae6564/EP.0.1.v0.1668897503.m3u8
 
 
 
