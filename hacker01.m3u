@@ -1412,8 +1412,38 @@ https://edgesports-sportstribal.amagi.tv/playlist.m3u8?token=GXHFjmENz7eOj8lpI53
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="moji" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC8zZUKHExwsNnB3jRSbyH6ZEnvhEYxQMNQA&usqp=CAU" group-title="ALL TV",MOJI
-http://golive.yn.lt/live/volleyball/02.m3u8
+#EXTINF:-1 tvg-ID="cctv1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHf3VWc0isQUYyyjr190JotCQinlQtxXXgVg&usqp=CAU" group-title="ALL TV",CCTV 1
+http://iptv12k.com:35461/86599050501/645678/13289
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="cctv2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHf3VWc0isQUYyyjr190JotCQinlQtxXXgVg&usqp=CAU" group-title="ALL TV",CCTV 2
+http://iptv12k.com:35461/86599050501/645678/13288
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="cctv3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHf3VWc0isQUYyyjr190JotCQinlQtxXXgVg&usqp=CAU" group-title="ALL TV",CCTV 3
+http://iptv12k.com:35461/86599050501/645678/13287
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="cctv4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHf3VWc0isQUYyyjr190JotCQinlQtxXXgVg&usqp=CAU" group-title="ALL TV",CCTV 4
+http://iptv12k.com:35461/86599050501/645678/13286
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="cctv5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHf3VWc0isQUYyyjr190JotCQinlQtxXXgVg&usqp=CAU" group-title="ALL TV",CCTV 5
+http://iptv12k.com:35461/86599050501/645678/13285
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="cctv6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHf3VWc0isQUYyyjr190JotCQinlQtxXXgVg&usqp=CAU" group-title="ALL TV",CCTV 6
+http://iptv12k.com:35461/86599050501/645678/13283
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="cctv5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHf3VWc0isQUYyyjr190JotCQinlQtxXXgVg&usqp=CAU" group-title="ALL TV",CCTV 5+
+http://iptv12k.com:35461/86599050501/645678/13284
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
@@ -1464,7 +1494,6 @@ http://watchindia.net:8880/live/dharmend/PTukavDWzh/1756.ts
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="sonypix" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiafA5jejKSkTWotK3iO7gvLYbQNVjzVSFRQB5mtBFTsb1Y4b8KfdydOUFQNb24nOcpYcKDyFZYFN5zumtHh7x_laEXz2HTBQt3hmLh3RsyHW3__kJAKsOspkmWdUZjPfTWB__MvzuqECHb9AMcWa87e8B4rriBNDDJGQ5SI8qsnhJ1yhwmdlRafKQlmA/s1280/20230121_195915.jpg" group-title="ALL TV",SONY PIX
 http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/2821
-
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
