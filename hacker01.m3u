@@ -1769,8 +1769,8 @@ https://sv09.pelisfile.net/videos/hls/5JLDgJEUs4EAoUmo60GFrw/1674946217/148568/a
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="vod" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXwKyfRe35z7UZOG38sDpPpa5FkBpvmq4Vjw&usqp=CAU" group-title="VOD",SECRET HEADQUARTERS 2022
-https://sv06.pelisfile.net/videos/hls/4GaoG0VJ4vx0TXTpt1NHtQ/1674947129/157125/77b92b3937fdf699b13215c42fd02487/EP.0.1.v2.1673821408.m3u8
+#EXTINF:-1 tvg-ID="vod" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrI416dMfwF7MesyTOTzIvJTJ3axPipScyAw&usqp=CAU" group-title="VOD",ALIEN SNIPERESS 2022
+https://sv06.pelisfile.net/videos/hls/YPty22Gy07FkRy_vqmb_mg/1674948012/166915/2fdff129b25f516a0fc769956ea6501b/EP.0.0.v0.1668813630.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
@@ -1781,15 +1781,8 @@ https://srv03.dropload.io/hls2/01/00007/p6zsw6brf767_h/master.m3u8?t=KqUEE90Iw0k
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="vod" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmqu_EaBMouXGNAYnn9QY6jUL4SEYEME1vUA&usqp=CAU" group-title="VOD",THE LOST CITY 2022
 https://sv03.pelisfile.net/videos/hls/IYygLikgGRDgw4_enl6SNA/1674947546/166922/99dce3394f31844d44ed873e295bfaaf/EP.0.0.v0.1668797542.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="vod" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMrkaF1Ulmlo4YEWX3raBUWGsxtKTTNfwctg&usqp=CAU" group-title="VOD",PINOCCHIO 2022
+https://sv16.pelisfile.net/videos/hls/lUfABcWZFSuLA3_A1lOhDw/1674948314/164887/7e93eb44fef5395d7364f8b5767e3ddf/EP.0.0.v0.1666760093.m3u8
