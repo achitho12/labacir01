@@ -1769,8 +1769,18 @@ https://sv09.pelisfile.net/videos/hls/5JLDgJEUs4EAoUmo60GFrw/1674946217/148568/a
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="vod" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStNB_07GqfeK7-0e074ycIR9d79RPaRCW1TQ&usqp=CAU" group-title="VOD",THE NORTHMAN 2022
-https://streamtwo.vidzstore.com/upload/2022/May/581896953.mp4
+#EXTINF:-1 tvg-ID="vod" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXwKyfRe35z7UZOG38sDpPpa5FkBpvmq4Vjw&usqp=CAU" group-title="VOD",SECRET HEADQUARTERS 2022
+https://sv06.pelisfile.net/videos/hls/4GaoG0VJ4vx0TXTpt1NHtQ/1674947129/157125/77b92b3937fdf699b13215c42fd02487/EP.0.1.v2.1673821408.m3u8
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="vod" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLfK0d7CPWxiP7Prxxaz0cQDs9i1Hm5Wx6FA&usqp=CAU" group-title="VOD",THE BANSHEES OF INISHERIN 2022
+https://srv03.dropload.io/hls2/01/00007/p6zsw6brf767_h/master.m3u8?t=KqUEE90Iw0k5BRJY1AtG5pa3RH9G4k8g5I8X_kdcywA&s=1674932912&e=21600&f=35203&srv=srv01&i=0.0&sp=0&p1=srv01&p2=srv01
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="vod" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmqu_EaBMouXGNAYnn9QY6jUL4SEYEME1vUA&usqp=CAU" group-title="VOD",THE LOST CITY 2022
+https://sv03.pelisfile.net/videos/hls/IYygLikgGRDgw4_enl6SNA/1674947546/166922/99dce3394f31844d44ed873e295bfaaf/EP.0.0.v0.1668797542.m3u8
 
 
 
