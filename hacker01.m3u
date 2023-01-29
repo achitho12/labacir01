@@ -513,7 +513,6 @@ http://210.210.155.37/dr9445/h/h16/01.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="rockext" tvg-logo="https://s.id/1d1eh" group-title="ALL TV",ROCK EXT
 http://210.210.155.37/dr9445/h/h15/01.m3u8
-
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
@@ -694,7 +693,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed52a62fa750007
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed52a62fa750007733239/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="ALL TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLq0lsiA8gUOHC2wNuUShJCNisFDauOUADIQ&usqp=CAU",PLUTO TV 12
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc266f80e3550009136843/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-
 #EXTINF:-1 group-title="ALL TV" tvg-logo="https://s.id/1d0Iu",TVRI ACEH
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIAceh)/index.m3u8
 #EXTINF:-1 group-title="ALL TV" tvg-logo="https://s.id/1d0Iu",TVRI SUMATERA UTARA
@@ -1085,8 +1083,6 @@ http://birutv.com/dens@play/family.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="tv5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIepuN6Hm6wkAk2dPc7i5hfeJrQHmrVhL0lw&usqp=CAU" group-title="BIRU TV",TV5
 http://birutv.com/dens@play/tv5.m3u8
-
-
 #EXTINF:-1 tvg-id="cartoon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7Dw0aKxoz9cxMQe5NhmF3sJzllIHtoujKkw&usqp=CAU" group-title="ALL TV",CARTOON
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c363ac9e41be30cb6054c7c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTAROPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&token=RgY2q20lU22uILBd2IueHAQNySI3Qt9sgxOBkKqRQ0U2rsaNHV0DLyPmuPJz9=L70=TiZLSlYXTt19i_wAoCn5bSdHlSvXnE5YfUJ18O6fEQYmW27FiTBB_fj9VRu_OWVFoWSVFDNBs_lQqbRVBD2dzAKnw0nZ5UmtdLQCZRbdaUisflw1v1vvl1GRkQKAqEZIgdot9rwLP9S=BjBLFct1sXcXPSpEHj3d0LOGOdy15qH6AFtFJX2QV2ZGU3NVNoqMaagFdPZziX9kgKC5oVO9KatVPHhQqyHfmWjs_SIipp0h6y9ad4acp6Hh53QHCeOTq6U3LZl2we7YG8eapxNtCosywT_dOic3CkiARwXW0lPD4D9u7OgfU8ZHsVH1r68hN5iRh3w8NjiMPKyKj5=peuQs8AYHIWXEswzDmZhYR6=eSx6BOIQTRoIP6Uin77f8yHqoUVOKFo_KLgnij=NF8nDlXfbaSKNWfAHCwTJRfPSVELRGV73IiBUgpAZ=sjIgeyFRRj2uA5H71M0B_LNFgLP3Ry9eNL5QRSMaFnbyFt1XH9KX7Juo98snc1CFmmBv64ulE5dNvMrUbFwbsSZ1ca56Mlp3npTNjYCdsKM2=2biZ3be0aqrWlwALp5Z91UtaxH4SvGc_ybXdeTcxmKpwp7XNHu_g=ZbqeEIDfJLsJ6cWKpNPt_u2jXInEoOPUQP8vSlYkG9cuCrRpAYPEPqlj6DOyae5qjEzLmhwYh3WxE1XiPzKhNyMMjOYP5IAXBFyE1K==H7pCJkkR24X1zVyYlLV1zN2ttt6CAXVklZDuC76ekKtTHbLS3j_dVAe7oPjL_5TwsoSO4bD08=bfikc3pZQVFUGqpHCvZnh2EM=XCW6mjN5MwRhAGf=XmA4az=gY
 #EXTINF:-1 tvg-id="skysport1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3PIx185R3uA38H6IKtiyVk_YhVKOwjF00oA&usqp=CAU" group-title="ALL TV",SKY SPORT 1
@@ -1290,17 +1286,17 @@ http://iptvtree.net:8080/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/38575
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="supervariety1" tvg-logo="https://s.id/1jgnL" group-title="ALL TV",SUPER VARIETY 1
-http://iptvtree.net:8080/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/12812
+http://172.107.94.243:9000/live/premium-aostv-free/download-from-aostv.asia/1079.ts
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="supervariety2" tvg-logo="https://s.id/1jgnk" group-title="ALL TV",SUPER VARIETY 2
-http://iptvtree.net:8080/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/55800
+http://172.107.94.243:9000/live/premium-aostv-free/download-from-aostv.asia/1080.ts
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="supervariety3" tvg-logo="https://s.id/1jgo9" group-title="ALL TV",SUPER VARIETY 3
-http://iptvtree.net:8080/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/55802
+http://172.107.94.243:9000/live/premium-aostv-free/download-from-aostv.asia/1081.ts
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
