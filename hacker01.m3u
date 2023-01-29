@@ -1558,12 +1558,12 @@ http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/2821
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="tsn" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUlXMJ8DnN1N0unQqvE6KXirbSryTxHQqVGg&usqp=CAU" group-title="ALL TV",TSN 1
+#EXTINF:-1 tvg-ID="tsn1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUlXMJ8DnN1N0unQqvE6KXirbSryTxHQqVGg&usqp=CAU" group-title="ALL TV",TSN 1
 http://iptvtree.net:8080/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/770
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="tsn" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUlXMJ8DnN1N0unQqvE6KXirbSryTxHQqVGg&usqp=CAU" group-title="ALL TV",TSN 2
+#EXTINF:-1 tvg-ID="tsn2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUlXMJ8DnN1N0unQqvE6KXirbSryTxHQqVGg&usqp=CAU" group-title="ALL TV",TSN 2
 http://iptvtree.net:8080/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/771
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1628,7 +1628,7 @@ http://iptvworld.nl:2095/mm5z86zW/qgSXYnBD/42414
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="foxsoccer" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvpB4Cw7iL2ayUh3ucVBZgqfQhZBHv6sp-Bg&usqp=CAU" group-title="ALL TV",FOX SOCCER
+#EXTINF:-1 tvg-ID="foxsoccer" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Xhn-xIHRzIMX9umxycnyqCQ9ZZ_HQpox2Q&usqp=CAU" group-title="ALL TV",FOX SOCCER
 http://superbits.tv:2095/d4Je5xwD/yadTXB63/9661
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
