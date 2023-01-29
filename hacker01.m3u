@@ -1569,7 +1569,7 @@ http://iptvtree.net:8080/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/770
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="tsn" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUlXMJ8DnN1N0unQqvE6KXirbSryTxHQqVGg&usqp=CAU" group-title="ALL TV",TSN 1
+#EXTINF:-1 tvg-ID="tsn" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUlXMJ8DnN1N0unQqvE6KXirbSryTxHQqVGg&usqp=CAU" group-title="ALL TV",TSN 2
 http://iptvtree.net:8080/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/771
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
