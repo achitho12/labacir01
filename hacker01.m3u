@@ -1930,3 +1930,28 @@ http://46.99.146.236/0.m3u8
 http://rtvarberia4.flashmediacast.com:1935/RtvArberia4/livestream/playlist.m3u8
 #EXTINF:-1,TOPE STRADA
 http://live.topestrada.com/live/topestrada/playlist.m3u8
+#EXTM3U
+#EXTINF:-1,CLASSIC HD
+https://mfe01.tring.al/delta/106/out/u/1114_3.m3u8
+#EXTINF:-1,COLLECTION HD
+https://mfe01.tring.al/delta/106/out/u/1117_3.m3u8
+#EXTINF:-1,FANTASY
+https://mfe01.tring.al/delta/106/out/u/1115_3.m3u8
+#EXTINF:-1,FANTASY HD
+https://mfe01.tring.al/delta/106/out/u/1116_3.m3u8
+#EXTINF:-1,PLUS
+https://mfe01.tring.al/delta/105/out/u/618_13.m3u8
+#EXTINF:-1,PLUS HD
+https://mfe01.tring.al/delta/105/out/u/619_13.m3u8
+#EXTINF:-1,7PA5
+https://mfe01.tring.al/delta/105/out/u/621_13.m3u8
+#EXTINF:-1,PLUS HD 2
+https://mfe01.tring.al/delta/105/out/u/622_13.m3u8
+#EXTINF:-1,ZJARA HD
+https://mfe01.tring.al/delta/106/out/u/284_1.m3u8
+#EXTINF:-1,ZJARA HD 1
+https://mfe01.tring.al/delta/106/out/u/285_1.m3u8
+#EXTINF:-1,BUBLE
+https://mfe01.tring.al/delta/106/out/u/1118_3.m3u8
+#EXTINF:-1,TEVE 1
+https://mfe01.tring.al/delta/105/out/u/694_1.m3u8
