@@ -1818,144 +1818,66 @@ http://golive.yn.lt/live/bola/00.m3u8
 http://golive.yn.lt/live/bola/00.m3u8
 
 
-#EXTM3U The playlist was created in "IPTV PLAYLIST CHECKER" https://play.google.com/store/apps/details?id=runapp.iptv 
-#EXTINF:-1,STAR JALSHA 4K
-https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
-#EXTINF:-1,ZEE BANGLA (4K).
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
-#EXTINF:-1,JALSHA MOVIES (4K).
-http://45.77.66.224:1935/athavantv/live/playlist.m3u8
-#EXTINF:-1,SONY (4K).
-https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
-#EXTINF:-1,COLORS (4K).
-http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
-#EXTINF:-1,SONY MAX (4K).
-https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/playlist.m3u8
-#EXTINF:-1,&PICTURE (4K).
-http://ashrafichannel.livebox.co.in/ashrafivhannelhls/live.m3u8
-#EXTINF:-1,STAR GOLD (4K).
-https://vidcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8
-#EXTINF:-1,STAR GOLD SELECT (4K).
-https://vidcdn.vidgyor.com/suvarna-origin/liveabr/playlist.m3u8
-#EXTINF:-1,ZEE CINEMA (4K).
-https://vidcdn.vidgyor.com/ptm-origin/aslive/playlist.m3u8
-#EXTINF:-1,Colors Cineplex (4K).
-https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
-#EXTINF:-1,Sony BBC EARTH (4K).
-http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
-#EXTINF:-1,HISTORY TV (4K).
-http://cdn19.live247stream.com/channely/tv/playlist.m3u8
-#EXTINF:-1,IlSTAR MOVIE (4K).
-https://live.hungama.com/linear/dhamaal/playlist.m3u8 
-#EXTINF:-1,STAR MOVIE SELECT (4K).
-https://vidcdn.vidgyor.com/dighvijay-origin/liveabr/playlist.m3u8
-#EXTINF:-1,STAR WORLD (4K).
-https://live.hungama.com/linear/dil-se/playlist.m3u8
-#EXTINF:-1,STAR WORLD PREMIUM (4K).
-https://live.streamjo.com/eetlive/eettv.m3u8
-#EXTINF:-1,&FLIX (4K).
-https://pubads.g.doubleclick.net/ssai/event/pJrzNyDoT_K_GwYQsijTsQ/master.m3u8
-#EXTINF:-1,ZEE CAFE (4K).
-http://akalmultimedia.net:1935/gdnslive/gdns-live/chunklist.m3u8
-#EXTINF:-1,Colors INFINITY (4K).
-https://media.streambrothers.com:1936/8522/8522/playlist.m3u8
-#EXTINF:-1,FOX LIFE (4K).
-http://cdn12.henico.net:8080/live/jbani/index.m3u8
-#EXTINF:-1,NICK (4K).
-https://vidcdn.vidgyor.com/janamtv-origin/liveabr/playlist.m3u8
-#EXTINF:-1,BEIN SPORTS 1 (4K)
-https://live.wmncdn.net/jantatv/live.stream/index.m3u8
-#EXTINF:-1,BEIN SPORTS 2 (4K)
-https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
-#EXTINF:-1,BEIN SPORTS 3 (4K)
-https://live.hungama.com/linear/kadak-hits/playlist.m3u8
-#EXTINF:-1,BEIN SPORTS 4 (4K)
-https://live.mycast.in/kalingatv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
-#EXTINF:-1,BEIN SPORTS 5 (4K)
-https://live.kanaknews.com:4443/live/stream/playlist.m3u8
-#EXTINF:-1,BEIN SPORTS 6 (4K)
-https://idvd.multitvsolution.com/idvo/kappatv.m3u8
-#EXTINF:-1,BEIN SPORTS 7 (4K)
-https://vidcdn.vidgyor.com/kat-origin/liveabr/playlist.m3u8
-#EXTINF:-1,BEIN-MAX 1 (4K)
-https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8
-#EXTINF:-1,BEIN-MAX-2-4k
-http://cloud.logicwebs.in:1935/live/malabarnews/playlist.m3u8
-#EXTINF:-1,BEIN-MAX-3-4k (ENG)
-https://namdhari.tv/live/sbs1.m3u8
-#EXTINF:-1,BEIN-MAX-4-4k (ENG)
-http://131.153.22.8:1935/NCV/ncvstream/playlist.m3u8
-#EXTINF:-1,BEIN-MAX-5-4k (FR)
-https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
-#EXTINF:-1,BEIN-MAX-6-4k (FR)
-https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
-#EXTINF:-1,BIEN SPORTS 4K
-https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680-b/ndtvprofit/master.m3u8
-#EXTINF:-1,BEIN-MAX-2-UHD-1080
-https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/master.m3u8
-#EXTINF:-1,BEIN-MAX-3-UHD-1080 (ENG)
-http://137.59.86.218:1935/live/onetv/playlist.m3u8
-#EXTINF:-1,BEIN-MAX-4-UHD-1080 (ENG)
-https://live.hungama.com/linear/pop-pataka/playlist.m3u8
-#EXTINF:-1,BEIN-MAX-5-UHD-1080 (FR)
-https://live.mycast.in/encode/ee0c5a36ff5a7083ee044991974ad3ba.sdp/playlist.m3u8
-#EXTINF:-1,BEIN-MAX-6-UHD-1080 (FR)
-https://royalstarindia.co.in/pularitv_hls/pularitv.m3u8
-#EXTINF:-1,FR : BEIN SPORT 1 HD
-http://stream.pztv.online/pztv/playlist.m3u8
-#EXTINF:-1,FR : BEIN SPORT 2 HD
-https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8
-#EXTINF:-1,FR : BEIN SPORT 3 HD
-http://cloud.logicwebs.in:1935/realtv/realtv1/playlist.m3u8
-#EXTINF:-1,AR: BEIN SPORTS 1 HD
-https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
-#EXTINF:-1,AR : BEIN SPORT 2 HD
-http://media.7starcloud.com:1935/live/sanatv2/playlist.m3u8
-#EXTINF:-1,AR : BEIN SPORT 3 HD
-http://hdserver.7starcloud.com:1935/sanatv/sanatv/playlist.m3u8
-#EXTINF:-1,AR : BEIN SPORT 4 HD
-https://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8
-#EXTINF:-1,AR : BEIN SPORT 5 HD
-http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
-#EXTINF:-1,AR : BeIN Sport 6 HD
-https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/playlist.m3u8
-#EXTINF:-1,AR : BEIN SPORT 7 HD
-http://131.153.22.8:1935/SWANTHAM/live/playlist.m3u8
-#EXTINF:-1,AR : BEIN SPORT 1 (HD)
-https://live.wmncdn.net/highnews/swaraj.stream/index.m3u8
-#EXTINF:-1,AR : BEIN SPORT 2 (HD)
-https://pubads.g.doubleclick.net/ssai/event/nRWQsGoJSzmcErJFgAy67g/master.m3u8
-#EXTINF:-1,AR : BEIN SPORT 3 (HD)
-http://cloud.logicwebs.in:1935/timevision/timevision/playlist.m3u8
-#EXTINF:-1,AR : BEIN SPORT 4 (HD)
-https://vidcdn.vidgyor.com/tv9kannada-origin/live/playlist.m3u8
-#EXTINF:-1,AR : BeIN Sport 5 (HD)
-https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8
-#EXTINF:-1,BEIN-MAX-1-SD
-https://dai.google.com/linear/hls/event/x_dFvsORSZWERbxrltEk0g/master.m3u8
-#EXTINF:-1,BEIN-MAX-2-SD
-http://210.210.155.37/uq2663/h/h91/index
-#EXTINF:-1,BEIN-MAX-3-SD (ENG)
-https://d1vd9xhq6jlm48.cloudfront.net/out/v1/71fcc57c8fe74c5b938451bc2435a93e/index_4.m3u8
-#EXTINF:-1,BEIN-MAX-4-SD (ENG)
-http://newsmaffia.casacam.net:1935/newsmaffia/newsmaffia/playlist.m3u8
-#EXTINF:-1,BEIN-MAX-5-SD (FR)
-https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
-#EXTINF:-1,BEIN-MAX-6-SD (FR)
-http://163.47.214.155:1935/fwnews/live/playlist.m3u8
-#EXTINF:-1,WORLD CUP (4K)
-https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8
-#EXTINF:-1,IN: STAR PLUS FHD
-http://103.153.92.157:11037/hls/kbh.m3u8
-#EXTINF:-1,COLORS FHD
-http://192.99.2.28/mandra_hls/mandra.m3u8
-#EXTINF:-1,JALSHA MOVIES (FHD)
-http://cdn12.henico.net:8080/live/sadatv/index.m3u8
-#EXTINF:-1,Star Jalsha (FHD)
-http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
-#EXTINF:-1,ZEE BANGLA (FHD)
-http://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8
-#EXTINF:-1,COLORS BANGLA (FHD)
-https://hls.media.nic.in/hls/live/vyas/vyas.m3u8
-#EXTINF:-1,ZEE TV FHD
-https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8
+#EXTM3U
+#EXTINF:-1,iptvtools_1
+https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/playlist.m3u8
+#EXTINF:-1,iptvtools_2
+https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/playlist.m3u8
+#EXTINF:-1,iptvtools_3
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
+#EXTINF:-1,iptvtools_4
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
+#EXTINF:-1,iptvtools_5
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:-1,iptvtools_6
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+#EXTINF:-1,iptvtools_7
+https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+#EXTINF:-1,iptvtools_8
+https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
+#EXTINF:-1,iptvtools_9
+https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
+#EXTINF:-1,iptvtools_10
+https://ikomg1.s.llnwi.net/alyaum-tv/alyaum-tv.m3u8
+#EXTINF:-1,iptvtools_11
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
+#EXTINF:-1,iptvtools_12
+https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
+#EXTINF:-1,iptvtools_13
+https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
+#EXTINF:-1,iptvtools_14
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
+#EXTINF:-1,iptvtools_15
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+#EXTINF:-1,iptvtools_16
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+#EXTINF:-1,iptvtools_17
+https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
+#EXTINF:-1,iptvtools_18
+http://210.210.155.37/uq2663/h/h152/index2.m3u8
+#EXTINF:-1,iptvtools_19
+https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8
+#EXTINF:-1,iptvtools_20
+https://jmc-live.ercdn.net/hawastvhd/hawastvhd.m3u8
+#EXTINF:-1,iptvtools_21
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+#EXTINF:-1,iptvtools_22
+https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/playlist.m3u8
+#EXTINF:-1,iptvtools_23
+http://82.114.67.178:8081/hls/PeaceTV.m3u8
+#EXTINF:-1,iptvtools_24
+https://hls.pmchd.live/hls/stream.m3u8
+#EXTINF:-1,iptvtools_25
+https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/playlist.m3u8
+#EXTINF:-1,iptvtools_26
+https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
+#EXTINF:-1,iptvtools_27
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+#EXTINF:-1,iptvtools_28
+https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
+#EXTINF:-1,iptvtools_29
+https://stream.skynewsarabia.com/hls/sna.m3u8
+#EXTINF:-1,iptvtools_30
+https://stream.skynewsarabia.com/vertical/vertical.m3u8
+#EXTINF:-1,iptvtools_31
+https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
