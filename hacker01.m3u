@@ -1816,68 +1816,67 @@ http://golive.yn.lt/live/bola/00.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="coppaitalia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNbDjk8_1L8chm4Qnl-lnjgMEOop2m2D1S4A&usqp=CAU" group-title="COPPA ITALIA",LIVE 6
 http://golive.yn.lt/live/bola/00.m3u8
-
-
+###ARAB###
 #EXTM3U
-#EXTINF:-1,iptvtools_1
+#EXTINF:-1,ADTV
 https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/playlist.m3u8
-#EXTINF:-1,iptvtools_2
+#EXTINF:-1,EMARAT
 https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/playlist.m3u8
-#EXTINF:-1,iptvtools_3
+#EXTINF:-1,ADSPORT 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
-#EXTINF:-1,iptvtools_4
+#EXTINF:-1,ADSPORT 2
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
-#EXTINF:-1,iptvtools_5
+#EXTINF:-1,ALARABIYA
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
-#EXTINF:-1,iptvtools_6
+#EXTINF:-1,AL HADATH
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
-#EXTINF:-1,iptvtools_7
+#EXTINF:-1,AL HADATH
 https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
-#EXTINF:-1,iptvtools_8
+#EXTINF:-1,KBTV 1
 https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
-#EXTINF:-1,iptvtools_9
+#EXTINF:-1,ALWOUSTATV
 https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
-#EXTINF:-1,iptvtools_10
+#EXTINF:-1,AL YAUMTV
 https://ikomg1.s.llnwi.net/alyaum-tv/alyaum-tv.m3u8
-#EXTINF:-1,iptvtools_11
+#EXTINF:-1,DUBAI ONE
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
-#EXTINF:-1,iptvtools_12
+#EXTINF:-1,DUBAI RACING
 https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
-#EXTINF:-1,iptvtools_13
+#EXTINF:-1,DUBAI MUBASHER
 https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
-#EXTINF:-1,iptvtools_14
+#EXTINF:-1,DUBAI SPORTS
 https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
-#EXTINF:-1,iptvtools_15
+#EXTINF:-1,DUBAI SPORTS HD
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
-#EXTINF:-1,iptvtools_16
+#EXTINF:-1,DUBAI SPORTS HD 5
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
-#EXTINF:-1,iptvtools_17
+#EXTINF:-1,DUBAI TVHT
 https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
-#EXTINF:-1,iptvtools_18
+#EXTINF:-1,DUBAI TV
 http://210.210.155.37/uq2663/h/h152/index2.m3u8
-#EXTINF:-1,iptvtools_19
+#EXTINF:-1,DUBAI IZAMAN
 https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8
-#EXTINF:-1,iptvtools_20
+#EXTINF:-1,HAWASTV HD
 https://jmc-live.ercdn.net/hawastvhd/hawastvhd.m3u8
-#EXTINF:-1,iptvtools_21
+#EXTINF:-1,NAGTV
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
-#EXTINF:-1,iptvtools_22
+#EXTINF:-1,NOOR DUBAI TV
 https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/playlist.m3u8
-#EXTINF:-1,iptvtools_23
+#EXTINF:-1,PEACE TV
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
-#EXTINF:-1,iptvtools_24
+#EXTINF:-1,PMC HD
 https://hls.pmchd.live/hls/stream.m3u8
-#EXTINF:-1,iptvtools_25
+#EXTINF:-1,SAMA DUBAI HT
 https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/playlist.m3u8
-#EXTINF:-1,iptvtools_26
+#EXTINF:-1,SMC 2 TV
 https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
-#EXTINF:-1,iptvtools_27
+#EXTINF:-1,SMC 4 TV
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
-#EXTINF:-1,iptvtools_28
+#EXTINF:-1,SMC 1 TV
 https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
-#EXTINF:-1,iptvtools_29
+#EXTINF:-1,SKY NEWS ARABIA
 https://stream.skynewsarabia.com/hls/sna.m3u8
-#EXTINF:-1,iptvtools_30
+#EXTINF:-1,SKY NEWS ARABIA
 https://stream.skynewsarabia.com/vertical/vertical.m3u8
-#EXTINF:-1,iptvtools_31
+#EXTINF:-1,YASTV
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
