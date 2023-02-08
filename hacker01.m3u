@@ -2821,32 +2821,32 @@ http://golive.yn.lt/live/liga1/06.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="ligainggris" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB84vrmoqvnmvCTlRKWlZP2AcOayleRj0_wFl2VYQHUZQ7pLIHkW7r9Rc&s=10" group-title="LIGA INGGRIS",LIVE 1
-http://golive.yn.lt/live/liga1/00.m3u8
+http://golive.yn.lt/live/epl/21.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="ligainggris" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB84vrmoqvnmvCTlRKWlZP2AcOayleRj0_wFl2VYQHUZQ7pLIHkW7r9Rc&s=10" group-title="LIGA INGGRIS",LIVE 2
-http://golive.yn.lt/live/liga1/00.m3u8
+http://golive.yn.lt/live/epl/22.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="ligainggris" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB84vrmoqvnmvCTlRKWlZP2AcOayleRj0_wFl2VYQHUZQ7pLIHkW7r9Rc&s=10" group-title="LIGA INGGRIS",LIVE 3
-http://golive.yn.lt/live/liga1/00.m3u8
+http://golive.yn.lt/live/epl/23.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="ligainggris" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB84vrmoqvnmvCTlRKWlZP2AcOayleRj0_wFl2VYQHUZQ7pLIHkW7r9Rc&s=10" group-title="LIGA INGGRIS",LIVE 4
-http://golive.yn.lt/live/liga1/00.m3u8
+http://golive.yn.lt/live/epl/24.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="ligainggris" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB84vrmoqvnmvCTlRKWlZP2AcOayleRj0_wFl2VYQHUZQ7pLIHkW7r9Rc&s=10" group-title="LIGA INGGRIS",LIVE 5
-http://golive.yn.lt/live/liga1/00.m3u8
+http://golive.yn.lt/live/epl/25.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="ligainggris" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB84vrmoqvnmvCTlRKWlZP2AcOayleRj0_wFl2VYQHUZQ7pLIHkW7r9Rc&s=10" group-title="LIGA INGGRIS",LIVE 6
-http://golive.yn.lt/live/liga1/00.m3u8
+http://golive.yn.lt/live/epl/26.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
