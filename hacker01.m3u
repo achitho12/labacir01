@@ -1378,8 +1378,8 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chu
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="pbo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbzZs3-mpNAJC9Hq0mkpDxZV-b4n9Xelg2Rg&usqp=CAU" group-title="ALL TV",PBO
-http://worldiptv.me:8080/zkjcfsfB/mpEp76eW/26975
+#EXTINF:-1 tvg-ID="hallmark" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs1WpCZycwWEfNQseJLWev3wVIZY7aNSfJzA&usqp=CAU" group-title="ALL TV",HALL MARK
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/628e685ba3811100070551a8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTAROPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
@@ -1404,27 +1404,27 @@ http://iptvtree.net:8080/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/16619
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="sonyten1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiz1cyig42kZLvNDHhoiZiN0q2OaKIAi688H4J7m3reUzYXTAe4zo6tNUtkD3lgEICtRp--ex-ASs5ojIWImqR7PHXpCJX_6oW7dT_Kh4jn0ETDdWTSFuyGJjzF4YWj_WTHoL6YtvaBLrKJ3VYmELu3vUjN28qIH3B9vlrsuL1BzsT7CAEtBTFNBgNIw/s1280/20230121_195121.jpg" group-title="ALL TV",SONY TEN 1
-http://watchindia.net:8880/live/dharmend/PTukavDWzh/1756.ts
+http://iptvworld.nl:2095/mm5z86zW/qgSXYnBD/460749
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="sonyten2" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiz1cyig42kZLvNDHhoiZiN0q2OaKIAi688H4J7m3reUzYXTAe4zo6tNUtkD3lgEICtRp--ex-ASs5ojIWImqR7PHXpCJX_6oW7dT_Kh4jn0ETDdWTSFuyGJjzF4YWj_WTHoL6YtvaBLrKJ3VYmELu3vUjN28qIH3B9vlrsuL1BzsT7CAEtBTFNBgNIw/s1280/20230121_195121.jpg" group-title="ALL TV",SONY TEN 2
-http://watchindia.net:8880/live/dharmend/PTukavDWzh/1757.ts
+http://iptvworld.nl:2095/mm5z86zW/qgSXYnBD/460750
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="sonyten3" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiz1cyig42kZLvNDHhoiZiN0q2OaKIAi688H4J7m3reUzYXTAe4zo6tNUtkD3lgEICtRp--ex-ASs5ojIWImqR7PHXpCJX_6oW7dT_Kh4jn0ETDdWTSFuyGJjzF4YWj_WTHoL6YtvaBLrKJ3VYmELu3vUjN28qIH3B9vlrsuL1BzsT7CAEtBTFNBgNIw/s1280/20230121_195121.jpg" group-title="ALL TV",SONY TEN 3
-http://watchindia.net:8880/live/dharmend/PTukavDWzh/1758.ts
+http://iptvworld.nl:2095/mm5z86zW/qgSXYnBD/461064
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="sonyten5" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiz1cyig42kZLvNDHhoiZiN0q2OaKIAi688H4J7m3reUzYXTAe4zo6tNUtkD3lgEICtRp--ex-ASs5ojIWImqR7PHXpCJX_6oW7dT_Kh4jn0ETDdWTSFuyGJjzF4YWj_WTHoL6YtvaBLrKJ3VYmELu3vUjN28qIH3B9vlrsuL1BzsT7CAEtBTFNBgNIw/s1280/20230121_195121.jpg" group-title="ALL TV",SONY TEN 5
-http://watchindia.net:8880/live/dharmend/PTukavDWzh/1763.ts
+http://iptvworld.nl:2095/mm5z86zW/qgSXYnBD/461065
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="sonypix" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiafA5jejKSkTWotK3iO7gvLYbQNVjzVSFRQB5mtBFTsb1Y4b8KfdydOUFQNb24nOcpYcKDyFZYFN5zumtHh7x_laEXz2HTBQt3hmLh3RsyHW3__kJAKsOspkmWdUZjPfTWB__MvzuqECHb9AMcWa87e8B4rriBNDDJGQ5SI8qsnhJ1yhwmdlRafKQlmA/s1280/20230121_195915.jpg" group-title="ALL TV",SONY PIX
-http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/2821
+#EXTINF:-1 tvg-ID="fashiontv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2S1l6e4gQretdwdKFnwoFgtgPBOFeQFBh2A&usqp=CAU" group-title="ALL TV",FASHION TV
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
@@ -1484,12 +1484,17 @@ http://superbits.tv:2095/d4Je5xwD/yadTXB63/445780
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="supermoto" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvYri32Lt5UeybjLyDVJUUHsOSt7UidkrPJA&usqp=CAU" group-title="ALL TV",SUPER MOTO
-http://172.107.94.243:9000/live/premium-aostv-free/download-from-aostv.asia/47985.ts
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/11638
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="superpsl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvYri32Lt5UeybjLyDVJUUHsOSt7UidkrPJA&usqp=CAU" group-title="ALL TV",SUPER PSL
-http://172.107.94.243:9000/live/premium-aostv-free/download-from-aostv.asia/1076.ts
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/11643
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="ssmaximo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjXgnc_HValDkeoU2t45s03BZ0g6Zv1Hh80g&usqp=CAU" group-title="ALL TV",SS MAXIMO
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/38572
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
