@@ -1154,17 +1154,17 @@ http://iptvtree.net:8080/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/38575
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="supervariety1" tvg-logo="https://s.id/1jgnL" group-title="ALL TV",SUPER VARIETY 1
-http://172.107.94.243:9000/live/premium-aostv-free/download-from-aostv.asia/1079.ts
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/11633
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="supervariety2" tvg-logo="https://s.id/1jgnk" group-title="ALL TV",SUPER VARIETY 2
-http://172.107.94.243:9000/live/premium-aostv-free/download-from-aostv.asia/1080.ts
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/11634
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="supervariety3" tvg-logo="https://s.id/1jgo9" group-title="ALL TV",SUPER VARIETY 3
-http://172.107.94.243:9000/live/premium-aostv-free/download-from-aostv.asia/1081.ts
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/11635
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
@@ -1398,7 +1398,7 @@ http://watchindia.net:8880/live/dharmend/PTukavDWzh/1070.ts
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="starselec2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR3N6igrTPIdPqvqowjYK9QSh2nZKQc02_Uw&usqp=CAU" group-title="ALL TV",STAR SELEC 2
+#EXTINF:-1 tvg-ID="starselect2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR3N6igrTPIdPqvqowjYK9QSh2nZKQc02_Uw&usqp=CAU" group-title="ALL TV",STAR SELEC 2
 http://iptvtree.net:8080/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/16619
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
