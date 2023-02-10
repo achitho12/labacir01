@@ -2971,92 +2971,92 @@ http://golive.yn.lt/live/ligue1/26.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="facup" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShNbafQcHfI5SCH6C-AucTrosUJCxMXhvyzQ&usqp=CAU" group-title="FA CUP",LIVE 1
-http://golive.yn.lt/live/bola/04.m3u8
+http://golive.yn.lt/live/bola/01.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="facup" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShNbafQcHfI5SCH6C-AucTrosUJCxMXhvyzQ&usqp=CAU" group-title="FA CUP",LIVE 2
-http://golive.yn.lt/live/bola/05.m3u8
+http://golive.yn.lt/live/bola/02.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="facup" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShNbafQcHfI5SCH6C-AucTrosUJCxMXhvyzQ&usqp=CAU" group-title="FA CUP",LIVE 3
-http://golive.yn.lt/live/bola/06.m3u8
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="facup" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShNbafQcHfI5SCH6C-AucTrosUJCxMXhvyzQ&usqp=CAU" group-title="FA CUP",LIVE 4
-http://golive.yn.lt/live/bola/07.m3u8
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="facup" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShNbafQcHfI5SCH6C-AucTrosUJCxMXhvyzQ&usqp=CAU" group-title="FA CUP",LIVE 5
-http://golive.yn.lt/live/bola/08.m3u8
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="facup" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShNbafQcHfI5SCH6C-AucTrosUJCxMXhvyzQ&usqp=CAU" group-title="FA CUP",LIVE 6
-http://golive.yn.lt/live/bola/09.m3u8
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="eflcup" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLlgSu3V4dxJY-_dfXIHHmH2mnYSBlF3XcWg&usqp=CAU" group-title="EFL CUP",LIVE 1
-http://golive.yn.lt/live/bola/06.m3u8
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="eflcup" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLlgSu3V4dxJY-_dfXIHHmH2mnYSBlF3XcWg&usqp=CAU" group-title="EFL CUP",LIVE 2
-http://golive.yn.lt/live/bola/00.m3u8
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="eflcup" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLlgSu3V4dxJY-_dfXIHHmH2mnYSBlF3XcWg&usqp=CAU" group-title="EFL CUP",LIVE 3
-http://golive.yn.lt/live/bola/00.m3u8
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="eflcup" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLlgSu3V4dxJY-_dfXIHHmH2mnYSBlF3XcWg&usqp=CAU" group-title="EFL CUP",LIVE 4
-http://golive.yn.lt/live/bola/00.m3u8
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="eflcup" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLlgSu3V4dxJY-_dfXIHHmH2mnYSBlF3XcWg&usqp=CAU" group-title="EFL CUP",LIVE 5
-http://golive.yn.lt/live/bola/00.m3u8
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="eflcup" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLlgSu3V4dxJY-_dfXIHHmH2mnYSBlF3XcWg&usqp=CAU" group-title="EFL CUP",LIVE 6
-http://golive.yn.lt/live/bola/00.m3u8
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="premeiraliga" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN6zU1H4v5rsclX23kUi1Ae4taBLX51xRp2A&usqp=CAU" group-title="PRIMEIRA LIGA",LIVE 1
 http://golive.yn.lt/live/bola/03.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="premeiraliga" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN6zU1H4v5rsclX23kUi1Ae4taBLX51xRp2A&usqp=CAU" group-title="PRIMEIRA LIGA",LIVE 2
+#EXTINF:-1 tvg-ID="facup" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShNbafQcHfI5SCH6C-AucTrosUJCxMXhvyzQ&usqp=CAU" group-title="FA CUP",LIVE 4
 http://golive.yn.lt/live/bola/04.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="facup" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShNbafQcHfI5SCH6C-AucTrosUJCxMXhvyzQ&usqp=CAU" group-title="FA CUP",LIVE 5
+http://golive.yn.lt/live/bola/05.m3u8
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="facup" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShNbafQcHfI5SCH6C-AucTrosUJCxMXhvyzQ&usqp=CAU" group-title="FA CUP",LIVE 6
+http://golive.yn.lt/live/bola/06.m3u8
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="eflcup" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLlgSu3V4dxJY-_dfXIHHmH2mnYSBlF3XcWg&usqp=CAU" group-title="EFL CUP",LIVE 1
+http://golive.yn.lt/live/bola/01.m3u8
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="eflcup" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLlgSu3V4dxJY-_dfXIHHmH2mnYSBlF3XcWg&usqp=CAU" group-title="EFL CUP",LIVE 2
+http://golive.yn.lt/live/bola/02.m3u8
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="eflcup" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLlgSu3V4dxJY-_dfXIHHmH2mnYSBlF3XcWg&usqp=CAU" group-title="EFL CUP",LIVE 3
+http://golive.yn.lt/live/bola/03.m3u8
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="eflcup" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLlgSu3V4dxJY-_dfXIHHmH2mnYSBlF3XcWg&usqp=CAU" group-title="EFL CUP",LIVE 4
+http://golive.yn.lt/live/bola/04.m3u8
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="eflcup" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLlgSu3V4dxJY-_dfXIHHmH2mnYSBlF3XcWg&usqp=CAU" group-title="EFL CUP",LIVE 5
+http://golive.yn.lt/live/bola/05.m3u8
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="eflcup" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLlgSu3V4dxJY-_dfXIHHmH2mnYSBlF3XcWg&usqp=CAU" group-title="EFL CUP",LIVE 6
+http://golive.yn.lt/live/bola/06.m3u8
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="premeiraliga" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN6zU1H4v5rsclX23kUi1Ae4taBLX51xRp2A&usqp=CAU" group-title="PRIMEIRA LIGA",LIVE 1
+http://golive.yn.lt/live/bola/01.m3u8
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="premeiraliga" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN6zU1H4v5rsclX23kUi1Ae4taBLX51xRp2A&usqp=CAU" group-title="PRIMEIRA LIGA",LIVE 2
+http://golive.yn.lt/live/bola/02.m3u8
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="premeiraliga" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN6zU1H4v5rsclX23kUi1Ae4taBLX51xRp2A&usqp=CAU" group-title="PRIMEIRA LIGA",LIVE 3
-http://golive.yn.lt/live/bola/00.m3u8
+http://golive.yn.lt/live/bola/03.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="premeiraliga" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN6zU1H4v5rsclX23kUi1Ae4taBLX51xRp2A&usqp=CAU" group-title="PRIMEIRA LIGA",LIVE 4
-http://golive.yn.lt/live/bola/00.m3u8
+http://golive.yn.lt/live/bola/04.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="premeiraliga" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN6zU1H4v5rsclX23kUi1Ae4taBLX51xRp2A&usqp=CAU" group-title="PRIMEIRA LIGA",LIVE 5
-http://golive.yn.lt/live/bola/00.m3u8
+http://golive.yn.lt/live/bola/05.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="premeiraliga" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN6zU1H4v5rsclX23kUi1Ae4taBLX51xRp2A&usqp=CAU" group-title="PRIMEIRA LIGA",LIVE 6
-http://golive.yn.lt/live/bola/00.m3u8
+http://golive.yn.lt/live/bola/06.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
@@ -3071,52 +3071,52 @@ http://golive.yn.lt/live/bola/02.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="dfbcup" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLVTLGdf1YBTIjqk1AC_lqucD8pguo4NcCPA&usqp=CAU" group-title="DFB CUP",LIVE 3
-http://golive.yn.lt/live/bola/00.m3u8
+http://golive.yn.lt/live/bola/03.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="dfbcup" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLVTLGdf1YBTIjqk1AC_lqucD8pguo4NcCPA&usqp=CAU" group-title="DFB CUP",LIVE 4
-http://golive.yn.lt/live/bola/00.m3u8
+http://golive.yn.lt/live/bola/04.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="dfbcup" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLVTLGdf1YBTIjqk1AC_lqucD8pguo4NcCPA&usqp=CAU" group-title="DFB CUP",LIVE 5
-http://golive.yn.lt/live/bola/00.m3u8
+http://golive.yn.lt/live/bola/05.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="dfbcup" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLVTLGdf1YBTIjqk1AC_lqucD8pguo4NcCPA&usqp=CAU" group-title="DFB CUP",LIVE 6
-http://golive.yn.lt/live/bola/00.m3u8
+http://golive.yn.lt/live/bola/06.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="coppaitalia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNbDjk8_1L8chm4Qnl-lnjgMEOop2m2D1S4A&usqp=CAU" group-title="COPPA ITALIA",LIVE 1
-http://golive.yn.lt/live/bola/07.m3u8
+http://golive.yn.lt/live/bola/01.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="coppaitalia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNbDjk8_1L8chm4Qnl-lnjgMEOop2m2D1S4A&usqp=CAU" group-title="COPPA ITALIA",LIVE 2
-http://golive.yn.lt/live/bola/00.m3u8
+http://golive.yn.lt/live/bola/02.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="coppaitalia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNbDjk8_1L8chm4Qnl-lnjgMEOop2m2D1S4A&usqp=CAU" group-title="COPPA ITALIA",LIVE 3
-http://golive.yn.lt/live/bola/00.m3u8
+http://golive.yn.lt/live/bola/03.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="coppaitalia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNbDjk8_1L8chm4Qnl-lnjgMEOop2m2D1S4A&usqp=CAU" group-title="COPPA ITALIA",LIVE 4
-http://golive.yn.lt/live/bola/00.m3u8
+http://golive.yn.lt/live/bola/04.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="coppaitalia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNbDjk8_1L8chm4Qnl-lnjgMEOop2m2D1S4A&usqp=CAU" group-title="COPPA ITALIA",LIVE 5
-http://golive.yn.lt/live/bola/00.m3u8
+http://golive.yn.lt/live/bola/05.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="coppaitalia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNbDjk8_1L8chm4Qnl-lnjgMEOop2m2D1S4A&usqp=CAU" group-title="COPPA ITALIA",LIVE 6
-http://golive.yn.lt/live/bola/00.m3u8
+http://golive.yn.lt/live/bola/06.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
