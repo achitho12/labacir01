@@ -982,13 +982,13 @@ http://superbits.tv:2095/d4Je5xwD/yadTXB63/10880
 #EXTINF:-1 tvg-id="espnextra" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdVpx6X6Mp66E7nYX-FVeQgJUlMp2R9YLbGA&usqp=CAU" group-title="ALL TV",ESPN EXTRA
 http://45.175.164.232:5022/play/a0m4/index.m3u8
 #EXTINF:-1 tvg-id="bt1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTa_PkVlTVJqhFlY2Cxec1wf08YUTB_uwcVg&usqp=CAU" group-title="ALL TV",BT SPORT 1
-http://comag.rip:8000/50738601689735/03751643107136/22306
+http://cdn.spmr.tv:8080/g78fqx/video.m3u8?token=0S4ML82WMM
 #EXTINF:-1 tvg-id="bt2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTa_PkVlTVJqhFlY2Cxec1wf08YUTB_uwcVg&usqp=CAU" group-title="ALL TV",BT SPORT 2
-http://comag.rip:8000/50738601689735/03751643107136/22303
+http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/52240.ts
 #EXTINF:-1 tvg-id="bt3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTa_PkVlTVJqhFlY2Cxec1wf08YUTB_uwcVg&usqp=CAU" group-title="ALL TV",BT SPORT 3
 http://comag.rip:8000/live/50738601689735/03751643107136/22300.m3u8
 #EXTINF:-1 tvg-id="btespn" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTa_PkVlTVJqhFlY2Cxec1wf08YUTB_uwcVg&usqp=CAU" group-title="ALL TV",BT SPORT ESPN
-http://comag.rip:8000/50738601689735/03751643107136/22298
+http://iptvworld.nl:2095/mm5z86zW/qgSXYnBD/389198
 #EXTINF:-1 tvg-id="eleven1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCK88nVH9ayhlZPf_41A1-bCEVC41H7EUSmg&usqp=CAU" group-title="ALL TV",ELEVEN 1
 http://superbits.tv:2095/d4Je5xwD/yadTXB63/46079
 #EXTINF:-1 tvg-id="eleven2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCK88nVH9ayhlZPf_41A1-bCEVC41H7EUSmg&usqp=CAU" group-title="ALL TV",ELEVEN 2
