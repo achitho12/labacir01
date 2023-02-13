@@ -1759,32 +1759,32 @@ http://210.210.155.37/uq2663/h/h152/index2.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="dubaizaman" tvg-logo="" group-title="ALL TV", DUBAI ZAMAN
+#EXTINF:-1 tvg-ID="dubaizaman" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDDMEQN52gstZBYnvpHUVpz0u4HQHvsCSn1Q&usqp=CAU" group-title="ALL TV", DUBAI ZAMAN
 https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="hawastvhd" tvg-logo="" group-title="ALL TV", HAWASTV HD
+#EXTINF:-1 tvg-ID="hawastvhd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuQzHO1C9N9LTvcLZLGw6z_DVUbyRjaDoFLg&usqp=CAU" group-title="ALL TV", HAWASTV HD
 https://jmc-live.ercdn.net/hawastvhd/hawastvhd.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="nagtv" tvg-logo="" group-title="ALL TV", NAGTV
+#EXTINF:-1 tvg-ID="natgeo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9eBtPCoPVTuPBjbw7VgYUN7k45l1SkQ-zpw&usqp=CAU" group-title="ALL TV", NAT GEO
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="noordubaitv" tvg-logo="" group-title="ALL TV", NOOR DUBAITV
+#EXTINF:-1 tvg-ID="noordubaitv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStc0oHX6HJJR-DwRqlootEH-CyzMCcJbRMdA&usqp=CAU" group-title="ALL TV", NOOR DUBAITV
 https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/playlist.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="peacetv" tvg-logo="" group-title="ALL TV", PEACE TV
+#EXTINF:-1 tvg-ID="peacetv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsGzZDVi4JW97XQuRPmAQcvNjNF_d4kC43jw&usqp=CAU" group-title="ALL TV", PEACE TV
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="pmchd" tvg-logo="" group-title="ALL TV", PMC HD
+#EXTINF:-1 tvg-ID="pmchd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjRXeqAVMp3l1njz3p33zy9uTo5hUKSzCN2w&usqp=CAU" group-title="ALL TV", PMC HD
 https://hls.pmchd.live/hls/stream.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
