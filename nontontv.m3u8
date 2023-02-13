@@ -1669,32 +1669,32 @@ http://93.155.227.38:555/m3u8/diemasport3hd.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="adtv" tvg-logo="" group-title="ALL TV", ADTV
+#EXTINF:-1 tvg-ID="adtv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAIf5jniExkyldeNwzcVW_y-wSgVicN4f4SQ&usqp=CAU" group-title="ALL TV", ADTV
 https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/playlist.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="emarat" tvg-logo="" group-title="ALL TV", EMARAT
+#EXTINF:-1 tvg-ID="emarat" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1obT8vBSTTFf6zSuuy08EWF8OwxMoDDtAvg&usqp=CAU" group-title="ALL TV", EMARAT
 https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/playlist.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="adsport1" tvg-logo="" group-title="ALL TV", AD SPORT 1
+#EXTINF:-1 tvg-ID="adsport1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQggN96j0EcVI73Zy-sPkVFFEKSRnlC6xjjDA&usqp=CAU" group-title="ALL TV", AD SPORT 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="adsport2" tvg-logo="" group-title="ALL TV", AD SPORT 2
+#EXTINF:-1 tvg-ID="adsport2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn5v_NlmVWCuhhniPzWoNWClzPreX7ubaN3g&usqp=CAU" group-title="ALL TV", AD SPORT 2
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="al arabia" tvg-logo="" group-title="ALL TV", AL ARABIYA
+#EXTINF:-1 tvg-ID="al arabia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVyouzAATXOfSKdlff8H4twbz8JGUPlspo8w&usqp=CAU" group-title="ALL TV", AL ARABIYA
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="al hadath" tvg-logo="" group-title="ALL TV", AL HADATH 1
+#EXTINF:-1 tvg-ID="al hadath" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWPlOGbYrKmIl98YpR8NaqwDqCR4McNZayhQ&usqp=CAU" group-title="ALL TV", AL HADATH 1
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
