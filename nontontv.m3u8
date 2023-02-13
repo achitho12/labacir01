@@ -1789,22 +1789,22 @@ https://hls.pmchd.live/hls/stream.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="samadubaiht" tvg-logo="" group-title="ALL TV", SAMA DUBAI HT
+#EXTINF:-1 tvg-ID="samaadubaiht" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF74I_HIcJjns0g0IK7GhjpVQ2lRzPwXPucg&usqp=CAU" group-title="ALL TV", SAMAA DUBAI HT
 https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/playlist.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="smc2tv" tvg-logo="" group-title="ALL TV", SMC 2 TV
+#EXTINF:-1 tvg-ID="shajrahtv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRf8UdUzeblgOLgBRKPa7ggeMu9c6Yx8PDVg&usqp=CAU" group-title="ALL TV", SHAJRAH TV
 https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="smc4tv" tvg-logo="" group-title="ALL TV", SMC 4 TV
+#EXTINF:-1 tvg-ID="shajrahsport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRf8UdUzeblgOLgBRKPa7ggeMu9c6Yx8PDVg&usqp=CAU" group-title="ALL TV", SHAJRAH SPORT TV
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="smc1tv" tvg-logo="" group-title="ALL TV", SMC 1 TV
+#EXTINF:-1 tvg-ID="smc1tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRf8UdUzeblgOLgBRKPa7ggeMu9c6Yx8PDVg&usqp=CAU" group-title="ALL TV", SHAJRAH SPORT 1 TV
 https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
