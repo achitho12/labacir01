@@ -1724,37 +1724,37 @@ http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="dubairacing" tvg-logo="" group-title="ALL TV", DUBAI RACING
+#EXTINF:-1 tvg-ID="dubairacing2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR024qxo5bQ2x3xapVNP4u9yeydVSMVRWDcmQ&usqp=CAU" group-title="ALL TV", DUBAI RACING 2
 https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="dubaimubasher" tvg-logo="" group-title="ALL TV", DUBAI MUBASHER
+#EXTINF:-1 tvg-ID="dubairacing3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb5YjrgRjEUMk6S9xwRX1SQJNbC8zDAlVYVw&usqp=CAU" group-title="ALL TV", DUBAI RACING 3
 https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="dubaisport" tvg-logo="" group-title="ALL TV", DUBAI SPORT 1
+#EXTINF:-1 tvg-ID="dubaispor1t" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXZe-a2VbL0qqUN1GJqls-0v36EOvXU1uwoA&usqp=CAU" group-title="ALL TV", DUBAI SPORT 1
 https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="dubaisporthd" tvg-logo="" group-title="ALL TV", DUBAI SPORT HD
+#EXTINF:-1 tvg-ID="dubaisport2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXZe-a2VbL0qqUN1GJqls-0v36EOvXU1uwoA&usqp=CAU" group-title="ALL TV", DUBAI SPORT 2
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="dubaisporthd5" tvg-logo="" group-title="ALL TV", DUBAI SPORT 5 HD
+#EXTINF:-1 tvg-ID="dubaisport3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXZe-a2VbL0qqUN1GJqls-0v36EOvXU1uwoA&usqp=CAU" group-title="ALL TV", DUBAI SPORT 3
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="dubaitvht" tvg-logo="" group-title="ALL TV", DUBAI TVHT
+#EXTINF:-1 tvg-ID="dubaitv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_vVxPYC9nUDGlaDl_9a1Vd8WILNb3guf7cQ&usqp=CAU" group-title="ALL TV", DUBAI TV
 https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="dubaitv" tvg-logo="" group-title="ALL TV", DUBAI TV
+#EXTINF:-1 tvg-ID="dubaitv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_vVxPYC9nUDGlaDl_9a1Vd8WILNb3guf7cQ&usqp=CAU" group-title="ALL TV", DUBAI TV
 http://210.210.155.37/uq2663/h/h152/index2.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
