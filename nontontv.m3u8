@@ -1809,57 +1809,57 @@ https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="skynewsarabia" tvg-logo="" group-title="ALL TV", SKY NEWS ARABIA
+#EXTINF:-1 tvg-ID="skynewsarabia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRImlD7ORtOkJrlULGbJ3Q8XwqMx9Jy1sfkuA&usqp=CAU" group-title="ALL TV", SKY NEWS ARABIA
 https://stream.skynewsarabia.com/hls/sna.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="skynewsarabia2" tvg-logo="" group-title="ALL TV", SKY NEWS ARABIA 2
+#EXTINF:-1 tvg-ID="skynewsarabia2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRImlD7ORtOkJrlULGbJ3Q8XwqMx9Jy1sfkuA&usqp=CAU" group-title="ALL TV", SKY NEWS ARABIA 2
 https://stream.skynewsarabia.com/vertical/vertical.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="yastv" tvg-logo="" group-title="ALL TV", YASTV
+#EXTINF:-1 tvg-ID="yastv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwETksSrrYM7szCVlF5EAiCRoqkQc8wQb0aQ&usqp=CAU" group-title="ALL TV", YASTV
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="atnnat" tvg-logo="" group-title="ALL TV", ATNNAT
+#EXTINF:-1 tvg-ID="atnnat" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOAuLCGe_gfT2j-r04XkFu2bBWWXaamF4M0Q&usqp=CAU" group-title="ALL TV", ATNNAT
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="atnus" tvg-logo="" group-title="ALL TV", ATNUS
+#EXTINF:-1 tvg-ID="atnus" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOAuLCGe_gfT2j-r04XkFu2bBWWXaamF4M0Q&usqp=CAU" group-title="ALL TV", ATNUS
 https://d2g7v53450s2i2.cloudfront.net/ATNUS/myStream/playlist.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="atnnews" tvg-logo="" group-title="ALL TV", ATNNEWS
+#EXTINF:-1 tvg-ID="atnnews" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOAuLCGe_gfT2j-r04XkFu2bBWWXaamF4M0Q&usqp=CAU" group-title="ALL TV", ATNNEWS
 https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="tolomusic" tvg-logo="" group-title="ALL TV", TOLO MUSIC
+#EXTINF:-1 tvg-ID="tolomusic" tvg-logo="https://iran-tv.live/uploads/tv_image/tolo-music.png" group-title="ALL TV", TOLO MUSIC
 https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolomusic.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="fazatv" tvg-logo="" group-title="ALL TV", FAZA TV
+#EXTINF:-1 tvg-ID="fazatv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfrOcKF2MuxDbAu9c4aV3OfUNXutM_EeT6lQ&usqp=CAU" group-title="ALL TV", FAZA TV
 https://raw.githubusercontent.com/LaneSh4d0w/IPTV_Exception/master/channels/af/fazatv.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="tolonews" tvg-logo="" group-title="ALL TV", TOLO NEWS
+#EXTINF:-1 tvg-ID="tolonews" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3BGS_fxJ2wnXt-Tp-gpszB7cbsYK2ezsSAA&usqp=CAU" group-title="ALL TV", TOLO NEWS
 https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolonews.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="tolotv" tvg-logo="" group-title="ALL TV", TOLO TV
+#EXTINF:-1 tvg-ID="eglb" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT46fcf2w9hJZstAtEnjZXUWVTFo-WwFlOEpw&usqp=CAU" group-title="ALL TV", EGLB
 https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolotv.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="atnint" tvg-logo="" group-title="ALL TV", ATN INT
+#EXTINF:-1 tvg-ID="atnint" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/23/dd/1c/23dd1c26-1cc0-de7f-7da8-f794d76c3c29/contsched.cquxiqwy.lsr/1200x630bb.png" group-title="ALL TV", ATN INT
 https://d10rltuy0iweup.cloudfront.net/ATNINT/myStream/playlist.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
