@@ -1864,32 +1864,32 @@ https://d10rltuy0iweup.cloudfront.net/ATNINT/myStream/playlist.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="ptv" tvg-logo="" group-title="ALL TV", PTV
+#EXTINF:-1 tvg-ID="ptv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0yDS-WhQLRshpC0Cqb9G30Rhg2dRyE_SjZQ&usqp=CAU" group-title="ALL TV", PTV
 http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="albuk" tvg-logo="" group-title="ALL TV", ALBUK
+#EXTINF:-1 tvg-ID="albuk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyatZ2R0zZm2_7O-nUhX-6IzsqKkcpjeVBbg&usqp=CAU" group-title="ALL TV", ALBUK
 http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="alpo" tvg-logo="" group-title="ALL TV", ALPO
+#EXTINF:-1 tvg-ID="alpo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiGACXWTk2HsD0Qf-vlcyqqY1e9vlxB8wRvQ&usqp=CAU" group-title="ALL TV", ALPO
 https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="news24" tvg-logo="" group-title="ALL TV", NEWS24
+#EXTINF:-1 tvg-ID="news24" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtOkar_01lVByqJXy7jl6FMNzq47dUqTD-Kg&usqp=CAU" group-title="ALL TV", NEWS24
 http://tv.balkanweb.com/news24/livestream/playlist.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="news24hd" tvg-logo="" group-title="ALL TV", NEWS24 HD
+#EXTINF:-1 tvg-ID="news24hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtOkar_01lVByqJXy7jl6FMNzq47dUqTD-Kg&usqp=CAU" group-title="ALL TV", NEWS24 HD
 http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="reporttv" tvg-logo="" group-title="ALL TV", REPORT TV
+#EXTINF:-1 tvg-ID="reporttv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1Mv2YWECh9cLNGpx2WaK0T4985eS666zkwQ&usqp=CAU" group-title="ALL TV", REPORT TV
 https://deb10stream.duckdns.org/hls/stream.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
