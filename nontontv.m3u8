@@ -31,7 +31,7 @@ https://anevia114.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="rcti" tvg-logo="https://giphy.com/stickers/RCTI-television-logo-rcti-jTWBG93dhyfxHPV6CY" group-title="ALL TV",RCTI
+#EXTINF:-1 tvg-ID="rcti" tvg-logo="https://media2.giphy.com/media/jTWBG93dhyfxHPV6CY/giphy.gif?cid=6c09b9522be3e15261e647249262f2c16ec23eee68a196a9&rid=giphy.gif&ct=s" group-title="ALL TV",RCTI
 https://anevi-live-channel-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
