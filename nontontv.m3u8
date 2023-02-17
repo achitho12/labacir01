@@ -1894,182 +1894,182 @@ https://deb10stream.duckdns.org/hls/stream.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="syribluehd" tvg-logo="" group-title="ALL TV", SRY BLUE HD
+#EXTINF:-1 tvg-ID="syribluehd" tvg-logo="https://cdn.wapka.org/008vy1/c749d759e90bfd371bbd4e2302615a4b/online_logo8.gif" group-title="ALL TV", SRY BLUE HD
 http://live.syri.tv:6969/live/syriblue/hd/23.ts
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="7tv" tvg-logo="" group-title="ALL TV", 7TV
+#EXTINF:-1 tvg-ID="7tv" tvg-logo="https://cdn.wapka.org/008vy1/c749d759e90bfd371bbd4e2302615a4b/online_logo8.gif" group-title="ALL TV", 7TV
 http://media.az-mediaserver.com:1935/7064/7064/playlist.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="7tvhd" tvg-logo="" group-title="ALL TV", 7TV HD
+#EXTINF:-1 tvg-ID="7tvhd" tvg-logo="https://cdn.wapka.org/008vy1/c749d759e90bfd371bbd4e2302615a4b/online_logo8.gif" group-title="ALL TV", 7TV HD
 https://5d00db0e0fcd5.streamlock.net/7064/7064/playlist.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="tvopoja" tvg-logo="" group-title="ALL TV", TV OPOJA
+#EXTINF:-1 tvg-ID="tvopoja" tvg-logo="https://cdn.wapka.org/008vy1/c749d759e90bfd371bbd4e2302615a4b/online_logo8.gif" group-title="ALL TV", TV OPOJA
 http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="abcnews" tvg-logo="" group-title="ALL TV", ABC NEWS
+#EXTINF:-1 tvg-ID="abcnews" tvg-logo="https://cdn.wapka.org/008vy1/c749d759e90bfd371bbd4e2302615a4b/online_logo8.gif" group-title="ALL TV", ABC NEWS
 https://tv2.abcnews.al/live/abcnews/playlist.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="albdreams" tvg-logo="" group-title="ALL TV", ALBDREAMS
+#EXTINF:-1 tvg-ID="albdreams" tvg-logo="https://cdn.wapka.org/008vy1/c749d759e90bfd371bbd4e2302615a4b/online_logo8.gif" group-title="ALL TV", ALBDREAMS
 http://live.albavision.net:1123/live/albdreams.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="albkanalemusic" tvg-logo="" group-title="ALL TV", ALBKANALE MUSIC
+#EXTINF:-1 tvg-ID="albkanalemusic" tvg-logo="https://cdn.wapka.org/008vy1/c749d759e90bfd371bbd4e2302615a4b/online_logo8.gif" group-title="ALL TV", ALBKANALE MUSIC
 https://albportal.net/albkanalemusic.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="atv" tvg-logo="" group-title="ALL TV", ATV
+#EXTINF:-1 tvg-ID="atv" tvg-logo="https://cdn.wapka.org/008vy1/c749d759e90bfd371bbd4e2302615a4b/online_logo8.gif" group-title="ALL TV", ATV
 http://46.99.146.236/0.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="rtvarberia4" tvg-logo="" group-title="ALL TV", RTV ARBERIA 4
+#EXTINF:-1 tvg-ID="rtvarberia4" tvg-logo="https://cdn.wapka.org/008vy1/c749d759e90bfd371bbd4e2302615a4b/online_logo8.gif" group-title="ALL TV", RTV ARBERIA 4
 http://rtvarberia4.flashmediacast.com:1935/RtvArberia4/livestream/playlist.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="topestrada" tvg-logo="" group-title="ALL TV", TOPE STRADA
+#EXTINF:-1 tvg-ID="topestrada" tvg-logo="https://cdn.wapka.org/008vy1/c749d759e90bfd371bbd4e2302615a4b/online_logo8.gif" group-title="ALL TV", TOPE STRADA
 http://live.topestrada.com/live/topestrada/playlist.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="classichd" tvg-logo="" group-title="ALL TV", CLASSIC HD
+#EXTINF:-1 tvg-ID="classichd" tvg-logo="https://cdn.wapka.org/008vy1/c749d759e90bfd371bbd4e2302615a4b/online_logo8.gif" group-title="ALL TV", CLASSIC HD
 https://mfe01.tring.al/delta/106/out/u/1114_3.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="collectionhd" tvg-logo="" group-title="ALL TV", COLLECTION HD
+#EXTINF:-1 tvg-ID="collectionhd" tvg-logo="https://cdn.wapka.org/008vy1/c749d759e90bfd371bbd4e2302615a4b/online_logo8.gif" group-title="ALL TV", COLLECTION HD
 https://mfe01.tring.al/delta/106/out/u/1117_3.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="fantasy" tvg-logo="" group-title="ALL TV", FANTASY
+#EXTINF:-1 tvg-ID="fantasy" tvg-logo="https://cdn.wapka.org/008vy1/c749d759e90bfd371bbd4e2302615a4b/online_logo8.gif" group-title="ALL TV", FANTASY
 https://mfe01.tring.al/delta/106/out/u/1115_3.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="fantasyhd" tvg-logo="" group-title="ALL TV", FANTASY HD
+#EXTINF:-1 tvg-ID="fantasyhd" tvg-logo="https://cdn.wapka.org/008vy1/c749d759e90bfd371bbd4e2302615a4b/online_logo8.gif" group-title="ALL TV", FANTASY HD
 https://mfe01.tring.al/delta/106/out/u/1116_3.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="plus" tvg-logo="" group-title="ALL TV", PLUS
+#EXTINF:-1 tvg-ID="plus" tvg-logo="https://cdn.wapka.org/008vy1/c749d759e90bfd371bbd4e2302615a4b/online_logo8.gif" group-title="ALL TV", PLUS
 https://mfe01.tring.al/delta/105/out/u/618_13.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="plushd" tvg-logo="" group-title="ALL TV", PLUS HD
+#EXTINF:-1 tvg-ID="plushd" tvg-logo="https://cdn.wapka.org/008vy1/c749d759e90bfd371bbd4e2302615a4b/online_logo8.gif" group-title="ALL TV", PLUS HD
 https://mfe01.tring.al/delta/105/out/u/619_13.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="7pa5" tvg-logo="" group-title="ALL TV", 7PA5
+#EXTINF:-1 tvg-ID="7pa5" tvg-logo="https://cdn.wapka.org/008vy1/c749d759e90bfd371bbd4e2302615a4b/online_logo8.gif" group-title="ALL TV", 7PA5
 https://mfe01.tring.al/delta/105/out/u/621_13.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="plushd2" tvg-logo="" group-title="ALL TV", PLUS HD 2
+#EXTINF:-1 tvg-ID="plushd2" tvg-logo="https://cdn.wapka.org/008vy1/c749d759e90bfd371bbd4e2302615a4b/online_logo8.gif" group-title="ALL TV", PLUS HD 2
 https://mfe01.tring.al/delta/105/out/u/622_13.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="zjarahd" tvg-logo="" group-title="ALL TV", ZJARA HD
+#EXTINF:-1 tvg-ID="zjarahd" tvg-logo="https://cdn.wapka.org/008vy1/c749d759e90bfd371bbd4e2302615a4b/online_logo8.gif" group-title="ALL TV", ZJARA HD
 https://mfe01.tring.al/delta/106/out/u/284_1.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="zjarahd1" tvg-logo="" group-title="ALL TV", ZJARA HD 1
+#EXTINF:-1 tvg-ID="zjarahd1" tvg-logo="https://cdn.wapka.org/008vy1/c749d759e90bfd371bbd4e2302615a4b/online_logo8.gif" group-title="ALL TV", ZJARA HD 1
 https://mfe01.tring.al/delta/106/out/u/285_1.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="buble" tvg-logo="" group-title="ALL TV", BUBLE
+#EXTINF:-1 tvg-ID="buble" tvg-logo="https://cdn.wapka.org/008vy1/c749d759e90bfd371bbd4e2302615a4b/online_logo8.gif" group-title="ALL TV", BUBLE
 https://mfe01.tring.al/delta/106/out/u/1118_3.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="teve1" tvg-logo="" group-title="ALL TV", TEVE 1
+#EXTINF:-1 tvg-ID="teve1" tvg-logo="https://cdn.wapka.org/008vy1/c749d759e90bfd371bbd4e2302615a4b/online_logo8.gif" group-title="ALL TV", TEVE 1
 https://mfe01.tring.al/delta/105/out/u/694_1.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="cinear" tvg-logo="" group-title="ALL TV", CINEAR
+#EXTINF:-1 tvg-ID="cinear" tvg-logo="https://cdn.wapka.org/008vy1/c749d759e90bfd371bbd4e2302615a4b/online_logo8.gif" group-title="ALL TV", CINEAR
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="tectv" tvg-logo="" group-title="ALL TV", TECTV
+#EXTINF:-1 tvg-ID="tectv" tvg-logo="https://cdn.wapka.org/008vy1/c749d759e90bfd371bbd4e2302615a4b/online_logo8.gif" group-title="ALL TV", TECTV
 https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="deportv" tvg-logo="" group-title="ALL TV", DEPORTV
+#EXTINF:-1 tvg-ID="deportv" tvg-logo="https://cdn.wapka.org/008vy1/c749d759e90bfd371bbd4e2302615a4b/online_logo8.gif" group-title="ALL TV", DEPORTV
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="channel09" tvg-logo="" group-title="ALL TV", CHANNEL 09
+#EXTINF:-1 tvg-ID="channel09" tvg-logo="https://cdn.wapka.org/008vy1/c749d759e90bfd371bbd4e2302615a4b/online_logo8.gif" group-title="ALL TV", CHANNEL 09
 https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="oe24" tvg-logo="" group-title="ALL TV", OE24
+#EXTINF:-1 tvg-ID="oe24" tvg-logo="https://cdn.wapka.org/008vy1/c749d759e90bfd371bbd4e2302615a4b/online_logo8.gif" group-title="ALL TV", OE24
 https://varoe24live.sf.apa.at/oe24-live1/oe24.smil/chunklist_b1900000.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="w24" tvg-logo="" group-title="ALL TV", W24
+#EXTINF:-1 tvg-ID="w24" tvg-logo="https://cdn.wapka.org/008vy1/c749d759e90bfd371bbd4e2302615a4b/online_logo8.gif" group-title="ALL TV", W24
 https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="rtvooe" tvg-logo="" group-title="ALL TV", RTV OOE
+#EXTINF:-1 tvg-ID="rtvooe" tvg-logo="https://cdn.wapka.org/008vy1/c749d759e90bfd371bbd4e2302615a4b/online_logo8.gif" group-title="ALL TV", RTV OOE
 http://iptv.rtv-ooe.at/stream.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="w24at" tvg-logo="" group-title="ALL TV", W24  AT
+#EXTINF:-1 tvg-ID="w24at" tvg-logo="https://cdn.wapka.org/008vy1/c749d759e90bfd371bbd4e2302615a4b/online_logo8.gif" group-title="ALL TV", W24  AT
 https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="hz1" tvg-logo="" group-title="ALL TV", HZ 1
+#EXTINF:-1 tvg-ID="hz1" tvg-logo="https://cdn.wapka.org/008vy1/c749d759e90bfd371bbd4e2302615a4b/online_logo8.gif" group-title="ALL TV", HZ 1
 http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="sr1" tvg-logo="" group-title="ALL TV", SR 1
+#EXTINF:-1 tvg-ID="sr1" tvg-logo="https://cdn.wapka.org/008vy1/c749d759e90bfd371bbd4e2302615a4b/online_logo8.gif" group-title="ALL TV", SR 1
 https://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="hithd" tvg-logo="" group-title="ALL TV", HIT HD
+#EXTINF:-1 tvg-ID="hithd" tvg-logo="https://cdn.wapka.org/008vy1/c749d759e90bfd371bbd4e2302615a4b/online_logo8.gif" group-title="ALL TV", HIT HD
 http://hithd.camsh.orsk.ru/hls/hithd.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="tvt" tvg-logo="" group-title="ALL TV", TVT
+#EXTINF:-1 tvg-ID="tvt" tvg-logo="https://cdn.wapka.org/008vy1/c749d759e90bfd371bbd4e2302615a4b/online_logo8.gif" group-title="ALL TV", TVT
 https://flu.vtv.by/tvt-non-by/tracks-v1a1/mono.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="dgrau" tvg-logo="" group-title="ALL TV", DGRAU
+#EXTINF:-1 tvg-ID="dgrau" tvg-logo="https://cdn.wapka.org/008vy1/c749d759e90bfd371bbd4e2302615a4b/online_logo8.gif" group-title="ALL TV", DGRAU
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="bemtv" tvg-logo="" group-title="ALL TV", BEMTV
+#EXTINF:-1 tvg-ID="bemtv" tvg-logo="https://cdn.wapka.org/008vy1/c749d759e90bfd371bbd4e2302615a4b/online_logo8.gif" group-title="ALL TV", BEMTV
 http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
