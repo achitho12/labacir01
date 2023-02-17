@@ -26,17 +26,17 @@ http://mpwtv.my.id/vidioye/204-sctv.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="mnctv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/Mnctv_gif.gif/revision/latest?cb=20190216030226" group-title="ALL TV",MNCTV
+#EXTINF:-1 tvg-ID="mnctv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHTz44aEpN64TV_kaU1fbMMxhwASeA21LMoA&usqp=CAU" group-title="ALL TV",MNCTV
 https://anevia114.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="rcti" tvg-logo="https://media2.giphy.com/media/jTWBG93dhyfxHPV6CY/giphy.gif?cid=6c09b9522be3e15261e647249262f2c16ec23eee68a196a9&rid=giphy.gif&ct=s" group-title="ALL TV",RCTI
+#EXTINF:-1 tvg-ID="rcti" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrKvpASlmCEt2NVKFErdPTR1kx9C4qfUVIjA&usqp=CAU" group-title="ALL TV",RCTI
 https://anevi-live-channel-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="gtv" tvg-logo="https://media4.giphy.com/media/YpTQxxCdsIlofwJmbf/giphy.gif?cid=6c09b952f7a26d92648eb0d9b7d814792b57454b5698cbdd&rid=giphy.gif&ct=s" group-title="ALL TV",GTV
+#EXTINF:-1 tvg-ID="gtv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQWuQY8T_Kcd46cTlkW6xMHi2MDyrOS9FcSA&usqp=CAU" group-title="ALL TV",GTV
 https://anevi-live-channel-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
