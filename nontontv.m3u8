@@ -1322,16 +1322,6 @@ http://warkop.cf/80/bein/18.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="unifysport1" tvg-logo="https://s.id/1jhpc" group-title="ALL TV",UNIFY SPORT1
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="unifysport2" tvg-logo="https://s.id/1jhpf" group-title="ALL TV",UNIFY SPORT2
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="beinsportspremium1" tvg-logo="https://s.id/1d1CR" group-title="ALL TV",BEIN SPORT PREMIUM 1
 http://warkop.cf/80/bein/08.m3u8
 #EXTM3U
@@ -1409,6 +1399,16 @@ https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/in
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="foxsport3" tvg-logo="https://s.id/1jhpJ" group-title="ALL TV",FOX SPORT 3
 https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="unifysport1" tvg-logo="https://s.id/1jhpc" group-title="ALL TV",UNIFY SPORT1
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="unifysport2" tvg-logo="https://s.id/1jhpf" group-title="ALL TV",UNIFY SPORT2
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
@@ -1587,7 +1587,7 @@ http://iptvworld.nl:2095/mm5z86zW/qgSXYnBD/112097
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="sschd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzbv7IPJ9S7pCLASaulxvkxSx8FCrlIsCVQA&usqp=CAU" group-title="ALL TV",SSC HD
+#EXTINF:-1 tvg-ID="ssc4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzbv7IPJ9S7pCLASaulxvkxSx8FCrlIsCVQA&usqp=CAU" group-title="ALL TV",SSC 4 HD
 http://iptvworld.nl:2095/mm5z86zW/qgSXYnBD/112098
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1722,6 +1722,11 @@ http://iptvtree.net:8080/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/771
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="tsn5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUlXMJ8DnN1N0unQqvE6KXirbSryTxHQqVGg&usqp=CAU" group-title="ALL TV",TSN 5
+http://iptvtree.net:8080/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/774
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="premier1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjIFfXzV9svJ2tKU5WmmGMheiLCdzEQX3o7w&usqp=CAU" group-title="ALL TV",PREMIER SPORT 1
 http://superbits.tv:2095/d4Je5xwD/yadTXB63/11364
 #EXTM3U
@@ -1747,8 +1752,8 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="citramuslim" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyJY6AjNn5LARp33Xn0aJfZJ9rUWmICRBWRQ&usqp=CAU" group-title="ALL TV",CITRA MUSLIM
-https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/6678.m3u8
+#EXTINF:-1 tvg-ID="cbssport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8zyrZwuS1yEvRBHqASRu4kN4PzbxTG4pOaA&usqp=CAU" group-title="ALL TV",CBS SPORT
+http://superbits.tv:2095/d4Je5xwD/yadTXB63/8245
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
