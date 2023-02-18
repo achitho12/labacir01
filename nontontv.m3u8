@@ -770,66 +770,6 @@ https://siloh.pluto.tv/lilo/production/Nick/03/master.m3u8
 #EXTINF:-1 tvg-ID="pbskids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPghRJVjJgRQEFhXFkO4Cve-EX-5xKg0Ae5g&usqp=CAU" group-title="ALL TV",PBS KIDS
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 #EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="cbssport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR89WuxDzT64hIzXyjjyCW1M_1hjHQbf4mgXg&usqp=CAU" group-title="ALL TV",CBS SPORT
-http://superbits.tv:2095/d4Je5xwD/yadTXB63/8245
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="sport2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJwbSR2gy6FK5GDFgJ94WBGTHRbh25Y3RoDA&usqp=CAU" group-title="ALL TV",SPORT 2
-http://superbits.tv:2095/d4Je5xwD/yadTXB63/39090
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="tv3dk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwPoPaKt9djSs4IzkSO8epA4IKGktJWl24-w&usqp=CAU" group-title="ALL TV",TV3 DK
-http://superbits.tv:2095/d4Je5xwD/yadTXB63/35184
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="qtringsport1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWmjVSicnjsMqnM02YYm9S3prNPDeLvzzdqw&usqp=CAU" group-title="ALL TV",Q TRING SPORT 1
-http://superbits.tv:2095/d4Je5xwD/yadTXB63/15469
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="fs1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFL2_ZWF0QtoGSaeLgreQmlM5N1lf7KLBB5A&usqp=CAU" group-title="ALL TV",FS 1
-http://iptvworld.nl:2095/mm5z86zW/qgSXYnBD/8254
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="fs2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/800px-FS2_logo_2015.svg.png" group-title="ALL TV",FS 2
-http://superbits.tv:2095/d4Je5xwD/yadTXB63/8255
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="nbcsport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd1o0izOk_EVIkn0hEVUoZRu7HnbCAF3uPzA&usqp=CAU" group-title="ALL TV",NBC SPORT
-http://superbits.tv:2095/d4Je5xwD/yadTXB63/131803
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="optus1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXNm5qgLdEuI1xFODdp9dr760fWaA-pbspzw&usqp=CAU" group-title="ALL TV",OPTUS 1
-http://superbits.tv:2095/d4Je5xwD/yadTXB63/350480
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="optus2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXNm5qgLdEuI1xFODdp9dr760fWaA-pbspzw&usqp=CAU" group-title="ALL TV",OPTUS 2
-http://iptvworld.nl:2095/mm5z86zW/qgSXYnBD/348097
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="optus3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXNm5qgLdEuI1xFODdp9dr760fWaA-pbspzw&usqp=CAU" group-title="ALL TV",OPTUS 3
-http://iptvworld.nl:2095/mm5z86zW/qgSXYnBD/348098
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="optus4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXNm5qgLdEuI1xFODdp9dr760fWaA-pbspzw&usqp=CAU" group-title="ALL TV",OPTUS 4
-http://apex-media.xyz:8080/adamryan762@gmail.com/e3QZWRs/1553095
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="optus5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXNm5qgLdEuI1xFODdp9dr760fWaA-pbspzw&usqp=CAU" group-title="ALL TV",OPTUS 5
-http://apex-media.xyz:8080/adamryan762@gmail.com/e3QZWRs/1553094
-#EXTM3U
 #EXTINF:-1 group-title="ALL TV" tvg-logo="https://s.id/1d0Iu",TVRI ACEH
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIAceh)/index.m3u8
 #EXTM3U
@@ -1024,6 +964,66 @@ http://122.248.43.138:1935/ch25/myStream/live.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="animax" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcgmrAKDj5BWWHWS5odeSqwnBqYDGyZCmcVA&usqp=CAU" group-title="ALL TV",ANIMAX
 http://iptv12k.com:35461/86599050501/645678/13466
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="xsport" tvg-logo="https://xsport.ua/upload/resize_cache/iblock/611/400_215_2/611d3a6c6dd1256dbfe2533d480efdbd.jpg" group-title="ALL TV",X SPORT
+http://iptv.prosto.tv:7000/ch109/video.m3u8
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="sport2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJwbSR2gy6FK5GDFgJ94WBGTHRbh25Y3RoDA&usqp=CAU" group-title="ALL TV",SPORT 2
+http://superbits.tv:2095/d4Je5xwD/yadTXB63/39090
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="tv3dk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwPoPaKt9djSs4IzkSO8epA4IKGktJWl24-w&usqp=CAU" group-title="ALL TV",TV3 DK
+http://superbits.tv:2095/d4Je5xwD/yadTXB63/35184
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="qtringsport1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWmjVSicnjsMqnM02YYm9S3prNPDeLvzzdqw&usqp=CAU" group-title="ALL TV",Q TRING SPORT 1
+http://superbits.tv:2095/d4Je5xwD/yadTXB63/15469
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="fs1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFL2_ZWF0QtoGSaeLgreQmlM5N1lf7KLBB5A&usqp=CAU" group-title="ALL TV",FS 1
+http://iptvworld.nl:2095/mm5z86zW/qgSXYnBD/8254
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="fs2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/800px-FS2_logo_2015.svg.png" group-title="ALL TV",FS 2
+http://superbits.tv:2095/d4Je5xwD/yadTXB63/8255
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="nbcsport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd1o0izOk_EVIkn0hEVUoZRu7HnbCAF3uPzA&usqp=CAU" group-title="ALL TV",NBC SPORT
+http://superbits.tv:2095/d4Je5xwD/yadTXB63/131803
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="optus1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXNm5qgLdEuI1xFODdp9dr760fWaA-pbspzw&usqp=CAU" group-title="ALL TV",OPTUS 1
+http://superbits.tv:2095/d4Je5xwD/yadTXB63/350480
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="optus2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXNm5qgLdEuI1xFODdp9dr760fWaA-pbspzw&usqp=CAU" group-title="ALL TV",OPTUS 2
+http://iptvworld.nl:2095/mm5z86zW/qgSXYnBD/348097
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="optus3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXNm5qgLdEuI1xFODdp9dr760fWaA-pbspzw&usqp=CAU" group-title="ALL TV",OPTUS 3
+http://iptvworld.nl:2095/mm5z86zW/qgSXYnBD/348098
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="optus4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXNm5qgLdEuI1xFODdp9dr760fWaA-pbspzw&usqp=CAU" group-title="ALL TV",OPTUS 4
+http://apex-media.xyz:8080/adamryan762@gmail.com/e3QZWRs/1553095
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="optus5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXNm5qgLdEuI1xFODdp9dr760fWaA-pbspzw&usqp=CAU" group-title="ALL TV",OPTUS 5
+http://apex-media.xyz:8080/adamryan762@gmail.com/e3QZWRs/1553094
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
