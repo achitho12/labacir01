@@ -1123,12 +1123,12 @@ http://comag.rip:8000/50738601689735/03751643107136/22320
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-id="rmc1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT-B2lIfYr34zOvbGjzrT1hP8n0O9BrZXnxg&usqp=CAU" group-title="ALL TV",RMC 1
-http://comag.rip:8000/live/50738601689735/03751643107136/89996.m3u8
+http://iptvworld.nl:2095/mm5z86zW/qgSXYnBD/27735
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-id="rmc2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT-B2lIfYr34zOvbGjzrT1hP8n0O9BrZXnxg&usqp=CAU" group-title="ALL TV",RMC 2
-http://comag.rip:8000/live/50738601689735/03751643107136/22280.m3u8
+http://iptvworld.nl:2095/mm5z86zW/qgSXYnBD/27734
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
@@ -1344,6 +1344,21 @@ http://warkop.cf/80/bein/09.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="beinsportspremium3" tvg-logo="https://s.id/1d1Dc" group-title="ALL TV",BEIN SPORT PREMIUM 3
 http://warkop.cf/80/bein/10.m3u8
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="beinsports1" tvg-logo="https://s.id/1d1Gl" group-title="ALL TV",BEIN SPORT 1
+http://iptvworld.nl:2095/mm5z86zW/qgSXYnBD/27738
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="beinsports2" tvg-logo="https://s.id/1d1GJ" group-title="ALL TV",BEIN SPORT 2
+http://iptvworld.nl:2095/mm5z86zW/qgSXYnBD/27737
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="beinsports3" tvg-logo="https://s.id/1d1HB" group-title="ALL TV",BEIN SPORT 3
+http://iptvworld.nl:2095/mm5z86zW/qgSXYnBD/27736
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
