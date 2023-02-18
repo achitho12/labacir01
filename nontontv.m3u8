@@ -2149,108 +2149,128 @@ http://golive.yn.lt/live/liga1/09.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="ligainggris" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB84vrmoqvnmvCTlRKWlZP2AcOayleRj0_wFl2VYQHUZQ7pLIHkW7r9Rc&s=10" group-title="LIGA INGGRIS",LIVE 1
+#EXTINF:-1 tvg-ID="ligainggris" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gif" group-title="LIGA INGGRIS",LIVE 1
 http://golive.yn.lt/live/epl/21.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="ligainggris" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB84vrmoqvnmvCTlRKWlZP2AcOayleRj0_wFl2VYQHUZQ7pLIHkW7r9Rc&s=10" group-title="LIGA INGGRIS",LIVE 2
+#EXTINF:-1 tvg-ID="ligainggris" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gif" group-title="LIGA INGGRIS",LIVE 2
 http://golive.yn.lt/live/epl/22.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="ligainggris" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB84vrmoqvnmvCTlRKWlZP2AcOayleRj0_wFl2VYQHUZQ7pLIHkW7r9Rc&s=10" group-title="LIGA INGGRIS",LIVE 3
+#EXTINF:-1 tvg-ID="ligainggris" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIGA INGGRIS",LIVE 3
 http://golive.yn.lt/live/epl/23.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="ligainggris" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB84vrmoqvnmvCTlRKWlZP2AcOayleRj0_wFl2VYQHUZQ7pLIHkW7r9Rc&s=10" group-title="LIGA INGGRIS",LIVE 4
+#EXTINF:-1 tvg-ID="ligainggris" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIGA INGGRIS",LIVE 4
 http://golive.yn.lt/live/epl/24.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="ligainggris" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB84vrmoqvnmvCTlRKWlZP2AcOayleRj0_wFl2VYQHUZQ7pLIHkW7r9Rc&s=10" group-title="LIGA INGGRIS",LIVE 5
+#EXTINF:-1 tvg-ID="ligainggris" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIGA INGGRIS",LIVE 5
 http://golive.yn.lt/live/epl/25.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="ligainggris" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB84vrmoqvnmvCTlRKWlZP2AcOayleRj0_wFl2VYQHUZQ7pLIHkW7r9Rc&s=10" group-title="LIGA INGGRIS",LIVE 6
+#EXTINF:-1 tvg-ID="ligainggris" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIGA INGGRIS",LIVE 6
 http://golive.yn.lt/live/epl/26.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="ligainggris" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB84vrmoqvnmvCTlRKWlZP2AcOayleRj0_wFl2VYQHUZQ7pLIHkW7r9Rc&s=10" group-title="LIGA INGGRIS",LIVE 7
+#EXTINF:-1 tvg-ID="ligainggris" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIGA INGGRIS",LIVE 7
 http://golive.yn.lt/live/epl/27.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="ligainggris" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB84vrmoqvnmvCTlRKWlZP2AcOayleRj0_wFl2VYQHUZQ7pLIHkW7r9Rc&s=10" group-title="LIGA INGGRIS",LIVE 8
+#EXTINF:-1 tvg-ID="ligainggris" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIGA INGGRIS",LIVE 8
 http://golive.yn.lt/live/epl/28.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="ligainggris" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB84vrmoqvnmvCTlRKWlZP2AcOayleRj0_wFl2VYQHUZQ7pLIHkW7r9Rc&s=10" group-title="LIGA INGGRIS",LIVE 9
+#EXTINF:-1 tvg-ID="ligainggris" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIGA INGGRIS",LIVE 9
 http://golive.yn.lt/live/epl/29.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="ligainggris" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB84vrmoqvnmvCTlRKWlZP2AcOayleRj0_wFl2VYQHUZQ7pLIHkW7r9Rc&s=10" group-title="LIGA INGGRIS",LIVE 10
+#EXTINF:-1 tvg-ID="ligainggris" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIGA INGGRIS",LIVE 10
 http://golive.yn.lt/live/epl/30.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="ligainggris" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB84vrmoqvnmvCTlRKWlZP2AcOayleRj0_wFl2VYQHUZQ7pLIHkW7r9Rc&s=10" group-title="LIGA INGGRIS",LIVE 11
+#EXTINF:-1 tvg-ID="ligainggris" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIGA INGGRIS",LIVE 11
 http://golive.yn.lt/live/epl/31.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="ligainggris" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB84vrmoqvnmvCTlRKWlZP2AcOayleRj0_wFl2VYQHUZQ7pLIHkW7r9Rc&s=10" group-title="LIGA INGGRIS",LIVE 12
+#EXTINF:-1 tvg-ID="ligainggris" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIGA INGGRIS",LIVE 12
 http://golive.yn.lt/live/epl/32.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="ligainggris" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB84vrmoqvnmvCTlRKWlZP2AcOayleRj0_wFl2VYQHUZQ7pLIHkW7r9Rc&s=10" group-title="LIGA INGGRIS",LIVE 13
+#EXTINF:-1 tvg-ID="ligainggris" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIGA INGGRIS",LIVE 13
 http://golive.yn.lt/live/epl/33.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="ligainggris" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB84vrmoqvnmvCTlRKWlZP2AcOayleRj0_wFl2VYQHUZQ7pLIHkW7r9Rc&s=10" group-title="LIGA INGGRIS",LIVE 14
+#EXTINF:-1 tvg-ID="ligainggris" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIGA INGGRIS",LIVE 14
 http://golive.yn.lt/live/epl/34.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="ligainggris" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB84vrmoqvnmvCTlRKWlZP2AcOayleRj0_wFl2VYQHUZQ7pLIHkW7r9Rc&s=10" group-title="LIGA INGGRIS",LIVE 15
+#EXTINF:-1 tvg-ID="ligainggris" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIGA INGGRIS",LIVE 15
 http://golive.yn.lt/live/epl/35.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="ligainggris" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB84vrmoqvnmvCTlRKWlZP2AcOayleRj0_wFl2VYQHUZQ7pLIHkW7r9Rc&s=10" group-title="LIGA INGGRIS",LIVE 16
+#EXTINF:-1 tvg-ID="ligainggris" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIGA INGGRIS",LIVE 16
 http://golive.yn.lt/live/epl/36.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="ligainggris" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB84vrmoqvnmvCTlRKWlZP2AcOayleRj0_wFl2VYQHUZQ7pLIHkW7r9Rc&s=10" group-title="LIGA INGGRIS",LIVE 17
+#EXTINF:-1 tvg-ID="ligainggris" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIGA INGGRIS",LIVE 17
 http://golive.yn.lt/live/epl/37.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="ligainggris" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB84vrmoqvnmvCTlRKWlZP2AcOayleRj0_wFl2VYQHUZQ7pLIHkW7r9Rc&s=10" group-title="LIGA INGGRIS",LIVE 18
+#EXTINF:-1 tvg-ID="ligainggris" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIGA INGGRIS",LIVE 18
 http://golive.yn.lt/live/epl/38.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="ligainggris" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB84vrmoqvnmvCTlRKWlZP2AcOayleRj0_wFl2VYQHUZQ7pLIHkW7r9Rc&s=10" group-title="LIGA INGGRIS",LIVE 19
+#EXTINF:-1 tvg-ID="ligainggris" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIGA INGGRIS",LIVE 19
 http://golive.yn.lt/live/epl/39.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="ligainggris" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB84vrmoqvnmvCTlRKWlZP2AcOayleRj0_wFl2VYQHUZQ7pLIHkW7r9Rc&s=10" group-title="LIGA INGGRIS",LIVE 20
+#EXTINF:-1 tvg-ID="ligainggris" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIGA INGGRIS",LIVE 20
 http://golive.yn.lt/live/epl/40.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="ligainggris" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB84vrmoqvnmvCTlRKWlZP2AcOayleRj0_wFl2VYQHUZQ7pLIHkW7r9Rc&s=10" group-title="LIGA INGGRIS",LIVE 21
+#EXTINF:-1 tvg-ID="ligainggris" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIGA INGGRIS",LIVE 21
 http://golive.yn.lt/live/epl/41.m3u8
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="ligainggris" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIGA INGGRIS",LIVE 22
+http://golive.yn.lt/live/epl/42.m3u8
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="ligainggris" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIGA INGGRIS",LIVE 23
+http://golive.yn.lt/live/epl/43.m3u8
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="ligainggris" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIGA INGGRIS",LIVE 24
+http://golive.yn.lt/live/epl/44.m3u8
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="ligainggris" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIGA INGGRIS",LIVE 25
+http://golive.yn.lt/live/epl/45.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
