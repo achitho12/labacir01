@@ -967,7 +967,7 @@ http://iptv12k.com:35461/86599050501/645678/13466
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="xsport" tvg-logo="https://xsport.ua/upload/resize_cache/iblock/611/400_215_2/611d3a6c6dd1256dbfe2533d480efdbd.jpg" group-title="ALL TV",X SPORT
+#EXTINF:-1 tvg-ID="xsport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUNdZtLzUwCO6dA04PZh9MY0XuBR90_4bHlQ&usqp=CAU" group-title="ALL TV",X SPORT
 http://iptv.prosto.tv:7000/ch109/video.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
