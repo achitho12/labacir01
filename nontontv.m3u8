@@ -9,9 +9,8 @@ https://www.geocities.ws/omahtv/golive.m3u8
 #EXTINF:-1 tvg-ID="indosiar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9u-Bh9ChLA3LVbP69uCJnQZTST1Myf5nIvA&usqp=CAU" group-title="ALL TV",INDOSIAR
 http://210.210.155.37/qwr9ew/s/s04/index.m3u8
 #EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="indosiar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9u-Bh9ChLA3LVbP69uCJnQZTST1Myf5nIvA&usqp=CAU" group-title="ALL TV",INDOSIAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
