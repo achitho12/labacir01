@@ -3275,3 +3275,239 @@ https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/
 
 #https://s2.strea.ru/index.m3u8
 
+
+#EXTINF:-1 group-title="#1.LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/wsbk.jpg",WSBK (Server 3) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+https://newanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+
+#EXTINF:-1 group-title="#1.LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/wsbk.jpg",WSBK (Server 4) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8
+
+#EXTINF:-1 group-title="#1.LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/wsbk.jpg",WSBK (Server 5) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://cdn1motogpcom.akamaized.net/hls/sbkipf/0.m3u8?hdnts=st=1668127891~exp=1668156415~acl=/hls/sbkipf/*~id=a95baa8ed1667badda573d12f1b6948e~data=R2hDUTV4aEZJamJWRXBjODBwWWlVUSUzRCUzRA~hmac=09ea0e86c98edec58f2427bfeada29243a4eba81042bb084a2e2703ce15613a3&hdnts2=st=1668127891~exp=1668156415~acl=/hls/sbkipf/*~id=a95baa8ed1667badda573d12f1b6948e~data=R2hDUTV4aEZJamJWRXBjODBwWWlVUSUzRCUzRA~hmac=09ea0e86c98edec58f2427bfeada29243a4eba81042bb084a2e2703ce15613a3&start=0&&m=1
+
+#EXTINF:-1 group-title="#1.LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/f1.jpg",F1 LIVE (Server 1) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-016/stream.mpd
+
+#EXTINF:-1 group-title="#1.LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/f1.jpg",F1 LIVE (Server 2) 
+http://cdn.raino.xyz/hls/stream49.m3u8|Referer=http://bdnewszh.com/
+
+#EXTINF:-1 group-title="#1.LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/f1.jpg",F1 LIVE (Server 3) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://ward945.cdn7-bongakamai.xyz/live/adaptive_bong-7/playlist.m3u8|Referer=http://bongstreams.com/
+
+#EXTINF:-1 group-title="#1.LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/ufc.jpg",UFC (Server 1) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
+
+#EXTINF:-1 group-title="#1.LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/ufc.jpg",UFC (Server 2) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce17264b317db108f19cdc11aa1a9e66:a21188aee8fc5c56d016fcffcc6b2295
+https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten2_hd.smil/manifest.mpd
+
+#EXTINF:-1 group-title="#1.LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/ufc.jpg",UFC (Server 3) 
+https://got.vampirereapers.xyz:443/468kaytv299/HRH8SyJpK6Fb/128927
+
+#EXTINF:-1 group-title="#1.LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/ufc.jpg",UFC (Server 4) 
+http://mxu03.wanicelife.com:8880/12ms050012/41238625/2943
+
+#EXTINF:-1 group-title="#1.LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/ufc.jpg",UFC (Server 5) 
+https://webudi.openhd.lol/lb/premium77/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+
+
+=====12.LOKAL / NASIONAL=====
+
+#EXTINF:-1 group-title="2.LOKAL / NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png",Mentari TV
+https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/8237.m3u8
+
+#EXTINF:-1 group-title="2.LOKAL / NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png",Mentari TV 2
+https://geocities.ws/ariev7xx/mentari.m3u8
+
+#EXTINF:-1 group-title="2.LOKAL / NASIONAL" tvg-logo="https://thumbor.prod.vidiocdn.com/dQRcxVzWpqnq1ATYhtadyL4kcZw=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg",Moji TV 
+https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/206.m3u8
+
+#EXTINF:-1 group-title="2.LOKAL / NASIONAL" tvg-logo="https://thumbor.prod.vidiocdn.com/dQRcxVzWpqnq1ATYhtadyL4kcZw=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg",Moji TV 2
+http://210.210.155.37/qwr9ew/s/s41/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTINF:0 group-title="2.LOKAL / NASIONAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjMghZl1TDjGNEqTXdC6e2np-miNEya8a1gA&usqp=CAU",TVRI Nasional
+https://newanv-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
+
+#EXTINF:-1 group-title="2.LOKAL / NASIONAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjMghZl1TDjGNEqTXdC6e2np-miNEya8a1gA&usqp=CAU",TVRI Nasional 2
+#EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
+http://rr2.dens.tv/s/s11/index.m3u8
+
+#EXTINF:-1 group-title="2.LOKAL / NASIONAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjMghZl1TDjGNEqTXdC6e2np-miNEya8a1gA&usqp=CAU",TVRI Nasional 3
+#EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
+
+#EXTINF:-1 group-title="2.LOKAL / NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/1280px-Trans_TV_2013.svg.png",Trans TV Vision+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+https://anevi-live-channel-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
+
+#EXTINF:-1 group-title="2.LOKAL / NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/1280px-Trans_TV_2013.svg.png",Trans TV 2
+https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="2.LOKAL / NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/1280px-Trans_TV_2013.svg.png",Trans TV 3
+http://bit.ly/3XPxPoY
+
+#EXTINF:-1 group-title="2.LOKAL / NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/1280px-Trans_7_2013.svg.png",Trans7
+#EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="2.LOKAL / NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/1280px-Trans_7_2013.svg.png",Trans7 Vision+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+https://anevi-live-channel-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
+
+#EXTINF:-1 group-title="2.LOKAL / NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/1280px-Trans_7_2013.svg.png",Trans7 3
+https://bit.ly/Trans7yeyem3u8
+
+#EXTINF:-1 group-title="2.LOKAL / NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/1600px-MNCTV_logo_2015.svg.png",MNCTV Vision+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+https://anevi-live-channel-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+
+#EXTINF:-1 group-title="2.LOKAL / NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/1600px-MNCTV_logo_2015.svg.png",MNC TV Rcti+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://m-mnctv.rctiplus.id/mnctv-sdi-avc1_600000=5-mp4a_96000=1.m3u8|referer=https://m.rctiplus.com/
+
+#EXTINF:-1 group-title="2.LOKAL / NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/1280px-RCTI_logo_2015.svg.png",RCTI Vision+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+https://anevi-live-channel-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+
+#EXTINF:-1 group-title="2.LOKAL / NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/1280px-RCTI_logo_2015.svg.png",RCTI Rcti+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://rcti-linier.rctiplus.id/rcti-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1677100936-1d0435e04d3574f2c27092c9c1f32588-0-c4ab7df1c7021b9d1b18fec347b956e5|referer=https://m.rctiplus.com/
+
+#EXTINF:-1 group-title="2.LOKAL / NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1000px-GTV_%282017%29.svg.png",GTV Vision+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+https://newanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+
+#EXTINF:-1 group-title="2.LOKAL / NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1000px-GTV_%282017%29.svg.png",GTV Rcti+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://gtv-linier.rctiplus.id/gtv-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1677100716-3513b706007abf9bd01107b494734599-0-af0efe5402ec8fe50ea8d3144792c950|referer=https://m.rctiplus.com/
+
+#EXTINF:-1 group-title="2.LOKAL / NASIONAL" tvg-logo="https://i.imgur.com/sojdCIg.png",Inews TV Vision+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+https://anevi-live-channel-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+
+#EXTINF:-1 group-title="2.LOKAL / NASIONAL" tvg-logo="https://i.imgur.com/sojdCIg.png" ,iNews Rcti+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://inews-linier.rctiplus.id/inews-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1677101325-d8eaa9084a2663487fed479a9931174e-0-3a00def478e4720dc24181cf02e4e0d5|referer=https://m.rctiplus.com/
+
+#EXTINF:-1 group-title="2.LOKAL / NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/512px-Antv_logo.svg.png",ANTV Vision+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+https://nxanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+
+#EXTINF:-1 group-title="2.LOKAL / NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/512px-Antv_logo.svg.png",ANTV
+http://rr2.dens.tv/s/s07/index.m3u8
+
+#EXTINF:0 group-title="2.LOKAL / NASIONAL" tvg-logo="https://i.imgur.com/Q3MDKtZ.png",RTV Vision+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
+https://nxanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
+
+#EXTINF:-1 group-title="2.LOKAL / NASIONAL" tvg-logo="https://i.imgur.com/Q3MDKtZ.png",RTV 2
+#EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
+http://45.126.83.51/dr9445/h/h10/index.m3u8
+
+#EXTINF:-1 group-title="2.LOKAL / NASIONAL" tvg-logo="https://i.imgur.com/Q3MDKtZ.png",RTV 3
+#EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
+
+#EXTINF:0 group-title="2.LOKAL / NASIONAL" tvg-logo="https://i.imgur.com/fChjylx.png",NET Vision+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
+https://newanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
+
+#EXTINF:-1 group-title="2.LOKAL / NASIONAL" tvg-logo="https://i.imgur.com/fChjylx.png",NET TV 2
+#EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
+http://210.210.155.37/qwr9ew/s/s08/index.m3u8
+
+#EXTINF:-1 group-title="2.LOKAL / NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/KOMPAS_TV_%282017%29.png",Kompas TV Vision+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+https://nxanv-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
+
+#EXTINF:-1 group-title="2.LOKAL / NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/KOMPAS_TV_%282017%29.png",Kompas TV
+https://video.jixie.media/live-test/kompastv.m3u8
+
+#EXTINF:-1 group-title="2.LOKAL / NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/KOMPAS_TV_%282017%29.png",Kompas TV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/manifest.mpd
+
+#EXTINF:-1 group-title="2.LOKAL / NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/KOMPAS_TV_%282017%29.png",Kompas TV 3
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
+
+#EXTINF:-1 group-title="2.LOKAL / NASIONAL" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/MetroTV_2000.svg/2560px-MetroTV_2000.svg.png",Metro TV 
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
+
+#EXTINF:-1 group-title="2.LOKAL / NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/MetroTV_2000.svg/2560px-MetroTV_2000.svg.png",Metro TV 2
+#EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/index.m3u8
+
+#EXTINF:-1 group-title="2.LOKAL / NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/MetroTV_2000.svg/2560px-MetroTV_2000.svg.png",Metro TV 3
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="2.LOKAL / NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/20/TvOne_logo_2012.svg/1200px-TvOne_logo_2012.svg.png",TV One Vision+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+https://nxanv-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
+
+#EXTINF:-1 group-title="2.LOKAL / NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/20/TvOne_logo_2012.svg/1200px-TvOne_logo_2012.svg.png",TV One 2
+#EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
+http://210.210.155.35/session/080fd6c6-44b8-11ed-b03c-b82a72d63267/qwr9ew/s/s105/index.m3u8
+
+#EXTINF:-1 group-title="2.LOKAL / NASIONAL" tvg-logo="https://i.imgur.com/EMmOvnQ.png",SCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://210.210.155.37/qwr9ew/s/s03/index.m3u8
+
+#EXTINF:-1 group-title="2.LOKAL / NASIONAL" tvg-logo="https://i.imgur.com/EMmOvnQ.png",SCTV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://mpwtv.my.id/vidioye/204-sctv.m3u8
+
+
+
+#EXTINF:-1 group-title="2.LOKAL / NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png",INDOSIAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://103.167.167.5:8111/play/a00r/index.m3u8
+
+#EXTINF:-1 group-title="2.LOKAL / NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png",INDOSIAR 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://mpwtv.my.id/vidioye/205-indosiar.m3u8
+      
+#EXTINF:-1 group-title="2.LOKAL / NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png",INDOSIAR 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://210.210.155.37/qwr9ew/s/s04/index.m3u8
+
+#EXTINF:-1 group-title="2.LOKAL / NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Nusantara_TV_2015.png",Nusantara TV
+https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
+
+#EXTINF:-1 group-title="2.LOKAL / NASIONAL" tvg-logo="https://i.imgur.com/s3HCVrO.png",Garuda TV
+https://ms.digdaya.tv/live/digdayatv/chunklist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTINF:0 tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png" group-title="2.LOKAL / NASIONAL",Magna Channel
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="2.LOKAL / NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png",CNN Indo
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
+
+#EXTINF:-1 group-title="2.LOKAL / NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png",CNBC Indo
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1352897452_b280000_sleng.m3u8
