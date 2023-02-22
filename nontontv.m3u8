@@ -3063,7 +3063,234 @@ http://golive.yn.lt/live/ucl/11.m3u8
 #EXTINF:-1 tvg-ID="champions" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="CHAMPIONS LEAGUE",LIVE 12
 http://golive.yn.lt/live/ucl/12.m3u8
 
-#bocil#
+
+=====0LIVEEVENT=====
+
+#EXTINF:-1 tvg-logo="https://user-images.githubusercontent.com/118367365/206882331-f593eb45-7d06-4c1b-bfb1-ba2f549aca24.png" group-title="#1.LIVE EVENT",#1.INFO LIVE EVENT
+https://www.dropbox.com/s/mjaqxicjrx3xfnz/Tak%20berjudul%2026_1080p.mp4?dl=1
+
+#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",1. RB Leipzig vs Man City ( 03:00 WIB ) CH1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://lb.buy-global.store/live/lb555/bp1-240.m3u8|User-agent=ㅤyacineee55000
+
+#EXTINF:-1 group-title="#1.LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg",1. RB Leipzig vs Man City ( 03:00 WIB ) CH2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.onlinewebtv.lol/lb/premium426/index.m3u8?|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 group-title="#1.LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg",1. RB Leipzig vs Man City ( 03:00 WIB ) CH3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-041/stream.mpd
+
+#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",2. Inter Milan vs Porto ( 03:00 WIB ) CH1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.onlinewebtv.lol/lb/premium427/index.m3u8?|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",2. Inter Milan vs Porto ( 03:00 WIB ) CH2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://webudit.onlinewebtv.lol/lb/premium32/index.m3u8?|referer=https://widevine.licenses4.me/
+https://newtest.webtv1.lol/lb/premium32/index.m3u8|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",2. Inter Milan vs Porto ( 03:00 WIB ) CH3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9c0b24d5e9e2456c93f8fae2e913182c:e06339c46258a695fc8a2e8bfb394b6a
+https://cdsvideolive3.solocoo.tv/blueskycdslive7dash/blueziggosportvoetbal/Manifest.mpd
+
+#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",3. Chaves vs Sporting CP ( 02:00 WIB ) CH1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#https://webudit.onlinewebtv.lol/lb/premium49/index.m3u8?|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 group-title="#1.LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg",4. Benfica vs Boavista ( 04:15 WIB ) CH1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#https://webudit.onlinewebtv.lol/lb/premium32/index.m3u8?|referer=https://widevine.licenses4.me/
+#https://newtest.webtv1.lol/lb/premium32/index.m3u8|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",3. Chelsea vs Southampton ( 22:00 WIB ) CH3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#https://lb.buy-global.store/live/lb555/bp2-multi.m3u8|User-agent=ㅤyacineee55000
+
+#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",4. Brighton vs Fulham ( 22:00 WIB ) CH1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+#https://sport.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
+
+#EXTINF:-1 group-title="#1.LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg",5. Newcastle vs Liverpool ( 00:30 WIB ) CH1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cbd13b7a883e53e98d5c7f34d0013be8:d5bc9e92f214d77520ab7faa1ecad10b
+#https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd
+
+#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",5. Newcastle vs Liverpool ( 00:30 WIB ) CH2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=1673204766768
+#https://lb.buy-global.store/live/lb555/bp1-multi.m3u8|User-agent=ㅤyacineee55000
+
+#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",5. Newcastle vs Liverpool ( 00:30 WIB ) CH3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#https://webudit.onlinewebtv.lol/lb/premium414/index.m3u8?|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",6. Osasuna vs Real Madrid ( 20:00 WIB ) CH1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c1c657aa160c5b328f1e76747534b913:785e0773e9d534a00f4619315674ef7f
+#https://lbs-usp-dash-live.cmore.se/tvm-packager-prod/group3/60ae452e1522bdf301694494/manifest.mpd
+
+#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",6. Osasuna vs Real Madrid ( 20:00 WIB ) CH2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#https://webudit.onlinewebtv.lol/lb/premium393/index.m3u8?|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",6. Osasuna vs Real Madrid ( 20:00 WIB ) CH3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=1673204766768
+https://lb.buy-global.store/live/lb555/bp1-multi.m3u8|User-agent=ㅤyacineee55000
+
+#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",6. Osasuna vs Real Madrid ( 20:00 WIB ) CH4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#https://webudit.onlinewebtv.lol/lb/premium415/index.m3u8?|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",7. Monza vs AC Milan ( 00:00 WIB ) CH1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+#https://youdooball.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="#1.LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg",7. Monza vs AC Milan ( 00:00 WIB ) CH2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c1c657aa160c5b328f1e76747534b913:785e0773e9d534a00f4619315674ef7f
+#https://lbs-usp-dash-live.cmore.se/tvm-packager-prod/group3/60ae452e1522bdf301694494/manifest.mpd
+
+#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",7. Monza vs AC Milan ( 00:00 WIB ) CH3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#https://webudit.onlinewebtv.lol/lb/premium32/index.m3u8?|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 group-title="#1.LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg",8. Inter Milan vs Udinese ( 02:45 WIB ) CH1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#https://webudit.onlinewebtv.lol/lb/premium56/index.m3u8?|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",8. Inter Milan vs Udinese ( 02:45 WIB ) CH2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9c0b24d5e9e2456c93f8fae2e913182c:e06339c46258a695fc8a2e8bfb394b6a
+#https://cdsvideolive3.solocoo.tv/blueskycdslive7dash/blueziggosportvoetbal/Manifest.mpd
+
+#EXTINF:-1 group-title="#1.LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg",9. M'gladbach vs Bayern Munchen ( 21:30 WIB ) CH1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#https://webudit.onlinewebtv.lol/lb/premium103/index.m3u8?|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",9. M'gladbach vs Bayern Munchen ( 21:30 WIB ) CH2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#https://webudit.onlinewebtv.lol/lb/premium467/index.m3u8?|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 group-title="#1.LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg",10. Lille vs Strasbourg ( 21:00 WIB ) CH1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#http://103.167.167.5:8111/play/a02n/index.m3u8
+
+#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",10. Wolfsburg vs RB Leipzig ( 21:30 WIB ) CH1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#https://newtest.webtv1.lol/lb/premium442/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 group-title="#1.LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg",11. Porto vs Rio Ave ( 03:30 WIB ) CH1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#https://webudit.onlinewebtv.lol/lb/premium49/index.m3u8?|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",11. Porto vs Rio Ave ( 03:30 WIB ) CH2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#http://103.167.167.5:8111/play/a02n/index.m3u8
+
+#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",12. Ajax vs RKC Waalwijk ( 22:45 WIB ) CH1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#https://webudit.onlinewebtv.lol/lb/premium386/index.m3u8?|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",12. Ajax vs RKC Waalwijk ( 22:45 WIB ) CH2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+#https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-022/stream.mpd
+
+#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",13. Sporting CP vs Porto ( 01:00 WIB ) CH1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#https://zenpro2.wedodemos.com/live/_definst_/stream_1_4e329@VG09/playlist.m3u8|referer=https://xoivo6.com/
+
+#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",13. Sporting CP vs Porto ( 01:00 WIB ) CH2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+#https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-022/stream.mpd
+
+#EXTINF:-1 group-title="#1.LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg",13. Clermont vs Marseille ( 03:00 WIB ) CH2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#https://zenpro2.wedodemos.com/live/_definst_/stream_1_4e329@VG18/playlist.m3u8|referer=https://xoivo6.com/
+
+#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",14. PSV vs Groningen ( 02:00 WIB ) CH1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#https://global.zkshuye.cn/live/sd-1-3747465.m3u8
+
+#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",14. PSV vs Groningen ( 02:00 WIB ) CH2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#https://webudit.onlinewebtv.lol/lb/premium379/index.m3u8?|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 group-title="#1.LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg",14. Cambuur vs Ajax ( 18:15 WIB ) CH3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+#https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-022/stream.mpd
+
+#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",15. Feyenoord vs PSV ( 20:30 WIB ) CH1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#https://zenpro2.wedodemos.com/live/_definst_/stream_1_4e329@VG34/playlist.m3u8|referer=https://xoivo6.com/
+
+#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",15. Feyenoord vs PSV ( 20:30 WIB ) CH2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#https://global.zkshuye.cn/live/sd-1-3747466.m3u8
+
+#EXTINF:-1 group-title="#1.LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg",15. Feyenoord vs PSV ( 20:30 WIB ) CH3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cbd13b7a883e53e98d5c7f34d0013be8:d5bc9e92f214d77520ab7faa1ecad10b
+#https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-022/stream.mpd
+
+#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",16. Porto vs Vizela ( 01:00 WIB ) CH1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#https://cdn.raino.xyz/hls/stream10.m3u8|Referer=http://bdnewszh.com/
+
+#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",16. Porto vs Vizela ( 01:00 WIB ) CH2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#https://zenpro2.wedodemos.com/live/_definst_/stream_1_4e329@VG29/playlist.m3u8|referer=https://xoivo6.com/
+
+#EXTINF:-1 group-title="#1.LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg",16. Porto vs Vizela ( 01:00 WIB ) CH3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cbd13b7a883e53e98d5c7f34d0013be8:d5bc9e92f214d77520ab7faa1ecad10b
+#https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-022/stream.mpd
+
+#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",11.  Atle Bilbao vs Real Madrid ( 03:00 WIB )
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#https://cdn.raino.xyz/hls/stream3.m3u8|Referer=http://bdnewszh.com/
+
+#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",12.  B Dortmund vs Augsburg ( 21:30 WIB )
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#https://white45.click:2086/live/mario2009/fsdfgfdsxdf/80243.m3u8
+
+#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",12. B Dortmund vs Augsburg ( 21:30 WIB )
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#https://zenpro2.wedodemos.com/live/_definst_/stream_1_4e329@VG18/playlist.m3u8|referer=https://xoivo6.com/
+
+#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",12.  B Dortmund vs Augsburg ( 21:30 WIB )
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#https://newtest.webtv1.lol/lb/premium93/index.m3u8?|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",13. Mgladbach vs Leverkusen ( 23:30 WIB )
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#https://zenpro2.wedodemos.com/live/_definst_/stream_1_4e329@VG11/playlist.m3u8|referer=https://xoivo6.com/
+
+#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",13.  Mgladbach vs Leverkusen ( 23:30 WIB )
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#https://newtest.webtv1.lol/lb/premium93/index.m3u8?|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",13.  Mgladbach vs Leverkusen ( 23:30 WIB )
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#https://white45.click:2086/live/mario2009/fsdfgfdsxdf/80244.m3u8
 
 #EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",14.  Lille vs Pau ( 00:30 WIB )
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -3111,197 +3338,9 @@ http://golive.yn.lt/live/ucl/12.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://golive.yn.lt/live/liga1/04.m3u8
 
-#EXTINF:-1 group-title="#1.LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/briliga1.jpg",BRI Liga 1 (Server 2) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://golive.yn.lt/live/liga1/02.m3u8
-      
-#EXTINF:-1 group-title="#1.LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/briliga1.jpg",BRI Liga 1 (Server 3) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) 
-https://raw.githubusercontent.com/krismrp123/liveliga1/main/liga1klip1-360.m3u8
-
-#EXTINF:-1 group-title="#1.LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/briliga1.jpg",BRI Liga 1 (Server 4) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) 
-http://golive.yn.lt/live/liga1/07.m3u8
-
-#EXTINF:-1 group-title="#1.LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/briliga1.jpg",BRI Liga 1 (Server 5) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) 
-http://golive.yn.lt/live/liga1/01.m3u8
-
-#EXTINF:-1 group-title="#1.LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/briliga1.jpg",BRI Liga 1 (Server 6) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) 
-http://golive.yn.lt/live/liga1/03.m3u8
-
-#EXTINF:-1 group-title="#1.LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/briliga1.jpg",BRI Liga 1 (Server 7) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) 
-http://golive.yn.lt/live/liga1/05.m3u8
-
-#EXTINF:-1 group-title="#1.LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/briliga1.jpg",BRI Liga 1 (Server 8) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) 
-https://raw.githubusercontent.com/krismrp123/liveliga1/main/liga1klip1-720.m3u8
-
-#EXTINF:-1 group-title="#1.LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/liga2.jpg",Liga 2 (Server 1) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://golive.yn.lt/live/liga2/01.m3u8
-      
-#EXTINF:-1 group-title="#1.LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/liga2.jpg",Liga 2 (Server 2) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://golive.yn.lt/live/liga2/02.m3u8
-
-#EXTINF:-1 group-title="#1.LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/liga2.jpg",Liga 2 (Server 3) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://tv.zonanime.my.id/vidio/ochannel.m3u8
-
-#EXTINF:-1 group-title="#1.LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/liga2.jpg",Liga 2 (Server 4) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://hi.hi-back.masuk.web.id:80/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba51
-
-#EXTINF:-1 group-title="#1.LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/proligavoli.jpg",Pro Liga Voli ( Server 1 ) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) 
-http://golive.yn.lt/live/volleyball/01.m3u8
-
-#EXTINF:-1 group-title="#1.LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/proligavoli.jpg",Pro Liga Voli ( Server 2 ) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) 
-http://golive.yn.lt/live/volleyball/02.m3u8
-
-#EXTINF:-1 group-title="#1.LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/proligavoli.jpg",Pro Liga Voli ( Server 3 ) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) 
-http://golive.yn.lt/live/volleyball/03.m3u8
-
-#EXTINF:-1 group-title="#1.LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/proligavoli.jpg",Pro Liga Voli ( Server 4 ) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) 
-http://golive.yn.lt/live/volleyball/04.m3u8
-
-#EXTINF:-1 group-title="#1.LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/proligavoli.jpg",Pro Liga Voli ( Server 5 ) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) 
-http://golive.yn.lt/live/volleyball/05.m3u8
-
-#EXTINF:-1 group-title="#1.LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/futsal.jpg",Futsal (Server 1) 
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://d33j155pv2xyba.cloudfront.net/MNCTV_2021.m3u8
-
-#EXTINF:-1 group-title="#1.LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/futsal.jpg",Futsal (Server 2) 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f
-https://newanv-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
-
-#EXTINF:-1 group-title="#1.LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/futsal.jpg",Futsal (Server 3) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-https://newanv-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
-
-#EXTINF:-1 group-title="#1.LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/badminton.jpg",Badminton (Server 1) 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-https://newanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
-https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
-
-#EXTINF:-1 group-title="#1.LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/badminton.jpg",Badminton (Server 2) 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-https://newanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
-https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8
-      
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:0 group-title="#1.LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/badminton.jpg",Badminton (Server 3) 
-https://newanv-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:0 group-title="#1.LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/badminton.jpg",Badminton (Server 4) 
-https://newanv-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:0 group-title="#1.LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/badminton.jpg",Badminton (Server 5) 
-https://newanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
-
-#EXTINF:-1 group-title="#1.LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/motogp.jpg",MOTO GP (Server 1) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-#https://newanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
-https://newanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
-
-#EXTINF:-1 group-title="#1.LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/motogp.jpg",MOTO GP (Server 2) 
-#EXTVLCOPT:http-user-agent=MYoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-https://newanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
-
-#EXTINF:-1 group-title="#1.LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/motogp.jpg",MOTO GP (Server 3) 
-#EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
-https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="#1.LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/motogp.jpg",MOTO GP (Server 4) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-037/stream.mpd
-
-#EXTINF:-1 group-title="#1.LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/wsbk.jpg",WSBK (Server 1) 
-#EXTVLCOPT:http-user-agent=MYoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-https://newanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
-
-#EXTINF:-1 group-title="#1.LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/wsbk.jpg",WSBK (Server 2) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
-
-#https://s2.strea.ru/index.m3u8
-
-
-#EXTINF:-1 group-title="#1.LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/wsbk.jpg",WSBK (Server 3) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-https://newanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
-
-#EXTINF:-1 group-title="#1.LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/wsbk.jpg",WSBK (Server 4) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8
-
-#EXTINF:-1 group-title="#1.LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/wsbk.jpg",WSBK (Server 5) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://cdn1motogpcom.akamaized.net/hls/sbkipf/0.m3u8?hdnts=st=1668127891~exp=1668156415~acl=/hls/sbkipf/*~id=a95baa8ed1667badda573d12f1b6948e~data=R2hDUTV4aEZJamJWRXBjODBwWWlVUSUzRCUzRA~hmac=09ea0e86c98edec58f2427bfeada29243a4eba81042bb084a2e2703ce15613a3&hdnts2=st=1668127891~exp=1668156415~acl=/hls/sbkipf/*~id=a95baa8ed1667badda573d12f1b6948e~data=R2hDUTV4aEZJamJWRXBjODBwWWlVUSUzRCUzRA~hmac=09ea0e86c98edec58f2427bfeada29243a4eba81042bb084a2e2703ce15613a3&start=0&&m=1
-
-#EXTINF:-1 group-title="#1.LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/f1.jpg",F1 LIVE (Server 1) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-016/stream.mpd
-
-#EXTINF:-1 group-title="#1.LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/f1.jpg",F1 LIVE (Server 2) 
-http://cdn.raino.xyz/hls/stream49.m3u8|Referer=http://bdnewszh.com/
-
-#EXTINF:-1 group-title="#1.LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/f1.jpg",F1 LIVE (Server 3) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://ward945.cdn7-bongakamai.xyz/live/adaptive_bong-7/playlist.m3u8|Referer=http://bongstreams.com/
-
-#EXTINF:-1 group-title="#1.LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/ufc.jpg",UFC (Server 1) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
-
-#EXTINF:-1 group-title="#1.LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/ufc.jpg",UFC (Server 2) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ce17264b317db108f19cdc11aa1a9e66:a21188aee8fc5c56d016fcffcc6b2295
-https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten2_hd.smil/manifest.mpd
-
-#EXTINF:-1 group-title="#1.LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/ufc.jpg",UFC (Server 3) 
-https://got.vampirereapers.xyz:443/468kaytv299/HRH8SyJpK6Fb/128927
-
-#EXTINF:-1 group-title="#1.LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/ufc.jpg",UFC (Server 4) 
-http://mxu03.wanicelife.com:8880/12ms050012/41238625/2943
-
-#EXTINF:-1 group-title="#1.LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/ufc.jpg",UFC (Server 5) 
-https://webudi.openhd.lol/lb/premium77/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-
-
 
 =====12.LOKAL / NASIONAL=====
+
 
 #EXTINF:-1 group-title="2.LOKAL / NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png",Mentari TV
 https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/8237.m3u8
