@@ -3484,90 +3484,89 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1352897452_b
 
 =====3MOVIE=====
 
-#EXTINF:-1 tvg-id="IMC.id" tvg-logo="https://i.ibb.co/Kh8mQ2r/channel-14-modified.png" group-title="4.MOVIES / TV FILM", IMC
+#EXTINF:-1 tvg-id="IMC.id" tvg-logo="https://s.id/1d1kO" group-title="4.MOVIES / TV FILM", IMC
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-https://anevia-live-channel-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
+https://anevi-live-channel-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 
-#EXTINF:-1 tvg-id="prive.in" tvg-name="& Prive HD" tvg-logo="https://watchindia.net/images/channels/english/And_Prive_HD.png" group-title="4.MOVIES / TV FILM",& Prive HD
+#EXTINF:-1 tvg-id="prive.in" tvg-name="& PRIVE HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ60I_dTWBIhOH91LZwuzRw17u9LXnBigCvdw&usqp=CAU" group-title="4.MOVIES / TV FILM",& PRIVE HD
 http://watchindia.net:8880/live/80249/77103/2103.ts
 
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_4lUic2y3IrMCRP3y_UZYSsdrCU6Squf48Q&usqp=CAU" group-title="4.MOVIES / TV FILM",WOW TV
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtw3QlUHLlAXwYneXmUq4Dhp5JuPyiuRjSWg&usqp=CAU" group-title="4.MOVIES / TV FILM",WOW TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Gem_TV_logo_2020.png" group-title="4.MOVIES / TV FILM",SONY GEM
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqNWRl4kX7nfiHXVtzcdnxWptA7aqnRJAxwQ&usqp=CAU" group-title="4.MOVIES / TV FILM",SONY GEM
 http://103.167.167.5:8111/play/a00z/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/jv/c/c0/FOX_Movies_Premium_Asia.png" group-title="4.MOVIES / TV FILM",FOX MOVIES
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7K_smlJZ4X5hC_e2mg1l695xyayDApW77bw&usqp=CAU" group-title="4.MOVIES / TV FILM",FOX
 https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 
-#EXTINF:0 group-title="4.MOVIES / TV FILM" tvg-logo="https://i.imgur.com/44aJ4YV.png" ,Xing Kong TV
+#EXTINF:0 group-title="4.MOVIES / TV FILM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbOTQbzUMDeFyWN6GtLodEdJdLRU1svJdwBA&usqp=CAU" ,XINGKONG
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 https://newanv-live-cdn.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony_one_in.png" group-title="4.MOVIES / TV FILM",One
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmALEfkIcRAxD5OPKpvnQ2GWA298-EaVl0Pg&usqp=CAU" group-title="4.MOVIES / TV FILM",ONE
 https://newanv-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:0 group-title="4.MOVIES / TV FILM" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_86.png",MNC Entertainment
+#EXTINF:0 group-title="4.MOVIES / TV FILM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSymWB4xieNnGyhlP5EWBKJ3g9nzL1rKMkVXw&usqp=CAU",MNC ENTERTAINMENT
 https://newanv-live-cdn.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:0 group-title="4.MOVIES / TV FILM" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_96.png",MNC Infotainment
+#EXTINF:0 group-title="4.MOVIES / TV FILM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7FeJ9O_B7wHQWbqCRd2x_OBfMM1qwZqO5-A&usqp=CAU",MNC INFOTAINMENT
 https://newanv-live-cdn.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19765549_ico.png?ts=1654800851" group-title="4.MOVIES / TV FILM",ACTION MOVIES
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZTjBl0AmtVHK_vQTNd7zuvQuZtWWsb35JHg&usqp=CAU" group-title="4.MOVIES / TV FILM",ACTION MOVIES
 http://hpull.kktv8.com:80/livekktv/128600025/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19974462_ico.png?ts=1655149767" group-title="4.MOVIES / TV FILM",AMC
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrtc-vsGz6TLgZG34Qh_fyuzTnibcC6MPLow&usqp=CAU" group-title="4.MOVIES / TV FILM",AMC
 https://bcovlive-a.akamaihd.net/ebf15ff84e98490e8b00209ed77c77f5/us-east-1/6240731308001/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19974448_ico.png?ts=1655149932" group-title="4.MOVIES / TV FILM",MOVIE SHAPIER
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx1jpnfot3p4oU5JjKY8RFF3uUNJVwWZSVHA&usqp=CAU" group-title="4.MOVIES / TV FILM",MOVIE SPHERE
 https://moviesphere-plex.amagi.tv/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/1200px-KBS_World_%282009%29.svg.png" 
-group-title="4.MOVIES / TV FILM",KBS World 
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGncqNXiOAKWCWU3qgntjXrPJU3qyvFOjdRw&usqp=CAU" group-title="4.MOVIES / TV FILM",KBS WORLD
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Rakuten_Global_Brand_Logo.svg/440px-Rakuten_Global_Brand_Logo.svg.png" group-title="4.MOVIES / TV FILM", Rakuten Action Movies
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTMoquTmq86pXgu8lHJxxq94hHbtsDuEJ7FA&usqp=CAU" group-title="4.MOVIES / TV FILM", RAKUTEN ACTION MOVIES
 https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Rakuten_Global_Brand_Logo.svg/440px-Rakuten_Global_Brand_Logo.svg.png" group-title="4.MOVIES / TV FILM", Rakuten Comedy Movies
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTMoquTmq86pXgu8lHJxxq94hHbtsDuEJ7FA&usqp=CAU" group-title="4.MOVIES / TV FILM", RAKUTEN COMEDY MOVIES
 https://rakuten-comedymovies-1-gb.samsung.wurl.com/manifest/1200.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Rakuten_Global_Brand_Logo.svg/440px-Rakuten_Global_Brand_Logo.svg.png" group-title="4.MOVIES / TV FILM", Rakuten Family
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTMoquTmq86pXgu8lHJxxq94hHbtsDuEJ7FA&usqp=CAU" group-title="4.MOVIES / TV FILM", RAKUTEN FAMILY
 http://rakuten-family-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Rakuten-Global-Logo.jpg/1200px-Rakuten-Global-Logo.jpg" group-title="4.MOVIES / TV FILM", Family 6 (Rakuten) 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLJmvjaNY9N-HtyNvTSsbNN6o7RyUa7a_Ppw&usqp=CAU" group-title="4.MOVIES / TV FILM", FAMILY 6 
 https://rakuten-family-6-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Rakuten-Global-Logo.jpg/1200px-Rakuten-Global-Logo.jpg" group-title="4.MOVIES / TV FILM", Family 7 (Rakuten)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLJmvjaNY9N-HtyNvTSsbNN6o7RyUa7a_Ppw&usqp=CAU" group-title="4.MOVIES / TV FILM", FAMILY 7
 https://rakuten-family-7-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Rakuten-Global-Logo.jpg/1200px-Rakuten-Global-Logo.jpg" group-title="4.MOVIES / TV FILM", Family 8 (Rakuten)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLJmvjaNY9N-HtyNvTSsbNN6o7RyUa7a_Ppw&usqp=CAU" group-title="4.MOVIES / TV FILM", FAMILY 8
 https://rakuten-family-8-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Rakuten-Global-Logo.jpg/1200px-Rakuten-Global-Logo.jpg" group-title="4.MOVIES / TV FILM", Family 9 (Rakuten)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLJmvjaNY9N-HtyNvTSsbNN6o7RyUa7a_Ppw&usqp=CAU" group-title="4.MOVIES / TV FILM", FAMILY 9
 https://rakuten-family-9-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Rakuten-Global-Logo.jpg/1200px-Rakuten-Global-Logo.jpg" group-title="4.MOVIES / TV FILM", Family 10 (Rakuten)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLJmvjaNY9N-HtyNvTSsbNN6o7RyUa7a_Ppw&usqp=CAU" group-title="4.MOVIES / TV FILM", FAMILY 10
 https://rakuten-family-10-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Rakuten-Global-Logo.jpg/1200px-Rakuten-Global-Logo.jpg" group-title="4.MOVIES / TV FILM", Family 11 (Rakuten)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLJmvjaNY9N-HtyNvTSsbNN6o7RyUa7a_Ppw&usqp=CAU" group-title="4.MOVIES / TV FILM", FAMILY 11
 https://rakuten-family-11-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Rakuten-Global-Logo.jpg/1200px-Rakuten-Global-Logo.jpg" group-title="4.MOVIES / TV FILM", Family 12 (Rakuten)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLJmvjaNY9N-HtyNvTSsbNN6o7RyUa7a_Ppw&usqp=CAU" group-title="4.MOVIES / TV FILM", FAMILY 12
 https://rakuten-family-12-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Rakuten-Global-Logo.jpg/1200px-Rakuten-Global-Logo.jpg" group-title="4.MOVIES / TV FILM", Family 13 (Rakuten)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLJmvjaNY9N-HtyNvTSsbNN6o7RyUa7a_Ppw&usqp=CAU" group-title="4.MOVIES / TV FILM", FAMILY 13
 https://rakuten-family-13-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Rakuten-Global-Logo.jpg/1200px-Rakuten-Global-Logo.jpg" group-title="4.MOVIES / TV FILM",Family 16 (Rakuten)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLJmvjaNY9N-HtyNvTSsbNN6o7RyUa7a_Ppw&usqp=CAU" group-title="4.MOVIES / TV FILM",FAMILY 16
 https://rakuten-family-16-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
 
 #EXTINF:-1  tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20236263_ico.png?ts=1663825106" group-title="4.MOVIES / TV FILM",Paramount
