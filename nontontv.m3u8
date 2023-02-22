@@ -3025,30 +3025,30 @@ http://golive.yn.lt/live/ucl/12.m3u8
 =====0LIVEEVENT=====
 
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",1. RB Leipzig vs Man City ( 03:00 WIB ) CH1
+#EXTINF:-1 tvg-id=" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq1fsWQ3vxcB_V06cLOod0spwjI1kswvIcRA&usqp=CAU" group-title="#1.LIVE EVENT",1. RB Leipzig vs Man City ( 03:00 WIB ) CH1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://lb.buy-global.store/live/lb555/bp1-240.m3u8|User-agent=ㅤyacineee55000
 
-#EXTINF:-1 group-title="#1.LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg",1. RB Leipzig vs Man City ( 03:00 WIB ) CH2
+#EXTINF:-1 group-title="#1.LIVE EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq1fsWQ3vxcB_V06cLOod0spwjI1kswvIcRA&usqp=CAU",1. RB Leipzig vs Man City ( 03:00 WIB ) CH2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.onlinewebtv.lol/lb/premium426/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 group-title="#1.LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg",1. RB Leipzig vs Man City ( 03:00 WIB ) CH3
+#EXTINF:-1 group-title="#1.LIVE EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq1fsWQ3vxcB_V06cLOod0spwjI1kswvIcRA&usqp=CAU",1. RB Leipzig vs Man City ( 03:00 WIB ) CH3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-041/stream.mpd
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",2. Inter Milan vs Porto ( 03:00 WIB ) CH1
+#EXTINF:-1 tvg-id=" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq1fsWQ3vxcB_V06cLOod0spwjI1kswvIcRA&usqp=CAU" group-title="#1.LIVE EVENT",2. Inter Milan vs Porto ( 03:00 WIB ) CH1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.onlinewebtv.lol/lb/premium427/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",2. Inter Milan vs Porto ( 03:00 WIB ) CH2
+#EXTINF:-1 tvg-id=" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq1fsWQ3vxcB_V06cLOod0spwjI1kswvIcRA&usqp=CAU" group-title="#1.LIVE EVENT",2. Inter Milan vs Porto ( 03:00 WIB ) CH2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://webudit.onlinewebtv.lol/lb/premium32/index.m3u8?|referer=https://widevine.licenses4.me/
 https://newtest.webtv1.lol/lb/premium32/index.m3u8|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",2. Inter Milan vs Porto ( 03:00 WIB ) CH3
+#EXTINF:-1 tvg-id=" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq1fsWQ3vxcB_V06cLOod0spwjI1kswvIcRA&usqp=CAU" group-title="#1.LIVE EVENT",2. Inter Milan vs Porto ( 03:00 WIB ) CH3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9c0b24d5e9e2456c93f8fae2e913182c:e06339c46258a695fc8a2e8bfb394b6a
