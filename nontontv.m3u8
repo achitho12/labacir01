@@ -4465,25 +4465,7 @@ https://newanv-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChann
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 https://newanv-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 
-
-=======radio========
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrB3qZdETbEi5-c25Bdsmwpzc4gllcOGpLmA&usqp=CAU" group-title="10.RADIO",EBS - Surabaya
-http://streaming.radiopanorama.net:8100/
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrB3qZdETbEi5-c25Bdsmwpzc4gllcOGpLmA&usqp=CAU" group-title="10.RADIO",TRAX DKI
-http://stream.radiojar.com/rrqf78p3bnzuv
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrB3qZdETbEi5-c25Bdsmwpzc4gllcOGpLmA&usqp=CAU" group-title="10.RADIO",HITZ BANDUNG
-http://hits.unikom.ac.id:9996/
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrB3qZdETbEi5-c25Bdsmwpzc4gllcOGpLmA&usqp=CAU" group-title="10.RADIO", Hitz
-https://github.com/AqFad2811/RadioYTLive/raw/main/Hitz.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrB3qZdETbEi5-c25Bdsmwpzc4gllcOGpLmA&usqp=CAU" group-title="10.RADIO", I-RADIO
-http://stream.radiojar.com/4ywdgup3bnzuv
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrB3qZdETbEi5-c25Bdsmwpzc4gllcOGpLmA&usqp=CAU" group-title="10.RADIO",Hitz FM
-http://astro1.rastream.com/hitz
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrB3qZdETbEi5-c25Bdsmwpzc4gllcOGpLmA&usqp=CAU" group-title="10.RADIO",RRI
-https://cdnmeraukepro1.rri.co.id/web-rrimeraukepro1.mp3
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrB3qZdETbEi5-c25Bdsmwpzc4gllcOGpLmA&usqp=CAU" group-title="10.RADIO",PRAMBORS
-https://22253.live.streamtheworld.com/PRAMBORS_FM.mp3
+====VOD====
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://s4.indexmovies.xyz/wp-content/uploads/2022/06/film-man-vs-bee-2022-lk21-d21.jpg" group-title="VOD Series Barat JAX",Man vs. Bee &#8211; Season 1 Episode 4 (2022)
 #EXTVLCOPT:http-referrer=https://stream.xpeer.xyz/new1.php?id=3c09488da0766f1e786c7ebf7598db661740746f
