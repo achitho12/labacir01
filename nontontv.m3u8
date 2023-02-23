@@ -1,7 +1,7 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="nontontv" tvg-logo="https://s.id/1zll8" group-title="1.LOKAL",GOLIVE MEDIA
+#EXTINF:-1 tvg-ID="nontontv" tvg-logo="https://s.id/1zll8" group-title="ALL TV",GOLIVE MEDIA
 https://www.geocities.ws/omahtv/golive.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-ID="indosiar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9u-Bh9ChLA3LVbP69uCJnQZTST1Myf5nIvA&usqp=CAU" group-title="1.LOKAL",INDOSIAR
@@ -635,9 +635,9 @@ http://iptv12k.com:35461/86599050501/645678/11240
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://iptv12k.com:35461/live/86599050501/645678/13684.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-ID="sukan" tvg-logo="https://s.id/1jhej" group-title="2.SPORTS",SUKAN
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="sukan" tvg-logo="https://s.id/1jhej" group-title="2.SPORTS",SUKAN
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
 #EXTM3U
 #EXTINF:-1 tvg-ID="mykids" tvg-logo="https://s.id/1d4gW" group-title="4.CARTOON",MY KIDZ
