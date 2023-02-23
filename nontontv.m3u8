@@ -98,12 +98,12 @@ https://anevi-live-channel-cdn.mncnow.id/live/eds/JTV/sa_dash/JTV.mpd
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="nickjr" tvg-logo="https://s.id/1d0Kh" group-title="ALL TV",NICK JR
+#EXTINF:-1 tvg-ID="nickjr" tvg-logo="https://s.id/1d0Kh" group-title="4.CARTOON",NICK JR
 https://anevi-live-channel-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="nickelodeon" tvg-logo="https://s.id/1d0L3" group-title="ALL TV",NICKELODEON
+#EXTINF:-1 tvg-ID="nickelodeon" tvg-logo="https://s.id/1d0L3" group-title="4.CARTOON",NICKELODEON
 https://anevi-live-channel-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -148,32 +148,32 @@ https://anevi-live-channel-cdn.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MN
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:0 tvg-id="cbeebiesssia.uk" tvg-name="cbeebies" tvg-logo="https://s.id/1d8Vh" group-title="ALL TV",CBEEBIES
+#EXTINF:0 tvg-id="cbeebiesssia.uk" tvg-name="cbeebies" tvg-logo="https://s.id/1d8Vh" group-title="4.CARTOON",CBEEBIES
 https://newanv-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:0 tvg-id="kidstv.id" tvg-name="kidstv" tvg-logo="https://s.id/1d8XH" group-title="ALL TV", KIDS TV
+#EXTINF:0 tvg-id="kidstv.id" tvg-name="kidstv" tvg-logo="https://s.id/1d8XH" group-title="4.CARTOON", KIDS TV
 https://newanv-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:0 tvg-id="miaomi.id" tvg-name="miaomi" tvg-logo="https://s.id/1d8ZY" group-title="ALL TV",MIAOMI
+#EXTINF:0 tvg-id="miaomi.id" tvg-name="miaomi" tvg-logo="https://s.id/1d8ZY" group-title="4.CARTOON",MIAOMI
 https://newanv-live-cdn.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:0 tvg-id="babytvasia.uk" tvg-name="babytv" tvg-logo="https://s.id/1d91L" group-title="ALL TV", BABY TV
+#EXTINF:0 tvg-id="babytvasia.uk" tvg-name="babytv" tvg-logo="https://s.id/1d91L" group-title="4.CARTOON", BABY TV
 https://newanv-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:0 tvg-id="cartoonnetworkasia.us" tvg-name="cartoonnetwork" tvg-logo="https://s.id/1dRLd" group-title="ALL TV",CARTOON NETWORK
+#EXTINF:0 tvg-id="cartoonnetworkasia.us" tvg-name="cartoonnetwork" tvg-logo="https://s.id/1dRLd" group-title="4.CARTOON",CARTOON NETWORK
 https://newanv-live-cdn.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:0 tvg-id="boomerangSouthEastAsia.us" tvg-name="boomerang" tvg-logo="https://s.id/1dRN3" group-title="ALL TV",BOOMERANG
+#EXTINF:0 tvg-id="boomerangSouthEastAsia.us" tvg-name="boomerang" tvg-logo="https://s.id/1dRN3" group-title="4.CARTOON",BOOMERANG
 https://newanv-live-cdn.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -213,17 +213,17 @@ https://newanv-live-cdn.mncnow.id/live/eds/ChannelNewsAsia/sa_dash_vmx/ChannelNe
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="eggnetwork" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn0ueG_SlbRoIufaj0hkHzW9HdOLT5Xh6rEQ&usqp=CAU" group-title="ALL TV",EGG NETWORK
+#EXTINF:-1 tvg-ID="eggnetwork" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn0ueG_SlbRoIufaj0hkHzW9HdOLT5Xh6rEQ&usqp=CAU" group-title="4.CARTOON",EGG NETWORK
 http://210.210.155.37/uq2663/h/h22/index.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="elshinta" tvg-logo="https://s.id/1nAA2" group-title="ALL TV",ELSHINTA
+#EXTINF:-1 tvg-ID="elshinta" tvg-logo="https://s.id/1nAA2" group-title="1.LOKAL",ELSHINTA
 http://rr2.dens.tv/s/s10/index10.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="codaymovies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToAlO7IGdzrHMTi73613SBzSHdUZ4xhq9KfA&usqp=CAU" group-title="ALL TV",CODAY MOVIES
+#EXTINF:-1 tvg-ID="codaymovies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToAlO7IGdzrHMTi73613SBzSHdUZ4xhq9KfA&usqp=CAU" group-title="3.MOVIES",CODAY MOVIES
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -363,7 +363,7 @@ https://anevi-live-channel-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOS
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="animax" tvg-logo="https://s.id/1d14v" group-title="ALL TV",ANIMAX
+#EXTINF:-1 tvg-ID="animax" tvg-logo="https://s.id/1d14v" group-title="4.CARTOON",ANIMAX
 https://anevi-live-channel-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -423,7 +423,7 @@ https://anevi-live-channel-cdn.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorl
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="besmart" tvg-logo="https://s.id/1d19l" group-title="1.LOKAL",BESMART
+#EXTINF:-1 tvg-ID="besmart" tvg-logo="https://s.id/1d19l" group-title="4.CARTOON",BESMART
 https://anevi-live-channel-cdn.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -471,7 +471,7 @@ https://anevi-live-channel-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 #EXTINF:-1 tvg-ID="imc" tvg-logo="https://s.id/1d1kO" group-title="3.MOVIES",IMC
 https://anevi-live-channel-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 #EXTM3U
-#EXTINF:-1 tvg-ID="aniplus" tvg-logo="https://s.id/1d1bO" group-title="ALL TV",ANIPLUS
+#EXTINF:-1 tvg-ID="aniplus" tvg-logo="https://s.id/1d1bO" group-title="4.CARTOON",ANIPLUS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://210.210.155.37/dr9445/h/h02/index.m3u8
 #EXTM3U
@@ -640,7 +640,7 @@ http://iptv12k.com:35461/live/86599050501/645678/13684.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
 #EXTM3U
-#EXTINF:-1 tvg-ID="mykids" tvg-logo="https://s.id/1d4gW" group-title="ALL TV",MY KIDS
+#EXTINF:-1 tvg-ID="mykids" tvg-logo="https://s.id/1d4gW" group-title="4.CARTOON",MY KIDZ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://rr.dens.tv/h/h191/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Kidz_HD
 #EXTM3U
@@ -674,10 +674,10 @@ http://iptv12k.com:35461/86599050501/645678/13539
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="moji" tvg-logo="https://thumbor.prod.vidiocdn.com/dQRcxVzWpqnq1ATYhtadyL4kcZw=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg" group-title="ALL TV",MOJI 1
+#EXTINF:-1 tvg-ID="moji" tvg-logo="https://thumbor.prod.vidiocdn.com/dQRcxVzWpqnq1ATYhtadyL4kcZw=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg" group-title="1.LOKAL",MOJI 1
 https://geocities.ws/ariev7xx/moji.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-ID="moji" tvg-logo="https://thumbor.prod.vidiocdn.com/dQRcxVzWpqnq1ATYhtadyL4kcZw=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg" group-title="ALL TV",MOJI 2
+#EXTINF:-1 tvg-ID="moji" tvg-logo="https://thumbor.prod.vidiocdn.com/dQRcxVzWpqnq1ATYhtadyL4kcZw=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg" group-title="1.LOKAL",MOJI 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://rr2.dens.tv/s/s41/index.m3u8
 #EXTM3U
@@ -688,55 +688,55 @@ https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="mentari" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxPZyyQ2nXcQmi2l159xlCHKso66xyqjE1ZQ&usqp=CAU" group-title="ALL TV",MENTARI
+#EXTINF:-1 tvg-ID="mentari" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxPZyyQ2nXcQmi2l159xlCHKso66xyqjE1ZQ&usqp=CAU" group-title="4.CARTOON",MENTARI
 https://geocities.ws/ariev7xx/mentari.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="spacetoon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp_mc6CU15zpVQB32bm-VTOoFPFfqHRVo1NQ&usqp=CAU" group-title="ALL TV",SPACETOON
+#EXTINF:-1 tvg-ID="spacetoon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp_mc6CU15zpVQB32bm-VTOoFPFfqHRVo1NQ&usqp=CAU" group-title="4.CARTOON",SPACETOON
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist_w1249819737_b1296000_slAR.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-ID="onepiece" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdmcCw4tRdZWhX3kdvNODP3oWy4YlgXKnprw&usqp=CAU" group-title="ALL TV",ONE PIECE
+#EXTINF:-1 tvg-ID="onepiece" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdmcCw4tRdZWhX3kdvNODP3oWy4YlgXKnprw&usqp=CAU" group-title="4.CARTOON",ONE PIECE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f7790b3ed0c88000720b241/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="kidsflix" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_QuXRX5H3dVfujxrpjbtWfOURIDKhAxUmJA&usqp=CAU" group-title="ALL TV",KIDS FLIX
+#EXTINF:-1 tvg-ID="kidsflix" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_QuXRX5H3dVfujxrpjbtWfOURIDKhAxUmJA&usqp=CAU" group-title="4.CARTOON,KIDS FLIX
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="nickelodeonturtles" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHI_z2bmFVgRAa0-cb04mdaAM0m7QGefuYRA&usqp=CAU" group-title="ALL TV",NICKELODEON NINJA TURTLES
+#EXTINF:-1 tvg-ID="nickelodeonturtles" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHI_z2bmFVgRAa0-cb04mdaAM0m7QGefuYRA&usqp=CAU" group-title="4.CARTOON",NICKELODEON NINJA TURTLES
 https://siloh.pluto.tv/lilo/production/Nick/02/master.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="nickspongebob" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9eiAkLZRdPGVVaZIZykq5Is7Stq2CiZ-tag&usqp=CAU" group-title="ALL TV",NICK SPONGEBOB
+#EXTINF:-1 tvg-ID="nickspongebob" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9eiAkLZRdPGVVaZIZykq5Is7Stq2CiZ-tag&usqp=CAU" group-title="4.CARTOON",NICK SPONGEBOB
 https://siloh.pluto.tv/lilo/production/Nick/01/master.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="babyshark" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzHLwlHXfONYYr-N-fKgue2fqhcbS79oOh7Q&usqp=CAU" group-title="ALL TV",BABY SHARK
+#EXTINF:-1 tvg-ID="babyshark" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzHLwlHXfONYYr-N-fKgue2fqhcbS79oOh7Q&usqp=CAU" group-title="4.CARTOON",BABY SHARK
 https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_BabySharkTV/playlist.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-ID="naruto" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpFSLscSICKlKliRbmU-aIfsCXldfyEPJv5g&usqp=CAU" group-title="ALL TV",NARUTO
+#EXTINF:-1 tvg-ID="naruto" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpFSLscSICKlKliRbmU-aIfsCXldfyEPJv5g&usqp=CAU" group-title="4.CARTOON",NARUTO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0c85bd2c9c10009370984/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c7e374a3-77f8-11ec-8df7-e1b1a799e6b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6dc122c4-9939-4ecc-8331-975968992978&userId=&serverSideAds=true
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="happykids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEBsc3ybjbKRqik-wmvzwdaM8n8EYW0CQ00w&usqp=CAU" group-title="ALL TV",HAPPY KIDS
+#EXTINF:-1 tvg-ID="happykids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEBsc3ybjbKRqik-wmvzwdaM8n8EYW0CQ00w&usqp=CAU" group-title="4.CARTOON",HAPPY KIDS
 https://happykids-roku.amagi.tv/playlist.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="nickdora" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsveyNJNCfQsULSRik2TNfz_jWK-O45MLG2Q&usqp=CAU" group-title="ALL TV",NICK DORA
+#EXTINF:-1 tvg-ID="nickdora" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsveyNJNCfQsULSRik2TNfz_jWK-O45MLG2Q&usqp=CAU" group-title="4.CARTOON",NICK DORA
 https://siloh.pluto.tv/lilo/production/Nick/03/master.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="pbskids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPghRJVjJgRQEFhXFkO4Cve-EX-5xKg0Ae5g&usqp=CAU" group-title="ALL TV",PBS KIDS
+#EXTINF:-1 tvg-ID="pbskids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPghRJVjJgRQEFhXFkO4Cve-EX-5xKg0Ae5g&usqp=CAU" group-title="4.CARTOON",PBS KIDS
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 #EXTM3U
 #EXTINF:-1 group-title="ALL TV" tvg-logo="https://s.id/1d0Iu",TVRI ACEH
@@ -966,7 +966,7 @@ http://122.248.43.138:1935/ch11/myStream/chunklist_w2044873838.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://122.248.43.138:1935/ch25/myStream/live.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-id="animax" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcgmrAKDj5BWWHWS5odeSqwnBqYDGyZCmcVA&usqp=CAU" group-title="ALL TV",ANIMAX
+#EXTINF:-1 tvg-id="animax" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcgmrAKDj5BWWHWS5odeSqwnBqYDGyZCmcVA&usqp=CAU" group-title="4.CARTOON",ANIMAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://iptv12k.com:35461/86599050501/645678/13466
 #EXTM3U
@@ -3756,195 +3756,193 @@ https://newanv-live-cdn.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 =====5KARTUN=====
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HH6N3y2/Picsart-22-08-30-16-33-35-999.png" group-title="5.CARTOON / KARTUN",Garfield
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HH6N3y2/Picsart-22-08-30-16-33-35-999.png" group-title="4.CARTOON",GARFIELD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6054ab20a365c70007e4fd44/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=5f4f&deviceDNT=0&deviceModel=0
 
-#EXTINF:-1 group-title="5.CARTOON / KARTUN" tvg-id="5ca7f16c37b88b2694731c79" tvg-logo="https://images.pluto.tv/channels/5ca7f16c37b88b2694731c79/colorLogoPNG.png" ,Pluto TV Gamer
+#EXTINF:-1 group-title="4.CARTOON" tvg-id="5ca7f16c37b88b2694731c79" tvg-logo="https://images.pluto.tv/channels/5ca7f16c37b88b2694731c79/colorLogoPNG.png" ,PLUTO GAMER
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca7f16c37b88b2694731c79/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="5.CARTOON / KARTUN" tvg-id="561c5f613286e48904fb2677" tvg-logo="https://images.pluto.tv/channels/561c5f613286e48904fb2677/colorLogoPNG.png" ,IGN
+#EXTINF:-1 group-title="4.CARTOON" tvg-id="561c5f613286e48904fb2677" tvg-logo="https://images.pluto.tv/channels/561c5f613286e48904fb2677/colorLogoPNG.png" ,IGN
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/561c5f613286e48904fb2677/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="5.CARTOON / KARTUN" tvg-id="5c3f8f12a93c2d61b9990a4e" tvg-logo="https://images.pluto.tv/channels/5c3f8f12a93c2d61b9990a4e/colorLogoPNG.png" ,TokuSHOUTsu
+#EXTINF:-1 group-title="4.CARTOON" tvg-id="5c3f8f12a93c2d61b9990a4e" tvg-logo="https://images.pluto.tv/channels/5c3f8f12a93c2d61b9990a4e/colorLogoPNG.png" ,TOKU
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c3f8f12a93c2d61b9990a4e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="5.CARTOON / KARTUN" tvg-id="5e1c669094e0e80009b22ab8" tvg-logo="https://images.pluto.tv/channels/5e1c669094e0e80009b22ab8/colorLogoPNG.png" ,Retro Toons
+#EXTINF:-1 group-title="4.CARTOON" tvg-id="5e1c669094e0e80009b22ab8" tvg-logo="https://images.pluto.tv/channels/5e1c669094e0e80009b22ab8/colorLogoPNG.png" ,RETRO KIDS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e1c669094e0e80009b22ab8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="5.CARTOON / KARTUN" tvg-id="5f4ec10ed9636f00089b8c89" tvg-logo="https://images.pluto.tv/channels/5f4ec10ed9636f00089b8c89/colorLogoPNG.png" ,Yu-Gi-Oh
+#EXTINF:-1 group-title="4.CARTOON" tvg-id="5f4ec10ed9636f00089b8c89" tvg-logo="https://images.pluto.tv/channels/5f4ec10ed9636f00089b8c89/colorLogoPNG.png" ,YUGIOH
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="5.CARTOON / KARTUN" tvg-id="5dd6dae8ce788b0009eaf77b" tvg-logo="https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/colorLogoPNG.png" ,Mr.Bean
+#EXTINF:-1 group-title="4.CARTOON" tvg-id="5dd6dae8ce788b0009eaf77b" tvg-logo="https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/colorLogoPNG.png" ,MR.BEN
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-
-
-#EXTINF:-1 tvg-id="ABCKids.au" tvg-name="ABC Kids" tvg-country="AU" tvg-language="English" tvg-logo="https://static-s.aa-cdn.net/img/ios/960892021/6dcf6804c2d739fe765563a1f28f493e" group-title="5.CARTOON / KARTUN",ABC Kids
+#EXTINF:-1 tvg-id="ABCKids.au" tvg-name="ABC Kids" tvg-country="AU" tvg-language="English" tvg-logo="https://static-s.aa-cdn.net/img/ios/960892021/6dcf6804c2d739fe765563a1f28f493e" group-title="4.CARTOON",ABC KIDS
 https://c.mjh.nz/101002210222/
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="5.CARTOON / KARTUN" tvg-logo="https://www.sportico.com/wp-content/uploads/2019/10/nick-logo-200x200-2.png", Nickelodeon
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTINF:-1 group-title="4.CARTOON" tvg-logo="https://www.sportico.com/wp-content/uploads/2019/10/nick-logo-200x200-2.png", NICKELODEON
 https://newanv-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 
-#EXTINF:-1 group-title="5.CARTOON / KARTUN" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png",Aniplus
+#EXTINF:-1 group-title="4.CARTOON" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png",ANIPLUS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://210.210.155.37/session/3c285a9c-a4ad-11ec-92c6-b82a72d63267/dr9445/h/h02/index.m3u8
 
-#EXTINF:-1 group-title="5.CARTOON / KARTUN" tvg-logo="https://www.useetv.com/pimages/logo_mykids_big.png?v=1",My Kidz
+#EXTINF:-1 group-title="4.CARTOON" tvg-logo="https://www.useetv.com/pimages/logo_mykids_big.png?v=1",MY KIDZ
 http://210.210.155.35/session/21c6b7ca-a4ad-11ec-8c65-b82a72d63267/uq2663/h/h191/index.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
-#EXTINF:0 tvg-id="MiaoMi.hk" tvg-name="" tvg-logo="https://i.postimg.cc/Y0v34qLz/Round-Photo-Sep092022-001103.png" group-title="5.CARTOON / KARTUN",MIAOMI 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTINF:0 tvg-id="MiaoMi.hk" tvg-name="" tvg-logo="https://i.postimg.cc/Y0v34qLz/Round-Photo-Sep092022-001103.png" group-title="4.CARTOON",MIAOMI
 https://newanv-live-cdn.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_112.png" group-title="5.CARTOON / KARTUN",Besmart
+#EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_112.png" group-title="4.CARTOON",BESMART
 https://newanv-live-cdn.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:0 group-title="5.CARTOON / KARTUN" tvg-logo="https://www.biznetnetworks.com/assets/img/bizkids.png",Biznet Kids
+#EXTINF:0 group-title="4.CARTOON" tvg-logo="https://www.biznetnetworks.com/assets/img/bizkids.png",BIZNET KIDS
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:0 group-title="5.CARTOON / KARTUN" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kids-tv-id.png",Kids TV
+#EXTINF:0 group-title="4.CARTOON" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kids-tv-id.png",KIDS TV
 https://newanv-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc_cbeebies_uk.png" group-title="5.CARTOON / KARTUN",CBeebies
+#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc_cbeebies_uk.png" group-title="4.CARTOON",CBEEBIES
 https://newanv-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:0 tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/baby_tv_eu.png" group-title="5.CARTOON / KARTUN",Baby TV
+#EXTINF:0 tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/baby_tv_eu.png" group-title="4.CARTOON",BABY KIDS 1
 https://newanv-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:0 group-title="5.CARTOON / KARTUN" tvg-logo="https://seeklogo.com/images/Z/zoomoo-logo-FA728C7940-seeklogo.com.png",ZooMoo
+#EXTINF:0 group-title="4.CARTOON" tvg-logo="https://seeklogo.com/images/Z/zoomoo-logo-FA728C7940-seeklogo.com.png",ZOOMO
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:0 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/012020/moonbug_kids_on_white.png?N15F03k4i.bbYpm4vkwIU0HwhRsSA4YX&itok=zAZIL7t_" group-title="5.CARTOON / KARTUN",Moonbug Kids
+#EXTINF:0 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/012020/moonbug_kids_on_white.png?N15F03k4i.bbYpm4vkwIU0HwhRsSA4YX&itok=zAZIL7t_" group-title="4.CARTOON",MOONBUG KIDS
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/sf8XMVMy/TVO-KIDS.png" group-title="5.CARTOON / KARTUN",TVO Kids
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sf8XMVMy/TVO-KIDS.png" group-title="4.CARTOON",TVO KIDS
 https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmbv6m9I10UL7eavDHFPUHjgzSa-_FK8JG3g&usqp=CAU" group-title="5.CARTOON / KARTUN",TOON MAX
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmbv6m9I10UL7eavDHFPUHjgzSa-_FK8JG3g&usqp=CAU" group-title="4.CARTOON",TOON MAX
 http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MKpKh5Lz/PBS-KIDS.png" group-title="5.CARTOON / KARTUN",PBS Kids
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MKpKh5Lz/PBS-KIDS.png" group-title="4.CARTOON",PBS KIDS
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 
-#EXTINF:-1 tvg-id="BabyTVAsia.uk" tvg-name="BabyTV" tvg-logo="http://dusktill.masuk.web.id/img/babytv.png" group-title="5.CARTOON / KARTUN",Baby TV
+#EXTINF:-1 tvg-id="BabyTVAsia.uk" tvg-name="BabyTV" tvg-logo="http://dusktill.masuk.web.id/img/babytv.png" group-title="4.CARTOON",BABY TV
 https://vips-livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist.m3u8
 
-#EXTINF:0 tvg-id="baby_first" group-title="5.CARTOON / KARTUN" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/b1/Babyfirst.png",Baby First
+#EXTINF:0 tvg-id="baby_first" group-title="4.CARTOON" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/b1/Babyfirst.png",BABY FIRST
 http://vips-livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="DAV.Asia" tvg-logo="https://static.epg.best/ua/DaVinciLearningEurope.ua.png" group-title="5.CARTOON / KARTUN",Da Vinci Learning
+#EXTINF:-1 tvg-id="DAV.Asia" tvg-logo="https://static.epg.best/ua/DaVinciLearningEurope.ua.png" group-title="4.CARTOON",DAVINCI
 https://vips-livecdn.fptplay.net/hda2/davincihd_vhls.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_bLZmdfEFcwtt38rrTXRZ6dDZsK4Vh_ZkzQ&usqp=CAU" group-title="5.CARTOON / KARTUN",Nick 01
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_bLZmdfEFcwtt38rrTXRZ6dDZsK4Vh_ZkzQ&usqp=CAU" group-title="4.CARTOON",NICK 1
 https://siloh.pluto.tv/lilo/production/Nick/01/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_bLZmdfEFcwtt38rrTXRZ6dDZsK4Vh_ZkzQ&usqp=CAU" group-title="5.CARTOON / KARTUN",Nick 02
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_bLZmdfEFcwtt38rrTXRZ6dDZsK4Vh_ZkzQ&usqp=CAU" group-title="4.CARTOON",NICK 2
 https://siloh.pluto.tv/lilo/production/Nick/02/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTID1wES4Ii386o1oz2GcgbKtvFwgeStQO5VQ&usqp=CAU" group-title="5.CARTOON / KARTUN",Nick Dora TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTID1wES4Ii386o1oz2GcgbKtvFwgeStQO5VQ&usqp=CAU" group-title="4.CARTOON",NICK DORA
 https://siloh.pluto.tv/lilo/production/Nick/03/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7MrGyf7hhwEIW3PBeHfHpPEd9gwb8oUM0qA&usqp=CAU" group-title="5.CARTOON / KARTUN",Happy Kids
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7MrGyf7hhwEIW3PBeHfHpPEd9gwb8oUM0qA&usqp=CAU" group-title="4.CARTOON",HAPPY KIDS
 https://happykids-roku.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7MrGyf7hhwEIW3PBeHfHpPEd9gwb8oUM0qA&usqp=CAU" group-title="5.CARTOON / KARTUN",HappyKids Junior
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7MrGyf7hhwEIW3PBeHfHpPEd9gwb8oUM0qA&usqp=CAU" group-title="4.CARTOON",HAPPY KIDS JUNIOR
 https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20860353_ico.png?ts=1654812112" group-title="5.CARTOON / KARTUN",SPACETOON
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20860353_ico.png?ts=1654812112" group-title="4.CARTOON",SPACETOON
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist_w1249819737_b1296000_slAR.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:0 tvg-logo="http://www.dens.tv/images/channel-logo/1.jpg" group-title="5.CARTOON / KARTUN",Learning & KNOWLEDGE
+#EXTINF:0 tvg-logo="http://www.dens.tv/images/channel-logo/1.jpg" group-title="4.CARTOON",LEARNING
 http://210.210.155.37/x6bnqe/s/s36/index.m3u8
 
-#EXTINF:-1 tvg-id="cartoon.network.usa.eastern.us" tvg-name="Cartoon Network HD" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20667162_ico.png?ts=1659655700" group-title="5.CARTOON / KARTUN",US016:Cartoon Network USA
+#EXTINF:-1 tvg-id="cartoon.network.usa.eastern.us" tvg-name="Cartoon Network HD" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20667162_ico.png?ts=1659655700" group-title="4.CARTOON",US016:CARTOON USA
 http://mxu03.wanicelife.com:8880/12ms050012/41238625/3152
 
-#EXTINF:0 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20667162_ico.png?ts=1659655700" group-title="5.CARTOON / KARTUN",Cartoon Network Indo
+#EXTINF:0 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20667162_ico.png?ts=1659655700" group-title="4.CARTOON",CARTOON NET
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 https://newanv-live-cdn.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="5.CARTOON / KARTUN" tvg-logo="https://www.useetv.com/pimages/logo_animax_big.png?v=1",Animax
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTINF:-1 group-title="4.CARTOON" tvg-logo="https://www.useetv.com/pimages/logo_animax_big.png?v=1",ANIMAX
 https://newanv-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ffb2f0f63c23a3592d4653e938b9ca19:d3661ae881fc55fc7a15815cd439747b
-#EXTINF:-1 tvg-logo="https://git.io/JOTL6" group-title="5.CARTOON / KARTUN", Discovery Kids
+#EXTINF:-1 tvg-logo="https://git.io/JOTL6" group-title="4.CARTOON", DISCOVERY KIDS
 https://cdn.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_Live_dash_enc_2A/Discovery_Kids.mpd
 
 
-#EXTINF:-1 tvg-id="nickelodeon.usa.east.us" tvg-name="Nickelodeon USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="5.CARTOON / KARTUN",Nickelodeon USA
+#EXTINF:-1 tvg-id="nickelodeon.usa.east.us" tvg-name="Nickelodeon USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="4.CARTOON",NICKELODEON
 http://mxu03.wanicelife.com:8880/12ms050012/41238625/30049
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Nick Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1280px-Nick_Jr._logo_2009.svg.png" group-title="5.CARTOON / KARTUN",Nick Junior
+#EXTINF:-1 tvg-id="" tvg-name="Nick Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1280px-Nick_Jr._logo_2009.svg.png" group-title="4.CARTOON",NICK JUNIOR
 http://103.167.167.5:8111/play/a00f/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaZo8dukR951I12d8hwhixUqNEgdvHj-Y1Jw&usqp=CAU" group-title="5.CARTOON / KARTUN",Kidsflix
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaZo8dukR951I12d8hwhixUqNEgdvHj-Y1Jw&usqp=CAU" group-title="4.CARTOON",KIDS FLIX
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc21FNY7T-hj22ghGZMjC7ibz0kf7sR3pUxg&usqp=CAU" group-title="5.CARTOON / KARTUN",ConTV Anime
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc21FNY7T-hj22ghGZMjC7ibz0kf7sR3pUxg&usqp=CAU" group-title="4.CARTOON",CON ANIME
 https://contvanime-littlstar.cinedigm.com/ingest/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/N7Kf5CZB5yFGddAZxmtjylZuG9ECPJFm1y_sdV7Gx_WrawDP-k-9mpFY_hRL4E3IXPo" group-title="5.CARTOON / KARTUN",Baby Shark
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/N7Kf5CZB5yFGddAZxmtjylZuG9ECPJFm1y_sdV7Gx_WrawDP-k-9mpFY_hRL4E3IXPo" group-title="4.CARTOON",BABY SHARK
 https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_BabySharkTV/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTktHMCVVNWykilTFWu395O9uk_UzoxRkVigg&usqp=CAU" group-title="5.CARTOON / KARTUN",Kids Pluto 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTktHMCVVNWykilTFWu395O9uk_UzoxRkVigg&usqp=CAU" group-title="4.CARTOON",PLUTO KIDS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-id="Erz.cocoro" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdZK9z8FTVHQWGzhCy3EpjZw9ntPLplbq1mQ&usqp=CAU" group-title="5.CARTOON / KARTUN",CocoRo
+#EXTINF:-1 tvg-id="Erz.cocoro" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdZK9z8FTVHQWGzhCy3EpjZw9ntPLplbq1mQ&usqp=CAU" group-title="4.CARTOON",COCORO
 https://4ea7abcc97144832b81dc50c6e8d6330.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Cocoro/playlist.m3u8?id=eroz_brebes.m3u8
 
-#EXTINF:-1 tvg-id="Toku.US" tvg-logo="https://i0.wp.com/tokusatsunetwork.com/wp-content/uploads/2020/03/tsu-e1584362198575.png" group-title="5.CARTOON / KARTUN",TokuSHOUTsu
+#EXTINF:-1 tvg-id="Toku.US" tvg-logo="https://i0.wp.com/tokusatsunetwork.com/wp-content/uploads/2020/03/tsu-e1584362198575.png" group-title="4.CARTOON",TUKO
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c3f8f12a93c2d61b9990a4e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=848&deviceId=5c3f8f12a93c2d61b9990a4e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaQtV8MV9jXRkzVA7GnlogAbG5RkRQSJIzsA&usqp=CAU" group-title="5.CARTOON / KARTUN",Naruto (Bangjax TV) 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaQtV8MV9jXRkzVA7GnlogAbG5RkRQSJIzsA&usqp=CAU" group-title="4.CARTOON",NARUTO
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0c85bd2c9c10009370984/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c7e374a3-77f8-11ec-8df7-e1b1a799e6b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6dc122c4-9939-4ecc-8331-975968992978&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCEeGcdUevHmPyV-wiapX8NFCdBNh6okMQmA&usqp=CAU" group-title="5.CARTOON / KARTUN",One Piece (Bangjax TV) 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCEeGcdUevHmPyV-wiapX8NFCdBNh6okMQmA&usqp=CAU" group-title="4.CARTOON",ONE PIECE
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f7790b3ed0c88000720b241/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="5.CARTOON / KARTUN" tvg-logo="https://i.postimg.cc/T15q1gJr/anim.png" ,Anime All Day
+#EXTINF:-1 group-title="4.CARTOON" tvg-logo="https://i.postimg.cc/T15q1gJr/anim.png" ,ANIME
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c363ac9e41be30cb6054c7c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="5.CARTOON / KARTUN" tvg-logo="https://i.postimg.cc/wjQK3p7W/kan.png" ,Pluto TV Kids Animation
+#EXTINF:-1 group-title="4.CARTOON" tvg-logo="https://i.postimg.cc/wjQK3p7W/kan.png" ,PLUTO ANIMASI
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="5.CARTOON / KARTUN" tvg-logo="https://i.postimg.cc/YCpnnmC3/kidzz.png" ,Pluto TV Kids
+#EXTINF:-1 group-title="4.CARTOON" tvg-logo="https://i.postimg.cc/YCpnnmC3/kidzz.png" ,PLUTO KIDS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="5.CARTOON / KARTUN" tvg-logo="https://i.postimg.cc/tJYv50RH/tween.png" ,Pluto TV Tween
+#EXTINF:-1 group-title="4.CARTOON" tvg-logo="https://i.postimg.cc/tJYv50RH/tween.png" ,PLUTO TWEEN
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5db0ae5af8797b00095c0794/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="5.CARTOON / KARTUN" tvg-logo="https://rubbyguntara.github.io/src/img/lego.png",Lego Toons
+#EXTINF:-1 group-title="4.CARTOON" tvg-logo="https://rubbyguntara.github.io/src/img/lego.png",LEGO TOONS
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/26/USAJ3504531A_20210525T051610.png" group-title="5.CARTOON / KARTUN",MinecrafTV
+#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/26/USAJ3504531A_20210525T051610.png" group-title="4.CARTOON",MINECRAFT
 http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5812b821249444e05d09cc4c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/33/USBB90000726_20220125T050031.png" group-title="5.CARTOON / KARTUN",PBS KIDS
+#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/33/USBB90000726_20220125T050031.png" group-title="4.CARTOON",PBS KIDS
 https://d3afonbm0qxmbc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-elbbbj7vf6xsf-prod/est.m3u8
 
 
