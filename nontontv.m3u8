@@ -2944,274 +2944,274 @@ http://golive.yn.lt/live/ucl/12.m3u8
 =====0LIVEEVENT=====
 
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIVE EVENT", CH1
+#EXTINF:-1 tvg-id=" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIVE EVENT", CH 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://lb.buy-global.store/live/lb555/bp1-240.m3u8|User-agent=yacineee55000
 
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi", CH2
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi", CH 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.onlinewebtv.lol/lb/premium426/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi", CH3
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi", CH 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-041/stream.mpd
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIVE EVENT", CH1
+#EXTINF:-1 tvg-id=" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIVE EVENT", CH 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.onlinewebtv.lol/lb/premium427/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIVE EVENT", CH2
+#EXTINF:-1 tvg-id=" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIVE EVENT", CH 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://webudit.onlinewebtv.lol/lb/premium32/index.m3u8?|referer=https://widevine.licenses4.me/
 https://newtest.webtv1.lol/lb/premium32/index.m3u8|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIVE EVENT", CH3
+#EXTINF:-1 tvg-id=" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIVE EVENT", CH 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9c0b24d5e9e2456c93f8fae2e913182c:e06339c46258a695fc8a2e8bfb394b6a
 https://cdsvideolive3.solocoo.tv/blueskycdslive7dash/blueziggosportvoetbal/Manifest.mpd
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIVE EVENT", CH1
+#EXTINF:-1 tvg-id=" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIVE EVENT", CH 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.onlinewebtv.lol/lb/premium49/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi", CH2
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi", CH 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://webudit.onlinewebtv.lol/lb/premium32/index.m3u8?|referer=https://widevine.licenses4.me/
 https://newtest.webtv1.lol/lb/premium32/index.m3u8|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIVE EVENT", CH3
+#EXTINF:-1 tvg-id=" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIVE EVENT", CH 9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://lb.buy-global.store/live/lb555/bp2-multi.m3u8|User-agent=ㅤyacineee55000
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIVE EVENT", CH1
+#EXTINF:-1 tvg-id=" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIVE EVENT", CH 10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
 https://sport.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
 
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi", CH2
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi", CH 11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cbd13b7a883e53e98d5c7f34d0013be8:d5bc9e92f214d77520ab7faa1ecad10b
 https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIVE EVENT", CH3
+#EXTINF:-1 tvg-id=" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIVE EVENT", CH 12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=1673204766768
 https://lb.buy-global.store/live/lb555/bp1-multi.m3u8|User-agent=ㅤyacineee55000
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIVE EVENT", CH1
+#EXTINF:-1 tvg-id=" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIVE EVENT", CH 13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.onlinewebtv.lol/lb/premium414/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIVE EVENT", CH2
+#EXTINF:-1 tvg-id=" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIVE EVENT", CH 14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c1c657aa160c5b328f1e76747534b913:785e0773e9d534a00f4619315674ef7f
 https://lbs-usp-dash-live.cmore.se/tvm-packager-prod/group3/60ae452e1522bdf301694494/manifest.mpd
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIVE EVENT", CH3
+#EXTINF:-1 tvg-id=" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIVE EVENT", CH 15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://webudit.onlinewebtv.lol/lb/premium393/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIVE EVENT", CH1
+#EXTINF:-1 tvg-id=" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIVE EVENT", CH 16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=1673204766768
 https://lb.buy-global.store/live/lb555/bp1-multi.m3u8|User-agent=ㅤyacineee55000
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIVE EVENT", CH2
+#EXTINF:-1 tvg-id=" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIVE EVENT", CH 17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.onlinewebtv.lol/lb/premium415/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIVE EVENT", CH3
+#EXTINF:-1 tvg-id=" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIVE EVENT", CH 18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 https://youdooball.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi", CH1
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi", CH 19
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c1c657aa160c5b328f1e76747534b913:785e0773e9d534a00f4619315674ef7f
 https://lbs-usp-dash-live.cmore.se/tvm-packager-prod/group3/60ae452e1522bdf301694494/manifest.mpd
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIVE EVENT", CH2
+#EXTINF:-1 tvg-id=" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIVE EVENT", CH 20
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://webudit.onlinewebtv.lol/lb/premium32/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi", CH3
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi", CH 21
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.onlinewebtv.lol/lb/premium56/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIVE EVENT", CH1
+#EXTINF:-1 tvg-id=" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIVE EVENT", CH 22
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9c0b24d5e9e2456c93f8fae2e913182c:e06339c46258a695fc8a2e8bfb394b6a
 https://cdsvideolive3.solocoo.tv/blueskycdslive7dash/blueziggosportvoetbal/Manifest.mpd
 
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi", CH2
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi", CH 23
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.onlinewebtv.lol/lb/premium103/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIVE EVENT", CH3
+#EXTINF:-1 tvg-id=" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIVE EVENT", CH 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.onlinewebtv.lol/lb/premium467/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi", CH1
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi", CH 25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 http://103.167.167.5:8111/play/a02n/index.m3u8
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIVE EVENT", CH2
+#EXTINF:-1 tvg-id=" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIVE EVENT", CH 26
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://newtest.webtv1.lol/lb/premium442/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi", CH3
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi", CH 27
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.onlinewebtv.lol/lb/premium49/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIVE EVENT", CH1
+#EXTINF:-1 tvg-id=" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIVE EVENT", CH 28
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://103.167.167.5:8111/play/a02n/index.m3u8
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIVE EVENT", CH2
+#EXTINF:-1 tvg-id=" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIVE EVENT", CH 29
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://webudit.onlinewebtv.lol/lb/premium386/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIVE EVENT", CH3
+#EXTINF:-1 tvg-id=" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIVE EVENT", CH 30
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-022/stream.mpd
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIVE EVENT", CH1
+#EXTINF:-1 tvg-id=" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIVE EVENT", CH 31
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://zenpro2.wedodemos.com/live/_definst_/stream_1_4e329@VG09/playlist.m3u8|referer=https://xoivo6.com/
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIVE EVENT", CH2
+#EXTINF:-1 tvg-id=" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIVE EVENT", CH 32
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-022/stream.mpd
 
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi", CH3
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi", CH 33
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://zenpro2.wedodemos.com/live/_definst_/stream_1_4e329@VG18/playlist.m3u8|referer=https://xoivo6.com/
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIVE EVENT", CH1
+#EXTINF:-1 tvg-id=" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIVE EVENT", CH 34
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://global.zkshuye.cn/live/sd-1-3747465.m3u8
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIVE EVENT", CH2
+#EXTINF:-1 tvg-id=" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIVE EVENT", CH 35
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://webudit.onlinewebtv.lol/lb/premium379/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi", CH3
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi", CH 36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-022/stream.mpd
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",15. Feyenoord vs PSV ( 20:30 WIB ) CH1
+#EXTINF:-1 tvg-id=" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIVE EVENT", CH 37
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#https://zenpro2.wedodemos.com/live/_definst_/stream_1_4e329@VG34/playlist.m3u8|referer=https://xoivo6.com/
+https://zenpro2.wedodemos.com/live/_definst_/stream_1_4e329@VG34/playlist.m3u8|referer=https://xoivo6.com/
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",15. Feyenoord vs PSV ( 20:30 WIB ) CH2
+#EXTINF:-1 tvg-id=" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIVE EVENT", CH 38
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#https://global.zkshuye.cn/live/sd-1-3747466.m3u8
+https://global.zkshuye.cn/live/sd-1-3747466.m3u8
 
-#EXTINF:-1 group-title="#1.LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg",15. Feyenoord vs PSV ( 20:30 WIB ) CH3
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi", CH 39
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cbd13b7a883e53e98d5c7f34d0013be8:d5bc9e92f214d77520ab7faa1ecad10b
-#https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-022/stream.mpd
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-022/stream.mpd
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",16. Porto vs Vizela ( 01:00 WIB ) CH1
+#EXTINF:-1 tvg-id=" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIVE EVENT", CH 40
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#https://cdn.raino.xyz/hls/stream10.m3u8|Referer=http://bdnewszh.com/
+https://cdn.raino.xyz/hls/stream10.m3u8|Referer=http://bdnewszh.com/
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",16. Porto vs Vizela ( 01:00 WIB ) CH2
+#EXTINF:-1 tvg-id=" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIVE EVENT", CH 41
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#https://zenpro2.wedodemos.com/live/_definst_/stream_1_4e329@VG29/playlist.m3u8|referer=https://xoivo6.com/
+https://zenpro2.wedodemos.com/live/_definst_/stream_1_4e329@VG29/playlist.m3u8|referer=https://xoivo6.com/
 
-#EXTINF:-1 group-title="#1.LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg",16. Porto vs Vizela ( 01:00 WIB ) CH3
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi", CH 42
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cbd13b7a883e53e98d5c7f34d0013be8:d5bc9e92f214d77520ab7faa1ecad10b
-#https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-022/stream.mpd
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-022/stream.mpd
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",11.  Atle Bilbao vs Real Madrid ( 03:00 WIB )
+#EXTINF:-1 tvg-id=" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIVE EVENT", CH 43
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#https://cdn.raino.xyz/hls/stream3.m3u8|Referer=http://bdnewszh.com/
+https://cdn.raino.xyz/hls/stream3.m3u8|Referer=http://bdnewszh.com/
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",12.  B Dortmund vs Augsburg ( 21:30 WIB )
+#EXTINF:-1 tvg-id=" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIVE EVENT", CH 44
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#https://white45.click:2086/live/mario2009/fsdfgfdsxdf/80243.m3u8
+https://white45.click:2086/live/mario2009/fsdfgfdsxdf/80243.m3u8
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",12. B Dortmund vs Augsburg ( 21:30 WIB )
+#EXTINF:-1 tvg-id=" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIVE EVENT", CH 45
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#https://zenpro2.wedodemos.com/live/_definst_/stream_1_4e329@VG18/playlist.m3u8|referer=https://xoivo6.com/
+https://zenpro2.wedodemos.com/live/_definst_/stream_1_4e329@VG18/playlist.m3u8|referer=https://xoivo6.com/
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",12.  B Dortmund vs Augsburg ( 21:30 WIB )
+#EXTINF:-1 tvg-id=" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIVE EVENT", CH 46
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#https://newtest.webtv1.lol/lb/premium93/index.m3u8?|referer=https://widevine.licenses4.me/
+https://newtest.webtv1.lol/lb/premium93/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",13. Mgladbach vs Leverkusen ( 23:30 WIB )
+#EXTINF:-1 tvg-id=" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIVE EVENT", CH 47
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#https://zenpro2.wedodemos.com/live/_definst_/stream_1_4e329@VG11/playlist.m3u8|referer=https://xoivo6.com/
+https://zenpro2.wedodemos.com/live/_definst_/stream_1_4e329@VG11/playlist.m3u8|referer=https://xoivo6.com/
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",13.  Mgladbach vs Leverkusen ( 23:30 WIB )
+#EXTINF:-1 tvg-id=" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIVE EVENT", CH 48
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#https://newtest.webtv1.lol/lb/premium93/index.m3u8?|referer=https://widevine.licenses4.me/
+https://newtest.webtv1.lol/lb/premium93/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",13.  Mgladbach vs Leverkusen ( 23:30 WIB )
+#EXTINF:-1 tvg-id=" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIVE EVENT", CH 49
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#https://white45.click:2086/live/mario2009/fsdfgfdsxdf/80244.m3u8
+https://white45.click:2086/live/mario2009/fsdfgfdsxdf/80244.m3u8
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",14.  Lille vs Pau ( 00:30 WIB )
+#EXTINF:-1 tvg-id=" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIVE EVENT", CH 50
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#https://newtest.webtv1.lol/lb/premium92/index.m3u8?|referer=https://widevine.licenses4.me/
+https://newtest.webtv1.lol/lb/premium92/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",14.  Lille vs Pau ( 00:30 WIB )
+#EXTINF:-1 tvg-id=" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIVE EVENT", CH 51
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#https://zenpro2.wedodemos.com/live/_definst_/stream_1_4e329@VG42/playlist.m3u8|referer=https://xoivo6.com/
+https://zenpro2.wedodemos.com/live/_definst_/stream_1_4e329@VG42/playlist.m3u8|referer=https://xoivo6.com/
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",15.  Feyenoord vs Ajax ( 20:30 WIB )
+#EXTINF:-1 tvg-id=" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIVE EVENT", CH 52
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#https://newtest.webtv1.lol/lb/premium125/index.m3u8?|referer=https://widevine.licenses4.me/
+https://newtest.webtv1.lol/lb/premium125/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",15.  Feyenoord vs Ajax ( 20:30 WIB )
+#EXTINF:-1 tvg-id=" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIVE EVENT", CH 53
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#https://zenpro2.wedodemos.com/live/_definst_/stream_1_4e329@VG13/playlist.m3u8|referer=https://xoivo6.com/
+https://zenpro2.wedodemos.com/live/_definst_/stream_1_4e329@VG13/playlist.m3u8|referer=https://xoivo6.com/
 
-#EXTINF:-1 group-title="#1.LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg",16. Al Nassr (CR7) vs Al Ittifaq ( 00:30 WIB )
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi", CH 54
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=74ec471a250d423e9de47243fe4e7378:a2e328ed74149502cdeaad656f6af378
-#https://ssc-1-ak.akamaized.net/out/v1/0da39f594cc34c4a9b03f0d696a86276/index.mpd
+https://ssc-1-ak.akamaized.net/out/v1/0da39f594cc34c4a9b03f0d696a86276/index.mpd
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",16.  Al Nassr (CR7) vs Al Ittifaq ( 00:30 WIB )
+#EXTINF:-1 tvg-id=" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIVE EVENT", CH 55
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#http://51.159.105.171/live/26nov.usman/446622/224922.ts?token=GhMNBEZcR1gRVgBbXFcGAgIGBgEDXAsIW15TUFAJV1JUAlcBAwYAWwJEGBoXEhZRBVtrXgVGAgJQUg4GARQUFhJUFzpcUEdYEVQBCVRWUxZIFEBeDAEaClNQAAcECQFVUgZJR0VdAUAJRAUMU1ZQFkgUUU8VAUpeAwpoUFZOXwAEE18LQFgJThEJWmcAAwlVClIWDUNVGhxAD0REEQJYFg1dSUdXXREQUhJRGl5EVgxXDhYbQwdXRQwSRU0RAhQqLxNJR1BMEQddFV1XCkReFhBFFhtDDUtvEANEQEFdVw4EQ0dfFwRHThELVUA7BQtaClNXQwgLVkNAXBUFERQUDg5fDBFaRjoSWgIWAkZXUAJcDhZK
+http://51.159.105.171/live/26nov.usman/446622/224922.ts?token=GhMNBEZcR1gRVgBbXFcGAgIGBgEDXAsIW15TUFAJV1JUAlcBAwYAWwJEGBoXEhZRBVtrXgVGAgJQUg4GARQUFhJUFzpcUEdYEVQBCVRWUxZIFEBeDAEaClNQAAcECQFVUgZJR0VdAUAJRAUMU1ZQFkgUUU8VAUpeAwpoUFZOXwAEE18LQFgJThEJWmcAAwlVClIWDUNVGhxAD0REEQJYFg1dSUdXXREQUhJRGl5EVgxXDhYbQwdXRQwSRU0RAhQqLxNJR1BMEQddFV1XCkReFhBFFhtDDUtvEANEQEFdVw4EQ0dfFwRHThELVUA7BQtaClNXQwgLVkNAXBUFERQUDg5fDBFaRjoSWgIWAkZXUAJcDhZK
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",16.  Al Nassr (CR7) vs Al Ittifaq ( 00:30 WIB )
+#EXTINF:-1 tvg-id=" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIVE EVENT", CH 56
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#http://golive.yn.lt/live/bola/03.m3u8
+http://golive.yn.lt/live/bola/03.m3u8
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",16.  Al Nassr (CR7) vs Al Ittifaq ( 00:30 WIB )
+#EXTINF:-1 tvg-id=" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIVE EVENT", CH 57
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#http://golive.yn.lt/live/bola/07.m3u8
+http://golive.yn.lt/live/bola/07.m3u8
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",17.  Koln vs Werder Bremen ( 00:30 WIB )
+#EXTINF:-1 tvg-id=" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIVE EVENT", CH 58
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#https://newtest.webtv1.lol/lb/premium93/index.m3u8?|referer=https://widevine.licenses4.me/
+https://newtest.webtv1.lol/lb/premium93/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",17.  Koln vs Werder Bremen ( 00:30 WIB )
+#EXTINF:-1 tvg-id=" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="LIVE EVENT", CH 59
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#https://white45.click:2086/live/mario2009/fsdfgfdsxdf/80243.m3u8
+https://white45.click:2086/live/mario2009/fsdfgfdsxdf/80243.m3u8
 
-#EXTINF:-1 group-title="#1.LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/briliga1.jpg",BRI Liga 1 (Server 1) 
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi", CH 60
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#http://golive.yn.lt/live/liga1/04.m3u8
+http://golive.yn.lt/live/liga1/04.m3u8
 
 
 =====12.LOKAL / NASIONAL=====
