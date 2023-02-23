@@ -3281,7 +3281,7 @@ https://anevi-live-channel-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mp
 
 #EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/1280px-RCTI_logo_2015.svg.png",RCTI Rcti+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://rcti-linier.rctiplus.id/rcti-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1677100936-1d0435e04d3574f2c27092c9c1f32588-0-c4ab7df1c7021b9d1b18fec347b956e5|referer=https://m.rctiplus.com/
+https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?auth_key=1677226257-6def80f3d8508bb3af9d353b28a42dc9-0-89cef3ea095412adbaeefd669f12507d|referer=https://m.rctiplus.com/
 
 #EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1000px-GTV_%282017%29.svg.png",GTV Vision+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
