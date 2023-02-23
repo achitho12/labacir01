@@ -3645,7 +3645,7 @@ http://rr.dens.tv/h/h194/index.m3u8
 #EXTINF:-1 group-title="3.MOVIES" tvg-logo="https://www.useetv.com/pimages/logo_mycinemaasia_big.png?v=1",MCA
 http://rr.dens.tv/h/h193/index.m3u8
 
-#EXTINF:-1 group-title="3.MOVIESM" tvg-logo="https://www.useetv.com/pimages/logo_mycinema_small.png",MCN
+#EXTINF:-1 group-title="3.MOVIES" tvg-logo="https://www.useetv.com/pimages/logo_mycinema_small.png",MCN
 http://rr.dens.tv/h/h99/index.m3u8
 
 #EXTINF:-1 group-title="3.MOVIES" tvg-logo="https://th.bing.com/th/id/OIP.hbYn9wvJM16JAWpLFpyjlQHaDl?pid=ImgDet&rs=1",MCE
