@@ -3045,7 +3045,7 @@ http://golive.yn.lt/live/ucl/12.m3u8
 
 #EXTINF:-1 tvg-id=" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq1fsWQ3vxcB_V06cLOod0spwjI1kswvIcRA&usqp=CAU" group-title="#1.LIVE EVENT",2. Inter Milan vs Porto ( 03:00 WIB ) CH2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://webudit.onlinewebtv.lol/lb/premium32/index.m3u8?|referer=https://widevine.licenses4.me/
+#https://webudit.onlinewebtv.lol/lb/premium32/index.m3u8?|referer=https://widevine.licenses4.me/
 #https://newtest.webtv1.lol/lb/premium32/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id=" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq1fsWQ3vxcB_V06cLOod0spwjI1kswvIcRA&usqp=CAU" group-title="#1.LIVE EVENT",2. Inter Milan vs Porto ( 03:00 WIB ) CH3
