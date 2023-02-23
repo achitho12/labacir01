@@ -3290,7 +3290,7 @@ https://newanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1000px-GTV_%282017%29.svg.png",GTV Rcti+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://gtv-linier.rctiplus.id/gtv-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1677100716-3513b706007abf9bd01107b494734599-0-af0efe5402ec8fe50ea8d3144792c950|referer=https://m.rctiplus.com/
+https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?auth_key=1677226718-d46e8eebe63b8f6d98344d380bba1842-mlLrvwKBDmFaiA1RfFNqmaBQIiCp1TYNquxlOIeW-bf7887586443e50640c8710dd8f78926|referer=https://m.rctiplus.com/
 
 #EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://i.imgur.com/sojdCIg.png",Inews TV Vision+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -3299,7 +3299,7 @@ https://anevi-live-channel-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsT
 
 #EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://i.imgur.com/sojdCIg.png" ,iNews Rcti+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://inews-linier.rctiplus.id/inews-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1677101325-d8eaa9084a2663487fed479a9931174e-0-3a00def478e4720dc24181cf02e4e0d5|referer=https://m.rctiplus.com/
+https://inews-linier.rctiplus.id/inews-sdi.m3u8?auth_key=1677226869-0647c89828c486487f9b6d8906ca7884-mlLrvwKBDmFaiA1RfFNqmaBQIiCp1TYNquxlOIeW-6cf9fbda27cbe011c1170cdfd68c09bc|referer=https://m.rctiplus.com/
 
 #EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://thumbor.prod.vidiocdn.com/Hh8KNGo558dzdT-tqWrLonOsmAM=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-tv-stream-b6cca5.jpg",ANTV 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
