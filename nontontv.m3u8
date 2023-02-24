@@ -1142,24 +1142,24 @@ http://rr2.dens.tv/s/s41/index.m3u8?|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-ID="xsport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUNdZtLzUwCO6dA04PZh9MY0XuBR90_4bHlQ&usqp=CAU" group-title="2.SPORTS",X SPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://iptv.prosto.tv:7000/ch109/video.m3u8?|referer=https://widevine.licenses4.me/
+http://iptv.prosto.tv:7000/ch109/video.m3u8
 
 #EXTINF:-1 tvg-ID="sport2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJwbSR2gy6FK5GDFgJ94WBGTHRbh25Y3RoDA&usqp=CAU" group-title="2.SPORTS",SPORT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://superbits.tv:2095/d4Je5xwD/yadTXB63/39090|referer=https://widevine.licenses4.me/
+http://superbits.tv:2095/d4Je5xwD/yadTXB63/39090
 #EXTINF:-1 tvg-ID="tv3dk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwPoPaKt9djSs4IzkSO8epA4IKGktJWl24-w&usqp=CAU" group-title="2.SPORTS",TV3 DK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://superbits.tv:2095/d4Je5xwD/yadTXB63/35184|referer=https://widevine.licenses4.me/
+http://superbits.tv:2095/d4Je5xwD/yadTXB63/35184
 #EXTINF:-1 tvg-ID="qtringsport1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWmjVSicnjsMqnM02YYm9S3prNPDeLvzzdqw&usqp=CAU" group-title="2.SPORTS",Q TRING SPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://superbits.tv:2095/d4Je5xwD/yadTXB63/15469|referer=https://widevine.licenses4.me/
+http://superbits.tv:2095/d4Je5xwD/yadTXB63/15469
 
 #EXTINF:-1 tvg-ID="fs1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFL2_ZWF0QtoGSaeLgreQmlM5N1lf7KLBB5A&usqp=CAU" group-title="2.SPORTS",FS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://iptvworld.nl:2095/mm5z86zW/qgSXYnBD/8254|referer=https://widevine.licenses4.me/
+http://iptvworld.nl:2095/mm5z86zW/qgSXYnBD/8254?|referer=https://widevine.licenses4.me/
 #EXTINF:-1 tvg-ID="fs2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/800px-FS2_logo_2015.svg.png" group-title="2.SPORTS",FS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://iptvworld.nl:2095/mm5z86zW/qgSXYnBD/8255|referer=https://widevine.licenses4.me/
+http://iptvworld.nl:2095/mm5z86zW/qgSXYnBD/8255?|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-ID="nbcsport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd1o0izOk_EVIkn0hEVUoZRu7HnbCAF3uPzA&usqp=CAU" group-title="2.SPORTS",NBC SPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
