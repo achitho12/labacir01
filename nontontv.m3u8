@@ -5282,17 +5282,17 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-041/stream.mpd
 
 #EXTINF:-1 tvg-id="beINSports1.qa" group-title="2.SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnDmRd3CXnUDIR5vRE6C2QEQFFE83cVxnQQ&usqp=CAU" ,beIN Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://lb.buy-global.store/live/lb555/bs1-multi.m3u8|User-agent=ㅤyacineee55000
+#https://lb.buy-global.store/live/lb555/bs1-multi.m3u8|User-agent=ㅤyacineee55000
 http://103.167.167.5:8111/play/a02m/index.m3u8
 
 #EXTINF:-1 tvg-id="beINSports2.qa" group-title="2.SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnDmRd3CXnUDIR5vRE6C2QEQFFE83cVxnQQ&usqp=CAU" ,beIN Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://lb.buy-global.store/live/lb555/bs2-multi.m3u8|User-agent=ㅤyacineee55000
+#https://lb.buy-global.store/live/lb555/bs2-multi.m3u8|User-agent=ㅤyacineee55000
 http://103.167.167.5:8111/play/a02n/index.m3u8
 
 #EXTINF:-1 tvg-id="beINSports3.qa" group-title="2.SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnDmRd3CXnUDIR5vRE6C2QEQFFE83cVxnQQ&usqp=CAU" ,beIN Sports 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://lb.buy-global.store/live/lb555/bs3-multi.m3u8|User-agent=ㅤyacineee55000
+#https://lb.buy-global.store/live/lb555/bs3-multi.m3u8|User-agent=ㅤyacineee55000
 http://62.182.82.104/BEIN_SPORT_3_HD/index.m3u8?token=test&v=1673204766768
 
 #EXTINF:-1 tvg-id="beINSports4.qa" group-title="2.SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnDmRd3CXnUDIR5vRE6C2QEQFFE83cVxnQQ&usqp=CAU" ,beIN Sports 4
