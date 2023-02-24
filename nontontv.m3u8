@@ -5490,7 +5490,7 @@ https://newanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 #EXTINF:-1 tvg-id="ZiggoSportSelect.nl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKEpUCoblHC--BSlJJzu2_zzhmzehy9uH6zg&usqp=CAU" group-title="2.SPORTS",Ziggo Sport Select
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.onlinewebtv.lol/lb/premium393/index.m3u8?|referer=https://widevine.licenses4.me/
+https://webudit.onlinewebtv.lol/lb/premium393/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-id="ZiggoSportVoetbal.nl" tvg-logo="https://bit.ly/3ffzRO3" group-title="2.SPORTS",Ziggo Sport Voetbal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
