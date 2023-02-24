@@ -693,230 +693,230 @@ https://siloh.pluto.tv/lilo/production/Nick/03/master.m3u8
 #EXTINF:-1 tvg-ID="pbskids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPghRJVjJgRQEFhXFkO4Cve-EX-5xKg0Ae5g&usqp=CAU" group-title="4.CARTOON",PBS KIDS
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 #EXTM3U
-#EXTINF:-1 group-title="ALL TV" tvg-logo="https://s.id/1d0Iu",TVRI ACEH
+#EXTINF:-1 group-title="7.DAERAH" tvg-logo="https://s.id/1d0Iu",TVRI ACEH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIAceh)/index.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="ALL TV" tvg-logo="https://s.id/1d0Iu",TVRI SUMATERA UTARA
+#EXTINF:-1 group-title="7.DAERAH" tvg-logo="https://s.id/1d0Iu",TVRI SUMATERA UTARA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISumutmedan)/index.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="ALL TV" tvg-logo="https://s.id/1d0Iu",TVRI SUMATERA BARAT
+#EXTINF:-1 group-title="7.DAERAH" tvg-logo="https://s.id/1d0Iu",TVRI SUMATERA BARAT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISumbarpadang)/index.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="ALL TV" tvg-logo="https://s.id/1d0Iu",TVRI SUMATERA SELATAN
+#EXTINF:-1 group-title="7.DAERAH" tvg-logo="https://s.id/1d0Iu",TVRI SUMATERA SELATAN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISumsel)/index.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="ALL TV" tvg-logo="https://s.id/1d0Iu",TVRI RIAU
+#EXTINF:-1 group-title="7.DAERAH" tvg-logo="https://s.id/1d0Iu",TVRI RIAU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIRiau)/index.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="ALL TV" tvg-logo="https://s.id/1d0Iu",TVRI JAMBI
+#EXTINF:-1 group-title="7.DAERAH" tvg-logo="https://s.id/1d0Iu",TVRI JAMBI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJambi)/index.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="ALL TV" tvg-logo="https://s.id/1d0Iu",TVRI BANGKA BELITUNG
+#EXTINF:-1 group-title="7.DAERAH" tvg-logo="https://s.id/1d0Iu",TVRI BANGKA BELITUNG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBabel)/index.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="ALL TV" tvg-logo="https://s.id/1d0Iu",TVRI BENGKULU
+#EXTINF:-1 group-title="7.DAERAH" tvg-logo="https://s.id/1d0Iu",TVRI BENGKULU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBengkulu)/index.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="ALL TV" tvg-logo="https://s.id/1d0Iu",TVRI LAMPUNG
+#EXTINF:-1 group-title="7.DAERAH" tvg-logo="https://s.id/1d0Iu",TVRI LAMPUNG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRILampung)/index.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="ALL TV" tvg-logo="https://s.id/1d0Iu",TVRI DKI JAKARTA
+#EXTINF:-1 group-title="7.DAERAH" tvg-logo="https://s.id/1d0Iu",TVRI DKI JAKARTA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIDki)/index.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="ALL TV" tvg-logo="https://s.id/1d0Iu",TVRI JAWA BARAT
+#EXTINF:-1 group-title="7.DAERAH" tvg-logo="https://s.id/1d0Iu",TVRI JAWA BARAT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJabarbandung)/index.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="ALL TV" tvg-logo="https://s.id/1d0Iu",TVRI JAWA TENGAH
+#EXTINF:-1 group-title="7.DAERAH" tvg-logo="https://s.id/1d0Iu",TVRI JAWA TENGAH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJatengsemarang)/index.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="ALL TV" tvg-logo="https://s.id/1d0Iu",TVRI JAWA TIMUR
+#EXTINF:-1 group-title="7.DAERAH" tvg-logo="https://s.id/1d0Iu",TVRI JAWA TIMUR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJatimsurabaya)/index.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="ALL TV" tvg-logo="https://s.id/1d0Iu",TVRI YOGYAKARTA
+#EXTINF:-1 group-title="7.DAERAH" tvg-logo="https://s.id/1d0Iu",TVRI YOGYAKARTA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIYogyakarta)/index.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="ALL TV" tvg-logo="https://s.id/1d0Iu",TVRI BALI
+#EXTINF:-1 group-title="7.DAERAH" tvg-logo="https://s.id/1d0Iu",TVRI BALI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBali)/index.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="ALL TV" tvg-logo="https://s.id/1d0Iu",TVRI NUSA TENGGARA BARAT
+#EXTINF:-1 group-title="7.DAERAH" tvg-logo="https://s.id/1d0Iu",TVRI NUSA TENGGARA BARAT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINtbmataram)/index.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="ALL TV" tvg-logo="https://s.id/1d0Iu",TVRI NUSA TENGGARA TIMUR
+#EXTINF:-1 group-title="7.DAERAH" tvg-logo="https://s.id/1d0Iu",TVRI NUSA TENGGARA TIMUR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINttkupang)/index.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="ALL TV" tvg-logo="https://s.id/1d0Iu",TVRI KALIMANTAN BARAT
+#EXTINF:-1 group-title="7.DAERAH" tvg-logo="https://s.id/1d0Iu",TVRI KALIMANTAN BARAT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalbar)/index.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="ALL TV" tvg-logo="https://s.id/1d0Iu",TVRI KALIMANTAN TENGAH
+#EXTINF:-1 group-title="7.DAERAH" tvg-logo="https://s.id/1d0Iu",TVRI KALIMANTAN TENGAH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalteng)/index.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="ALL TV" tvg-logo="https://s.id/1d0Iu",TVRI KALIMANTAN TIMUR
+#EXTINF:-1 group-title="7.DAERAH" tvg-logo="https://s.id/1d0Iu",TVRI KALIMANTAN TIMUR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKaltimsamarinda)/index.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="ALL TV" tvg-logo="https://s.id/1d0Iu",TVRI KALIMANTAN SELATAN
+#EXTINF:-1 group-title="7.DAERAH" tvg-logo="https://s.id/1d0Iu",TVRI KALIMANTAN SELATAN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalselbanjarmsn)/index.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="ALL TV" tvg-logo="https://s.id/1d0Iu",TVRI SULAWESI SELATAN
+#EXTINF:-1 group-title="7.DAERAH" tvg-logo="https://s.id/1d0Iu",TVRI SULAWESI SELATAN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISulselmakasar)/index.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="ALL TV" tvg-logo="https://s.id/1d0Iu",TVRI SULAWESI BARAT
+#EXTINF:-1 group-title="7.DAERAH" tvg-logo="https://s.id/1d0Iu",TVRI SULAWESI BARAT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISulbarmajene)/index.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="ALL TV" tvg-logo="https://s.id/1d0Iu",TVRI SULAWESI TENGGARA
+#EXTINF:-1 group-title="7.DAERAH" tvg-logo="https://s.id/1d0Iu",TVRI SULAWESI TENGGARA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISultra)/index.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="ALL TV" tvg-logo="https://s.id/1d0Iu",TVRI SULAWESI TENGAH
+#EXTINF:-1 group-title="7.DAERAH" tvg-logo="https://s.id/1d0Iu",TVRI SULAWESI TENGAH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISultengpalu)/index.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="ALL TV" tvg-logo="https://s.id/1d0Iu",TVRI SULAWESI UTARA
+#EXTINF:-1 group-title="7.DAERAH" tvg-logo="https://s.id/1d0Iu",TVRI SULAWESI UTARA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISulutmanado)/index.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="ALL TV" tvg-logo="https://s.id/1d0Iu",TVRI GORONTALO
+#EXTINF:-1 group-title="7.DAERAH" tvg-logo="https://s.id/1d0Iu",TVRI GORONTALO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIGorontalo)/index.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="ALL TV" tvg-logo="https://s.id/1d0Iu",TVRI MALUKU
+#EXTINF:-1 group-title="7.DAERAH" tvg-logo="https://s.id/1d0Iu",TVRI MALUKU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIMalukuambon)/index.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="ALL TV" tvg-logo="https://s.id/1d0Iu",TVRI PAPUA
+#EXTINF:-1 group-title="7.DAERAH" tvg-logo="https://s.id/1d0Iu",TVRI PAPUA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIPapua)/index.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://s.id/1jguM" group-title="ALL TV",ADI TV
+#EXTINF:-1 tvg-logo="https://s.id/1jguM" group-title="7.DAERAH",ADI TV
 https://v2.siar.us/aditv/livestream/chunks.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://s.id/1jgtU" group-title="ALL TV",arek TV
+#EXTINF:-1 tvg-logo="https://s.id/1jgtU" group-title="7.DAERAH",arek TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://wowza58.indostreamserver.com:1935/arektv/live/playlist.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://s.id/1jgvQ" group-title="ALL TV",Banjar TV
+#EXTINF:-1 tvg-logo="https://s.id/1jgvQ" group-title="7.DAERAH",Banjar TV
 https://v2.siar.us/banjartv/livestream/playlist.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://s.id/1jgwn" group-title="ALL TV",Banten TV
+#EXTINF:-1 tvg-logo="https://s.id/1jgwn" group-title="7.DAERAH",Banten TV
 https://v2.siar.us/barayatv/live/chunks.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://s.id/1jgx3" group-title="ALL TV",Banyumas TV
+#EXTINF:-1 tvg-logo="https://s.id/1jgx3" group-title="7.DAERAH",Banyumas TV
 https://v2.siar.us/bmstv/livestream/playlist.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://s.id/1jgxu" group-title="ALL TV",DM TV
+#EXTINF:-1 tvg-logo="https://s.id/1jgxu" group-title="7.DAERAH",DM TV
 https://bravo.kugo.id/dmtvmalang/rtmp.stream/chunklist.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8MiHHUKJ8aZ8VbxgxL81xKtg6ZDy-8iytfQ&usqp=CAU" group-title="ALL TV",GPR TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8MiHHUKJ8aZ8VbxgxL81xKtg6ZDy-8iytfQ&usqp=CAU" group-title="7.DAERAH",GPR TV
 https://wowza.convergen.co/gprtv/myLive/playlist.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://humabetang.com/public/template/front/img/logo_news.png" group-title="ALL TV",Humabetang TV
+#EXTINF:-1 tvg-logo="https://humabetang.com/public/template/front/img/logo_news.png" group-title="7.DAERAH",Humabetang TV
 https://v3.siar.us/humabetangtv/live/playlist.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://s.id/1dYfs" group-title="ALL TV",JawaPos TV
+#EXTINF:-1 tvg-logo="https://s.id/1dYfs" group-title="7.DAERAH",JawaPos TV
 https://v2.siar.us/jawapostv/live/chunks.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAUvLcWD__US6CeWoDKIflA5zxgR8-76hTUUJQUxRlpiFuXWSz2MYB3ss&s=10" group-title="ALL TV",KSB TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAUvLcWD__US6CeWoDKIflA5zxgR8-76hTUUJQUxRlpiFuXWSz2MYB3ss&s=10" group-title="7.DAERAH",KSB TV
 https://bravo.kugo.id/ksb/udp.stream/playlist.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://s.id/1dYfQ" group-title="ALL TV",Madu TV - Blitar
+#EXTINF:-1 tvg-logo="https://s.id/1dYfQ" group-title="7.DAERAH",Madu TV - Blitar
 https://re1.siar.us/madutv/hd720/playlist.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://s.id/1dYgk" group-title="ALL TV",PAL TV
+#EXTINF:-1 tvg-logo="https://s.id/1dYgk" group-title="7.DAERAH",PAL TV
 https://v3.siar.us/paltv/live/playlist.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://s.id/1dYgt" group-title="ALL TV",Puja TV
+#EXTINF:-1 tvg-logo="https://s.id/1dYgt" group-title="7.DAERAH",Puja TV
 https://v6.siar.us/pujatv/live/chunks.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://s.id/1dYgR" group-title="ALL TV",RC TV
+#EXTINF:-1 tvg-logo="https://s.id/1dYgR" group-title="7.DAERAH",RC TV
 https://v10.siar.us/rctv/live/playlist.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://s.id/1dYh0" group-title="ALL TV",Riau Raya TV
+#EXTINF:-1 tvg-logo="https://s.id/1dYh0" group-title="7.DAERAH",Riau Raya TV
 https://bravo.kugo.id/riauraya/rtmp.stream/playlist.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://s.id/1eUM6"group-title="ALL TV",Riau TV
+#EXTINF:-1 tvg-logo="https://s.id/1eUM6"group-title="7.DAERAH",Riau TV
 https://bravo.kugo.id/riautv/udp.stream/playlist.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaenYMvXIbFfwukdmpxwN07tmS3ZtLXUx2UhLpnZu-fvpJcfinVtiUQoz32v0QJ4MOl3CsetTfA8aKUhZqxgYBy7nFWtY5L6vmM2RTDf1Dg5QEQV3ckp0iFFiviuPde4v-dNSMcV_dFQFOB-2Up-M5X582tO3RgkyphvsfFOBrpmodUH-6bESvmnee-g/s1280/20220826_114351.png" group-title="ALL TV",SalingSapa TV
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaenYMvXIbFfwukdmpxwN07tmS3ZtLXUx2UhLpnZu-fvpJcfinVtiUQoz32v0QJ4MOl3CsetTfA8aKUhZqxgYBy7nFWtY5L6vmM2RTDf1Dg5QEQV3ckp0iFFiviuPde4v-dNSMcV_dFQFOB-2Up-M5X582tO3RgkyphvsfFOBrpmodUH-6bESvmnee-g/s1280/20220826_114351.png" group-title="7.DAERAH",SalingSapa TV
 https://bravo.kugo.id/salingsapa/rtmp.stream/playlist.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqTbAnfOffgm9ntbvL8D2D1mbrZPEude6Aqw&usqp=CAU" group-title="ALL TV",Sampit TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqTbAnfOffgm9ntbvL8D2D1mbrZPEude6Aqw&usqp=CAU" group-title="7.DAERAH",Sampit TV
 https://alfa.kugo.id/sampittv/rtmp.stream/chunklist.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqqd899UoXsjEcriGKe9B4tWkrhhZ1TPBXWw&usqp=CAU" group-title="ALL TV",Sangaji TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqqd899UoXsjEcriGKe9B4tWkrhhZ1TPBXWw&usqp=CAU" group-title="7.DAERAH",Sangaji TV
 https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyLZpyFuE6Ts20qB86YD747w-7yvp2i39FsQpTNvZYVc_r3s_ECQpa_IcNs0OGRXKg7uYIfJd3FJNl7aILRSyiLYVpS4OBrkOKzcyVRbeb1UWfuUjFM4tfSPuATj8aQXY00uJpgAG7O7aVoUMu93buuKQGmNdQpsPXooMqfpDgi9_m5BTbn72c4m4CCQ/s1280/20220826_134801.png" group-title="ALL TV",TA TV
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyLZpyFuE6Ts20qB86YD747w-7yvp2i39FsQpTNvZYVc_r3s_ECQpa_IcNs0OGRXKg7uYIfJd3FJNl7aILRSyiLYVpS4OBrkOKzcyVRbeb1UWfuUjFM4tfSPuATj8aQXY00uJpgAG7O7aVoUMu93buuKQGmNdQpsPXooMqfpDgi9_m5BTbn72c4m4CCQ/s1280/20220826_134801.png" group-title="7.DAERAH",TA TV
 https://v2.siar.us/tatv/live.sdp/playlist.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpURX6aTt8O_om-06aWxJLmrvFzlXkL5V6Pwyyk6podB2CsiNwceDN6XQrmahM8nLjuYQbCi4AH8rMtR6xphvKX1f0M46Rs_yGjoZY-zSKnSZWimTjqlJUPN7lJc_qSqcVpflIAJC5zOTkecsZBUqFiTe1FOw71eZ-Jvt8-Z99HG3Lgw15qIeftqcYTg/s1280/20220826_135431.png" group-title="ALL TV",TVTPI
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpURX6aTt8O_om-06aWxJLmrvFzlXkL5V6Pwyyk6podB2CsiNwceDN6XQrmahM8nLjuYQbCi4AH8rMtR6xphvKX1f0M46Rs_yGjoZY-zSKnSZWimTjqlJUPN7lJc_qSqcVpflIAJC5zOTkecsZBUqFiTe1FOw71eZ-Jvt8-Z99HG3Lgw15qIeftqcYTg/s1280/20220826_135431.png" group-title="7.DAERAH",TVTPI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://103.30.246.47:1935/tvtpi/live/playlist.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKnRxWVfRJeGJJftGAdJqS2Az4eq4joduXJ8GpATG0ypJVa0B6St1zTddwkB8JRLCVfSCGwh4UQQe6jiPK48GpmZ9UeSMl2XFIouF9L_SHhQWzLJaic6sjh8N7jkaI5__qA2JMfYiYvcgmclTsGTtV5HVbo9qEwItaP5G-B34u02lKHI8pTCnSIPyORw/s1280/20220826_190522.png" group-title="ALL TV",JAYA TV
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKnRxWVfRJeGJJftGAdJqS2Az4eq4joduXJ8GpATG0ypJVa0B6St1zTddwkB8JRLCVfSCGwh4UQQe6jiPK48GpmZ9UeSMl2XFIouF9L_SHhQWzLJaic6sjh8N7jkaI5__qA2JMfYiYvcgmclTsGTtV5HVbo9qEwItaP5G-B34u02lKHI8pTCnSIPyORw/s1280/20220826_190522.png" group-title="7.DAERAH",JAYA TV
 https://h1.intechmedia.net/intech/ch52.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4JcsK3Mb2Y437t9MBQWdRzLmv7QrUIfcNA99ni9CeXfALQI3MSLeoR0vfFFPPObUrMESReYnfIiZU20bwQSofiGF2VatUDAvDls-DLVQYCEybHpv0EBIuniKumwUreBm5DZhD2if7tkMAkNelA8X8pawl-al6YlayRuCDD0ujc-W4IIouUzJSB7jibQ/s1280/20220826_191029.png"group-title="ALL TV",BETV BENGKULU
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4JcsK3Mb2Y437t9MBQWdRzLmv7QrUIfcNA99ni9CeXfALQI3MSLeoR0vfFFPPObUrMESReYnfIiZU20bwQSofiGF2VatUDAvDls-DLVQYCEybHpv0EBIuniKumwUreBm5DZhD2if7tkMAkNelA8X8pawl-al6YlayRuCDD0ujc-W4IIouUzJSB7jibQ/s1280/20220826_191029.png"group-title="7.DAERAH",BETV BENGKULU
 https://h1.intechmedia.net/intech/ch58.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggz0NrW37opkukWcnqqHiN6dYOiSKQfsSwUGpiT9HFd9KcjLxJDvBdGPCshGjcRnUy0quVW4UTvrdXOSb_qLzqYBq6NwLeW49X3x9g-97J2dVP6Bw6qH4yDbcmC38QBbF3efrIvq37rabRbWlBzB-ihJ8XBB5DvDWK6PFW86SMVXKaoXyssaww4VI9sQ/s1280/20220826_192319.png"group-title="ALL TV",RA TV
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggz0NrW37opkukWcnqqHiN6dYOiSKQfsSwUGpiT9HFd9KcjLxJDvBdGPCshGjcRnUy0quVW4UTvrdXOSb_qLzqYBq6NwLeW49X3x9g-97J2dVP6Bw6qH4yDbcmC38QBbF3efrIvq37rabRbWlBzB-ihJ8XBB5DvDWK6PFW86SMVXKaoXyssaww4VI9sQ/s1280/20220826_192319.png"group-title="7.DAERAH",RA TV
 https://h1.intechmedia.net/intech/ch59.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1n-DL_3pGUwa1hYUxsLNLTnzKZukFGPF4wiQ3iSd04hsLt5i1oIiQnM2W&s=10",group-title="ALL TV",ATV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1n-DL_3pGUwa1hYUxsLNLTnzKZukFGPF4wiQ3iSd04hsLt5i1oIiQnM2W&s=10",group-title="7.DAERAH",ATV
 https://h1.intechmedia.net/intech/ch80.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJwaA3KIRD55rZptjf4Wcbefe-g4Z-xqr_LA&usqp=CAU",group-title="ALL TV",UGTV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJwaA3KIRD55rZptjf4Wcbefe-g4Z-xqr_LA&usqp=CAU",group-title="7.DAERAH",UGTV
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 #EXTM3U
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpHeeejMBNPU0qFoo-J9Vg8IaaceROkNndrg&usqp=CAU",group-title="ALL TV",JITV
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpHeeejMBNPU0qFoo-J9Vg8IaaceROkNndrg&usqp=CAU",group-title="7.DAERAH",JITV
 https://h1.intechmedia.net/intech/ch65.m3u8
 #EXTM3U
-#EXTINF:-1  tvg-id="TVKU.id" group-title="ALL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/91/TVKU-BChannel.png",TVKU
+#EXTINF:-1  tvg-id="TVKU.id" group-title="7.DAERAH" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/91/TVKU-BChannel.png",TVKU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://103.30.1.14:8080/hls/live.m3u8
 #EXTM3U
-#EXTINF:-1  tvg-id="BMSTV.id" group-title="ALL TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/800px-BMSTV_Banyumas-Purwokerto.png",BMSTV
+#EXTINF:-1  tvg-id="BMSTV.id" group-title="7.DAERAH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/800px-BMSTV_Banyumas-Purwokerto.png",BMSTV
 http://bmstv.onlivestreaming.net/bmstv/livestream/chunks.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logo-saktitv.png/640px-Logo-saktitv.png" group-title="ALL TV",SAKTI TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logo-saktitv.png/640px-Logo-saktitv.png" group-title="7.DAERAH",SAKTI TV
 http://video2.onlivestreaming.net/saktitv/livestream/chunks.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrLIFd1yZGqn1r7R-2t5Hkrjk4XZJwLhsq9w&usqp=CAU",group-title="ALL TV",MGSTV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrLIFd1yZGqn1r7R-2t5Hkrjk4XZJwLhsq9w&usqp=CAU",group-title="7.DAERAH",MGSTV
 https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv_high.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlLddtyGLsGkDq1jo69g4IvixjdljdiLqUqg&usqp=CAU" group-title="ALL TV",KAWANUA TV (Manado)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlLddtyGLsGkDq1jo69g4IvixjdljdiLqUqg&usqp=CAU" group-title="7.DAERAH",KAWANUA TV (Manado)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://122.248.43.138:1935/ch18/myStream/live.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-cRtTFVL7aE0/XDv6R0glUaI/AAAAAAAAACA/7F0Bg_z3htgAH1efgZY8nTSf1sDOqyFngCLcBGAs/s1600/Picture2.png",group-title="ALL TV",RADAR TV
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-cRtTFVL7aE0/XDv6R0glUaI/AAAAAAAAACA/7F0Bg_z3htgAH1efgZY8nTSf1sDOqyFngCLcBGAs/s1600/Picture2.png",group-title="7.DAERAH",RADAR TV
 https://v10.siar.us/rctv/live/playlist.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d9/Riau_TV.png/640px-Riau_TV.png" group-title="ALL TV",RIAU TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d9/Riau_TV.png/640px-Riau_TV.png" group-title="7.DAERAH",RIAU TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://122.248.43.138:1935/ch11/myStream/chunklist_w2044873838.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBhl-SK3GcRIMDbLVCQfVBLP7NMPeF7YavkA&usqp=CAU" group-title="ALL TV",SMTV (Sumedang)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBhl-SK3GcRIMDbLVCQfVBLP7NMPeF7YavkA&usqp=CAU" group-title="7.DAERAH",SMTV (Sumedang)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://122.248.43.138:1935/ch25/myStream/live.m3u8
 #EXTM3U
@@ -4195,100 +4195,100 @@ http://wowza60.indostreamserver.com:1935/muadztv/live/chunklist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKgelq9oKF8diacn3LOfpG4SyFkED1_op25g&usqp=CAU" group-title="8.DAERAH",TVRI Sulawesi Tengah
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKgelq9oKF8diacn3LOfpG4SyFkED1_op25g&usqp=CAU" group-title="7.DAERAH",TVRI Sulawesi Tengah
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISULTENGPALU)/index.m3u8?checkedby:iptvcat.com
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKgelq9oKF8diacn3LOfpG4SyFkED1_op25g&usqp=CAU" group-title="8.DAERAH",TVRI Sulawesi Utara
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKgelq9oKF8diacn3LOfpG4SyFkED1_op25g&usqp=CAU" group-title="7.DAERAH",TVRI Sulawesi Utara
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsulutmanado)/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKgelq9oKF8diacn3LOfpG4SyFkED1_op25g&usqp=CAU" group-title="8.DAERAH",TVRI Sulawesi Barat
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKgelq9oKF8diacn3LOfpG4SyFkED1_op25g&usqp=CAU" group-title="7.DAERAH",TVRI Sulawesi Barat
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIsulbarmajene)/index.m3u8?checkedby:iptvcat.com
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKgelq9oKF8diacn3LOfpG4SyFkED1_op25g&usqp=CAU" group-title="8.DAERAH",TVRI Sumatra Selatan
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKgelq9oKF8diacn3LOfpG4SyFkED1_op25g&usqp=CAU" group-title="7.DAERAH",TVRI Sumatra Selatan
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumsel)/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKgelq9oKF8diacn3LOfpG4SyFkED1_op25g&usqp=CAU" group-title="8.DAERAH",TVRI Sumatra Barat
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKgelq9oKF8diacn3LOfpG4SyFkED1_op25g&usqp=CAU" group-title="7.DAERAH",TVRI Sumatra Barat
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISUMBARPADANG)/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKgelq9oKF8diacn3LOfpG4SyFkED1_op25g&usqp=CAU" group-title="8.DAERAH",TVRI Papua
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKgelq9oKF8diacn3LOfpG4SyFkED1_op25g&usqp=CAU" group-title="7.DAERAH",TVRI Papua
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIPAPUA)/index.m3u8?checkedby:iptvcat.com
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKgelq9oKF8diacn3LOfpG4SyFkED1_op25g&usqp=CAU" group-title="8.DAERAH",TVRI 3 Budaya
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKgelq9oKF8diacn3LOfpG4SyFkED1_op25g&usqp=CAU" group-title="7.DAERAH",TVRI 3 Budaya
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKgelq9oKF8diacn3LOfpG4SyFkED1_op25g&usqp=CAU" group-title="8.DAERAH",TVRI DKI JAKARTA
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKgelq9oKF8diacn3LOfpG4SyFkED1_op25g&usqp=CAU" group-title="7.DAERAH",TVRI DKI JAKARTA
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIDKI)/index.m3u8?checkedby:iptvcat.com
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKgelq9oKF8diacn3LOfpG4SyFkED1_op25g&usqp=CAU" group-title="8.DAERAH",TVRI Aceh
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKgelq9oKF8diacn3LOfpG4SyFkED1_op25g&usqp=CAU" group-title="7.DAERAH",TVRI Aceh
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIACEH)/index.m3u8?checkedby:iptvcat.com
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKgelq9oKF8diacn3LOfpG4SyFkED1_op25g&usqp=CAU" group-title="8.DAERAH",TVRI Bali
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKgelq9oKF8diacn3LOfpG4SyFkED1_op25g&usqp=CAU" group-title="7.DAERAH",TVRI Bali
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBali)/index.m3u8?checkedby:iptvcat.com
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKgelq9oKF8diacn3LOfpG4SyFkED1_op25g&usqp=CAU" group-title="8.DAERAH",TVRI Bengkulu
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKgelq9oKF8diacn3LOfpG4SyFkED1_op25g&usqp=CAU" group-title="7.DAERAH",TVRI Bengkulu
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIbengkulu)/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKgelq9oKF8diacn3LOfpG4SyFkED1_op25g&usqp=CAU" group-title="8.DAERAH",TVRI Jawa Barat
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKgelq9oKF8diacn3LOfpG4SyFkED1_op25g&usqp=CAU" group-title="7.DAERAH",TVRI Jawa Barat
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjabarbandung)/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKgelq9oKF8diacn3LOfpG4SyFkED1_op25g&usqp=CAU" group-title="8.DAERAH",TVRI Jambi
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKgelq9oKF8diacn3LOfpG4SyFkED1_op25g&usqp=CAU" group-title="7.DAERAH",TVRI Jambi
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjambi)/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKgelq9oKF8diacn3LOfpG4SyFkED1_op25g&usqp=CAU" group-title="8.DAERAH",TVRI Jawa Tengah
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKgelq9oKF8diacn3LOfpG4SyFkED1_op25g&usqp=CAU" group-title="7.DAERAH",TVRI Jawa Tengah
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjatengsemarang)/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKgelq9oKF8diacn3LOfpG4SyFkED1_op25g&usqp=CAU" group-title="8.DAERAH",TVRI Jogjakarta
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKgelq9oKF8diacn3LOfpG4SyFkED1_op25g&usqp=CAU" group-title="7.DAERAH",TVRI Jogjakarta
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8?checkedby:iptvcat.com
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKgelq9oKF8diacn3LOfpG4SyFkED1_op25g&usqp=CAU" group-title="8.DAERAH",TVRI Jawa Timur
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKgelq9oKF8diacn3LOfpG4SyFkED1_op25g&usqp=CAU" group-title="7.DAERAH",TVRI Jawa Timur
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/index.m3u8?checkedby:iptvcat.com
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKgelq9oKF8diacn3LOfpG4SyFkED1_op25g&usqp=CAU" group-title="8.DAERAH",TVRI Kalbar
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKgelq9oKF8diacn3LOfpG4SyFkED1_op25g&usqp=CAU" group-title="7.DAERAH",TVRI Kalbar
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIkalbar)/index.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKgelq9oKF8diacn3LOfpG4SyFkED1_op25g&usqp=CAU" group-title="8.DAERAH",TVRI Kalsel
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKgelq9oKF8diacn3LOfpG4SyFkED1_op25g&usqp=CAU" group-title="7.DAERAH",TVRI Kalsel
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALSELBANJARMSN)/index.m3u8?checkedby:iptvcat.com
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKgelq9oKF8diacn3LOfpG4SyFkED1_op25g&usqp=CAU" group-title="8.DAERAH",TVRI Kalteng
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKgelq9oKF8diacn3LOfpG4SyFkED1_op25g&usqp=CAU" group-title="7.DAERAH",TVRI Kalteng
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALTENG)/index.m3u8?checkedby:iptvcat.com
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKgelq9oKF8diacn3LOfpG4SyFkED1_op25g&usqp=CAU" group-title="8.DAERAH",TVRI Kaltim
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKgelq9oKF8diacn3LOfpG4SyFkED1_op25g&usqp=CAU" group-title="7.DAERAH",TVRI Kaltim
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKaltimsamarinda)/index.m3u8?checkedby:iptvcat.com
 
 
