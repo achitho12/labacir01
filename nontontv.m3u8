@@ -136,7 +136,7 @@ https://anevi-live-channel-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsT
 #EXTM3U
 #EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwqkvqFAzLnnkRyqIAD4azC_d0KaonGbsF3Q&usqp=CAU" ,INEWS 2
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://inews-linier.rctiplus.id/inews-sdi.m3u8?auth_key=1677226869-0647c89828c486487f9b6d8906ca7884-mlLrvwKBDmFaiA1RfFNqmaBQIiCp1TYNquxlOIeW-6cf9fbda27cbe011c1170cdfd68c09bc|referer=https://m.rctiplus.com/
+https://inews-linier.rctiplus.id/inews-sdi-avc1_800000=6-mp4a_96000=1.m3u8?auth_key=1677325776-5d62cc7353fa3dc2d0643119eddfbe41-0-4159fee68c8795cbf71f37dde67b896d|referer=https://m.rctiplus.com/
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
