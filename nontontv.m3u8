@@ -278,9 +278,9 @@ https://anevi-live-channel-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
 
-#EXTINF:-1 tvg-ID="tv2" tvg-logo="https://s.id/1d1ps" group-title="1.LOKAL",TV2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="tv2" tvg-logo="https://s.id/1d1ps" group-title="1.LOKAL",TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
 
 #EXTINF:-1 tvg-ID="tv3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs28PEkpuRolG8YW4Z8kZ9sm5kVKPkB8PfbQ&usqp=CAU" group-title="1.LOKAL",TV3
