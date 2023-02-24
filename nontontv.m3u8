@@ -1528,7 +1528,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/628e685ba3811100070551
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://iptvtree.net:8080/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/146812
 #EXTM3U
-#EXTINF:-1 tvg-ID="wion" tvg-logo="http://cdn.wionews.com/sites/default/files/2018/09/11/46514-WION.jpg" group-title="ALL TV",WION
+#EXTINF:-1 tvg-ID="wion" tvg-logo="http://cdn.wionews.com/sites/default/files/2018/09/11/46514-WION.jpg" group-title="1.LOKAL",WION
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://rr.dens.tv/h/h91/index2.m3u8
 #EXTM3U
