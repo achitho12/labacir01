@@ -5225,16 +5225,16 @@ https://newtest.webtv1.lol/lb/premium65/index.m3u8?|referer=https://widevine.lic
 
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 1 HD TH MY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="2.SPORTS",ASTRO SUPERSPORTS 1 HD 
 http://superbits.tv:2095/d4Je5xwD/yadTXB63/115615
-https://webudit.onlinewebtv.lol/lb/premium123/index.m3u8?|referer=https://widevine.licenses4.me/
+#https://webudit.onlinewebtv.lol/lb/premium123/index.m3u8?|referer=https://widevine.licenses4.me/
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 2 HD TH MY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="2.SPORTS",ASTRO SUPERSPORTS 2 HD 
 http://superbits.tv:2095/d4Je5xwD/yadTXB63/115616
-https://webudit.onlinewebtv.lol/lb/premium124/index.m3u8?|referer=https://widevine.licenses4.me/
+#https://webudit.onlinewebtv.lol/lb/premium124/index.m3u8?|referer=https://widevine.licenses4.me/
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 3 HD TH MY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="2.SPORTS",ASTRO SUPERSPORTS 3 HD 
 http://superbits.tv:2095/d4Je5xwD/yadTXB63/115617
-https://webudit.onlinewebtv.lol/lb/premium125/index.m3u8?|referer=https://widevine.licenses4.me/
+#https://webudit.onlinewebtv.lol/lb/premium125/index.m3u8?|referer=https://widevine.licenses4.me/
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 4 HD TH MY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="2.SPORTS",ASTRO SUPERSPORTS 4 HD 
 http://superbits.tv:2095/d4Je5xwD/yadTXB63/115618 
-https://webudit.onlinewebtv.lol/lb/premium126/index.m3u8?|referer=https://widevine.licenses4.me/
+#https://webudit.onlinewebtv.lol/lb/premium126/index.m3u8?|referer=https://widevine.licenses4.me/
 #EXTINF:-1 tvg-id="" tvg-name="Star Sports 1 FHD IN" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/61/STAR_Sports_logo.png/200px-STAR_Sports_logo.png" group-title="2.SPORTS",Star Sports 1 FHD 
 http://superbits.tv:2095/d4Je5xwD/yadTXB63/461062
 #EXTINF:-1 tvg-id="" tvg-name="Star Sports 1 Hindi FHD IN" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/61/STAR_Sports_logo.png/200px-STAR_Sports_logo.png" group-title="2.SPORTS",Star Sports 1 Hindi FHD 
@@ -5292,27 +5292,22 @@ http://103.167.167.5:8111/play/a02n/index.m3u8
 
 #EXTINF:-1 tvg-id="beINSports3.qa" group-title="2.SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnDmRd3CXnUDIR5vRE6C2QEQFFE83cVxnQQ&usqp=CAU" ,beIN Sports 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#https://lb.buy-global.store/live/lb555/bs3-multi.m3u8|User-agent=ㅤyacineee55000
-http://62.182.82.104/BEIN_SPORT_3_HD/index.m3u8
+http://62.182.82.104/BEIN_SPORT_3_HD/index.m3u8?token=test&v=1673204766768
 
 #EXTINF:-1 tvg-id="beINSports4.qa" group-title="2.SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnDmRd3CXnUDIR5vRE6C2QEQFFE83cVxnQQ&usqp=CAU" ,beIN Sports 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#https://lb.buy-global.store/live/lb555/bs4-multi.m3u8|User-agent=ㅤyacineee55000
 http://62.182.82.104/BEIN_SPORT_4_HD/index.m3u8?token=test&v=1673204766768
 
 #EXTINF:-1 tvg-id="beINSports5.qa" group-title="2.SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnDmRd3CXnUDIR5vRE6C2QEQFFE83cVxnQQ&usqp=CAU",beIN Sports 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#https://lb.buy-global.store/live/lb555/bs5-multi.m3u8|User-agent=ㅤyacineee55000
 http://62.182.82.104/BEIN_SPORT_5_HD/index.m3u8?token=test&v=1673204766768
 
 #EXTINF:-1 tvg-id="beINSports6.qa" group-title="2.SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnDmRd3CXnUDIR5vRE6C2QEQFFE83cVxnQQ&usqp=CAU" ,beIN Sports 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#https://lb.buy-global.store/live/lb555/bs6-multi.m3u8|User-agent=ㅤyacineee55000
 http://62.182.82.104/BEIN_SPORT_6_HD/index.m3u8?token=test&v=1673204766768
 
 #EXTINF:-1 tvg-id="beINSports7.qa" group-title="2.SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnDmRd3CXnUDIR5vRE6C2QEQFFE83cVxnQQ&usqp=CAU" ,beIN Sports 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#https://lb.buy-global.store/live/lb555/bs7-multi.m3u8|User-agent=ㅤyacineee55000
 http://62.182.82.104/BEIN_SPORT_7_HD/index.m3u8?token=test&v=1673204766768
 
 #EXTINF:-1 tvg-id="beINSportsPremium1.qa" group-title="2.SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnDmRd3CXnUDIR5vRE6C2QEQFFE83cVxnQQ&usqp=CAU" ,beIN Sports Premium 1
