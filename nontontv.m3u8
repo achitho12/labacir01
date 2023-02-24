@@ -86,31 +86,30 @@ http://210.210.155.37/qwr9ew/s/s03/index.m3u8
 #EXTINF:-1 tvg-ID="sctv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX5159gsROFVOo3gO51OnF3L47k_OAeKsSeg&usqp=CAU" group-title="1.LOKAL",SCTV 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://mpwtv.my.id/vidioye/204-sctv.m3u8
-#EXTM3U
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="mnctv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHTz44aEpN64TV_kaU1fbMMxhwASeA21LMoA&usqp=CAU" group-title="1.LOKAL",MNCTV 1
 https://anevi-live-channel-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
-#EXTM3U
+
 #EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHTz44aEpN64TV_kaU1fbMMxhwASeA21LMoA&usqp=CAU",MNCTV 2
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://m-mnctv.rctiplus.id/mnctv-sdi-avc1_600000=5-mp4a_96000=1.m3u8|referer=https://m.rctiplus.com/
-#EXTM3U
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHTz44aEpN64TV_kaU1fbMMxhwASeA21LMoA&usqp=CAU",MNCTV 3
 https://anevi-live-channel-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
-#EXTM3U
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="rcti" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrKvpASlmCEt2NVKFErdPTR1kx9C4qfUVIjA&usqp=CAU" group-title="1.LOKAL",RCTI 1
 https://anevi-live-channel-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
-#EXTM3U
+
 #EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrKvpASlmCEt2NVKFErdPTR1kx9C4qfUVIjA&usqp=CAU",RCTI 2
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?auth_key=1677321305-43f084cba0658a3ab2e074999ed79e4e-s80cGcE1PAs4t66hrM35uqaUS0JrwedbVIbCUwJR-f77a5fbc1e6fd32968c08e7a74903443|referer=https://m.rctiplus.com/
-https://rcti-linier.rctiplus.id/rcti-sdi-avc1_210000=3-mp4a_96000=1.m3u8?auth_key=1677321305-43f084cba0658a3ab2e074999ed79e4e-s80cGcE1PAs4t66hrM35uqaUS0JrwedbVIbCUwJR-961544b923641df2550b45edb724ed21|referer=https://m.rctiplus.com/
-#EXTM3U
+https://rcti-linier.rctiplus.id/rcti-sdi-avc1_210000=3-mp4a_96000=1.m3u8|referer=https://m.rctiplus.com/
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrKvpASlmCEt2NVKFErdPTR1kx9C4qfUVIjA&usqp=CAU",RCTI 3
