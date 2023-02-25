@@ -120,7 +120,7 @@ http://mpwtv.my.id/vidioye/204-sctv.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
+#EXTVLCOPT:http-referer=https://useetvwv.visionplus.id/
 https://nyanv-live-channel-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd|referer=https://www.visionplus.id/
 
 #EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHTz44aEpN64TV_kaU1fbMMxhwASeA21LMoA&usqp=CAU",MNCTV 2
@@ -141,7 +141,7 @@ https://mnctv-linier.rctiplus.id/mnctv-sdi-avc1_450000=4-mp4a_96000=1.m3u8?auth_
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
+#EXTVLCOPT:http-referer=https://useetvwv.visionplus.id/
 https://nyanv-live-channel-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd|referer=https://www.visionplus.id/
 
 #EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrKvpASlmCEt2NVKFErdPTR1kx9C4qfUVIjA&usqp=CAU",RCTI 2
@@ -155,21 +155,21 @@ https://rcti-linier.rctiplus.id/rcti-sdi-avc1_800000=6-mp4a_96000=1.m3u8?auth_ke
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
+#EXTVLCOPT:http-referer=https://useetvwv.visionplus.id/
 https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd|referer=https://www.visionplus.id/
 
 #EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQWuQY8T_Kcd46cTlkW6xMHi2MDyrOS9FcSA&usqp=CAU.png",GTV 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-user-agent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-#EXTVLCOPT:http-referer:https://useetvwv.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+#EXTVLCOPT:http-referer=https://useetvwv.visionplus.id/
 https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd|referer=https://useetvwv.visionplus.id/
 
 #EXTINF:-1 tvg-ID="gtv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQWuQY8T_Kcd46cTlkW6xMHi2MDyrOS9FcSA&usqp=CAU" group-title="1.LOKAL",GTV 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
+#EXTVLCOPT:http-referer=https://useetvwv.visionplus.id/
 https://nyanv-live-channel-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd|referer=https://www.visionplus.id/
 
 #EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQWuQY8T_Kcd46cTlkW6xMHi2MDyrOS9FcSA&usqp=CAU",GTV 3
@@ -183,14 +183,14 @@ https://gtv-linier.rctiplus.id/gtv-sdi-avc1_800000=6-mp4a_96000=1.m3u8?auth_key=
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
+#EXTVLCOPT:http-referer=https://useetvwv.visionplus.id/
 https://nyanv-live-channel-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd|referer=https://www.visionplus.id/
 
 #EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwqkvqFAzLnnkRyqIAD4azC_d0KaonGbsF3Q&usqp=CAU" ,INEWS 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7BNY) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referer=https://www.rctiplus.com/tv/inews
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+#EXTVLCOPT:http-referer=https://m.rctiplus.com/tv/inews
 https://inews-linier.rctiplus.id/inews-sdi-avc1_800000=6-mp4a_96000=1.m3u8?auth_key=1677325776-5d62cc7353fa3dc2d0643119eddfbe41-0-4159fee68c8795cbf71f37dde67b896d|referer=https://m.rctiplus.com/tv/inews
 
 #EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwqkvqFAzLnnkRyqIAD4azC_d0KaonGbsF3Q&usqp=CAU",INEWS 3
