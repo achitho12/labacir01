@@ -1413,60 +1413,60 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS200&r=FHD&ccode=JP&m=d0:2
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS201&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 #EXTINF:-1 tvg-ID="beinsports1english" tvg-logo="https://s.id/1d1Gl" group-title="2.SPORTS",BEIN SPORT 1 ENGLISH
-#EXTVLCOPT:http-user-agent=golivemedia.tv/4.0 (Linux;Android 12) ExoPlayerLib/2.14.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7BNY) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36
 http://warkop.cf/80/bein/11.m3u8
 #EXTINF:-1 tvg-ID="beinsports2english" tvg-logo="https://s.id/1d1GJ" group-title="2.SPORTS",BEIN SPORT 2 ENGLISH
-#EXTVLCOPT:http-user-agent=golivemedia.tv/4.0 (Linux;Android 12) ExoPlayerLib/2.14.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7BNY) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36
 http://warkop.cf/80/bein/12.m3u8
 #EXTINF:-1 tvg-ID="beinsports3english" tvg-logo="https://s.id/1d1HB" group-title="2.SPORTS",BEIN SPORT 3 ENGLISH
-#EXTVLCOPT:http-user-agent=golivemedia.tv/4.0 (Linux;Android 12) ExoPlayerLib/2.14.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7BNY) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36
 http://warkop.cf/80/bein/13.m3u8
 
 #EXTINF:-1 tvg-ID="beinsports1france" tvg-logo="https://s.id/1d1Gl" group-title="2.SPORTS",BEIN SPORT 1 FRANCE
-#EXTVLCOPT:http-user-agent=golivemedia.tv/4.0 (Linux;Android 12) ExoPlayerLib/2.14.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7BNY) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36
 http://warkop.cf/80/bein/14.m3u8
 #EXTINF:-1 tvg-ID="beinsports2france" tvg-logo="https://s.id/1d1GJ" group-title="2.SPORTS",BEIN SPORT 2 FRANCE
-#EXTVLCOPT:http-user-agent=golivemedia.tv/4.0 (Linux;Android 12) ExoPlayerLib/2.14.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7BNY) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36
 http://warkop.cf/80/bein/15.m3u8
 #EXTINF:-1 tvg-ID="beinsports3france" tvg-logo="https://s.id/1d1HB" group-title="2.SPORTS",BEIN SPORT 3 FRANCE
-#EXTVLCOPT:http-user-agent=golivemedia.tv/4.0 (Linux;Android 12) ExoPlayerLib/2.14.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7BNY) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36
 http://warkop.cf/80/bein/16.m3u8
 
 #EXTINF:-1 tvg-ID="beinsports1extra" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5UpZ52jun9gTMtVpri03EFUr-MQAD9bpUYQ&usqp=CAU" group-title="2.SPORTS",BEIN SPORT 1 EXTRA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7BNY) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36
 http://warkop.cf/80/bein/17.m3u8
 #EXTINF:-1 tvg-ID="beinsports2extra" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5UpZ52jun9gTMtVpri03EFUr-MQAD9bpUYQ&usqp=CAU" group-title="2.SPORTS",BEIN SPORT 2 EXTRA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7BNY) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36
 http://warkop.cf/80/bein/18.m3u8
 
 #EXTINF:-1 tvg-ID="beinsportspremium1" tvg-logo="https://s.id/1d1CR" group-title="2.SPORTS",BEIN SPORT PREMIUM 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7BNY) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36
 http://warkop.cf/80/bein/08.m3u8
 #EXTINF:-1 tvg-ID="beinsportspremium2" tvg-logo="https://s.id/1d1D3" group-title="2.SPORTS",BEIN SPORT PREMIUM 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7BNY) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36
 http://warkop.cf/80/bein/09.m3u8
 #EXTINF:-1 tvg-ID="beinsportspremium3" tvg-logo="https://s.id/1d1Dc" group-title="2.SPORTS",BEIN SPORT PREMIUM 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7BNY) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36
 http://warkop.cf/80/bein/10.m3u8
 
 #EXTINF:-1 tvg-ID="beinsports1" tvg-logo="https://s.id/1d1Gl" group-title="2.SPORTS",BEIN SPORT 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7BNY) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36
 http://iptvworld.nl:2095/mm5z86zW/qgSXYnBD/27738
 #EXTINF:-1 tvg-ID="beinsports2" tvg-logo="https://s.id/1d1GJ" group-title="2.SPORTS",BEIN SPORT 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7BNY) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36
 http://iptvworld.nl:2095/mm5z86zW/qgSXYnBD/27737
 #EXTINF:-1 tvg-ID="beinsports3" tvg-logo="https://s.id/1d1HB" group-title="2.SPORTS",BEIN SPORT 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7BNY) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36
 http://iptvworld.nl:2095/mm5z86zW/qgSXYnBD/27736
 
 #EXTINF:-1 tvg-ID="beinsports1" tvg-logo="https://s.id/1d1Gl" group-title="2.SPORTS",BEIN SPORT 1
-#EXTVLCOPT:http-user-agent=golivemedia.tv/4.0 (Linux;Android 12) ExoPlayerLib/2.14.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7BNY) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36
 http://warkop.cf/80/bein/01.m3u8
 #EXTINF:-1 tvg-ID="beinsports2" tvg-logo="https://s.id/1d1GJ" group-title="2.SPORTS",BEIN SPORT 2
-#EXTVLCOPT:http-user-agent=golivemedia.tv/4.0 (Linux;Android 12) ExoPlayerLib/2.14.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7BNY) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36
 http://warkop.cf/80/bein/02.m3u8
 #EXTINF:-1 tvg-ID="beinsports3" tvg-logo="https://s.id/1d1HB" group-title="2.SPORTS",BEIN SPORT 3
-#EXTVLCOPT:http-user-agent=golivemedia.tv/4.0 (Linux;Android 12) ExoPlayerLib/2.14.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7BNY) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36
 http://warkop.cf/80/bein/03.m3u8
 
 #EXTINF:-1 tvg-ID="beinsports4" tvg-logo="https://s.id/1d1Iq" group-title="2.SPORTS",BEIN SPORT 4
