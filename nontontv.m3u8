@@ -137,7 +137,7 @@ https://m-mnctv.rctiplus.id/mnctv-sdi-avc1_600000=5-mp4a_96000=1.m3u8|referer=ht
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 #EXTVLCOPT:http-referer=https://www.rctiplus.com/
-https://mnctv-linier.rctiplus.id/mnctv-sdi-avc1_450000=4-mp4a_96000=1.m3u8?auth_key=1677370466-b6705c340bf067e676691651864fcdb8-0-e499b4f73afd0f321efbf338113c11e3|referer=https://www.rctiplus.com/
+https://mnctv-linier.rctiplus.id/mnctv-sdi-avc1_800000=6-mp4a_96000=1.m3u8?auth_key=1677435786-3c5a57d15eca7a42ee2ce0de37ca2670-0-67076b8f43ec02374dc1c4c3cc133fd9|referer=https://www.rctiplus.com/
 
 #EXTINF:-1 tvg-ID="rcti" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrKvpASlmCEt2NVKFErdPTR1kx9C4qfUVIjA&usqp=CAU" group-title="1.LOKAL",RCTI 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -151,7 +151,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd|refere
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7BNY) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referer=https://m.rctiplus.com/tv/rcti
-https://rcti-linier.rctiplus.id/rcti-sdi-avc1_800000=6-mp4a_96000=1.m3u8?auth_key=1677324509-aae11612c7c8dab7a7987df60619066f-0-5a995f6c3fdcb12950512307047bdd6d|referer=https://m.rctiplus.com/tv/rcti
+https://rcti-linier.rctiplus.id/rcti-sdi-avc1_800000=6-mp4a_96000=1.m3u8?auth_key=1677435535-9f6c56c753f008525f32d81e201d4df3-0-f978d1ff696041f1034f35a09910c22d|referer=https://m.rctiplus.com/tv/rcti
 #https://achitho12.github.io/labacir01/bacir.m3u8
 
 #EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrKvpASlmCEt2NVKFErdPTR1kx9C4qfUVIjA&usqp=CAU",RCTI 3
@@ -180,7 +180,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd|referer=
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7BNY) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referer=https://www.rctiplus.com/tv/gtv
-https://gtv-linier.rctiplus.id/gtv-sdi-avc1_800000=6-mp4a_96000=1.m3u8?auth_key=1677325555-32c7f03d9d4252963dd030943aeedd11-0-425bf712a5be919dc5e6e3e53c616877|referer=https://m.rctiplus.com/tv/gtv
+https://gtv-linier.rctiplus.id/gtv-sdi-avc1_800000=6-mp4a_96000=1.m3u8?auth_key=1677435666-743a9d5f096208bb702a15b6d1c97481-0-92aed0a9b2044b64bffcdf2099acdd86|referer=https://m.rctiplus.com/tv/gtv
 
 #EXTINF:-1 tvg-ID="inews" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwqkvqFAzLnnkRyqIAD4azC_d0KaonGbsF3Q&usqp=CAU" group-title="1.LOKAL",INEWS 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -194,7 +194,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mp
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 #EXTVLCOPT:http-referer=https://m.rctiplus.com/tv/inews
-https://inews-linier.rctiplus.id/inews-sdi-avc1_800000=6-mp4a_96000=1.m3u8?auth_key=1677325776-5d62cc7353fa3dc2d0643119eddfbe41-0-4159fee68c8795cbf71f37dde67b896d|referer=https://m.rctiplus.com/tv/inews
+https://inews-linier.rctiplus.id/inews-sdi-avc1_800000=6-mp4a_96000=1.m3u8?auth_key=1677435727-3f5109c44ba2f38d6d4bed5de95b8cb8-0-feafe639f829fcc72725681d00569fb8|referer=https://m.rctiplus.com/tv/inews
 
 #EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwqkvqFAzLnnkRyqIAD4azC_d0KaonGbsF3Q&usqp=CAU",INEWS 3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
