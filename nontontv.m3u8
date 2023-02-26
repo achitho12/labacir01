@@ -2449,14 +2449,23 @@ http://golive.yn.lt/live/seriea/45.m3u8
 #EXTINF:-1 group-title="LIGA PERANCIS" ch-number="101" tvg-id="101" tvg-chno="101" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gif&ct=s",LIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://golive.yn.lt/live/ligue1/21.m3u8|referer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://golive.yn.lt/live/ligue1/24.m3u8|referer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://golive.yn.lt/live/ligue1/27.m3u8|referer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://golive.yn.lt/live/ligue1/30.m3u8|referer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://golive.yn.lt/live/ligue1/33.m3u8|referer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://golive.yn.lt/live/ligue1/36.m3u8|referer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://golive.yn.lt/live/ligue1/39.m3u8|referer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://golive.yn.lt/live/ligue1/42.m3u8|referer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://golive.yn.lt/live/ligue1/45.m3u8|referer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #https://achitho12.github.io/labacir01/bacir.m3u8
 
 #EXTINF:-1 tvg-ID="facup" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="FA CUP",LIVE 1
