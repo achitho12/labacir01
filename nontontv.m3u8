@@ -73,6 +73,7 @@ http://210.210.155.37/qwr9ew/s/s04/index.m3u8
 #EXTVLCOPT:http-referer=https://www.indihometv.com/
 https://achitho12.github.io/labacir01/bacir.m3u8|referer=https://www.indihometv.com/
 #https://achitho12.github.io/labacir01/in.m3u8
+
 #EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9u-Bh9ChLA3LVbP69uCJnQZTST1Myf5nIvA&usqp=CAU",INDOSIAR 3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
@@ -98,6 +99,7 @@ http://210.210.155.37/qwr9ew/s/s04/index.m3u8
 #EXTVLCOPT:http-referer=https://www.indihometv.com/
 https://achitho12.github.io/labacir01/bacir.m3u8|referer=https://www.indihometv.com/
 #https://achitho12.github.io/labacir01/sc.m3u8
+
 #EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX5159gsROFVOo3gO51OnF3L47k_OAeKsSeg&usqp=CAU",SCTV 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
@@ -150,6 +152,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd|refere
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7BNY) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referer=https://m.rctiplus.com/tv/rcti
 https://rcti-linier.rctiplus.id/rcti-sdi-avc1_800000=6-mp4a_96000=1.m3u8?auth_key=1677324509-aae11612c7c8dab7a7987df60619066f-0-5a995f6c3fdcb12950512307047bdd6d|referer=https://m.rctiplus.com/tv/rcti
+#https://achitho12.github.io/labacir01/bacir.m3u8
 
 #EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrKvpASlmCEt2NVKFErdPTR1kx9C4qfUVIjA&usqp=CAU",RCTI 3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
