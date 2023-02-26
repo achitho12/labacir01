@@ -58,7 +58,7 @@ https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
 #EXTINF:-1 tvg-ID="nontontv" tvg-logo="https://s.id/1zll8" group-title="1.LOKAL",GOLIVE MEDIA
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-https://www.geocities.ws/omahtv/golive.m3u8
+https://achitho12.github.io/labacir01/bacir.m3u8
 
 #EXTINF:-1 tvg-ID="indosiar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9u-Bh9ChLA3LVbP69uCJnQZTST1Myf5nIvA&usqp=CAU" group-title="1.LOKAL",INDOSIAR 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -71,7 +71,7 @@ http://210.210.155.37/qwr9ew/s/s04/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 #EXTVLCOPT:http-referer=https://www.indihometv.com/
-https://achi03.github.io/bocil/bocil_media.m3u8|referer=https://www.indihometv.com/
+https://achitho12.github.io/labacir01/bacir.m3u8|referer=https://www.indihometv.com/
 
 #EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9u-Bh9ChLA3LVbP69uCJnQZTST1Myf5nIvA&usqp=CAU",INDOSIAR 3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -96,7 +96,7 @@ http://210.210.155.37/qwr9ew/s/s04/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 #EXTVLCOPT:http-referer=https://www.indihometv.com/
-https://achi03.github.io/bocil/bocil_media.m3u8|referer=https://www.indihometv.com/
+https://achitho12.github.io/labacir01/bacir.m3u8|referer=https://www.indihometv.com/
 
 #EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX5159gsROFVOo3gO51OnF3L47k_OAeKsSeg&usqp=CAU",SCTV 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
