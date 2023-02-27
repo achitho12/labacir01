@@ -5316,13 +5316,13 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3M82Y8YcqtSXtuHDW4Pf2k4KnhvBscSW3BQ&usqp=CAU" group-title="2.SPORTS", Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8?hdnea=exp=1653452799~acl=/*~hmac=6fa983776826e1224ab4c19996ce92f00a1ad234617b07fd8a398160d72c19e0
 
-#EXTINF:-1 Logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DiemaSport-logo.svg/1200px-DiemaSport-logo.svg.png" group-title="2.SPORTS",Diema Sport 1 HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0RKa9mtqK5HJFLXyjQMQuAqsplF6ZtA1HAg&usqp=CAU" group-title="2.SPORTS",Diema Sport 1 HD
 http://webudit.onlinewebtv.lol/lb/premium465/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 Logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DiemaSport2-logo.svg/1200px-DiemaSport2-logo.svg.png" group-title="2.SPORTS",Diema Sport 2 HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0RKa9mtqK5HJFLXyjQMQuAqsplF6ZtA1HAg&usqp=CAU" group-title="2.SPORTS",Diema Sport 2 HD
 http://webudit.onlinewebtv.lol/lb/premium466/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 Logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DiemaSport2-logo.svg/1200px-DiemaSport2-logo.svg.png" group-title="2.SPORTS",Diema Sport 3 HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0RKa9mtqK5HJFLXyjQMQuAqsplF6ZtA1HAg&usqp=CAU" group-title="2.SPORTS",Diema Sport 3 HD
 http://webudit.onlinewebtv.lol/lb/premium467/index.m3u8?|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 group-title="2.SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwZH2XjBSCfecA6Cd_Q4jqCIEamnEfUu-f-A&usqp=CAU",BILLIARD TV
