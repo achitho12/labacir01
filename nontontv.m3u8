@@ -1701,7 +1701,7 @@ http://superbits.tv:2095/d4Je5xwD/yadTXB63/46080
 #EXTINF:-1 tvg-id="supersport1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4vDUaLJXLv10fM9jyzZ6W9-KnGBU8OzQDSg&usqp=CAU" group-title="2.SPORTS",SUPER SPORT 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-http://comag.rip:8000/50738601689735/03751643107136/190382
+http://starshare.org:8080/live/gxc733/sxk877/518.ts
 
 #EXTINF:-1 tvg-id="supersport2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4vDUaLJXLv10fM9jyzZ6W9-KnGBU8OzQDSg&usqp=CAU" group-title="2.SPORTS",SUPER SPORT 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1884,7 +1884,7 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 
 #EXTINF:-1 tvg-ID="supersport1" tvg-logo="https://s.id/1jgi0" group-title="2.SPORTS",SUPER SPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://31.220.3.170/play/live.php?mac=00:1a:79:e1:c8:6c&stream=39095&extension=ts&play_token
+http://starshare.org:8080/live/gxc733/sxk877/518.ts
 http://188.241.219.18/live/gxc733/sxk877/518.ts?token=ShJcU0BbQQNHCFBcB1pTW1sJBAhUAlEABVFaAlJWAQVVVgMFVlBXCQEbGBpEF0dcWF1vWQIXXlQAWk4VEBdWQG5ZUBAJEVIMXA0DDxVPF01QXVUSXARSVgZXUwJXVwMeE0BdVhEJQQpcCQEMFU8XXEFEVUIIVAg+VQcUXgYBEQhfRVheHxEMVzpdUVVWDVEbAxIAEkoXDRJBQFhZEAhfHhNSXUZBUhdcRwMWCgBQABsVElNfE1sQE0hAWBUsIBEeE1VMRlZdEFAKVxYCFRdGGxUSWUM5RwESRRAHVggBQRALEgQQHxEOWB1mV1dZDVBaTVlfXhUXXkMAQE4VCAtdW0VfRm1DWgcbXxsHCAZUARtE
 
 #EXTINF:-1 tvg-ID="supersport2" tvg-logo="https://s.id/1jgiA" group-title="2.SPORTS",SUPER SPORT 2
