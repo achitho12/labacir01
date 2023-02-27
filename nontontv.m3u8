@@ -1572,27 +1572,27 @@ http://superbits.tv:2095/d4Je5xwD/yadTXB63/14097
 
 #EXTINF:-1 tvg-ID="arenasport1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw5pfSVZeXwZldzgsOjfGH0iAAj80jFlQ4nw&usqp=CAU" group-title="2.SPORTS",ARENA SPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://superbits.tv:2095/d4Je5xwD/yadTXB63/41396
+http://204.12.247.162:8080/premium429/mono.m3u8
 
 #EXTINF:-1 tvg-ID="arenasport2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw5pfSVZeXwZldzgsOjfGH0iAAj80jFlQ4nw&usqp=CAU" group-title="2.SPORTS",ARENA SPORT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://91.237.170.202:11000/play/203104
+http://204.12.247.162:8080/premium582/mono.m3u8
 
 #EXTINF:-1 tvg-ID="arenasport3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw5pfSVZeXwZldzgsOjfGH0iAAj80jFlQ4nw&usqp=CAU" group-title="2.SPORTS",ARENA SPORT 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://superbits.tv:2095/d4Je5xwD/yadTXB63/41394
+http://204.12.247.162:8080/premium431/mono.m3u8
 
 #EXTINF:-1 tvg-ID="arenasport4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw5pfSVZeXwZldzgsOjfGH0iAAj80jFlQ4nw&usqp=CAU" group-title="2.SPORTS",ARENA SPORT 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://superbits.tv:2095/d4Je5xwD/yadTXB63/41393
+http://204.12.247.162:8080/premium581/mono.m3u8
 
 #EXTINF:-1 tvg-ID="arenasportpremium1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKTa9y7fI1ndR0HHALVIhfu6U77AebODpuug&usqp=CAU" group-title="2.SPORTS",ARENA PREMIUM 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://superbits.tv:2095/d4Je5xwD/yadTXB63/130979
+http://superbits.tv:2095/d4Je5xwD/yadTXB63/130983
 
 #EXTINF:-1 tvg-ID="arenasportpremium2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKTa9y7fI1ndR0HHALVIhfu6U77AebODpuug&usqp=CAU" group-title="2.SPORTS",ARENA PREMIUM 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://superbits.tv:2095/d4Je5xwD/yadTXB63/130980
+http://superbits.tv:2095/d4Je5xwD/yadTXB63/130982
 
 #EXTINF:-1 tvg-ID="arenasportpremium3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKTa9y7fI1ndR0HHALVIhfu6U77AebODpuug&usqp=CAU" group-title="2.SPORTS",ARENA PREMIUM 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -1601,12 +1601,12 @@ http://superbits.tv:2095/d4Je5xwD/yadTXB63/130981
 #EXTINF:-1 tvg-id="skysport1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3PIx185R3uA38H6IKtiyVk_YhVKOwjF00oA&usqp=CAU" group-title="2.SPORTS",SKY SPORT 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-http://iptvworld.nl:2095/mm5z86zW/qgSXYnBD/9807
+http://starshare.org:8080/live/gxc733/sxk877/1144.ts
 
 #EXTINF:-1 tvg-id="skysport2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOWMqIi4nhWXpDZzcwnYtc2DS4wJ7_jyRZDg&usqp=CAU" group-title="2.SPORTS",SKY SPORT 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-http://superbits.tv:2095/d4Je5xwD/yadTXB63/127989
+http://starshare.org:8080/live/gxc733/sxk877/1145.ts
 
 #EXTINF:-1 tvg-id="skyf1" tvg-logo="https://s3.sky.ch/img/moviecover/ch/images/channel/8.png" group-title="2.SPORTS",SKY F1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
