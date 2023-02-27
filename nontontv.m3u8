@@ -5358,25 +5358,25 @@ https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:0 tvg-url="http://www.dens.tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/2560px-TVRI_Sport_2022.svg.png" group-title="2.SPORTS",TVRI Sports HD
+#EXTINF:0 tvg-url="http://www.dens.tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJk_TP3uGD-5956bYxCL06nUv-xiAQd09yjw&usqp=CAU" group-title="2.SPORTS",TVRI Sports HD
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/index.m3u8 
 
-#EXTINF:-1 group-title="2.SPORTS" tvg-logo="https://images.useetv.com/logo_fightsport_small.png",Fight Sports
+#EXTINF:-1 group-title="2.SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg203DmMHGih6jksCHhZCG4wqBPIWzACsqdA&usqp=CAU",Fight Sports
 https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
 
-#EXTINF:-1 group-title="2.SPORTS" tvg-logo="https://images.useetv.com/logo_fightsport_small.png",Fight Sports
+#EXTINF:-1 group-title="2.SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg203DmMHGih6jksCHhZCG4wqBPIWzACsqdA&usqp=CAU",Fight Sports
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fight_sports_us.png" group-title="2.SPORTS",Fight Sports
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg203DmMHGih6jksCHhZCG4wqBPIWzACsqdA&usqp=CAU" group-title="2.SPORTS",Fight Sports
 https://newanv-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="2.SPORTS", NBA TV 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvl0DDC0jMmxcRs5Ic9E6K0ke6sLI-J_wqhA&usqp=CAU" group-title="2.SPORTS", NBA TV 
 http://iptvid.my.id/hmm/nba.m3u8
 
-#EXTINF:-1 group-title="2.SPORTS" tvg-logo="https://s.id/1d1nU",WWE
+#EXTINF:-1 group-title="2.SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM7A3As9bi5L4qsQff_lehCD5_Gl932w3p_A&usqp=CAU",WWE
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:0 tvg-logo="https://s.id/1d1nU" group-title="2.SPORTS",WWE
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM7A3As9bi5L4qsQff_lehCD5_Gl932w3p_A&usqp=CAU" group-title="2.SPORTS",WWE
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
 #EXTM3U
