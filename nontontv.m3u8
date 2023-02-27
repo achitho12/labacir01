@@ -2107,12 +2107,14 @@ http://iptvtree.net:8080/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/773
 
 #EXTINF:-1 tvg-ID="premier1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjIFfXzV9svJ2tKU5WmmGMheiLCdzEQX3o7w&usqp=CAU" group-title="2.SPORTS",PREMIER SPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://superbits.tv:2095/d4Je5xwD/yadTXB63/11364
+http://188.93.236.53:8080/live/play/UTFad2VESlNZM2N5Ukc5alpTdEhWbXBoVVZOTVIyMTNjRkZKYTBWM1NFOHpaRkowVm5Cak5rbDJVVDA9/11364
+http://31.220.3.170/play/live.php?mac=00:1a:79:e1:c8:6c&stream=39095&extension=ts&play_token
 
 #EXTINF:-1 tvg-ID="premier2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjIFfXzV9svJ2tKU5WmmGMheiLCdzEQX3o7w&usqp=CAU" group-title="2.SPORTS",PREMIER SPORT 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-http://superbits.tv:2095/d4Je5xwD/yadTXB63/128365
+http://185.191.126.140:8080/live/play/UVN0TFVWUnpXbEpuZW01b2NrMXhUSFJWY1VSdGFtZHVZMjVJV2xKMmQwTXlPWHB6V1hseVZtVjRZejA9/39095
+http://31.220.3.170/play/live.php?mac=00:1a:79:e1:c8:6c&stream=11364&extension=ts&play_token
 
 #EXTINF:-1 tvg-ID="championstv1" tvg-logo="https://thumbor.prod.vidiocdn.com/zUeO5Z0qWsLChLPVtUmiW7wjXP4=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-3beebf.jpg" group-title="2.SPORTS",CHAMPIONS TV1 NEX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
