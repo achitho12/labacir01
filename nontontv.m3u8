@@ -165,7 +165,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd|referer=
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7BNY) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referer=https://www.rctiplus.com/tv/gtv
-https://gtv-linier.rctiplus.id/gtv-sdi-avc1_800000=6-mp4a_96000=1.m3u8?auth_key=1677435666-743a9d5f096208bb702a15b6d1c97481-0-92aed0a9b2044b64bffcdf2099acdd86|referer=https://m.rctiplus.com/tv/gtv
+https://gtv-linier.rctiplus.id/gtv-sdi-avc1_800000=6-mp4a_96000=1.m3u8?auth_key=1677550872-87682dd806220ae269d50a38f89de2bf-0-16bf74719c8d21af8bcb56bba7da7785|referer=https://m.rctiplus.com/tv/gtv
 
 #EXTINF:-1 tvg-ID="inews" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwqkvqFAzLnnkRyqIAD4azC_d0KaonGbsF3Q&usqp=CAU" group-title="1.LOKAL",INEWS 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
