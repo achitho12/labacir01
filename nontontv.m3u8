@@ -1671,7 +1671,7 @@ http://45.175.164.232:5022/play/a0m4/index.m3u8
 #EXTINF:-1 tvg-id="bt1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTa_PkVlTVJqhFlY2Cxec1wf08YUTB_uwcVg&usqp=CAU" group-title="2.SPORTS",BT SPORT 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-http://cdn.spmr.tv:8080/g78fqx/video.m3u8?token=0S4ML82WMM
+http://195.154.179.234:1234/stream/btsport1/master.m3u8
 
 #EXTINF:-1 tvg-id="bt2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTa_PkVlTVJqhFlY2Cxec1wf08YUTB_uwcVg&usqp=CAU" group-title="2.SPORTS",BT SPORT 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1681,12 +1681,12 @@ http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/52240.ts
 #EXTINF:-1 tvg-id="bt3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTa_PkVlTVJqhFlY2Cxec1wf08YUTB_uwcVg&usqp=CAU" group-title="2.SPORTS",BT SPORT 3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-http://comag.rip:8000/live/50738601689735/03751643107136/22300.m3u8
+http://195.154.179.234:1234/stream/btsport3/master.m3u8
 
 #EXTINF:-1 tvg-id="btespn" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTa_PkVlTVJqhFlY2Cxec1wf08YUTB_uwcVg&usqp=CAU" group-title="2.SPORTS",BT SPORT ESPN
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-http://iptvworld.nl:2095/mm5z86zW/qgSXYnBD/389198
+http://195.154.179.234:1234/stream/btsport4/master.m3u8
 
 #EXTINF:-1 tvg-id="eleven1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCK88nVH9ayhlZPf_41A1-bCEVC41H7EUSmg&usqp=CAU" group-title="2.SPORTS",ELEVEN 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2075,19 +2075,19 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chu
 
 #EXTINF:-1 tvg-ID="sonyten1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiz1cyig42kZLvNDHhoiZiN0q2OaKIAi688H4J7m3reUzYXTAe4zo6tNUtkD3lgEICtRp--ex-ASs5ojIWImqR7PHXpCJX_6oW7dT_Kh4jn0ETDdWTSFuyGJjzF4YWj_WTHoL6YtvaBLrKJ3VYmELu3vUjN28qIH3B9vlrsuL1BzsT7CAEtBTFNBgNIw/s1280/20230121_195121.jpg" group-title="2.SPORTS",SONY TEN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://iptvworld.nl:2095/mm5z86zW/qgSXYnBD/460749
+http://starshare.org:8080/live/gxc733/sxk877/98861.ts
 
 #EXTINF:-1 tvg-ID="sonyten2" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiz1cyig42kZLvNDHhoiZiN0q2OaKIAi688H4J7m3reUzYXTAe4zo6tNUtkD3lgEICtRp--ex-ASs5ojIWImqR7PHXpCJX_6oW7dT_Kh4jn0ETDdWTSFuyGJjzF4YWj_WTHoL6YtvaBLrKJ3VYmELu3vUjN28qIH3B9vlrsuL1BzsT7CAEtBTFNBgNIw/s1280/20230121_195121.jpg" group-title="2.SPORTS",SONY TEN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://iptvworld.nl:2095/mm5z86zW/qgSXYnBD/460750
+http://starshare.org:8080/live/gxc733/sxk877/98862.ts
 
 #EXTINF:-1 tvg-ID="sonyten3" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiz1cyig42kZLvNDHhoiZiN0q2OaKIAi688H4J7m3reUzYXTAe4zo6tNUtkD3lgEICtRp--ex-ASs5ojIWImqR7PHXpCJX_6oW7dT_Kh4jn0ETDdWTSFuyGJjzF4YWj_WTHoL6YtvaBLrKJ3VYmELu3vUjN28qIH3B9vlrsuL1BzsT7CAEtBTFNBgNIw/s1280/20230121_195121.jpg" group-title="2.SPORTS",SONY TEN 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://iptvworld.nl:2095/mm5z86zW/qgSXYnBD/461064
+http://starshare.org:8080/live/gxc733/sxk877/98863.ts
 
 #EXTINF:-1 tvg-ID="sonyten5" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiz1cyig42kZLvNDHhoiZiN0q2OaKIAi688H4J7m3reUzYXTAe4zo6tNUtkD3lgEICtRp--ex-ASs5ojIWImqR7PHXpCJX_6oW7dT_Kh4jn0ETDdWTSFuyGJjzF4YWj_WTHoL6YtvaBLrKJ3VYmELu3vUjN28qIH3B9vlrsuL1BzsT7CAEtBTFNBgNIw/s1280/20230121_195121.jpg" group-title="2.SPORTS",SONY TEN 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://iptvworld.nl:2095/mm5z86zW/qgSXYnBD/461065
+http://starshare.org:8080/live/gxc733/sxk877/98870.ts
 
 #EXTINF:-1 tvg-ID="fashiontv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2S1l6e4gQretdwdKFnwoFgtgPBOFeQFBh2A&usqp=CAU" group-title="3.MOVIES",FASHION TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
