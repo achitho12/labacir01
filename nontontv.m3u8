@@ -122,7 +122,7 @@ https://m-mnctv.rctiplus.id/mnctv-sdi-avc1_600000=5-mp4a_96000=1.m3u8|referer=ht
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 #EXTVLCOPT:http-referer=https://www.rctiplus.com/
-https://mnctv-linier.rctiplus.id/mnctv-sdi-avc1_800000=6-mp4a_96000=1.m3u8?auth_key=1677435786-3c5a57d15eca7a42ee2ce0de37ca2670-0-67076b8f43ec02374dc1c4c3cc133fd9|referer=https://www.rctiplus.com/
+https://mnctv-linier.rctiplus.id/mnctv-sdi-avc1_800000=6-mp4a_96000=1.m3u8?auth_key=1677550801-be04091a5c44e75c589eee083be11a21-0-4d0620393562a0deb21aaa14a072573b|referer=https://www.rctiplus.com/
 
 #EXTINF:-1 tvg-ID="rcti" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrKvpASlmCEt2NVKFErdPTR1kx9C4qfUVIjA&usqp=CAU" group-title="1.LOKAL",RCTI 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
