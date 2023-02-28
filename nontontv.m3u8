@@ -863,7 +863,7 @@ https://anevi-live-channel-cdn.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorl
 
 ======5.MOVIES======
 
-#EXTM3U x-tvg-url="https://www.visionplus.id" tvg-url="https://www.visionplus.id" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U x-tvg-url="https://www.visionplus.id" tvg-url="https://www.visionplus.id" refresh="all" max-conn="all" refresh="all"
 
 #EXTINF:-1 tvg-ID="hbo" tvg-logo="https://s.id/1d0TX" group-title="3.MOVIES",HBO
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
