@@ -156,13 +156,22 @@ https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mp
 https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd|referer=https://www.visionplus.id/
 
 #EXTM3U x-tvg-url="https://www.visionplus.id" tvg-url="https://www.visionplus.id" refresh="all" max-conn="all" refresh="all"
-#EXTINF:-1 tvg-ID="antv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZlbrwqDKOwznMxFxpzauA3P4SrFtAF_tc7A&usqp=CAU" group-title="1.LOKAL",ANTV 2
+#EXTINF:-1 tvg-ID="antv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZlbrwqDKOwznMxFxpzauA3P4SrFtAF_tc7A&usqp=CAU" group-title="1.LOKAL",ANTV 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
 #EXTVLCOPT:http-host=nyanv-live-cdn.mncnow.id
 https://nxanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd|referer=https://www.visionplus.id/
+
+#EXTM3U x-tvg-url="http://www.dens.tv" tvg-url="http://www.dens.tv" refresh="all" max-conn="all" refresh="all"
+#EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZlbrwqDKOwznMxFxpzauA3P4SrFtAF_tc7A&usqp=CAU",ANTV 2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+#EXTVLCOPT:http-referer=http://www.dens.tv/
+#EXTVLCOPT:http-host=210.210.155.35
+http://210.210.155.35/qwr9ew/s/s07/index.m3u8|referer=http://www.dens.tv/
 
 #EXTM3U x-tvg-url="https://www.visionplus.id" tvg-url="https://www.visionplus.id" refresh="all" max-conn="all" refresh="all"
 #EXTINF:-1 tvg-ID="transtv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6ScswNmmZzshgCIjGA7j-CUzskVhi-r0uGg&usqp=CAU" group-title="1.LOKAL",TRANSTV 1
@@ -183,13 +192,22 @@ https://nyanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd|re
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8|referer=https://20.detik.com/
 
 #EXTM3U x-tvg-url="https://www.visionplus.id" tvg-url="https://www.visionplus.id" refresh="all" max-conn="all" refresh="all"
-#EXTINF:-1 tvg-ID="trans7" tvg-logo="https://thumbor.prod.vidiocdn.com/y2EK0E-_czvxzROVu4AMCuywmCw=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-tv-stream-b793ab.jpg" group-title="1.LOKAL",TRANS7 2
+#EXTINF:-1 tvg-ID="trans7" tvg-logo="https://thumbor.prod.vidiocdn.com/y2EK0E-_czvxzROVu4AMCuywmCw=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-tv-stream-b793ab.jpg" group-title="1.LOKAL",TRANS7 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
 #EXTVLCOPT:http-host=nyanv-live-cdn.mncnow.id
 https://nyanv-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd|referer=https://www.visionplus.id/
+
+#EXTM3U x-tvg-url="https://20.detik.com" tvg-url="https://20.detik.com" refresh="all" max-conn="all" refresh="all"
+#EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://thumbor.prod.vidiocdn.com/y2EK0E-_czvxzROVu4AMCuywmCw=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-tv-stream-b793ab.jpg", TRANS7 2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+#EXTVLCOPT:http-referer=https://20.detik.com/
+#EXTVLCOPT:http-host=video.detik.com
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8|referer=https://20.detik.com/
 
 #EXTM3U x-tvg-url="https://www.visionplus.id" tvg-url="https://www.visionplus.id" refresh="all" max-conn="all" refresh="all"
 #EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://thumbor.prod.vidiocdn.com/y2EK0E-_czvxzROVu4AMCuywmCw=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-tv-stream-b793ab.jpg",TRANS7 3
@@ -209,14 +227,14 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd|refe
 #EXTVLCOPT:http-host=nyanv-live-cdn.mncnow.id
 https://nyanv-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd|referer=https://www.visionplus.id/
 
-#EXTM3U x-tvg-url="https://www.visionplus.id" tvg-url="https://www.visionplus.id" refresh="all" max-conn="all" refresh="all"
-#EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxBnUgwZttwN5MLsCfK313RJd1XdqZU8GFaw&usqp=CAU",TVONE 3
+#EXTM3U x-tvg-url="http://www.dens.tv" tvg-url="http://www.dens.tv" refresh="all" max-conn="all" refresh="all"
+#EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxBnUgwZttwN5MLsCfK313RJd1XdqZU8GFaw&usqp=CAU",TVONE 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-host=nyanv-live-cdn.mncnow.id
-https://nyanv-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd|referer=https://www.visionplus.id/
+#EXTVLCOPT:http-referer=http://www.dens.tv/
+#EXTVLCOPT:http-host=210.210.155.35
+http://210.210.155.35/qwr9ew/s/s105/index.m3u8|referer=http://www.dens.tv/
 
 #EXTM3U x-tvg-url="https://www.visionplus.id" tvg-url="https://www.visionplus.id" refresh="all" max-conn="all" refresh="all"
 #EXTINF:-1 tvg-ID="metrotv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyfjZWnhguTAGZp_7vkunl4KcHtvtaV1_53A&usqp=CAU" group-title="1.LOKAL",METROTV 1
