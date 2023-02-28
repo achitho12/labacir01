@@ -98,8 +98,8 @@ http://mpwtv.my.id/vidioye/204-sctv.m3u8|referer=https://www.vidio.com/
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 #EXTVLCOPT:http-referer=https://www.rctiplus.com/
-#EXTVLCOPT:http-host=m-mnctv.rctiplus.id
-https://m-mnctv.rctiplus.id/mnctv-sdi-avc1_600000=5-mp4a_96000=1.m3u8
+#EXTVLCOPT:http-host=d-mnctv.rctiplus.id
+https://d-mnctv.rctiplus.id/mnctv-sdi.m3u8?auth_key=1677645424-c4e5d48fe0aa92f2c672a5f8e89a02e0-0-577955e6e813492ead43d96becea9c66|https://www.rctiplus.com/
 
 #EXTM3U x-tvg-url="https://www.visionplus.id" tvg-url="https://www.visionplus.id" refresh="all" max-conn="all" refresh="all"
 #EXTINF:-1 tvg-ID="mnctv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHTz44aEpN64TV_kaU1fbMMxhwASeA21LMoA&usqp=CAU" group-title="1.LOKAL",MNCTV 2
