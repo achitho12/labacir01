@@ -173,14 +173,14 @@ https://nxanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd|referer=http
 #EXTVLCOPT:http-host=nyanv-live-cdn.mncnow.id
 https://nyanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd|referer=https://www.visionplus.id/
 
-#EXTM3U x-tvg-url="https://www.visionplus.id" tvg-url="https://www.visionplus.id" refresh="all" max-conn="all" refresh="all"
+#EXTM3U x-tvg-url="https://20.detik.com" tvg-url="https://20.detik.com" refresh="all" max-conn="all" refresh="all"
 #EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6ScswNmmZzshgCIjGA7j-CUzskVhi-r0uGg&usqp=CAU", TRANSTV 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-host=nyanv-live-cdn.mncnow.id
-https://nyanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd|referer=https://www.visionplus.id/
+#EXTVLCOPT:http-referer=https://20.detik.com/
+#EXTVLCOPT:http-host=video.detik.com
+https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8|referer=https://20.detik.com/
 
 #EXTM3U x-tvg-url="https://www.visionplus.id" tvg-url="https://www.visionplus.id" refresh="all" max-conn="all" refresh="all"
 #EXTINF:-1 tvg-ID="trans7" tvg-logo="https://thumbor.prod.vidiocdn.com/y2EK0E-_czvxzROVu4AMCuywmCw=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-tv-stream-b793ab.jpg" group-title="1.LOKAL",TRANS7 2
