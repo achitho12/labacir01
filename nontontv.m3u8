@@ -899,7 +899,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd|
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
 #EXTVLCOPT:http-host=s0.2mdn.net
-https://nyanv-live-channel-cdn.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd|https://www.visionplus.id/
+https://nyanv-live-channel-cdn.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd|referer=https://www.visionplus.id/
 
 #EXTINF:-1 tvg-ID="hbohits" x-tvg-url="https://www.visionplus.id" tvg-url="https://www.visionplus.id" tvg-logo="https://s.id/1d0VK" group-title="3.MOVIES",HBO HITS
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -907,7 +907,7 @@ https://nyanv-live-channel-cdn.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
 #EXTVLCOPT:http-host=s0.2mdn.net
-https://nyanv-live-cdn.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd|https://www.visionplus.id/
+https://nyanv-live-cdn.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd|referer=https://www.visionplus.id/
 
 #EXTINF:-1 tvg-ID="cinemax" x-tvg-url="https://www.visionplus.id" tvg-url="https://www.visionplus.id" tvg-logo="https://s.id/1d0Wk" group-title="3.MOVIES",CINEMAX
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -915,7 +915,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd|https:
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
 #EXTVLCOPT:http-host=s0.2mdn.net
-https://nyanv-live-cdn.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd|https://www.visionplus.id/
+https://nyanv-live-cdn.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd|referer=https://www.visionplus.id/
 
 #EXTINF:-1 tvg-ID="galaxy" tvg-logo="https://s.id/1d0WO" group-title="3.MOVIES",GALAXY
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
