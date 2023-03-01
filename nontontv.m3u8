@@ -1719,7 +1719,7 @@ http://iptvid.my.id/hmm/nba.m3u8
 #EXTINF:-1 group-title="8.SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM7A3As9bi5L4qsQff_lehCD5_Gl932w3p_A&usqp=CAU",WWE
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM7A3As9bi5L4qsQff_lehCD5_Gl932w3p_A&usqp=CAU" group-title="2.SPORTS",WWE
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM7A3As9bi5L4qsQff_lehCD5_Gl932w3p_A&usqp=CAU" group-title="8.SPORTS",WWE
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
 #EXTM3U
@@ -1900,10 +1900,10 @@ http://webudit.onlinewebtv.lol/lb/premium114/index.m3u8?|referer=https://widevin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://newtest.webtv1.lol/lb/premium115/index.m3u8|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRodx7sytKqUpWnI_ix_PIIDzNYLcS5ZMkYnw&usqp=CAU" group-title="2.SPORTS", SK1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRodx7sytKqUpWnI_ix_PIIDzNYLcS5ZMkYnw&usqp=CAU" group-title="8.SPORTS", SK1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.onlinewebtv.lol/lb/premium101/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRodx7sytKqUpWnI_ix_PIIDzNYLcS5ZMkYnw&usqp=CAU" group-title="2.SPORTS", SK2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRodx7sytKqUpWnI_ix_PIIDzNYLcS5ZMkYnw&usqp=CAU" group-title="8.SPORTS", SK2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.onlinewebtv.lol/lb/premium102/index.m3u8?|referer=https://widevine.licenses4.me/
