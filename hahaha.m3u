@@ -46,17 +46,11 @@ https://webudit.onlinewebtv.lol/lb/premium65/index.m3u8?|referer=https://widevin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.onlinewebtv.lol/lb/premium64/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPkF9dPZ_MBmBVJ7qXgbPfzoh5Xjb7-fgFlw&usqp=CAU" group-title="2.SPORTS",SPORT TV 13
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.onlinewebtv.lol/lb/premium63/index.m3u8?|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPkF9dPZ_MBmBVJ7qXgbPfzoh5Xjb7-fgFlw&usqp=CAU" group-title="2.SPORTS",SPORT TV 14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.onlinewebtv.lol/lb/premium62/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPkF9dPZ_MBmBVJ7qXgbPfzoh5Xjb7-fgFlw&usqp=CAU" group-title="2.SPORTS",SPORT TV 15
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.onlinewebtv.lol/lb/premium61/index.m3u8?|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPkF9dPZ_MBmBVJ7qXgbPfzoh5Xjb7-fgFlw&usqp=CAU" group-title="2.SPORTS",SPORT TV 16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -109,8 +103,6 @@ https://webudit.onlinewebtv.lol/lb/premium81/index.m3u8?|referer=https://widevin
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPkF9dPZ_MBmBVJ7qXgbPfzoh5Xjb7-fgFlw&usqp=CAU" group-title="2.SPORTS",SPORT TV 23
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.onlinewebtv.lol/lb/premium82/index.m3u8?|referer=https://widevine.licenses4.me/
-
-
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPkF9dPZ_MBmBVJ7qXgbPfzoh5Xjb7-fgFlw&usqp=CAU" group-title="2.SPORTS",SPORT TV 20
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
