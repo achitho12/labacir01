@@ -1899,3 +1899,11 @@ http://webudit.onlinewebtv.lol/lb/premium114/index.m3u8?|referer=https://widevin
 #EXTINF:-1 tvg-id="TSN5.ca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJsp6AOvdWs_tEDVxwoDa1A0exFDpKahp8EA&usqp=CAU" group-title="8.SPORTS",TSN 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://newtest.webtv1.lol/lb/premium115/index.m3u8|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRodx7sytKqUpWnI_ix_PIIDzNYLcS5ZMkYnw&usqp=CAU" group-title="2.SPORTS", SK1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.onlinewebtv.lol/lb/premium101/index.m3u8?|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRodx7sytKqUpWnI_ix_PIIDzNYLcS5ZMkYnw&usqp=CAU" group-title="2.SPORTS", SK2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.onlinewebtv.lol/lb/premium102/index.m3u8?|referer=https://widevine.licenses4.me/
