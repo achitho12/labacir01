@@ -311,6 +311,14 @@ http://rr.dens.tv/h/h19/index.m3u8
 #EXTINF:-1 group-title="2.MOVIES" tvg-id="KPlus.sg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2vqm8zv9Y2cimMu73ByGZK9cTqFV_WuRoQg&usqp=CAU" ,K+
 http://rr.dens.tv/h/h08/index.m3u8
 
+#EXTINF:-1 tvg-ID="blutv1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd6kLG-XRECcQ0Pj5YjvrbI7i-qBdg6KXqBw&usqp=CAU" group-title="3.MOVIES",BLU TV1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://mn-nl.mncdn.com/blutv_play1/live_720p2000000kbps/index.m3u8
+
+#EXTINF:-1 tvg-ID="blutv2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd6kLG-XRECcQ0Pj5YjvrbI7i-qBdg6KXqBw&usqp=CAU" group-title="3.MOVIES",BLU TV2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://mn-nl.mncdn.com/blutv_play2/live_720p2000000kbps/index.m3u8
+
 #EXTM3U x-tvg-url="http://www.dens.tv" url-tvg="http://www.dens.tv" refresh="all" max-conn="all" refresh="all"
 #EXTINF:-1 tvg-ID="mcn" tvg-logo="https://s.id/1d1c9" group-title="2.MOVIES",MCN
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
