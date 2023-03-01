@@ -1926,18 +1926,29 @@ https://webudit.onlinewebtv.lol/lb/premium104/index.m3u8?|referer=https://widevi
 
 ======9.LIGA BRI======
 
-#EXTINF:-1 group-title="LIGA BRI" ch-number="101" tvg-id="101" tvg-chno="101" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gif&ct=s",LIVE
+#EXTM3U x-tvg-url="https://www.vidio.com" url-tvg="https://www.vidio.com" refresh="all" max-conn="all" refresh="all"
+#EXTINF:-1 group-title="9.LIGA BRI" ch-number="101" tvg-id="101" tvg-chno="101" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gif&ct=s",LIVE
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://golive.yn.lt/live/liga1/01.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+#EXTVLCOPT:http-referer=https://www.vidio.com/
+#EXTVLCOPT:http-host=etslive-2-vidio-com.akamaized.net
+http://golive.yn.lt/live/liga1/01.m3u8|referer=https://www.vidio.com/
 
+#EXTM3U x-tvg-url="https://www.vidio.com" url-tvg="https://www.vidio.com" refresh="all" max-conn="all" refresh="all"
+#EXTINF:-1 group-title="9.LIGA BRI" ch-number="101" tvg-id="101" tvg-chno="101" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gif&ct=s",LIVE
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://golive.yn.lt/live/liga1/02.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+#EXTVLCOPT:http-referer=https://www.vidio.com/
+#EXTVLCOPT:http-host=etslive-2-vidio-com.akamaized.net
+http://golive.yn.lt/live/liga1/02.m3u8|referer=https://www.vidio.com/
 
+#EXTM3U x-tvg-url="https://www.vidio.com" url-tvg="https://www.vidio.com" refresh="all" max-conn="all" refresh="all"
+#EXTINF:-1 group-title="9.LIGA BRI" ch-number="101" tvg-id="101" tvg-chno="101" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gif&ct=s",LIVE
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://golive.yn.lt/live/liga1/03.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+#EXTVLCOPT:http-referer=https://www.vidio.com/
+#EXTVLCOPT:http-host=etslive-2-vidio-com.akamaized.net
+http://golive.yn.lt/live/liga1/03.m3u8|referer=https://www.vidio.com/
