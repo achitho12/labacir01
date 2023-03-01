@@ -603,43 +603,43 @@ https://nyanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8|referer=http://hpull.kktv8.com/
 
 #EXTINF:-1 tvg-ID="movie sphere" tvg-logo="https://s.id/1d1fi" group-title="2.MOVIES",MOVIE SPHERE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 http://moviesphere-roku.amagi.tv/playlist720lp.m3u8
 
 #EXTINF:-1 tvg-ID="redbox" tvg-logo="https://s.id/1d1fu" group-title="2.MOVIES",REDBOX
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://rush-redbox.amagi.tv/playlist480p.m3u8
 
 #EXTINF:-1 tvg-ID="worldmovies" tvg-logo="https://s.id/1d1fG" group-title="2.MOVIES",WORLD MOVIES
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d8594eb979c0007706de7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=73&deviceId=5f4d8594eb979c0007706de7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:-1 group-title="2.MOVIES" tvg-id="GEM.sg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSblZDGr6c0PEEkIHMMtt6KzmVH2040wGrQXQ&usqp=CAU" ,Gem
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 http://rr.dens.tv/h/h19/index.m3u8
 
 #EXTINF:-1 group-title="2.MOVIES" tvg-id="KPlus.sg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2vqm8zv9Y2cimMu73ByGZK9cTqFV_WuRoQg&usqp=CAU" ,K+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 http://rr.dens.tv/h/h08/index.m3u8
 
 #EXTINF:-1 tvg-ID="blutv1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd6kLG-XRECcQ0Pj5YjvrbI7i-qBdg6KXqBw&usqp=CAU" group-title="2.MOVIES",BLU TV1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 http://mn-nl.mncdn.com/blutv_play1/live_720p2000000kbps/index.m3u8
 
 #EXTINF:-1 tvg-ID="blutv2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd6kLG-XRECcQ0Pj5YjvrbI7i-qBdg6KXqBw&usqp=CAU" group-title="2.MOVIES",BLU TV2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 http://mn-nl.mncdn.com/blutv_play2/live_720p2000000kbps/index.m3u8
 
 #EXTINF:-1 tvg-ID="wowowplus" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoF31oLBYxXxt3SZWTMIGh7aV1_BG_Ltf3zA&usqp=CAU" group-title="2.MOVIES",WOWOW PLUS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 #EXTINF:-1 tvg-ID="wowowcinema" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoF31oLBYxXxt3SZWTMIGh7aV1_BG_Ltf3zA&usqp=CAU" group-title="2.MOVIES",WOWOW CINEMA
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS193&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 #EXTINF:-1 tvg-ID="dmaax" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuXjLdceQyOLzhU5THiLiRbqI7Ovc_IprFaQ&usqp=CAU" group-title="2.MOVIES",DMAAX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 http://iptv12k.com:35461/86599050501/645678/13539
 
 ======3.CARTOON======
