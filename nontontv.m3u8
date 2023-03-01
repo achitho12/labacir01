@@ -2135,6 +2135,42 @@ https://webudit.onlinewebtv.lol/lb/premium135/index.m3u8|referer=https://streams
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.onlinewebtv.lol/lb/premium139/index.m3u8|referer=https://streamservicehd.click/
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz6GFNujd2i4CKLn9xjF_ZpWCKTyAKtRQuXA&usqp=CAU" group-title="8.SPORTS",Sport Klub
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.onlinewebtv.lol/lb/premium453/index.m3u8?|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz6GFNujd2i4CKLn9xjF_ZpWCKTyAKtRQuXA&usqp=CAU" group-title="8.SPORTS",Sport Klub 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.onlinewebtv.lol/lb/premium101/index.m3u8?|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz6GFNujd2i4CKLn9xjF_ZpWCKTyAKtRQuXA&usqp=CAU" group-title="8.SPORTS",Sport Klub 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.onlinewebtv.lol/lb/premium102/index.m3u8?|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz6GFNujd2i4CKLn9xjF_ZpWCKTyAKtRQuXA&usqp=CAU" group-title="8.SPORTS",Sport Klub 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.onlinewebtv.lol/lb/premium103/index.m3u8?|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz6GFNujd2i4CKLn9xjF_ZpWCKTyAKtRQuXA&usqp=CAU" group-title="8.SPORTS",Sport Klub 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.onlinewebtv.lol/lb/premium104/index.m3u8?|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 tvg-ID="ssc1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzbv7IPJ9S7pCLASaulxvkxSx8FCrlIsCVQA&usqp=CAU" group-title="8.SPORTS",SSC 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://iptvworld.nl:2095/mm5z86zW/qgSXYnBD/112095
+
+#EXTINF:-1 tvg-ID="ssc2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzbv7IPJ9S7pCLASaulxvkxSx8FCrlIsCVQA&usqp=CAU" group-title="8.SPORTS",SSC 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://iptvworld.nl:2095/mm5z86zW/qgSXYnBD/112096
+
+#EXTINF:-1 tvg-ID="ssc3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzbv7IPJ9S7pCLASaulxvkxSx8FCrlIsCVQA&usqp=CAU" group-title="8.SPORTS",SSC 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://iptvworld.nl:2095/mm5z86zW/qgSXYnBD/112097
+
+#EXTINF:-1 tvg-ID="ssc4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzbv7IPJ9S7pCLASaulxvkxSx8FCrlIsCVQA&usqp=CAU" group-title="8.SPORTS",SSC 4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://iptvworld.nl:2095/mm5z86zW/qgSXYnBD/112098
+
 
 ======9.LIGA BRI======
 
