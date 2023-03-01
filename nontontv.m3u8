@@ -1132,6 +1132,42 @@ http://122.248.43.138:1935/ch25/myStream/live.m3u8
 
 ======8.SPORTS======
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3BrNpDPLB99WqMz5Keap7zUjypS3ZFHz88Q&usqp=CAU" group-title="8.SPORTS",SPORT KANALEN HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.onlinewebtv.lol/lb/premium11/index.m3u8?|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPkF9dPZ_MBmBVJ7qXgbPfzoh5Xjb7-fgFlw&usqp=CAU" group-title="8.SPORTS",SPORT TV 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.onlinewebtv.lol/lb/premium49/index.m3u8?|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPcco1E211mI1F6KxTUSYqrzyWmMKWOa5v6g&usqp=CAU" group-title="8.SPORTS",CANAL SPORT+ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.onlinewebtv.lol/lb/premium48/index.m3u8?|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-VnNWi_TeS4G6ZQD55kzBgEJ7g9xEITTHhg&usqp=CAU" group-title="8.SPORTS",EURO SPORT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.onlinewebtv.lol/lb/premium42/index.m3u8?|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-VnNWi_TeS4G6ZQD55kzBgEJ7g9xEITTHhg&usqp=CAU" group-title="8.SPORTS",EURO SPORT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.onlinewebtv.lol/lb/premium41/index.m3u8?|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR68Wbbghd5IvH8SNXjQ1A9d_1KOr9h-LARyw&usqp=CAU" group-title="8.SPORTS",ON TIME SPORT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.onlinewebtv.lol/lb/premium10/index.m3u8?|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjG3ljuSjxfK2ty1-QZcDJJBP2cyI1pnFvng&usqp=CAU" group-title="8.SPORTS",M4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.onlinewebtv.lol/lb/premium12/index.m3u8?|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ20pAXl-jv0YCmLj3fhN_PrMDqPZsyiqdBKQ&usqp=CAU" group-title="8.SPORTS",RAI SPORT HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.onlinewebtv.lol/lb/premium13/index.m3u8?|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShcjqMSGxRVlHy0YDo5cBrS6AUEX_9x6UPLQ&usqp=CAU" group-title="8.SPORTS",SVT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.onlinewebtv.lol/lb/premium14/index.m3u8?|referer=https://widevine.licenses4.me/
+
 #EXTINF:-1 tvg-id="OrangeSport1.ro" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6n0t4Zf_TTc9leAYXGosInoysvkswc2X8gg&usqp=CAUg" group-title="8.SPORTS",Orange Sport 1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://newtest.webtv1.lol/lb/premium439/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
