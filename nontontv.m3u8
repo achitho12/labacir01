@@ -578,7 +578,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd|referer=
 https://nyanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd|referer=https://www.visionplus.id/
 
 #EXTM3U x-tvg-url="http://hpull.kktv8.com" url-tvg="http://hpull.kktv8.com" refresh="all" max-conn="all" refresh="all"
-#EXTINF:-1 tvg-ID="codaymovies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToAlO7IGdzrHMTi73613SBzSHdUZ4xhq9KfA&usqp=CAU" group-title="3.MOVIES",CODAY MOVIES
+#EXTINF:-1 tvg-ID="codaymovies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToAlO7IGdzrHMTi73613SBzSHdUZ4xhq9KfA&usqp=CAU" group-title="2.MOVIES",GOLIVE MOVIES
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
