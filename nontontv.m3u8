@@ -1327,17 +1327,9 @@ https://newtest.webtv1.lol/lb/premium403/index.m3u8?|referer=https://widevine.li
 #EXTINF:-1 group-title="8.SPORTS" tvg-id="ESPN.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQotYkzA2OfLNxYwra-KpmmypRLjFbOGytjLQ&usqp=CAU" , ESPN 1 US
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 https://newtest.webtv1.lol/lb/premium44/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT 
 
-#EXTINF:-1 group-title="8.SPORTS" tvg-id="ESPN2.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQotYkzA2OfLNxYwra-KpmmypRLjFbOGytjLQ&usqp=CAU" , ESPN 2 US
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://newtest.webtv1.lol/lb/premium45/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT 
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQotYkzA2OfLNxYwra-KpmmypRLjFbOGytjLQ&usqp=CAU" group-title="8.SPORTS", ESPN 2 US
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.onlinewebtv.lol/lb/premium83/index.m3u8?|referer=https://widevine.licenses4.me/
-
-#EXTINF:-1 group-title="8.SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQotYkzA2OfLNxYwra-KpmmypRLjFbOGytjLQ&usqp=CAU" ,ESPN Deportes
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-https://newtest.webtv1.lol/lb/premium375/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT 
 
 #EXTINF:-1 group-title="8.SPORTS" tvg-id="ESPN.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQotYkzA2OfLNxYwra-KpmmypRLjFbOGytjLQ&usqp=CAU" ,ESPN 1 US
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1347,27 +1339,11 @@ https://newtest.webtv1.lol/lb/premium44/index.m3u8?|referer=https://widevine.lic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://newtest.webtv1.lol/lb/premium45/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT 
 
-#EXTINF:-1 group-title="8.SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQotYkzA2OfLNxYwra-KpmmypRLjFbOGytjLQ&usqp=CAU" ,ESPN Deportes
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-https://newtest.webtv1.lol/lb/premium375/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT 
-
-#EXTINF:-1 group-title="8.SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQotYkzA2OfLNxYwra-KpmmypRLjFbOGytjLQ&usqp=CAU",ESPN 1 MX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=OLY_mqp7fHqCLI4UyKchLg:1rH0WlnS2sGnMMf1bHSXGg
-https://live1-ott.izzigo.tv/out/u/dash/ESPN-HD/dash/default.mpd
-
 #EXTINF:-1 group-title="8.SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQotYkzA2OfLNxYwra-KpmmypRLjFbOGytjLQ&usqp=CAU",ESPN 2 MX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a49114957d155cacb2e027af14450b94:0fed6599a8740879a29f1a49ec6d482a
 https://live1-ott.izzigo.tv/out/u/dash/ESPN-2-HD/default.mpd
-
-#EXTINF:-1 group-title="8.SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQotYkzA2OfLNxYwra-KpmmypRLjFbOGytjLQ&usqp=CAU",ESPN 3 MX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=Hk//rgdjAT1ItGqLBj0Rpg:bz6FZCEiJZsJb8uld/Uymg
-https://live1-ott.izzigo.tv/out/u/dash/ESPN-3-HD/dash/default.mpd
 
 #EXTINF:-1 group-title="8.SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFD0vfyM7ztJPvP1MLrM2zekpzRMQETexcIg&usqp=CAU",PFL MMA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6334a574605f140007e233c4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
