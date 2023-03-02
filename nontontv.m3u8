@@ -630,6 +630,38 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS193&r=HD&ccode=JP&m=d0:20
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 http://iptv12k.com:35461/86599050501/645678/13539
 
+#EXTINF:-1 tvg-ID="rekutentv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTMoquTmq86pXgu8lHJxxq94hHbtsDuEJ7FA&usqp=CAU" group-title="2.MOVIES",REKUTEN TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-ID="hallmark" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs1WpCZycwWEfNQseJLWev3wVIZY7aNSfJzA&usqp=CAU" group-title="2.MOVIES",HALL MARK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/628e685ba3811100070551a8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTAROPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-ID="sbsviceland" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIZQ-ADSach7XZjV3s2ABmkqSgXYcGJneQKQ&usqp=CAU" group-title="2.MOVIES",SBS VICELAND
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://iptvtree.net:8080/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/146812
+
+#EXTINF:-1 tvg-ID="starselect1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR3N6igrTPIdPqvqowjYK9QSh2nZKQc02_Uw&usqp=CAU" group-title=2.MOVIES",STAR SELEC 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://watchindia.net:8880/live/dharmend/PTukavDWzh/1070.ts
+
+#EXTINF:-1 tvg-ID="starselect2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR3N6igrTPIdPqvqowjYK9QSh2nZKQc02_Uw&usqp=CAU" group-title="2.MOVIES",STAR SELEC 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://iptvtree.net:8080/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/16619
+
+#EXTINF:-1 tvg-ID="hbo1" tvg-logo="https://s.id/1d0TX" group-title="2.MOVIES",HBO 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://jadetv.de/live/eagleiptv/SsFAljPDDi/69564.m3u8
+
+#EXTINF:-1 tvg-ID="hbo2" tvg-logo="https://s.id/1d0TX" group-title="2.MOVIES",HBO 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://163.172.33.7:25461/live/serveramsterdam/2292020/33.m3u8
+
+#EXTINF:-1 tvg-ID="sofytv" tvg-logo="https://s.id/1jgVf" group-title="2.MOVIES" ,SOFYTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://sofy-ger-samsung.amagi.tv/playlist.m3u8
+
 ======3.CARTOON======
 
 #EXTM3U x-tvg-url="https://www.visionplus.id" url-tvg="https://www.visionplus.id" refresh="all" max-conn="all" refresh="all"
@@ -804,6 +836,41 @@ https://nyanv-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeIn
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
 #EXTVLCOPT:http-host=nyanv-live-cdn.mncnow.id
 https://nyanv-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd|referer=https://www.visionplus.id/
+
+#EXTINF:-1 tvg-ID="thefirst" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkldaIrkPu0ubqMsYfiDo_4d4DQKrJ_dAhHw&usqp=CAU" group-title="4.KNOWLEDGE",THE FIRST
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+https://thefirst-oando.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-ID="tic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyEcb4Ym958_shc-C3kCxgfGxXy3jrbCRZtw&usqp=CAU" group-title="4.KNOWLEDGE",TIC
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+https://5effe161e0fba.streamlock.net/live/ngrp:TIC.stream_all/.m3u8
+
+#EXTINF:-1 tvg-ID="smithsonian" tvg-logo="https://s.id/1jhmu" group-title="4.KNOWLEDGE",SMITHSONIAN
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+https://smithsonianaus-samsungau.amagi.tv/playlist720p.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-ID="peopleareawesome" tvg-logo="https://s.id/1jhmM" group-title="4.KNOWLEDGE",PEOPLE ARE AWESOME
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/1280x720_5000000/chunklist.m3u8
+
+#EXTINF:-1 tvg-ID="outsidetv" tvg-logo="https://s.id/1jhn4" group-title="4.KNOWLEDGE",OUTSIDETV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+https://outsidetvplus-stirr.amagi.tv/playlistR720P.m3u8
+
+#EXTINF:-1 tvg-ID="nasatv" tvg-logo="https://s.id/1jhnp" group-title="4.KNOWLEDGE",NASA TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+
+#EXTINF:-1 tvg-ID="discoveryasia" tvg-logo="https://s.id/1jhnE" group-title="4.KNOWLEDGE",DISCOVERY ASIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://iptv12k.com:35461/86599050501/645678/13532
+
 
 ======5.RELIGION======
 
