@@ -2203,7 +2203,6 @@ http://iptvworld.nl:2095/mm5z86zW/qgSXYnBD/112098
 
 ======9.LIGA BRI======
 
-#EXTM3U x-tvg-url="https://www.vidio.com" url-tvg="https://www.vidio.com" refresh="all" max-conn="all" refresh="all"
 #EXTINF:-1 group-title="9.LIGA BRI" ch-number="101" tvg-id="101" tvg-chno="101" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gif&ct=s",LIVE
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
@@ -2212,7 +2211,6 @@ http://iptvworld.nl:2095/mm5z86zW/qgSXYnBD/112098
 #EXTVLCOPT:http-host=etslive-2-vidio-com.akamaized.net
 http://golive.yn.lt/live/liga1/01.m3u8|referer=https://www.vidio.com/
 
-#EXTM3U x-tvg-url="https://www.vidio.com" url-tvg="https://www.vidio.com" refresh="all" max-conn="all" refresh="all"
 #EXTINF:-1 group-title="9.LIGA BRI" ch-number="101" tvg-id="101" tvg-chno="101" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gif&ct=s",LIVE
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
@@ -2221,7 +2219,6 @@ http://golive.yn.lt/live/liga1/01.m3u8|referer=https://www.vidio.com/
 #EXTVLCOPT:http-host=etslive-2-vidio-com.akamaized.net
 http://golive.yn.lt/live/liga1/02.m3u8|referer=https://www.vidio.com/
 
-#EXTM3U x-tvg-url="https://www.vidio.com" url-tvg="https://www.vidio.com" refresh="all" max-conn="all" refresh="all"
 #EXTINF:-1 group-title="9.LIGA BRI" ch-number="101" tvg-id="101" tvg-chno="101" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gif&ct=s",LIVE
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
@@ -2318,83 +2315,83 @@ http://warkop.cf/80/bein/07.m3u8
 
 ======GOLIVE EVENT======
 
-#EXTINF:-1 tvg-ID="event1" tvg-logo="https://thumbs.gfycat.com/ChubbyFlamboyantAdamsstaghornedbeetle-size_restricted.gif" group-title="GOLIVE EVENT", LIVE
+#EXTINF:-1 tvg-ID="event1" tvg-logo="https://thumbs.gfycat.com/ChubbyFlamboyantAdamsstaghornedbeetle-size_restricted.gif" group-title="GOLIVE EVENT", LIVE 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://golive.yn.lt/live/bola/01.m3u8
 
-#EXTINF:-1 tvg-ID="event2" tvg-logo="https://thumbs.gfycat.com/ChubbyFlamboyantAdamsstaghornedbeetle-size_restricted.gif" group-title="GOLIVE EVENT", LIVE
+#EXTINF:-1 tvg-ID="event2" tvg-logo="https://thumbs.gfycat.com/ChubbyFlamboyantAdamsstaghornedbeetle-size_restricted.gif" group-title="GOLIVE EVENT", LIVE 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://golive.yn.lt/live/bola/02.m3u8
 
-#EXTINF:-1 tvg-ID="event3" tvg-logo="https://thumbs.gfycat.com/ChubbyFlamboyantAdamsstaghornedbeetle-size_restricted.gif" group-title="GOLIVE EVENT", LIVE
+#EXTINF:-1 tvg-ID="event3" tvg-logo="https://thumbs.gfycat.com/ChubbyFlamboyantAdamsstaghornedbeetle-size_restricted.gif" group-title="GOLIVE EVENT", LIVE 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://golive.yn.lt/live/bola/03.m3u8
 
-#EXTINF:-1 tvg-ID="event4" tvg-logo="https://thumbs.gfycat.com/ChubbyFlamboyantAdamsstaghornedbeetle-size_restricted.gif" group-title="GOLIVE EVENT", LIVE
+#EXTINF:-1 tvg-ID="event4" tvg-logo="https://thumbs.gfycat.com/ChubbyFlamboyantAdamsstaghornedbeetle-size_restricted.gif" group-title="GOLIVE EVENT", LIVE 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://golive.yn.lt/live/bola/04.m3u8
 
-#EXTINF:-1 tvg-ID="event5" tvg-logo="https://thumbs.gfycat.com/ChubbyFlamboyantAdamsstaghornedbeetle-size_restricted.gif" group-title="GOLIVE EVENT", LIVE
+#EXTINF:-1 tvg-ID="event5" tvg-logo="https://thumbs.gfycat.com/ChubbyFlamboyantAdamsstaghornedbeetle-size_restricted.gif" group-title="GOLIVE EVENT", LIVE 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://golive.yn.lt/live/bola/05.m3u8
 
-#EXTINF:-1 tvg-ID="event6" tvg-logo="https://thumbs.gfycat.com/ChubbyFlamboyantAdamsstaghornedbeetle-size_restricted.gif" group-title="GOLIVE EVENT", LIVE
+#EXTINF:-1 tvg-ID="event6" tvg-logo="https://thumbs.gfycat.com/ChubbyFlamboyantAdamsstaghornedbeetle-size_restricted.gif" group-title="GOLIVE EVENT", LIVE 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://golive.yn.lt/live/bola/06.m3u8
 
-#EXTINF:-1 tvg-ID="event7" tvg-logo="https://thumbs.gfycat.com/ChubbyFlamboyantAdamsstaghornedbeetle-size_restricted.gif" group-title="GOLIVE EVENT", LIVE
+#EXTINF:-1 tvg-ID="event7" tvg-logo="https://thumbs.gfycat.com/ChubbyFlamboyantAdamsstaghornedbeetle-size_restricted.gif" group-title="GOLIVE EVENT", LIVE 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://golive.yn.lt/live/bola/07.m3u8
 
-#EXTINF:-1 tvg-ID="event8" tvg-logo="https://thumbs.gfycat.com/ChubbyFlamboyantAdamsstaghornedbeetle-size_restricted.gif" group-title="GOLIVE EVENT", LIVE
+#EXTINF:-1 tvg-ID="event8" tvg-logo="https://thumbs.gfycat.com/ChubbyFlamboyantAdamsstaghornedbeetle-size_restricted.gif" group-title="GOLIVE EVENT", LIVE 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://golive.yn.lt/live/bola/08.m3u8
 
-#EXTINF:-1 tvg-ID="event9" tvg-logo="https://thumbs.gfycat.com/ChubbyFlamboyantAdamsstaghornedbeetle-size_restricted.gif" group-title="GOLIVE EVENT", LIVE
+#EXTINF:-1 tvg-ID="event9" tvg-logo="https://thumbs.gfycat.com/ChubbyFlamboyantAdamsstaghornedbeetle-size_restricted.gif" group-title="GOLIVE EVENT", LIVE 9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://golive.yn.lt/live/bola/09.m3u8
 
-#EXTINF:-1 tvg-ID="event10" tvg-logo="https://thumbs.gfycat.com/ChubbyFlamboyantAdamsstaghornedbeetle-size_restricted.gif" group-title="GOLIVE EVENT", LIVE
+#EXTINF:-1 tvg-ID="event10" tvg-logo="https://thumbs.gfycat.com/ChubbyFlamboyantAdamsstaghornedbeetle-size_restricted.gif" group-title="GOLIVE EVENT", LIVE 10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://golive.yn.lt/live/bola/10.m3u8
 
-#EXTINF:-1 tvg-ID="event11" tvg-logo="https://thumbs.gfycat.com/ChubbyFlamboyantAdamsstaghornedbeetle-size_restricted.gif" group-title="GOLIVE EVENT", LIVE
+#EXTINF:-1 tvg-ID="event11" tvg-logo="https://thumbs.gfycat.com/ChubbyFlamboyantAdamsstaghornedbeetle-size_restricted.gif" group-title="GOLIVE EVENT", LIVE 11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://golive.yn.lt/live/bola/11.m3u8
 
-#EXTINF:-1 tvg-ID="event12" tvg-logo="https://thumbs.gfycat.com/ChubbyFlamboyantAdamsstaghornedbeetle-size_restricted.gif" group-title="GOLIVE EVENT", LIVE
+#EXTINF:-1 tvg-ID="event12" tvg-logo="https://thumbs.gfycat.com/ChubbyFlamboyantAdamsstaghornedbeetle-size_restricted.gif" group-title="GOLIVE EVENT", LIVE 12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://golive.yn.lt/live/bola/12.m3u8
 
-#EXTINF:-1 tvg-ID="event13" tvg-logo="https://thumbs.gfycat.com/ChubbyFlamboyantAdamsstaghornedbeetle-size_restricted.gif" group-title="GOLIVE EVENT", LIVE
+#EXTINF:-1 tvg-ID="event13" tvg-logo="https://thumbs.gfycat.com/ChubbyFlamboyantAdamsstaghornedbeetle-size_restricted.gif" group-title="GOLIVE EVENT", LIVE 13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://golive.yn.lt/live/bola/13.m3u8
 
-#EXTINF:-1 tvg-ID="event14" tvg-logo="https://thumbs.gfycat.com/ChubbyFlamboyantAdamsstaghornedbeetle-size_restricted.gif" group-title="GOLIVE EVENT", LIVE
+#EXTINF:-1 tvg-ID="event14" tvg-logo="https://thumbs.gfycat.com/ChubbyFlamboyantAdamsstaghornedbeetle-size_restricted.gif" group-title="GOLIVE EVENT", LIVE 14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://golive.yn.lt/live/bola/14.m3u8
 
-#EXTINF:-1 tvg-ID="event15" tvg-logo="https://thumbs.gfycat.com/ChubbyFlamboyantAdamsstaghornedbeetle-size_restricted.gif" group-title="GOLIVE EVENT", LIVE
+#EXTINF:-1 tvg-ID="event15" tvg-logo="https://thumbs.gfycat.com/ChubbyFlamboyantAdamsstaghornedbeetle-size_restricted.gif" group-title="GOLIVE EVENT", LIVE 15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://golive.yn.lt/live/bola/15.m3u8
 
-#EXTINF:-1 tvg-ID="event16" tvg-logo="https://thumbs.gfycat.com/ChubbyFlamboyantAdamsstaghornedbeetle-size_restricted.gif" group-title="GOLIVE EVENT", LIVE
+#EXTINF:-1 tvg-ID="event16" tvg-logo="https://thumbs.gfycat.com/ChubbyFlamboyantAdamsstaghornedbeetle-size_restricted.gif" group-title="GOLIVE EVENT", LIVE 16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://golive.yn.lt/live/bola/16.m3u8
 
-#EXTINF:-1 tvg-ID="event17" tvg-logo="https://thumbs.gfycat.com/ChubbyFlamboyantAdamsstaghornedbeetle-size_restricted.gif" group-title="GOLIVE EVENT", LIVE
+#EXTINF:-1 tvg-ID="event17" tvg-logo="https://thumbs.gfycat.com/ChubbyFlamboyantAdamsstaghornedbeetle-size_restricted.gif" group-title="GOLIVE EVENT", LIVE 17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://golive.yn.lt/live/bola/17.m3u8
 
-#EXTINF:-1 tvg-ID="event18" tvg-logo="https://thumbs.gfycat.com/ChubbyFlamboyantAdamsstaghornedbeetle-size_restricted.gif" group-title="GOLIVE EVENT", LIVE
+#EXTINF:-1 tvg-ID="event18" tvg-logo="https://thumbs.gfycat.com/ChubbyFlamboyantAdamsstaghornedbeetle-size_restricted.gif" group-title="GOLIVE EVENT", LIVE 18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://golive.yn.lt/live/bola/18.m3u8
 
-#EXTINF:-1 tvg-ID="event19" tvg-logo="https://thumbs.gfycat.com/ChubbyFlamboyantAdamsstaghornedbeetle-size_restricted.gif" group-title="GOLIVE EVENT", LIVE
+#EXTINF:-1 tvg-ID="event19" tvg-logo="https://thumbs.gfycat.com/ChubbyFlamboyantAdamsstaghornedbeetle-size_restricted.gif" group-title="GOLIVE EVENT", LIVE 19
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://golive.yn.lt/live/bola/19.m3u8
 
-#EXTINF:-1 tvg-ID="event20" tvg-logo="https://thumbs.gfycat.com/ChubbyFlamboyantAdamsstaghornedbeetle-size_restricted.gif" group-title="GOLIVE EVENT", LIVE
+#EXTINF:-1 tvg-ID="event20" tvg-logo="https://thumbs.gfycat.com/ChubbyFlamboyantAdamsstaghornedbeetle-size_restricted.gif" group-title="GOLIVE EVENT", LIVE 20
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://golive.yn.lt/live/bola/20.m3u8
 
@@ -2414,182 +2411,172 @@ http://golive.yn.lt/live/bola/04.m3u8
 
 ======LIGA INGGRIS======
 
-
-#EXTM3U x-tvg-url="https://weareblahs.github.io/epg/mytv.xml" url-tvg="https://weareblahs.github.io/epg/compressed/mytv.xml.gz" refresh="1440" max-conn="1" refresh="24"
 #EXTINF:-1 group-title="LIGA INGGRIS" ch-number="101" tvg-id="101" tvg-chno="101" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gif&ct=s",LIVE
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#http://golive.yn.lt/live/epl/21.m3u8
+http://golive.yn.lt/live/epl/21.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#http://golive.yn.lt/live/epl/24.m3u8
+http://golive.yn.lt/live/epl/24.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#http://golive.yn.lt/live/epl/27.m3u8
+http://golive.yn.lt/live/epl/27.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#http://golive.yn.lt/live/epl/30.m3u8
+http://golive.yn.lt/live/epl/30.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#http://golive.yn.lt/live/epl/33.m3u8
+http://golive.yn.lt/live/epl/33.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#http://golive.yn.lt/live/epl/36.m3u8
+http://golive.yn.lt/live/epl/36.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#http://golive.yn.lt/live/epl/39.m3u8
+http://golive.yn.lt/live/epl/39.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#http://golive.yn.lt/live/epl/42.m3u8
+http://golive.yn.lt/live/epl/42.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#http://golive.yn.lt/live/epl/45.m3u8
+http://golive.yn.lt/live/epl/45.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://achitho12.github.io/labacir01/bacir.m3u8
+#https://achitho12.github.io/labacir01/bacir.m3u8
 
 
 ======LA LIGA=====
 
 
-#EXTM3U x-tvg-url="https://weareblahs.github.io/epg/mytv.xml" url-tvg="https://weareblahs.github.io/epg/compressed/mytv.xml.gz" refresh="1440" max-conn="1" refresh="24"
 #EXTINF:-1 group-title="LA LIGA" ch-number="101" tvg-id="101" tvg-chno="101" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gif&ct=s",LIVE
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#http://golive.yn.lt/live/laliga/21.m3u8
+http://golive.yn.lt/live/laliga/21.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#http://golive.yn.lt/live/laliga/24.m3u8
+http://golive.yn.lt/live/laliga/24.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#http://golive.yn.lt/live/laliga/27.m3u8
+http://golive.yn.lt/live/laliga/27.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#http://golive.yn.lt/live/laliga/30.m3u8
+http://golive.yn.lt/live/laliga/30.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#http://golive.yn.lt/live/laliga/33.m3u8
+http://golive.yn.lt/live/laliga/33.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#http://golive.yn.lt/live/laliga/36.m3u8
+http://golive.yn.lt/live/laliga/36.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#http://golive.yn.lt/live/laliga/39.m3u8
+http://golive.yn.lt/live/laliga/39.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#http://golive.yn.lt/live/laliga/42.m3u8
+http://golive.yn.lt/live/laliga/42.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#http://golive.yn.lt/live/laliga/45.m3u8
+http://golive.yn.lt/live/laliga/45.m3u8
 
 ======BUNDESLIGA========
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://achitho12.github.io/labacir01/bacir.m3u8
+#https://achitho12.github.io/labacir01/bacir.m3u8
 
-#EXTM3U x-tvg-url="https://weareblahs.github.io/epg/mytv.xml" url-tvg="https://weareblahs.github.io/epg/compressed/mytv.xml.gz" refresh="1440" max-conn="1" refresh="24"
 #EXTINF:-1 group-title="BUNDESLIGA" ch-number="101" tvg-id="101" tvg-chno="101" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gif&ct=s",LIVE
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#http://golive.yn.lt/live/bundesliga/21.m3u8
+http://golive.yn.lt/live/bundesliga/21.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#http://golive.yn.lt/live/bundesliga/24.m3u8
+http://golive.yn.lt/live/bundesliga/24.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#http://golive.yn.lt/live/bundesliga/27.m3u8
+http://golive.yn.lt/live/bundesliga/27.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#http://golive.yn.lt/live/bundesliga/30.m3u8
+http://golive.yn.lt/live/bundesliga/30.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#http://golive.yn.lt/live/bundesliga/33.m3u8
+http://golive.yn.lt/live/bundesliga/33.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#http://golive.yn.lt/live/bundesliga/36.m3u8
+http://golive.yn.lt/live/bundesliga/36.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#http://golive.yn.lt/live/bundesliga/39.m3u8
+http://golive.yn.lt/live/bundesliga/39.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#http://golive.yn.lt/live/bundesliga/42.m3u8
+http://golive.yn.lt/live/bundesliga/42.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#http://golive.yn.lt/live/bundesliga/45.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://achitho12.github.io/labacir01/bacir.m3u8
-
+http://golive.yn.lt/live/bundesliga/45.m3u8
 
 ========LIGA SERI A=========
 
-
-#EXTM3U x-tvg-url="https://weareblahs.github.io/epg/mytv.xml" url-tvg="https://weareblahs.github.io/epg/compressed/mytv.xml.gz" refresh="1440" max-conn="1" refresh="24"
 #EXTINF:-1 group-title="LIGA SERIA" ch-number="101" tvg-id="101" tvg-chno="101" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gif&ct=s",LIVE
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#http://golive.yn.lt/live/seriea/21.m3u8
+http://golive.yn.lt/live/seriea/21.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#http://golive.yn.lt/live/seriea/24.m3u8
+http://golive.yn.lt/live/seriea/24.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
@@ -2599,132 +2586,132 @@ https://achitho12.github.io/labacir01/bacir.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#http://golive.yn.lt/live/seriea/30.m3u8
+http://golive.yn.lt/live/seriea/30.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#http://golive.yn.lt/live/seriea/33.m3u8
+http://golive.yn.lt/live/seriea/33.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#http://golive.yn.lt/live/seriea/36.m3u8
+http://golive.yn.lt/live/seriea/36.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#http://golive.yn.lt/live/seriea/39.m3u8
+http://golive.yn.lt/live/seriea/39.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#http://golive.yn.lt/live/seriea/42.m3u8
+http://golive.yn.lt/live/seriea/42.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#http://golive.yn.lt/live/seriea/45.m3u8
+http://golive.yn.lt/live/seriea/45.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://achitho12.github.io/labacir01/bacir.m3u8
+#https://achitho12.github.io/labacir01/bacir.m3u8
 
 =========LIGA PERANCIS==========
 
-#EXTM3U x-tvg-url="https://weareblahs.github.io/epg/mytv.xml" url-tvg="https://weareblahs.github.io/epg/compressed/mytv.xml.gz" refresh="1440" max-conn="1" refresh="24"
 #EXTINF:-1 group-title="LIGA PERANCIS" ch-number="101" tvg-id="101" tvg-chno="101" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gif&ct=s",LIVE
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#http://golive.yn.lt/live/ligue1/21.m3u8
+http://golive.yn.lt/live/ligue1/21.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#http://golive.yn.lt/live/ligue1/24.m3u8
+http://golive.yn.lt/live/ligue1/24.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#http://golive.yn.lt/live/ligue1/27.m3u8
+http://golive.yn.lt/live/ligue1/27.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#http://golive.yn.lt/live/ligue1/30.m3u8
+http://golive.yn.lt/live/ligue1/30.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#http://golive.yn.lt/live/ligue1/33.m3u8
+http://golive.yn.lt/live/ligue1/33.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#http://golive.yn.lt/live/ligue1/36.m3u8
+http://golive.yn.lt/live/ligue1/36.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#http://golive.yn.lt/live/ligue1/39.m3u8
+http://golive.yn.lt/live/ligue1/39.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#http://golive.yn.lt/live/ligue1/42.m3u8
+http://golive.yn.lt/live/ligue1/42.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#http://golive.yn.lt/live/ligue1/45.m3u8
+http://golive.yn.lt/live/ligue1/45.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://achitho12.github.io/labacir01/bacir.m3u8
+#https://achitho12.github.io/labacir01/bacir.m3u8
 
 ======LIGA CHAMPIONS======
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="champions" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="CHAMPIONS LEAGUE",LIVE 1
-#http://golive.yn.lt/live/ucl/01.m3u8
+http://golive.yn.lt/live/ucl/01.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="champions" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="CHAMPIONS LEAGUE",LIVE 2
-#http://golive.yn.lt/live/ucl/03.m3u8
+http://golive.yn.lt/live/ucl/03.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="champions" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="CHAMPIONS LEAGUE",LIVE 3
-#http://golive.yn.lt/live/ucl/06.m3u8
+http://golive.yn.lt/live/ucl/06.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="champions" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="CHAMPIONS LEAGUE",LIVE 4
-#http://golive.yn.lt/live/ucl/09.m3u8
+http://golive.yn.lt/live/ucl/09.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="champions" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="CHAMPIONS LEAGUE",LIVE 5
-#http://golive.yn.lt/live/ucl/12.m3u8
+http://golive.yn.lt/live/ucl/12.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="champions" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="CHAMPIONS LEAGUE",LIVE 6
-#http://golive.yn.lt/live/ucl/15.m3u8
+http://golive.yn.lt/live/ucl/15.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="champions" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gi" group-title="CHAMPIONS LEAGUE",LIVE 7
-#http://golive.yn.lt/live/ucl/21.m3u8
+http://golive.yn.lt/live/ucl/21.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://achitho12.github.io/labacir01/bacir.m3u8
+#https://achitho12.github.io/labacir01/bacir.m3u8
 
 
 
