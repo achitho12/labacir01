@@ -100,7 +100,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd|refe
 
 #EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHTz44aEpN64TV_kaU1fbMMxhwASeA21LMoA&usqp=CAU",MNCTV+ HD
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://m-mnctv.rctiplus.id/mnctv-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1677670568-e6250b3db48f614ab924584dad1edea3-0-e7925c2ada11f0b322d45e51d9ce256e|referer=https://m.rctiplus.com/
+https://mnctv-azure.rctiplus.id/mnctv-sdi-avc1_800000=6-mp4a_96000=1.m3u8=referer|https://www.rctiplus.com/
 
 #EXTM3U x-tvg-url="https://www.visionplus.id" url-tvg="https://www.visionplus.id" refresh="all" max-conn="all" refresh="all"
 #EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrKvpASlmCEt2NVKFErdPTR1kx9C4qfUVIjA&usqp=CAU", RCTI
@@ -113,7 +113,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd|refere
 
 #EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrKvpASlmCEt2NVKFErdPTR1kx9C4qfUVIjA&usqp=CAU",RCTI+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://m-rcti.rctiplus.id/rcti-sdi.m3u8?auth_key=1677670680-84fc3bc16f454554ff158b75062d87e0-0-ee2a760a00d2f61fbe2a87561f2fdcd8|referer=https://m.rctiplus.com/
+https://d-rcti.rctiplus.id/rcti-sdi-avc1_800000=6-mp4a_96000=1.m3u8?auth_key=1677775867-9e0aa924a29f8ac4654b0d269d143785-0-e3c91e9bc223accc8ab08146d0c9f39c
 
 #EXTM3U x-tvg-url="https://www.visionplus.id" url-tvg="https://www.visionplus.id" refresh="all" max-conn="all" refresh="all"
 #EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQWuQY8T_Kcd46cTlkW6xMHi2MDyrOS9FcSA&usqp=CAU.png", GTV
