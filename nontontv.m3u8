@@ -1729,11 +1729,11 @@ https://xn--l3cm7a5azd.googlecdnforstreaming.live:446/db4k/bein2/playlist.m3u8|r
 https://xn--l3cm7a5azd.googlecdnforstreaming.live:446/db4k/tpf1_480/playlist.m3u8
 https://xn--l3cm7a5azd.googlecdnforstreaming.live:446/db4k/tsp2/playlist.m3u8|referer=https://dooball4k.live/&User-agent=Mozilla/5.0
 
-#EXTINF:-1 tvg-ID="championstv1" tvg-logo="https://thumbor.prod.vidiocdn.com/zUeO5Z0qWsLChLPVtUmiW7wjXP4=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-3beebf.jpg" group-title="2.SPORTS",CHAMPIONS TV1 NEX
+#EXTINF:-1 tvg-ID="championstv1" tvg-logo="https://thumbor.prod.vidiocdn.com/zUeO5Z0qWsLChLPVtUmiW7wjXP4=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-3beebf.jpg" group-title="8.SPORTS",CHAMPIONS TV1 NEX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://103.167.167.5:8111/play/a01p/index.m3u8
 
-#EXTINF:-1 tvg-ID="championstv2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQta_RleShm2-ovBJ4Ffb1JxKW8Y_LoiEDvLQ&usqp=CAU" group-title="2.SPORTS",CHAMPIONS TV2 NEX
+#EXTINF:-1 tvg-ID="championstv2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQta_RleShm2-ovBJ4Ffb1JxKW8Y_LoiEDvLQ&usqp=CAU" group-title="8.SPORTS",CHAMPIONS TV2 NEX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://103.167.167.5:8111/play/a01q/index.m3u8
 
@@ -2310,55 +2310,55 @@ http://iptvworld.nl:2095/mm5z86zW/qgSXYnBD/112097
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://iptvworld.nl:2095/mm5z86zW/qgSXYnBD/112098
 
-#EXTINF:-1 tvg-ID="optus1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXNm5qgLdEuI1xFODdp9dr760fWaA-pbspzw&usqp=CAU" group-title="2.SPORTS",OPTUS 1
+#EXTINF:-1 tvg-ID="optus1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXNm5qgLdEuI1xFODdp9dr760fWaA-pbspzw&usqp=CAU" group-title="8.SPORTS",OPTUS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://superbits.tv:2095/d4Je5xwD/yadTXB63/350480
 
-#EXTINF:-1 tvg-ID="optus2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXNm5qgLdEuI1xFODdp9dr760fWaA-pbspzw&usqp=CAU" group-title="2.SPORTS",OPTUS 2
+#EXTINF:-1 tvg-ID="optus2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXNm5qgLdEuI1xFODdp9dr760fWaA-pbspzw&usqp=CAU" group-title="8.SPORTS",OPTUS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://iptvworld.nl:2095/mm5z86zW/qgSXYnBD/348097
 
-#EXTINF:-1 tvg-ID="optus3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXNm5qgLdEuI1xFODdp9dr760fWaA-pbspzw&usqp=CAU" group-title="2.SPORTS",OPTUS 3
+#EXTINF:-1 tvg-ID="optus3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXNm5qgLdEuI1xFODdp9dr760fWaA-pbspzw&usqp=CAU" group-title="8.SPORTS",OPTUS 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://iptvworld.nl:2095/mm5z86zW/qgSXYnBD/348098
 
-#EXTINF:-1 tvg-ID="optus4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXNm5qgLdEuI1xFODdp9dr760fWaA-pbspzw&usqp=CAU" group-title="2.SPORTS",OPTUS 4
+#EXTINF:-1 tvg-ID="optus4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXNm5qgLdEuI1xFODdp9dr760fWaA-pbspzw&usqp=CAU" group-title="8.SPORTS",OPTUS 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://apex-media.xyz:8080/adamryan762@gmail.com/e3QZWRs/1553095
 
-#EXTINF:-1 tvg-ID="optus5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXNm5qgLdEuI1xFODdp9dr760fWaA-pbspzw&usqp=CAU" group-title="2.SPORTS",OPTUS 5
+#EXTINF:-1 tvg-ID="optus5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXNm5qgLdEuI1xFODdp9dr760fWaA-pbspzw&usqp=CAU" group-title="8.SPORTS",OPTUS 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://apex-media.xyz:8080/adamryan762@gmail.com/e3QZWRs/1553094
 
-#EXTINF:-1 tvg-ID="moji" tvg-logo="https://thumbor.prod.vidiocdn.com/dQRcxVzWpqnq1ATYhtadyL4kcZw=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg" group-title="2.SPORTS",MOJI
+#EXTINF:-1 tvg-ID="moji" tvg-logo="https://thumbor.prod.vidiocdn.com/dQRcxVzWpqnq1ATYhtadyL4kcZw=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg" group-title="8.SPORTS",MOJI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://rr2.dens.tv/s/s41/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-ID="fs1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFL2_ZWF0QtoGSaeLgreQmlM5N1lf7KLBB5A&usqp=CAU" group-title="2.SPORTS",FS 1
+#EXTINF:-1 tvg-ID="fs1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFL2_ZWF0QtoGSaeLgreQmlM5N1lf7KLBB5A&usqp=CAU" group-title="8.SPORTS",FS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://iptvworld.nl:2095/mm5z86zW/qgSXYnBD/8254?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-ID="fs2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/800px-FS2_logo_2015.svg.png" group-title="2.SPORTS",FS 2
+#EXTINF:-1 tvg-ID="fs2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/800px-FS2_logo_2015.svg.png" group-title="8.SPORTS",FS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://iptvworld.nl:2095/mm5z86zW/qgSXYnBD/8255?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-ID="nbcsport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd1o0izOk_EVIkn0hEVUoZRu7HnbCAF3uPzA&usqp=CAU" group-title="2.SPORTS",NBC SPORT
+#EXTINF:-1 tvg-ID="nbcsport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd1o0izOk_EVIkn0hEVUoZRu7HnbCAF3uPzA&usqp=CAU" group-title="8.SPORTS",NBC SPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://superbits.tv:2095/d4Je5xwD/yadTXB63/131803
 
-#EXTINF:-1 tvg-id="espn1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdVpx6X6Mp66E7nYX-FVeQgJUlMp2R9YLbGA&usqp=CAU" group-title="2.SPORTS",ESPN 1
+#EXTINF:-1 tvg-id="espn1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdVpx6X6Mp66E7nYX-FVeQgJUlMp2R9YLbGA&usqp=CAU" group-title="8.SPORTS",ESPN 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://170.83.242.8:5350/play/a00u
 
-#EXTINF:-1 tvg-id="espn2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdVpx6X6Mp66E7nYX-FVeQgJUlMp2R9YLbGA&usqp=CAU" group-title="2.SPORTS",ESPN 2
+#EXTINF:-1 tvg-id="espn2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdVpx6X6Mp66E7nYX-FVeQgJUlMp2R9YLbGA&usqp=CAU" group-title="8.SPORTS",ESPN 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://170.83.242.8:5350/play/a02u
 
-#EXTINF:-1 tvg-id="espn3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdVpx6X6Mp66E7nYX-FVeQgJUlMp2R9YLbGA&usqp=CAU" group-title="2.SPORTS",ESPN 3
+#EXTINF:-1 tvg-id="espn3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdVpx6X6Mp66E7nYX-FVeQgJUlMp2R9YLbGA&usqp=CAU" group-title="8.SPORTS",ESPN 3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
