@@ -642,14 +642,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/628e685ba3811100070551
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://iptvtree.net:8080/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/146812
 
-#EXTINF:-1 tvg-ID="starselect1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR3N6igrTPIdPqvqowjYK9QSh2nZKQc02_Uw&usqp=CAU" group-title="2.MOVIES",STAR SELEC 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://watchindia.net:8880/live/dharmend/PTukavDWzh/1070.ts
-
-#EXTINF:-1 tvg-ID="starselect2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR3N6igrTPIdPqvqowjYK9QSh2nZKQc02_Uw&usqp=CAU" group-title="2.MOVIES",STAR SELEC 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://iptvtree.net:8080/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/16619
-
 #EXTINF:-1 tvg-ID="hbo1" tvg-logo="https://s.id/1d0TX" group-title="2.MOVIES",HBO 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://jadetv.de/live/eagleiptv/SsFAljPDDi/69564.m3u8
@@ -2374,6 +2366,14 @@ http://31.220.3.170/play/live.php?mac=00:1a:79:e1:c8:6c&stream=39095&extension=t
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #http://185.191.126.140:8080/live/play/UVN0TFVWUnpXbEpuZW01b2NrMXhUSFJWY1VSdGFtZHVZMjVJV2xKMmQwTXlPWHB6V1hseVZtVjRZejA9/39095
 http://31.220.3.170/play/live.php?mac=00:1a:79:e1:c8:6c&stream=11364&extension=ts&play_token
+
+#EXTINF:-1 tvg-ID="starselect1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR3N6igrTPIdPqvqowjYK9QSh2nZKQc02_Uw&usqp=CAU" group-title="8.SPORTS",STAR SELEC 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://starshare.org:8080/live/gxc733/sxk877/98867.ts
+
+#EXTINF:-1 tvg-ID="starselect2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR3N6igrTPIdPqvqowjYK9QSh2nZKQc02_Uw&usqp=CAU" group-title="8.SPORTS",STAR SELEC 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://iptvtree.net:8080/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/16619
 
 ======9.LIGA BRI======
 
