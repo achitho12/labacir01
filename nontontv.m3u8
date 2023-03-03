@@ -749,15 +749,15 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd|referer=
 
 #EXTINF:-1 tvg-ID="aniplus" tvg-logo="https://s.id/1d1bO" group-title="3.CARTOON", ANIPLUS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-http://210.210.155.37/dr9445/h/h02/index.m3u8
+http://210.210.155.37/dr9445/h/h02/index.m3u8|referer=http://www.dens.tv/
 
 #EXTINF:-1 tvg-ID="eggnetwork" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn0ueG_SlbRoIufaj0hkHzW9HdOLT5Xh6rEQ&usqp=CAU" group-title="3.CARTOON", EGG NETWORK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-http://210.210.155.37/uq2663/h/h22/index.m3u8
+http://210.210.155.37/uq2663/h/h22/index.m3u8|referer=http://www.dens.tv/
 
 #EXTINF:-1 tvg-ID="mykids" tvg-logo="https://s.id/1d4gW" group-title="3.CARTOON", MY KIDZ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-http://rr.dens.tv/h/h191/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Kidz_HD
+http://rr.dens.tv/h/h191/index.m3u8|referer=http://www.dens.tv/
 
 #EXTINF:-1 tvg-ID="spacetoon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp_mc6CU15zpVQB32bm-VTOoFPFfqHRVo1NQ&usqp=CAU" group-title="3.CARTOON",SPACETOON
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
