@@ -315,65 +315,47 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntert
 #EXTVLCOPT:http-host=nyanv-live-cdn.mncnow.id
 https://nyanv-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd|referer=https://www.visionplus.id/
 
-#EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://thumbor.prod.vidiocdn.com/Iqs6mheIjesM4cUEh_dUVIdV0jU=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-b64c27.jpg",MENTARI TV
+#EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcYjsN0LwNmAf4vzNLZWyC2PjvfnQChgE-Ag&usqp=CAU", NUSANTARA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/8237.m3u8
+https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
+
+#EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr3rjyi3IO3puNJ4SPhGn-h850qeMebnRMkg&usqp=CAU",GARUDA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+https://ms.digdaya.tv/live/digdayatv/chunklist.m3u8
+
+#EXTINF:-1 tvg-ID="useeprime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Usee_Prime.png" group-title="1.LOKAL", USEE PRIME
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
+
+#EXTINF:-1 tvg-ID="wion" tvg-logo="http://cdn.wionews.com/sites/default/files/2018/09/11/46514-WION.jpg" group-title="1.LOKAL",WION
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+http://rr.dens.tv/h/h91/index2.m3u8
 
 ======2.MOVIES======
 
-#EXTM3U x-tvg-url="http://www.dens.tv" url-tvg="http://www.dens.tv" refresh="all" max-conn="all" refresh="all"
 #EXTINF:-1 tvg-ID="mcn" tvg-logo="https://s.id/1d1c9" group-title="2.MOVIES",MCN
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-#EXTVLCOPT:http-referer=http://www.dens.tv/
-#EXTVLCOPT:http-host=210.210.155.37
-http://210.210.155.37/uq2663/h/h192/index.m3u8|referer=http://www.dens.tv/
+http://210.210.155.37/uq2663/h/h192/index.m3u8
 
-#EXTM3U x-tvg-url="http://www.dens.tv" url-tvg="http://www.dens.tv" refresh="all" max-conn="all" refresh="all"
 #EXTINF:-1 tvg-ID="mca" tvg-logo="https://s.id/1d1cl" group-title="2.MOVIES",MCA
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-#EXTVLCOPT:http-referer=http://www.dens.tv/
-#EXTVLCOPT:http-host=210.210.155.37
-http://210.210.155.37/uq2663/h/h193/index.m3u8|referer=http://www.dens.tv/
+http://210.210.155.37/uq2663/h/h193/index.m3u8
 
-#EXTM3U x-tvg-url="http://www.dens.tv" url-tvg="http://www.dens.tv" refresh="all" max-conn="all" refresh="all"
 #EXTINF:-1 tvg-ID="mfc" tvg-logo="https://s.id/1d1cu" group-title="2.MOVIES",MFC
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-#EXTVLCOPT:http-referer=http://www.dens.tv/
-#EXTVLCOPT:http-host=210.210.155.37
-http://210.210.155.37/uq2663/h/h194/index.m3u8|referer=http://www.dens.tv/
+http://210.210.155.37/uq2663/h/h194/index.m3u8
 
-#EXTM3U x-tvg-url="http://www.dens.tv" url-tvg="http://www.dens.tv" refresh="all" max-conn="all" refresh="all"
 #EXTINF:-1 tvg-ID="cinemaeurope" tvg-logo="https://s.id/1d1dg" group-title="2.MOVIES",CINEMA EUROPE
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-#EXTVLCOPT:http-referer=http://www.dens.tv/
-#EXTVLCOPT:http-host=210.210.155.37
-http://210.210.155.37/uq2663/h/h18/index.m3u8|referer=http://www.dens.tv/
+http://210.210.155.37/uq2663/h/h18/index.m3u8
 
-#EXTM3U x-tvg-url="http://www.dens.tv" url-tvg="http://www.dens.tv" refresh="all" max-conn="all" refresh="all"
 #EXTINF:-1 tvg-ID="rockant" tvg-logo="https://s.id/1d1dT" group-title="2.MOVIES",ROCK ANT
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-#EXTVLCOPT:http-referer=http://www.dens.tv/
-#EXTVLCOPT:http-host=210.210.155.37
-http://210.210.155.37/dr9445/h/h16/index.m3u8|referer=http://www.dens.tv/
+http://210.210.155.37/dr9445/h/h16/index.m3u8
 
-#EXTM3U x-tvg-url="http://www.dens.tv" url-tvg="http://www.dens.tv" refresh="all" max-conn="all" refresh="all"
 #EXTINF:-1 tvg-ID="rockext" tvg-logo="https://s.id/1d1eh" group-title="2.MOVIES",ROCK EXT
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-#EXTVLCOPT:http-referer=http://www.dens.tv/
-#EXTVLCOPT:http-host=210.210.155.37
-http://210.210.155.37/dr9445/h/h15/index.m3u8|referer=http://www.dens.tv/
+http://210.210.155.37/dr9445/h/h15/index.m3u8
 
 #EXTM3U x-tvg-url="https://www.visionplus.id" url-tvg="https://www.visionplus.id" refresh="all" max-conn="all" refresh="all"
 #EXTINF:-1 tvg-ID="hbo" tvg-logo="https://s.id/1d0TX" group-title="2.MOVIES",HBO
