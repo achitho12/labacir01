@@ -66,6 +66,8 @@ http://tv1.yurend.net:25461/yurendtv/yurendtv3210@/08
 #EXTINF:-1 group-title="0.MALAYSIA" ch-number="125" tvg-id="125" tvg-chno="125" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png", Astro Arena
 http://tv1.yurend.net:25461/yurendtv/yurendtv3210@/04
 
+#EXTINF:-1 group-title="0.MALAYSIA" ch-number="125" tvg-id="125" tvg-chno="125" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaczoypRIM0BG-3hE9IKNlJUvZpRe9zMx9og&usqp=CAU", Upin & Ipin
+http://tv1.yurend.net:25461/yurendtv/yurendtv3210@/192
 
 =====1.LOKAL=====
 
