@@ -1,8 +1,3 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=494100,RESOLUTION=426x240,NAME="240p"
-https://cdn10jtedge.indihometv.com/joss/133/indosiar/chunklist_w1764492328_b494100_sleng.m3u8?enc=LThy7AIkY1TqC5NJA6QRnA&uid=&exp=1677419238
-#EXT-X-STREAM-INF:BANDWIDTH=684100,RESOLUTION=640x360,NAME="360p"
-https://cdn10jtedge.indihometv.com/joss/133/indosiar/chunklist_w1764492328_b684100_sleng.m3u8?enc=LThy7AIkY1TqC5NJA6QRnA&uid=&exp=1677419238
-#EXT-X-STREAM-INF:BANDWIDTH=1004100,RESOLUTION=960x540,NAME="540p"
-https://cdn10jtedge.indihometv.com/joss/133/indosiar/chunklist_w1764492328_b1004100_sleng.m3u8?enc=LThy7AIkY1TqC5NJA6QRnA&uid=&exp=1677419238
+#EXTINF:-1 tvg-id="ElevenSports2Portugal.pt" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjbqxC-o6IvLQMrp8H6kep8qYuyZzbThVErQ&usqp=CAU" group-title="3. SPORTS",Eleven 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(a255dd49-dc2a-464b-8623-6ef4556dff11)/manifest.mpd
