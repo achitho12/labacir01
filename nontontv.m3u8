@@ -847,9 +847,17 @@ http://tv1.yurend.net:25461/yurendtv/yurendtv3210@/207
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 http://tv1.yurend.net:25461/yurendtv/yurendtv3210@/206
 
-#EXTINF:-1 tvg-id="Mr.been" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuaIUYK6yjwaAlFR-Mov0oijCJuiS9INNjPA&usqp=CAU" group-title="3.CARTOON", SAUN THE SHEEP
+#EXTINF:-1 tvg-id="saunthesheep" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuaIUYK6yjwaAlFR-Mov0oijCJuiS9INNjPA&usqp=CAU" group-title="3.CARTOON", SAUN THE SHEEP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 http://tv1.yurend.net:25461/yurendtv/yurendtv3210@/205
+
+#EXTINF:-1 tvg-id="larva" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR84gWGAvrOqPQiRW18ffa1SOoCl6dr2Dsf2g&usqp=CAU" group-title="3.CARTOON", LARVA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+http://tv1.yurend.net:25461/yurendtv/yurendtv3210@/197
+
+#EXTINF:-1 tvg-id="donalduck" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoEWOc0MwE6gvOM52IIUpbZE4_Q5copnkshA&usqp=CAU" group-title="3.CARTOON", DONAL DUCK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+http://tv1.yurend.net:25461/yurendtv/yurendtv3210@/195
 
 
 ======4.KNOWLEDGE======
