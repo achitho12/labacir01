@@ -1451,6 +1451,18 @@ https://webudit.onlinewebtv.lol/lb/premium49/index.m3u8?|referer=https://widevin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.onlinewebtv.lol/lb/premium74/index.m3u8?|referer=https://widevine.licenses4.me/
 
+#EXTINF:-1 tvg-id="sport tv3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPkF9dPZ_MBmBVJ7qXgbPfzoh5Xjb7-fgFlw&usqp=CAU" group-title="8.SPORTS", SPORT TV3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://daddy.yurendtv.biz.id/https://ddyx2.onlinewebtv.lol/ddyx2/premium454/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="sport tv4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPkF9dPZ_MBmBVJ7qXgbPfzoh5Xjb7-fgFlw&usqp=CAU" group-title="8.SPORTS", SPORT TV4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://daddy.yurendtv.biz.id/https://ddy2.onlinewebtv.lol/ddy2/premium289/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="sport tv5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPkF9dPZ_MBmBVJ7qXgbPfzoh5Xjb7-fgFlw&usqp=CAU" group-title="8.SPORTS", SPORT TV5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://daddy.yurendtv.biz.id/https://ddy2.onlinewebtv.lol/ddy2/premium290/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPcco1E211mI1F6KxTUSYqrzyWmMKWOa5v6g&usqp=CAU" group-title="8.SPORTS",CANAL SPORT+ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.onlinewebtv.lol/lb/premium48/index.m3u8?|referer=https://widevine.licenses4.me/
