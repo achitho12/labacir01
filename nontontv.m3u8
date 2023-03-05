@@ -1624,28 +1624,25 @@ https://webudit.onlinewebtv.lol/lb/premium126/index.m3u8?|referer=https://widevi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.onlinewebtv.lol/lb/premium43/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-id="" tvg-name="Star Sports 1 FHD IN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6ypMcf6T-keW6q_r33JlZs8HhJABIVcgOCw&usqp=CAU" group-title="8.SPORTS",Star Sports 1 FHD 
-http://superbits.tv:2095/d4Je5xwD/yadTXB63/461062
-#EXTINF:-1 tvg-id="" tvg-name="Star Sports 1 Hindi FHD IN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6ypMcf6T-keW6q_r33JlZs8HhJABIVcgOCw&usqp=CAU" group-title="8.SPORTS",Star Sports 1 Hindi FHD 
-http://superbits.tv:2095/d4Je5xwD/yadTXB63/460746
-#EXTINF:-1 tvg-id="" tvg-name="Star Sports 2 FHD IN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6ypMcf6T-keW6q_r33JlZs8HhJABIVcgOCw&usqp=CAU" group-title="8.SPORTS",Star Sports 2 FHD 
-http://superbits.tv:2095/d4Je5xwD/yadTXB63/461063
-#EXTINF:-1 tvg-id="" tvg-name="Star Sports Select 1 FHD IN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6ypMcf6T-keW6q_r33JlZs8HhJABIVcgOCw&usqp=CAU" group-title="8.SPORTS",Star Sports Select 1 FHD 
-http://superbits.tv:2095/d4Je5xwD/yadTXB63/460747
-#EXTINF:-1 tvg-id="" tvg-name="Star Sports Select 2 FHD IN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6ypMcf6T-keW6q_r33JlZs8HhJABIVcgOCw&usqp=CAU" group-title="8.SPORTS",Star Sports Select 2 FHD 
-http://superbits.tv:2095/d4Je5xwD/yadTXB63/460748
-
-#EXTINF:-1 tvg-id="ElevenSports1Portugal.pt" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGD3DFVgCXkx4VlsT4YGhKBTIp15D5krG51A&usqp=CAU" group-title="8.SPORTS",Eleven 1 HD
+#EXTINF:-1 tvg-id="nova sports1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/Novasports21.jpg" group-title="8.SPORTS", Nova Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#http://he11o.akadatel.com/iptv/47PC7ECLXZM7EV/2531/index.m3u8
+https://daddy.yurendtv.biz.id/https://cnl.onlinewebtv.lol/cnl/ftknovasport1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="nova sport2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/Novasports21.jpg" group-title="8.SPORTS", Nova Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://daddy.yurendtv.biz.id/https://cnl.onlinewebtv.lol/cnl/ftknovasport2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="nova sport3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/Novasports21.jpg" group-title="8.SPORTS", Nova Sports 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://daddy.yurendtv.biz.id/https://cnl.onlinewebtv.lol/cnl/ftknovasport3/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="nova sport4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/Novasports21.jpg" group-title="8.SPORTS", Nova Sports 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://daddy.yurendtv.biz.id/https://cnl.onlinewebtv.lol/cnl/ftknovasport4/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGD3DFVgCXkx4VlsT4YGhKBTIp15D5krG51A&usqp=CAU" group-title="8.SPORTS", Eleven 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.onlinewebtv.lol/lb/premium71/index.m3u8?|referer=https://widevine.licenses4.me/
-
-#EXTINF:-1 tvg-id="ElevenSports2Portugal.pt" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGD3DFVgCXkx4VlsT4YGhKBTIp15D5krG51A&usqp=CAU" group-title="8.SPORTS",Eleven 2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#http://he11o.akadatel.com/iptv/47PC7ECLXZM7EV/2532/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGD3DFVgCXkx4VlsT4YGhKBTIp15D5krG51A&usqp=CAU" group-title="8.SPORTS", Eleven 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1658,14 +1655,6 @@ https://webudit.onlinewebtv.lol/lb/premium457/index.m3u8?|referer=https://widevi
 #EXTINF:-1 tvg-id="ElevenSports4Portugal.pt" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGD3DFVgCXkx4VlsT4YGhKBTIp15D5krG51A&usqp=CAU" group-title="8.SPORTS",Eleven 4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.onlinewebtv.lol/lb/premium458/index.m3u8?|referer=https://widevine.licenses4.me/
-
-#EXTINF:-1 tvg-id="ElevenSports3Portugal.pt" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGD3DFVgCXkx4VlsT4YGhKBTIp15D5krG51A&usqp=CAU" group-title="8.SPORTS",Eleven 3 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#http://he11o.akadatel.com/iptv/47PC7ECLXZM7EV/2533/index.m3u8
-
-#EXTINF:-1 tvg-id="ElevenSports4Portugal.pt" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGD3DFVgCXkx4VlsT4YGhKBTIp15D5krG51A&usqp=CAU" group-title="8.SPORTS",Eleven 4 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-$http://he11o.akadatel.com/iptv/47PC7ECLXZM7EV/2534/index.m3u8
 
 #EXTINF:-1 group-title="8.SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCXxnatNQpOUX8kgm2Mynm3iGXQxaubOdhnA&usqp=CAU",BEIN SPORT 1 DZ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
