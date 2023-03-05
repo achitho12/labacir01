@@ -2444,13 +2444,17 @@ http://31.220.3.170/play/live.php?mac=00:1a:79:e1:c8:6c&stream=39095&extension=t
 #http://185.191.126.140:8080/live/play/UVN0TFVWUnpXbEpuZW01b2NrMXhUSFJWY1VSdGFtZHVZMjVJV2xKMmQwTXlPWHB6V1hseVZtVjRZejA9/39095
 http://31.220.3.170/play/live.php?mac=00:1a:79:e1:c8:6c&stream=11364&extension=ts&play_token
 
-#EXTINF:-1 tvg-ID="starselect1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR3N6igrTPIdPqvqowjYK9QSh2nZKQc02_Uw&usqp=CAU" group-title="8.SPORTS",STAR SELEC 1
+#EXTINF:-1 tvg-id="football 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUeeNM1o3qJf4MLdaDod4SQtuoOP9EjAy_zw&usqp=CAU" group-title="8.SPORTS", Football 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://starshare.org:8080/live/gxc733/sxk877/98867.ts
+https://daddy.yurendtv.biz.id/https://ddy2.onlinewebtv.lol/ddy2/premium136/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-ID="starselect2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR3N6igrTPIdPqvqowjYK9QSh2nZKQc02_Uw&usqp=CAU" group-title="8.SPORTS",STAR SELEC 2
+#EXTINF:-1 tvg-id="football 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUeeNM1o3qJf4MLdaDod4SQtuoOP9EjAy_zw&usqp=CAU" group-title="8.SPORTS", Football 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://starshare.org:8080/live/gxc733/sxk877/98865.ts
+https://daddy.yurendtv.biz.id/https://ddy2.onlinewebtv.lol/ddy2/premium137/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="football 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUeeNM1o3qJf4MLdaDod4SQtuoOP9EjAy_zw&usqp=CAU" group-title="8.SPORTS", Football 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://daddy.yurendtv.biz.id/https://ddy2.onlinewebtv.lol/ddy2/premium138/tracks-v1a1/mono.m3u8
 
 ====VOD====
 
