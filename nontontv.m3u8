@@ -839,6 +839,19 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 http://iptv12k.com:35461/86599050501/645678/13466
 
+#EXTINF:-1 tvg-id="bernard" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6z5VlgBP6cZsgGJUdvJK9hpFQcQk6cDiLXw&usqp=CAU" group-title="3.CARTOON", BERNARD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+http://tv1.yurend.net:25461/yurendtv/yurendtv3210@/207
+
+#EXTINF:-1 tvg-id="Mr.been" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmm2E0stjWXtU92HTstipvQQ9s-EESZN1x9w&usqp=CAU" group-title="3.CARTOON", MR.BEEN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+http://tv1.yurend.net:25461/yurendtv/yurendtv3210@/206
+
+#EXTINF:-1 tvg-id="Mr.been" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuaIUYK6yjwaAlFR-Mov0oijCJuiS9INNjPA&usqp=CAU" group-title="3.CARTOON", SAUN THE SHEEP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+http://tv1.yurend.net:25461/yurendtv/yurendtv3210@/205
+
+
 ======4.KNOWLEDGE======
 
 #EXTM3U x-tvg-url="https://www.visionplus.id" url-tvg="https://www.visionplus.id" refresh="all" max-conn="all" refresh="all"
