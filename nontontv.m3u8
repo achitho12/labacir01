@@ -2093,24 +2093,24 @@ http://iptvid.my.id/hmm/nba.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM7A3As9bi5L4qsQff_lehCD5_Gl932w3p_A&usqp=CAU" group-title="8.SPORTS",WWE
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
-#EXTM3U
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="unifysport1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Unifi-Sports_1.png/revision/latest/scale-to-width-down/280?cb=20210712111848" group-title="8.SPORTS",UNIFY SPORT1
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
-#EXTM3U
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="unifysport2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Unifi-Sports-2.png/revision/latest/scale-to-width-down/300?cb=20210712113109" group-title="8.SPORTS",UNIFY SPORT2
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 #EXTINF:-1 tvg-ID="foxsport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT6cvFpkxs-56KdzsuVQSf9MR7SfhwdHGWTA&usqp=CAU" group-title="8.SPORTS",FOX SPORT
 https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
-#EXTM3U
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="foxsport2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGT62seMX8WkTotuetFE9h6QUhuklNBbHyBQ&usqp=CAU" group-title="8.SPORTS",FOX SPORT 2
 https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
-#EXTM3U
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="foxsport3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCd7UvOnIlL9uu_y9luBnTQtB4G0f-jSvNyQ&usqp=CAU" group-title="8.SPORTS",FOX SPORT 3
@@ -2291,10 +2291,6 @@ https://webudit.onlinewebtv.lol/lb/premium103/index.m3u8?|referer=https://widevi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.onlinewebtv.lol/lb/premium104/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0FjCd65ieWIvN7AW8tBOKjAqDEFvOLDm5YA&usqp=CAU" group-title="8.SPORTS", LALIGA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.onlinewebtv.lol/lb/premium84/index.m3u8?|referer=https://widevine.licenses4.me/
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJlrr4NA6VNoCX6Pu6TYrrBGJXWmNY_q2lUw&usqp=CAU" group-title="8.SPORTS",SPORT TV BR 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.onlinewebtv.lol/lb/premium78/index.m3u8?|referer=https://widevine.licenses4.me/
@@ -2455,6 +2451,22 @@ https://daddy.yurendtv.biz.id/https://ddy2.onlinewebtv.lol/ddy2/premium137/track
 #EXTINF:-1 tvg-id="football 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUeeNM1o3qJf4MLdaDod4SQtuoOP9EjAy_zw&usqp=CAU" group-title="8.SPORTS", Football 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://daddy.yurendtv.biz.id/https://ddy2.onlinewebtv.lol/ddy2/premium138/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="movistar 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsW4n4640hm_N10YwKdwIp078RWB-L-82pbw&usqp=CAU" group-title="8.SPORTS", Movistar 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://daddy.yurendtv.biz.id/https://ddy6.onlinewebtv.lol/ddy6/premium436/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="movistar 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsW4n4640hm_N10YwKdwIp078RWB-L-82pbw&usqp=CAU" group-title="8.SPORTS", Movistar 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://daddy.yurendtv.biz.id/https://ddy6.onlinewebtv.lol/ddy6/premium539/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="movistar 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsW4n4640hm_N10YwKdwIp078RWB-L-82pbw&usqp=CAU" group-title="8.SPORTS", Movistar 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://daddy.yurendtv.biz.id/https://ddy6.onlinewebtv.lol/ddy6/premium435/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0FjCd65ieWIvN7AW8tBOKjAqDEFvOLDm5YA&usqp=CAU" group-title="8.SPORTS", Movistar laliga
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.onlinewebtv.lol/lb/premium84/index.m3u8?|referer=https://widevine.licenses4.me/
 
 ====VOD====
 
