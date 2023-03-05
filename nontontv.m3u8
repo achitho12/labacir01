@@ -63,6 +63,9 @@ http://tv1.yurend.net:25461/yurendtv/yurendtv3210@/07
 #EXTINF:-1 group-title="0.MALAYSIA" ch-number="125" tvg-id="125" tvg-chno="125" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png", Astro Super Sport 4
 http://tv1.yurend.net:25461/yurendtv/yurendtv3210@/08
 
+#EXTINF:-1 group-title="0.MALAYSIA" ch-number="125" tvg-id="125" tvg-chno="125" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png", Astro Arena
+http://tv1.yurend.net:25461/yurendtv/yurendtv3210@/04
+
 
 =====1.LOKAL=====
 
