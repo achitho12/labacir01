@@ -668,10 +668,6 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=HD&ccode=JP&m=d0:20
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS193&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 tvg-ID="dmaax" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuXjLdceQyOLzhU5THiLiRbqI7Ovc_IprFaQ&usqp=CAU" group-title="2.MOVIES",DMAAX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-http://iptv12k.com:35461/86599050501/645678/13539
-
 #EXTINF:-1 tvg-ID="rekutentv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTMoquTmq86pXgu8lHJxxq94hHbtsDuEJ7FA&usqp=CAU" group-title="2.MOVIES",REKUTEN TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
@@ -699,6 +695,10 @@ https://sofy-ger-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-ID="sofytv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD8d2flxs77lGWPVULHbDYIgqYog_U0ZMHQQ&usqp=CAU" group-title="2.MOVIES" ,FLIK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://tv1.yurend.net:25461/yurendtv/yurendtv3210@/201
+
+#EXTINF:-1 tvg-id="ocn" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD9635JgXXvfXRP0RQ603hJwxoWD6SunXybg&usqp=CAU" group-title="2.MOVIES", OCN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://korea.hoheh.workers.dev/stream/ocn/stream/ocn_hq/chunks.m3u8
 
 ======3.CARTOON======
 
