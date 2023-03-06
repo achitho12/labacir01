@@ -362,6 +362,13 @@ http://tv1.yurend.net:25461/yurendtv/yurendtv3210@/199
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 http://tv1.yurend.net:25461/yurendtv/yurendtv3210@/200
 
+#EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQobkE4nyjmxdgpMgmw0UVG-ey9UbPnOoOwTA&usqp=CAU", CITRA DANGDUT
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+#EXTVLCOPT:http-referer=https://www.useetv.com
+#EXTVLCOPT:http-host=cdn09jtedge.indihometv.com
+https://cdn09jtedge.indihometv.com/atemedvr/1678116782/0/CITRADANGDUT_AT/CITRADANGDUT_AT.mpd?dvr?stime=1678120382&etime=1678120382&encoded=0a4f0fd913ab6e3211aec|referer=https://www.useetv.com
 
 ======2.MOVIES======
 
