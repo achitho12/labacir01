@@ -2523,13 +2523,6 @@ https://daddy.yurendtv.biz.id/https://ddyx2.onlinewebtv.lol/ddyx2/premium624/tra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://daddy.yurendtv.biz.id/https://ddyx2.onlinewebtv.lol/ddyx2/premium625/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="8.SPORTS" tvg-logo="https://thumbor.prod.vidiocdn.com/Bmv3iTkuSqCj3J2swo0flndH8x8=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-60c673.jpg", Bein Sport 1 Indo
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://yurendtv.my.id/play.mpd?id=bein1&key=usee&type=drm
-http://yurendtv.my.id/play.mpd?id=bein1&key=usee&type=dash
-
-
-
 ====VOD====
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://s4.indexmovies.xyz/wp-content/uploads/2022/06/film-man-vs-bee-2022-lk21-d21.jpg" group-title="VOD Series Barat JAX",Man vs. Bee &#8211; Season 1 Episode 4 (2022)
