@@ -368,7 +368,7 @@ https://cdnbal1.indihometv.com/dass/133/useesports2/manifest_wuseetv.mpd?encp=es
 
 #EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQobkE4nyjmxdgpMgmw0UVG-ey9UbPnOoOwTA&usqp=CAU", CITRA DANGDUT
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.useetv.com/proxy?playid=dxUWJNbTJJB3n2IvfEmfGA&exp=1678129452&tvcode=useesport&uid=2437352&utoken=
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 #EXTVLCOPT:http-referer=https://www.useetv.com
 #EXTVLCOPT:http-host=cdn09jtedge.indihometv.com
@@ -705,7 +705,7 @@ https://sofy-ger-samsung.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="2.MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmHw_gY1EXEED5yM4Z3LKYCAPmlWdEjzZyNQ&usqp=CAU", FLIK
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://yurendtv.my.id/play.mpd?id=flik&key=usee&type=drm
+#KODIPROP:inputstream.adaptive.license_key=https://drm.useetv.com/proxy?playid=hwiSixCSQ_mdApYV9Og5Vw&exp=1678136572&tvcode=flik&uid=2437352&utoken=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://cdn13jtedge.indihometv.com/dass/133/flik_dash/manifest_wuseetv.mpd?encp=XWE4ahKg1elTGTeSZJyf6Q&uid=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJhZGM2ZjM3ZS1lNmNiLTg1MjBhLTRkOTZkYTA2YWIxZSIsImVtYWlsIjoibnVzc2F0dnVzZWVAZ21haWwuY29tIiwibG9naW5TdGF0dXMiOnRydWUsInN1YnNjcmliZXJfaWQiOiIyNDM3MzUyIiwiZnVsbG5hbWUiOiJNRVRBIFBSRU1JVU0iLCJkZXZpY2VJZCI6IjM1NjY2Mzg1NjI2MjQ1TVBTUy5BVC4zLjEtMDA3NzctU0RNNjYwX0dFTl9QQUNLLTEuMzM2NzM2LjEuMzM3ODM0LjEiLCJpZCI6NTk1NiwiZXhwIjoxNjc4NTEwMTMzLCJpYXQiOjE2Nzc5MDUzMzMsImlzcyI6IlVzZWVUVkdPIn0.qMxusPVO1V6GCzmUJpGy2txPP6ay2OgClTQ204MaNi2CFSUF4nN7iTBCt0FsswrOYcqQXf6H3safc1KemW3EmGlBzAdZwFfvp_66GWH0Pmq0vWXXZnEfx1MD_j_LooGWWU4h3FuDFbhRReEPgFAsc0vDwsow8pZLlPA3aRY9pFgYsgnE1gxG3tMJHu91ANB2ZCbrNw_WCRURUOoJPPNffeH-m0NJ8kJTR1HpoWzpoYjr9yQUQbWwS_qxu3TnAu3bD9KGTpjNC_uknU0tGASyAbH6wb_d5kESW5AbJaAIDSrQjuLl2aBrpAoyrnfUPVpmuOf00WfWZwCDdnSS0kDiyjdtP71N5GDI_ycisYv-4A-rm3K2VXgSX3y0LN5pjDoaODHsYZtSeaQspkBgoQL0_bIuuqJAMG6SylZzlNOVmp3fCtwnfYXcP-0zKpsFVtr9MhL7g6SApBBq6syVauFkCrDEkUGXzWV3aOTEEdMl8x3VOoeys-8AB5hXJUw2kO6GFb9eQXEYUiTGnSXdB0IwCh7h5o__a_zvATSj4JklrfruXuJqwcWn6x_ssGLoCnqWniBOssMJBhur4jRgWoox_Y14zkyU5L6Xytz9NJxROh3qjN2tzBCG4fYNbx6dMhQuhKAHQ-47nepwrCITfaEw2DCpYDWGnLVN8uqK4b-IBbM&expp=1678135684
 
