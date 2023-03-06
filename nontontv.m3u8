@@ -713,6 +713,13 @@ https://cdn13jtedge.indihometv.com/dass/133/flik_dash/manifest_wuseetv.mpd?encp=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://korea.hoheh.workers.dev/stream/ocn/stream/ocn_hq/chunks.m3u8
 
+#EXTINF:-1 group-title="2.MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzHtMlq0Zw3CSZwfR5PYmJNpnT7Bz2cWrfgg&usqp=CAU", Bioskop Indonesia
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tokenastro.hoheh.workers.dev/license-proxy-widevine/cenc/?specConform=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+https://cdnjkt2.transvision.co.id/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd
+
+
 ======3.CARTOON======
 
 #EXTM3U x-tvg-url="https://www.visionplus.id" url-tvg="https://www.visionplus.id" refresh="all" max-conn="all" refresh="all"
