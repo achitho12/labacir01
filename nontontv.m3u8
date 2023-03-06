@@ -380,7 +380,7 @@ http://yurendtv.my.id/play.mpd?id=bein2&key=usee&type=dash
 
 #EXTINF:-1 tvg-ID="bein3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQUMU1fhQzoAr2Hm6jR4JZWtaY5452ap2AzA&usqp=CAU" group-title="1.LOKAL", Bein Sport 3 indihome
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://standards.iso.org/ittf/PubliclyAvailableStandards/MPEG-DASH_schema_files/DASH-MPD.xsd
+#KODIPROP:inputstream.adaptive.license_key=http://www.w3.org/2001/XMLSchema-instance
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://malay.yurendtv.biz.id/dash-wv/linear/408/default_primary.mpd
 
