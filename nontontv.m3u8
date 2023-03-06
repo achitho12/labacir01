@@ -138,7 +138,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mp
 
 #EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwqkvqFAzLnnkRyqIAD4azC_d0KaonGbsF3Q&usqp=CAU" ,iNews+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://d-inews.rctiplus.id/inews-sdi-avc1_800000=6-mp4a_96000=1.m3u8?auth_key=1678035755-dae89c0a599abad46e70f716c5a40b53-0-3f3b30a2100562842bbcb305ffcde628|referer=https://m.rctiplus.com/
+https://d-inews.rctiplus.id/inews-sdi-avc1_800000=6-mp4a_96000=1.m3u8?auth_key=1678116852-3668a24faec11049baac943c11e77b33-0-773fcfb214e7c5803dc8cd6e4d3b937e|referer=https://m.rctiplus.com/
 
 #EXTM3U x-tvg-url="https://www.visionplus.id" url-tvg="https://www.visionplus.id" refresh="all" max-conn="all" refresh="all"
 #EXTINF:-1 tvg-ID="antv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZlbrwqDKOwznMxFxpzauA3P4SrFtAF_tc7A&usqp=CAU" group-title="1.LOKAL", ANTV 1
