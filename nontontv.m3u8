@@ -715,7 +715,7 @@ https://korea.hoheh.workers.dev/stream/ocn/stream/ocn_hq/chunks.m3u8
 
 #EXTINF:-1 group-title="2.MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzHtMlq0Zw3CSZwfR5PYmJNpnT7Bz2cWrfgg&usqp=CAU", Bioskop Indonesia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tokenastro.hoheh.workers.dev/license-proxy-widevine/cenc/?specConform=true
+#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
 https://achitho12.github.io/labacir01/bocil.mpd
 
 ======3.CARTOON======
