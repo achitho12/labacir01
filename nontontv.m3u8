@@ -715,9 +715,8 @@ https://korea.hoheh.workers.dev/stream/ocn/stream/ocn_hq/chunks.m3u8
 
 #EXTINF:-1 group-title="2.MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzHtMlq0Zw3CSZwfR5PYmJNpnT7Bz2cWrfgg&usqp=CAU", Bioskop Indonesia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://thomasandi.my.id/drmlele/drmcubmu
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-https://www.yumarendra.my.id/ch/cubmu.mpd?id=4028c6856fd0d66d0170341bf1000905&andi=4
+#KODIPROP:inputstream.adaptive.license_key=https://tokenastro.hoheh.workers.dev/license-proxy-widevine/cenc/?specConform=true
+https://cdnjkt2.transvision.co.id/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd
 
 ======3.CARTOON======
 
