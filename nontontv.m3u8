@@ -874,7 +874,7 @@ http://tv1.yurend.net:25461/yurendtv/yurendtv3210@/194
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-http://yurendtv.my.id/play.mpd?id=dreamworks&key=usee&type=drm
+http://yurendtv.my.id/play.mpd?id=dreamworks&key=usee&type=dash/http://yurendtv.my.id/play.mpd?id=dreamworks&key=usee&type=drm
 
 ======4.KNOWLEDGE======
 
