@@ -379,10 +379,8 @@ http://yurendtv.my.id/play.mpd?id=bein1&key=usee&type=dash
 http://yurendtv.my.id/play.mpd?id=bein2&key=usee&type=dash
 
 #EXTINF:-1 tvg-ID="bein3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQUMU1fhQzoAr2Hm6jR4JZWtaY5452ap2AzA&usqp=CAU" group-title="1.LOKAL", Bein Sport 3 indihome
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://thomasandi.my.id/drmlele/maxstream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd35274e-60ca-4ea7-91a5-38cc444c1b80)/manifest.mpd
+https://thomasandi.my.id/drmlele/maxstream
 
 #EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQobkE4nyjmxdgpMgmw0UVG-ey9UbPnOoOwTA&usqp=CAU", CITRA DANGDUT
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
