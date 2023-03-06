@@ -703,7 +703,6 @@ http://163.172.33.7:25461/live/serveramsterdam/2292020/33.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://sofy-ger-samsung.amagi.tv/playlist.m3u8
 
-#EXTM3U
 #EXTINF:-1 group-title="2.MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmHw_gY1EXEED5yM4Z3LKYCAPmlWdEjzZyNQ&usqp=CAU", FLIK
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.useetv.com/proxy?playid=fl9r-b6GTO7ieOxCTp-qvQ&exp=1678128486&tvcode=flik&uid=2437352&utoken=
@@ -713,11 +712,6 @@ https://cdn13jtedge.indihometv.com/dass/133/flik_dash/manifest_wuseetv.mpd?encp=
 #EXTINF:-1 tvg-id="ocn" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD9635JgXXvfXRP0RQ603hJwxoWD6SunXybg&usqp=CAU" group-title="2.MOVIES", OCN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://korea.hoheh.workers.dev/stream/ocn/stream/ocn_hq/chunks.m3u8
-
-#EXTM3U
-#EXTINF:-1 group-title="2.MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzHtMlq0Zw3CSZwfR5PYmJNpnT7Bz2cWrfgg&usqp=CAU", Bioskop Indonesia
-#KODIPROP:inputstream.adaptive.license_type=https://tokenastro.hoheh.workers.dev/license-proxy-widevine/cenc/?specConform=true
-https://achitho12.github.io/labacir01/bocil.mpd
 
 ======3.CARTOON======
 
