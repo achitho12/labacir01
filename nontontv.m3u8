@@ -1,6 +1,5 @@
 #EXTM3U x-tvg-url="https://weareblahs.github.io/epg/mytv.xml" url-tvg="https://weareblahs.github.io/epg/compressed/mytv.xml.gz" refresh="1440" max-conn="1" refresh="24"
 
-
 #EXTINF:-1 group-title="0.MALAYSIA" ch-number="101" tvg-id="101" tvg-chno="101" tvg-logo="https://s.id/1d1pd",TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 
