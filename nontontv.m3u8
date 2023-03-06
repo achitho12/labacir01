@@ -859,6 +859,9 @@ http://tv1.yurend.net:25461/yurendtv/yurendtv3210@/197
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 http://tv1.yurend.net:25461/yurendtv/yurendtv3210@/195
 
+#EXTINF:-1 tvg-id="tom&jerry" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfqnALAPdmfWktSFVrJzyoKzQf08R9Pct3vQ&usqp=CAU" group-title="3.CARTOON", TOM & JERRY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://tv1.yurend.net:25461/yurendtv/yurendtv3210@/194
 
 ======4.KNOWLEDGE======
 
