@@ -1,40 +1,72 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!--Generated with https://github.com/google/shaka-packager version 069dbc8-release-->
-<MPD xmlns="urn:mpeg:dash:schema:mpd:2011" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:mpeg:dash:schema:mpd:2011 DASH-MPD.xsd" xmlns:cenc="urn:mpeg:cenc:2013" profiles="urn:mpeg:dash:profile:isoff-live:2011" minBufferTime="PT24S" type="dynamic" publishTime="2023-03-06T18:23:58Z" availabilityStartTime="2023-03-04T07:30:00Z" minimumUpdatePeriod="PT8S" timeShiftBufferDepth="PT180S">
-  <Period id="0" start="PT0S">
-    <AdaptationSet id="0" contentType="video" maxWidth="864" maxHeight="486" frameRate="90000/3600" segmentAlignment="true" par="20:11">
-      <ContentProtection value="cbcs" schemeIdUri="urn:mpeg:dash:mp4protection:2011" cenc:default_KID="58463868-7655-344f-724d-7330484e5552"/>
-      <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed">
-        <cenc:pssh>AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEFhGOGh2VTRPck1zMEhOVVJI88aJmwY=</cenc:pssh>
-      </ContentProtection>
-      <Representation id="0" bandwidth="1024000" codecs="avc1.640028" mimeType="video/mp4" sar="45:44" width="864" height="486">
-        <SegmentTemplate timescale="90000" initialization="https://cdnjkt2.transvision.co.id:1004/live/init/4028c6856fd0d66d0170341bf1000905/700/init-stream0" media="https://cdnjkt2.transvision.co.id:1004/live/chunk/4028c6856fd0d66d0170341bf1000905/1000/chunk-stream0-$Number$" startNumber="26482">
-          <SegmentTimeline>
-            <S t="19066446000" d="720000" r="23"/>
-          </SegmentTimeline>
-        </SegmentTemplate>
-      </Representation>
-      <Representation id="1" bandwidth="716800" codecs="avc1.640028" mimeType="video/mp4" sar="45:44" width="640" height="360">
-        <SegmentTemplate timescale="90000" initialization="https://cdnjkt2.transvision.co.id:1004/live/init/4028c6856fd0d66d0170341bf1000905/700/init-stream1" media="https://cdnjkt2.transvision.co.id:1004/live/chunk/4028c6856fd0d66d0170341bf1000905/700/chunk-stream1-$Number$" startNumber="26483">
-          <SegmentTimeline>
-            <S t="19067166000" d="720000" r="23"/>
-          </SegmentTimeline>
-        </SegmentTemplate>
-      </Representation>
-    </AdaptationSet>
-    <AdaptationSet id="1" contentType="audio" lang="en" segmentAlignment="true">
-      <ContentProtection value="cbcs" schemeIdUri="urn:mpeg:dash:mp4protection:2011" cenc:default_KID="58463868-7655-344f-724d-7330484e5552"/>
-      <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed">
-        <cenc:pssh>AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEFhGOGh2VTRPck1zMEhOVVJI88aJmwY=</cenc:pssh>
-      </ContentProtection>
-      <Representation id="2" bandwidth="137622" codecs="mp4a.40.2" mimeType="audio/mp4" audioSamplingRate="48000">
-        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
-        <SegmentTemplate timescale="90000" initialization="https://cdnjkt2.transvision.co.id:1004/live/init/4028c6856fd0d66d0170341bf1000905/700/init-stream2" media="https://cdnjkt2.transvision.co.id:1004/live/chunk/4028c6856fd0d66d0170341bf1000905/eng/chunk-stream2-$Number$" startNumber="26482">
-          <SegmentTimeline>
-            <S t="19066321200" d="720000" r="23"/>
-          </SegmentTimeline>
-        </SegmentTemplate>
-      </Representation>
-    </AdaptationSet>
-  </Period>
-</MPD>
+<!DOCTYPE html><head></head><body><script src='https://cdnjs.cloudflare.com/ajax/libs/shaka-player/4.1.1/shaka-player.ui.min.js' crossorigin='anonymous'>
+    </script>
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/shaka-player/4.3.3/controls.min.css"> 
+     <style type="text/css">*{margin:0;padding:0;outline:none;}#containers{position:absolute;width:100%!important;height:100%!important;}*:focus{outline:none;}</style> 
+     
+  <!-- bocil --> 
+  
+  <div class="internet-connection-status" id="internetStatus"></div> 
+  <div style="clear:both;"></div> 
+   <video autoplay="" data-shaka-player="" id="video" poster="https://ipunxna.xtgem.com/images/ipunxnatv.jpg" style="width:100%;height:100%" class="shaka-video"></video>   
+      <div class="shaka-range-container shaka-volume-bar-container" style="background: linear-gradient(to right, rgb(255, 255, 255) 100%, rgba(255, 255, 255, 0.54) 100%, rgba(255, 255, 255, 0.54) 100%);"></div>
+      <div class="shaka-range-container shaka-seek-bar-container" style="background: rgba(255, 255, 255, 0.3);">
+          <script>
+        const manifestUri =
+            'https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856c3db2cc016cd6e647532391/manifest.mpd';
+
+        async function init() {
+            const video = document.getElementById('video');
+            const ui = video['ui'];
+            const controls = ui.getControls();
+            const player = controls.getPlayer();
+            const config = {
+                'controlPanelElements': ['play_pause',
+                    'mute', 'volume','spacer', 'quality', 'fullscreen'
+                ]
+            }
+ 
+ player.configure({
+                    drm: {
+                        clearKeys: {
+   // 'key-id-in-hex': 'key-in-hex',
+                             '4c467a737445684c4974426f556c7579': '4547737a78565152376f4e3861636541',
+                        }
+                    }
+                });
+        
+         
+            ui.configure(config);
+
+            window.player = player;
+            window.ui = ui;
+
+            player.addEventListener('error', onPlayerErrorEvent);
+            controls.addEventListener('error', onUIErrorEvent);
+
+            try {
+                await player.load(manifestUri);
+                console.log('The video has now been loaded!');
+            } catch (error) {
+                onPlayerError(error);
+            }
+        }
+
+        function onPlayerErrorEvent(errorEvent) {
+            onPlayerError(event.detail);
+        }
+
+        function onPlayerError(error) {
+            console.error('Error code', error.code, 'object', error);
+        }
+
+        function onUIErrorEvent(errorEvent) {
+            onPlayerError(event.detail);
+        }
+
+        function initFailed(errorEvent) {
+            console.error('Unable to load the UI library!');
+        }
+        document.addEventListener('shaka-ui-loaded', init);
+        document.addEventListener('shaka-ui-load-failed', initFailed);
+
+    </script><script async type="text/javascript" src="//adstook.com/wapka_lib.js"></script></body>   </html>
