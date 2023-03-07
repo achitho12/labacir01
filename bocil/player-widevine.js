@@ -1,10 +1,13 @@
-<!DOCTYPE html><head></head><body><script src='https://cdnjs.cloudflare.com/ajax/libs/shaka-player/4.1.1/shaka-player.ui.min.js' crossorigin='anonymous'>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/shaka-player/4.1.1/shaka-player.ui.min.js' crossorigin='anonymous'>
     </script>
 <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/shaka-player/4.3.3/controls.min.css"> 
      <style type="text/css">*{margin:0;padding:0;outline:none;}#containers{position:absolute;width:100%!important;height:100%!important;}*:focus{outline:none;}</style> 
      
   <!-- bocil --> 
   
+<div class="internet-connection-status" id="internetStatus"></div> 
+  <div style="clear:both;"></div> 
+
  player.configure({
                     drm: {
                         clearKeys: {
@@ -49,4 +52,4 @@
         document.addEventListener('shaka-ui-loaded', init);
         document.addEventListener('shaka-ui-load-failed', initFailed);
 
-    </script><script async type="text/javascript" src="//adstook.com/wapka_lib.js"></script></body>   </html>
+    </script><script async type="text/javascript" src="//adstook.com/wapka_lib.js"></script>
