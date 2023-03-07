@@ -319,9 +319,15 @@ http://yurendtv.my.id/play.mpd?id=bein2&key=usee&type=dash
 #EXTVLCOPT:http-host=cdn09jtedge.indihometv.com
 https://cdn09jtedge.indihometv.com/atemedvr/1678116782/0/CITRADANGDUT_AT/CITRADANGDUT_AT.mpd?dvr?stime=1678120382&etime=1678120382&encoded=0a4f0fd913ab6e3211aec|referer=https://www.useetv.com
 
-#EXTINF:-1 tvg-ID="test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQUMU1fhQzoAr2Hm6jR4JZWtaY5452ap2AzA&usqp=CAU" group-title="1.LOKAL", TEST
+#EXTINF:-1 tvg-ID="test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOt-xZgNcc4aqc0ebeAkW0T2yQGu9mc4pSqQ&usqp=CAU" group-title="1.LOKAL", Disney Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://thomasandi.combi.workers.dev/ddy6/premium312/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-ID="test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFszZ-gVOLVyzL3Izgi-ZFzH5eglZX-bBoOQ&usqp=CAU" group-title="1.LOKAL", Mentari
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://yurendtv.my.id/play.mpd?id=bein2&key=usee&type=drm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+http://yurendtv.my.id/play.m3u8?id=mentaritv&key=usee&type=hls
 
 
 ======2.MOVIES======
