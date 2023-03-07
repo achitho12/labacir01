@@ -283,7 +283,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 http://rr.dens.tv/h/h91/index2.m3u8
 
-#EXTINF:-1 tvg-ID="mentari" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFszZ-gVOLVyzL3Izgi-ZFzH5eglZX-bBoOQ&usqp=CAU" group-title="1.LOKAL",Mentari
+#EXTINF:-1 tvg-ID="mentari" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/Astro_Prima.png" group-title="0.MALAYSIA", Astro Prima
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 http://tv1.yurend.net:25461/yurendtv/yurendtv3210@/209
 
