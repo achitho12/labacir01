@@ -327,6 +327,11 @@ https://thomasandi.combi.workers.dev/ddy6/premium312/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://thomasandi.combi.workers.dev/ddy6/premium314/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-ID="bocil" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCMpMIb3H5tVw3A795A2kNzYbdg9B-W8V3MQ&usqp=CAU" group-title="1.LOKAL", TV BOCIL TEST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+https://achitho12.github.io/labacir01/bocil/play1.html?file=https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856c3db2cc016cd6e647532391/manifest.mpd
+
+
 #EXTINF:-1 tvg-ID="mentari" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFszZ-gVOLVyzL3Izgi-ZFzH5eglZX-bBoOQ&usqp=CAU" group-title="1.LOKAL", Mentari
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://yurendtv.my.id/play.mpd?id=bein2&key=usee&type=drm
