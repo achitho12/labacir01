@@ -21,10 +21,10 @@ https://live-sg1.global.ssl.fastly.net/live-hls/tonton3_720p/index.m3u8
 #EXTINF:-1 group-title="0.MALAYSIA" ch-number="109" tvg-id="109" tvg-chno="109" tvg-logo="https://1.bp.blogspot.com/-U2RU0zufKAU/XLbFfCEYCnI/AAAAAAAAKM8/ReKhMrwfTnUTnDYNQhZQC6V-M8x75jRkQCPcBGAYYCw/s713/tv9%2Bmalaysi",TV9
 https://live-sg1.global.ssl.fastly.net/live-hls/tonton4_720p/index.m3u8
 
-#EXTINF:-1 group-title="0.MALAYSIA" ch-number="110" tvg-id="110" tvg-chno="110" tvg-logo="https://s.id/1jhkZ",OKEY
+#EXTINF:-1 group-title="0.MALAYSIA" ch-number="110" tvg-id="110" tvg-chno="110" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzZWbGVPzvIL1Cc_k8VbhOfKoN60MWJM_fyg&usqp=CAU",OKEY
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
-#EXTINF:-1 group-title="0.MALAYSIA" ch-number="111" tvg-id="111" tvg-chno="111" tvg-logo="https://i.ibb.co/JcTZMLX/image.png",Sukan RTM
+#EXTINF:-1 group-title="0.MALAYSIA" ch-number="111" tvg-id="111" tvg-chno="111" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHtdbvOZZcc5ZAzEXab36oeVDjmMyt4NUhDw&usqp=CAU",Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
 #EXTINF:-1 group-title="0.MALAYSIA" ch-number="113" tvg-id="113" tvg-chno="113" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNBbxjsGrnSGFFinAR60KkMCfPebYTQBGXzg&usqp=CAU",TV6
@@ -36,7 +36,7 @@ http://tv1.yurend.net:25461/yurendtv/yurendtv3210@/37
 #EXTINF:-1 group-title="0.MALAYSIA" ch-number="116" tvg-id="116" tvg-chno="116" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Astro_Ria.png", Astro Ria
 http://tv1.yurend.net:25461/yurendtv/yurendtv3210@/31
 
-#EXTINF:-1 group-title="0.MALAYSIA" ch-number="121" tvg-id="121" tvg-chno="121" tvg-logo="https://s.id/1jhmf",Bernama
+#EXTINF:-1 group-title="0.MALAYSIA" ch-number="121" tvg-id="121" tvg-chno="121" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu44GeV3tZ8pcDuQUUuB8R6KkkuAFXOFZ-sw&usqp=CAU",Bernama
 https://raw.githubusercontent.com/AqFad2811/BernamaHDYT/main/youtube.m3u8
 
 #EXTINF:-1 group-title="0.MALAYSIA" ch-number="122" tvg-id="122" tvg-chno="122" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Astro_Aura_NEW.png", Astro Aura
