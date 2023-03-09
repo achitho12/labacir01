@@ -69,6 +69,11 @@ http://tv1.yurend.net:25461/yurendtv/yurendtv3210@/04
 #EXTINF:-1 group-title="0.MALAYSIA" ch-number="125" tvg-id="125" tvg-chno="125" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaczoypRIM0BG-3hE9IKNlJUvZpRe9zMx9og&usqp=CAU", Upin & Ipin
 http://tv1.yurend.net:25461/yurendtv/yurendtv3210@/192
 
+#EXTINF:-1 group-title="0.MALAYSIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN2tDvSOk4vkzF9T3YIE8a7uC4wHlgfgRS5g&usqp=CAU", Rapammi Apung
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+https://achitho12.github.io/labacir01/bocil/rapammi-apung/beddu1.m3u8
+
+
 =====1.LOKAL=====
 
 #EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9u-Bh9ChLA3LVbP69uCJnQZTST1Myf5nIvA&usqp=CAU", INDOSIAR VIDIO
