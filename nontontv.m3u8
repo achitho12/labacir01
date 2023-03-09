@@ -335,7 +335,7 @@ http://yurendtv.my.id/play.m3u8?id=mentaritv&key=usee&type=hls
 
 #EXTINF:-1 tvg-ID="mentari" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBNRJVwr1PPAV6TiVlwExx1SvJeoXdTlsKhA&usqp=CAU" group-title="1.LOKAL", Champions 3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://license.pallycon.com/ri/licenseManager.do?pallycon-customdata-v2=eyJkcm1fdHlwZSI6IldpZGV2aW5lIiwic2l0ZV9pZCI6Ik1RRFQiLCJ1c2VyX2lkIjoiMTI1Mjg1MTMzIiwiY2lkIjoiZXZlbnQtMy1kYXNoLWVuY3J5cHRlZC1uZXciLCJwb2xpY3kiOiI1a3hrUzJHK0hsSFJvYWdvUDBhTndmMWJZdDEwSmVZSjJoQlZ6NzhsZDJnQlByQUVlOWdDT29Obm11SUliRnowdGhKeFlraHJoU1l5aEhqcUtxbG9vdmdsdUd3aU9OM3EyN2lBdUtTQXpxb3pScVp6eml1MzllL3kwQVh3eUtmdSIsInRpbWVzdGFtcCI6IjIwMjMtMDMtMDlUMTM6Mzg6MTFaIiwiaGFzaCI6Ik9nZzNua1l4dGJsaDVHQnkzbUNTUDk2d2RtdTRsb1JQNXZzVU1zSWhXY289Iiwia2V5X3JvdGF0aW9uIjpmYWxzZX0=
+#KODIPROP:inputstream.adaptive.license_key=https://thomasxyurendav2.herokuapp.com/day.php?id=6786
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://thomasxyurendav2.herokuapp.com/play.mpd?id=6786
 
