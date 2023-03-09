@@ -105,7 +105,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrKvpASlmCEt2NVKFErdPTR1kx9C4qfUVIjA&usqp=CAU",RCTI+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://d-rcti.rctiplus.id/rcti-sdi-avc1_210000=3-mp4a_96000=1.m3u8?auth_key=1678339653-d90f8b5cad8a67dff2b11c5413041d73-0-cc3e4513961b6b7a0be3d77d90b5c11b|referrer=https://www.rctiplus.com/
+https://d-rcti.rctiplus.id/rcti-sdi-avc1_800000=6-mp4a_96000=1.m3u8?auth_key=1678366103-56b2b7ae2b21754dd9f0cc1d3599228c-0-d4f781ce90a490fbea707e016e10cf30|referrer=https://www.rctiplus.com/
 
 #EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQWuQY8T_Kcd46cTlkW6xMHi2MDyrOS9FcSA&usqp=CAU.png", GTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
