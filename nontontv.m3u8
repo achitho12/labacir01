@@ -353,9 +353,9 @@ https://thomasxyurendav2.herokuapp.com/play.mpd?id=6786
 
 #EXTINF:-1 tvg-ID="championstv3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBNRJVwr1PPAV6TiVlwExx1SvJeoXdTlsKhA&usqp=CAU" group-title="1.LOKAL", test
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malay.yurendtv.biz.id/dash-wv/linear/408/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://thomasandi.my.id/drmlele/drmcubmu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-https://malay.yurendtv.biz.id/dash-wv/linear/408/default_primary.mpd
+https://www.yumarendra.my.id/ch/cubmu.mpd?id=4028c685840ff04901845606fc274367&andi=100
 
 ======2.MOVIES======
 
