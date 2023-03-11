@@ -31,16 +31,16 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
 #EXTINF:-1 group-title="0.MALAYSIA" ch-number="114" tvg-id="114" tvg-chno="114" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_Rania_NEW.png", Astro Rania
-http://tv1.yurend.net:25461/yurendtv/yurendtv3210@/37
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/37
 
 #EXTINF:-1 group-title="0.MALAYSIA" ch-number="116" tvg-id="116" tvg-chno="116" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Astro_Ria.png", Astro Ria
-http://tv1.yurend.net:25461/yurendtv/yurendtv3210@/31
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/31
 
 #EXTINF:-1 group-title="0.MALAYSIA" ch-number="121" tvg-id="121" tvg-chno="121" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu44GeV3tZ8pcDuQUUuB8R6KkkuAFXOFZ-sw&usqp=CAU",Bernama
 https://raw.githubusercontent.com/AqFad2811/BernamaHDYT/main/youtube.m3u8
 
 #EXTINF:-1 group-title="0.MALAYSIA" ch-number="122" tvg-id="122" tvg-chno="122" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Astro_Aura_NEW.png", Astro Aura
-http://tv1.yurend.net:25461/yurendtv/yurendtv3210@/49
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/49
 
 #EXTINF:-1 group-title="0.MALAYSIA" ch-number="123" tvg-id="123" tvg-chno="123" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGTR5OzAMWtBFhYk8NpnKUaQOJKW6B-DvMBw&usqp=CAU",Berita RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
@@ -52,19 +52,19 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
 
 #EXTINF:-1 group-title="0.MALAYSIA" ch-number="125" tvg-id="125" tvg-chno="125" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png", Astro Super Sport
-http://tv1.yurend.net:25461/live/omandi/omandiyurend@12/05.m3u8
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/5
 
 #EXTINF:-1 group-title="0.MALAYSIA" ch-number="125" tvg-id="125" tvg-chno="125" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png", Astro Super Sport 2
-http://tv1.yurend.net:25461/live/omandi/omandiyurend@12/06.m3u8
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/6
 
 #EXTINF:-1 group-title="0.MALAYSIA" ch-number="125" tvg-id="125" tvg-chno="125" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png", Astro Super Sport 3
-http://tv1.yurend.net:25461/live/omandi/omandiyurend@12/07.m3u8
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/7
 
 #EXTINF:-1 group-title="0.MALAYSIA" ch-number="125" tvg-id="125" tvg-chno="125" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png", Astro Super Sport 4
-http://tv1.yurend.net:25461/live/omandi/omandiyurend@12/08.m3u8
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/8
 
 #EXTINF:-1 group-title="0.MALAYSIA" ch-number="125" tvg-id="125" tvg-chno="125" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png", Astro Arena
-http://tv1.yurend.net:25461/live/omandi/omandiyurend@12/04.m3u8
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/4
 
 #EXTINF:-1 group-title="0.MALAYSIA" ch-number="125" tvg-id="125" tvg-chno="125" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaczoypRIM0BG-3hE9IKNlJUvZpRe9zMx9og&usqp=CAU", Upin & Ipin
 http://tv1.yurend.net:25461/live/omandi/omandiyurend@12/192.m3u8
@@ -285,7 +285,7 @@ http://rr.dens.tv/h/h91/index2.m3u8
 
 #EXTINF:-1 tvg-ID="mentari" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/Astro_Prima.png" group-title="0.MALAYSIA", Astro Prima
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-http://tv1.yurend.net:25461/yurendtv/yurendtv3210@/209
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/209
 
 #EXTINF:-1 tvg-ID="useesport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4RBZwNPKqAq5gLGvr1j9hqB66PJKs8HHQmw&usqp=CAU" group-title="1.LOKAL", Usee Sport
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -353,7 +353,7 @@ https://thomasxyurendav2.herokuapp.com/play.mpd?id=6786
 
 #EXTINF:-1 tvg-ID="looney.tunes" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSodv7SHTVYlWZmgtg0k4Kh2wI3hD9PZZfVmQ&usqp=CAU" group-title="1.LOKAL", Looney Tunes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-http://tv1.yurend.net:25461/yurendtv/yurendtv3210@/196
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/196
 
 #EXTINF:-1 tvg-ID="biznet.kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJnDGR6Z1DyJzkHlEH3nzui982vm-wknnMhw&usqp=CAU" group-title="1.LOKAL", Biznet Kids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
