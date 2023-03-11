@@ -34,7 +34,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 http://tv1.yurend.net:25461/yurendtv/yurendtv@@/37
 
 #EXTINF:-1 group-title="0.MALAYSIA" ch-number="116" tvg-id="116" tvg-chno="116" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Astro_Ria.png", Astro Ria
-http://tv1.yurend.net:25461/yurendtv/yurendtv@@/31
+https://wild-union-4b0f.combi.workers.dev/https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
 
 #EXTINF:-1 group-title="0.MALAYSIA" ch-number="121" tvg-id="121" tvg-chno="121" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu44GeV3tZ8pcDuQUUuB8R6KkkuAFXOFZ-sw&usqp=CAU",Bernama
 https://raw.githubusercontent.com/AqFad2811/BernamaHDYT/main/youtube.m3u8
