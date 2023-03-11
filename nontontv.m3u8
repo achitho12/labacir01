@@ -87,23 +87,23 @@ https://thomasxyurendav2.herokuapp.com/index.m3u8?id=205
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://thomasxyurendav2.herokuapp.com/index.m3u8?id=204
 
-#EXTINF:-1 tvg-ID="mnctv" tvg-logo="https://s.id/mnctv_golive" group-title="1.LOKAL", MNCTV
+#EXTINF:-1 tvg-ID="mnctv" tvg-logo="https://s.id/1Ch1s" group-title="1.LOKAL", MNCTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
-#EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://s.id/mnctv_golive",MNCTV+ HD
+#EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://s.id/1Ch1s",MNCTV+ HD
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://mnctv-azure.rctiplus.id/mnctv-sdi-avc1_600000=5-mp4a_96000=1.m3u8|referer=https://m.rctiplus.com/
 
-#EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://s.id/rcti_golive", RCTI
+#EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://s.id/1Ch1E", RCTI
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
-#EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://s.id/rcti_golive",RCTI+
+#EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://s.id/1Ch1E",RCTI+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://d-rcti.rctiplus.id/rcti-sdi-avc1_450000=4-mp4a_96000=1.m3u8?auth_key=1678528763-eb7b2344b584b71e4cd8412bcb3dcf81-0-e8518d942322f5deebe09d30f467335f|referrer=https://www.rctiplus.com/
 
