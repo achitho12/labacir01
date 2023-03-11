@@ -349,7 +349,7 @@ http://103.167.167.5:8111/play/a01q/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-http://103.167.167.5:8111/play/a01a/index.m3u8
+https://achitho12.github.io/labacir01/golive/zee.m3u8
 
 #EXTINF:-1 tvg-ID="looney.tunes" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSodv7SHTVYlWZmgtg0k4Kh2wI3hD9PZZfVmQ&usqp=CAU" group-title="1.LOKAL", Looney Tunes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
