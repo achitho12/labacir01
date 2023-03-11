@@ -291,7 +291,7 @@ http://tv1.yurend.net:25461/yurendtv/yurendtv@@/209
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://yurendtv.my.id/play.mpd?id=useesport&key=usee&type=drm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-http://yurendtv.my.id/play.mpd?id=useesport&key=usee&type=dash
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/199
 
 #EXTINF:-1 tvg-ID="useesport2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4RBZwNPKqAq5gLGvr1j9hqB66PJKs8HHQmw&usqp=CAU" group-title="1.LOKAL", Usee Sport 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
