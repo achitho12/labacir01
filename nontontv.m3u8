@@ -1,15 +1,15 @@
 #EXTM3U x-tvg-url="https://weareblahs.github.io/epg/mytv.xml" url-tvg="https://weareblahs.github.io/epg/compressed/mytv.xml.gz" refresh="1440" max-conn="1" refresh="24"
 
-#EXTINF:-1 group-title="0.MALAYSIA" ch-number="101" tvg-id="101" tvg-chno="101" tvg-logo="https://s.id/tv1_golive",Tv 1
+#EXTINF:-1 group-title="0.MALAYSIA" ch-number="101" tvg-id="101" tvg-chno="101" tvg-logo="https://s.id/1CgPH",Tv 1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 
-#EXTINF:-1 group-title="0.MALAYSIA" ch-number="102" tvg-id="102" tvg-chno="102" tvg-logo="https://s.id/tv2_golive",Tv 2
+#EXTINF:-1 group-title="0.MALAYSIA" ch-number="102" tvg-id="102" tvg-chno="102" tvg-logo="https://s.id/1CgQ2",Tv 2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
-#EXTINF:-1 group-title="0.MALAYSIA" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://s.id/tv3_golive",Tv 3
+#EXTINF:-1 group-title="0.MALAYSIA" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://s.id/1CgQb",Tv 3
 https://live-sg1.global.ssl.fastly.net/live-hls/tonton1_720p/index.m3u8
 
-#EXTINF:-1 group-title="0.MALAYSIA" ch-number="105" tvg-id="105" tvg-chno="105" tvg-logo="https://s.id/dramasangat_golive",Drama Sangat
+#EXTINF:-1 group-title="0.MALAYSIA" ch-number="105" tvg-id="105" tvg-chno="105" tvg-logo="https://s.id/1CgQL",Drama Sangat
 https://live-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
 
 #EXTINF:-1 group-title="0.MALAYSIA" ch-number="107" tvg-id="107" tvg-chno="107" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhQaexjkQX7k6wbhdsEzGLCQd2DeuC3bmr4Q&usqp=CAU",DidikTV KPM
@@ -21,7 +21,7 @@ https://live-sg1.global.ssl.fastly.net/live-hls/tonton3_720p/index.m3u8
 #EXTINF:-1 group-title="0.MALAYSIA" ch-number="109" tvg-id="109" tvg-chno="109" tvg-logo="https://1.bp.blogspot.com/-U2RU0zufKAU/XLbFfCEYCnI/AAAAAAAAKM8/ReKhMrwfTnUTnDYNQhZQC6V-M8x75jRkQCPcBGAYYCw/s713/tv9%2Bmalaysi",TV9
 https://live-sg1.global.ssl.fastly.net/live-hls/tonton4_720p/index.m3u8
 
-#EXTINF:-1 group-title="0.MALAYSIA" ch-number="110" tvg-id="110" tvg-chno="110" tvg-logo="https://s.id/okey_golive",OKEY
+#EXTINF:-1 group-title="0.MALAYSIA" ch-number="110" tvg-id="110" tvg-chno="110" tvg-logo="https://s.id/1CgRc",OKEY
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
 #EXTINF:-1 group-title="0.MALAYSIA" ch-number="111" tvg-id="111" tvg-chno="111" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHtdbvOZZcc5ZAzEXab36oeVDjmMyt4NUhDw&usqp=CAU",Sukan RTM
@@ -42,7 +42,7 @@ https://raw.githubusercontent.com/AqFad2811/BernamaHDYT/main/youtube.m3u8
 #EXTINF:-1 group-title="0.MALAYSIA" ch-number="122" tvg-id="122" tvg-chno="122" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Astro_Aura_NEW.png", Astro Aura
 http://tv1.yurend.net:25461/yurendtv/yurendtv@@/49
 
-#EXTINF:-1 group-title="0.MALAYSIA" ch-number="123" tvg-id="123" tvg-chno="123" tvg-logo="https://s.id/beritartm_golive",Berita RTM
+#EXTINF:-1 group-title="0.MALAYSIA" ch-number="123" tvg-id="123" tvg-chno="123" tvg-logo="https://s.id/1CgRr",Berita RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
 
 #EXTINF:-1 group-title="0.MALAYSIA" ch-number="124" tvg-id="124" tvg-chno="124" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKmWa8JY65rQO4878aqwdCFRSDefyWmhzhag&usqp=CAU", Dunia Sinema
