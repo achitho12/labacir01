@@ -52,22 +52,22 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
 
 #EXTINF:-1 group-title="0.MALAYSIA" ch-number="125" tvg-id="125" tvg-chno="125" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png", Astro Super Sport
-http://tv1.yurend.net:25461/yurendtv/yurendtv3210@/05
+http://tv1.yurend.net:25461/live/omandi/omandiyurend@12/05.m3u8
 
 #EXTINF:-1 group-title="0.MALAYSIA" ch-number="125" tvg-id="125" tvg-chno="125" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png", Astro Super Sport 2
-http://tv1.yurend.net:25461/yurendtv/yurendtv3210@/06
+http://tv1.yurend.net:25461/live/omandi/omandiyurend@12/06.m3u8
 
 #EXTINF:-1 group-title="0.MALAYSIA" ch-number="125" tvg-id="125" tvg-chno="125" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png", Astro Super Sport 3
-http://tv1.yurend.net:25461/yurendtv/yurendtv3210@/07
+http://tv1.yurend.net:25461/live/omandi/omandiyurend@12/07.m3u8
 
 #EXTINF:-1 group-title="0.MALAYSIA" ch-number="125" tvg-id="125" tvg-chno="125" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png", Astro Super Sport 4
-http://tv1.yurend.net:25461/yurendtv/yurendtv3210@/08
+http://tv1.yurend.net:25461/live/omandi/omandiyurend@12/08.m3u8
 
 #EXTINF:-1 group-title="0.MALAYSIA" ch-number="125" tvg-id="125" tvg-chno="125" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png", Astro Arena
-http://tv1.yurend.net:25461/yurendtv/yurendtv3210@/04
+http://tv1.yurend.net:25461/live/omandi/omandiyurend@12/04.m3u8
 
 #EXTINF:-1 group-title="0.MALAYSIA" ch-number="125" tvg-id="125" tvg-chno="125" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaczoypRIM0BG-3hE9IKNlJUvZpRe9zMx9og&usqp=CAU", Upin & Ipin
-http://tv1.yurend.net:25461/yurendtv/yurendtv3210@/192
+http://tv1.yurend.net:25461/live/omandi/omandiyurend@12/192.m3u8
 
 =====1.LOKAL=====
 
@@ -776,27 +776,27 @@ http://iptv12k.com:35461/86599050501/645678/13466
 
 #EXTINF:-1 tvg-id="bernard" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6z5VlgBP6cZsgGJUdvJK9hpFQcQk6cDiLXw&usqp=CAU" group-title="3.CARTOON", BERNARD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-http://tv1.yurend.net:25461/yurendtv/yurendtv3210@/207
+http://tv1.yurend.net:25461/live/omandi/omandiyurend@12/207.m3u8
 
 #EXTINF:-1 tvg-id="Mr.been" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmm2E0stjWXtU92HTstipvQQ9s-EESZN1x9w&usqp=CAU" group-title="3.CARTOON", MR.BEEN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-http://tv1.yurend.net:25461/yurendtv/yurendtv3210@/206
+http://tv1.yurend.net:25461/live/omandi/omandiyurend@12/206.m3u8
 
 #EXTINF:-1 tvg-id="saunthesheep" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuaIUYK6yjwaAlFR-Mov0oijCJuiS9INNjPA&usqp=CAU" group-title="3.CARTOON", SAUN THE SHEEP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-http://tv1.yurend.net:25461/yurendtv/yurendtv3210@/205
+http://tv1.yurend.net:25461/live/omandi/omandiyurend@12/205.m3u8
 
 #EXTINF:-1 tvg-id="larva" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR84gWGAvrOqPQiRW18ffa1SOoCl6dr2Dsf2g&usqp=CAU" group-title="3.CARTOON", LARVA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-http://tv1.yurend.net:25461/yurendtv/yurendtv3210@/197
+http://tv1.yurend.net:25461/live/omandi/omandiyurend@12/197.m3u8
 
 #EXTINF:-1 tvg-id="donalduck" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoEWOc0MwE6gvOM52IIUpbZE4_Q5copnkshA&usqp=CAU" group-title="3.CARTOON", DONAL DUCK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-http://tv1.yurend.net:25461/yurendtv/yurendtv3210@/195
+http://tv1.yurend.net:25461/live/omandi/omandiyurend@12/195.m3u8
 
 #EXTINF:-1 tvg-id="tom&jerry" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfqnALAPdmfWktSFVrJzyoKzQf08R9Pct3vQ&usqp=CAU" group-title="3.CARTOON", TOM & JERRY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://tv1.yurend.net:25461/yurendtv/yurendtv3210@/194
+http://tv1.yurend.net:25461/live/omandi/omandiyurend@12/194.m3u8
 
 #EXTINF:-1 group-title="3.CARTOON" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzMhko-NwA-No0Vni48IA2AflXqUpWmbOKvA&usqp=CAU", DREAM WORK
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
