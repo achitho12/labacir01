@@ -313,7 +313,7 @@ http://tv1.yurend.net:25461/yurendtv/yurendtv@@/204
 
 #EXTINF:-1 tvg-ID="bein1" tvg-logo="https://thumbor.prod.vidiocdn.com/Bmv3iTkuSqCj3J2swo0flndH8x8=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-60c673.jpg" group-title="1.LOKAL", Bein Sport
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-039/1/video_840kbps/init.cmfv
+#KODIPROP:inputstream.adaptive.license_key=https://time.akamai.com/?iso
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-039/stream.mpd
 
