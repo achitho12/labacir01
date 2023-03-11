@@ -71,29 +71,29 @@ http://tv1.yurend.net:25461/live/omandi/omandiyurend@12/192.m3u8
 
 =====1.LOKAL=====
 
-#EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://s.id/indosiar_golive", INDOSIAR VIDIO
+#EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://s.id/1CgSE", INDOSIAR VIDIO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 
-#EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://s.id/sctv_golive", SCTV VIDIO
+#EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://s.id/1CgSZ", SCTV VIDIO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 http://mpwtv.my.id/vidioye/204-sctv.m3u8
 
-#EXTINF:-1 tvg-ID="indosiar" tvg-logo="https://s.id/indosiar_golive" group-title="1.LOKAL",INDOSIAR
+#EXTINF:-1 tvg-ID="indosiar" tvg-logo="https://s.id/1CgSE" group-title="1.LOKAL",INDOSIAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://thomasxyurendav2.herokuapp.com/index.m3u8?id=205
 
-#EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://s.id/sctv_golive",SCTV
+#EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://s.id/1CgSZ",SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://thomasxyurendav2.herokuapp.com/index.m3u8?id=204
 
-#EXTINF:-1 tvg-ID="mnctv" tvg-logo="https://s.id/mnctv_golive" group-title="1.LOKAL", MNCTV
+#EXTINF:-1 tvg-ID="mnctv" tvg-logo="https://s.id/1CgT2" group-title="1.LOKAL", MNCTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
-#EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://s.id/mnctv_golive",MNCTV+ HD
+#EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://s.id/1CgT2",MNCTV+ HD
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://mnctv-azure.rctiplus.id/mnctv-sdi-avc1_600000=5-mp4a_96000=1.m3u8|referer=https://m.rctiplus.com/
 
