@@ -409,13 +409,13 @@ http://210.210.155.37/uq2663/h/h193/index.m3u8
 #EXTINF:-1 tvg-ID="mfc" tvg-logo="https://s.id/1CiWc" group-title="2.MOVIES",MFC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 http://210.210.155.37/uq2663/h/h194/index.m3u8
-#EXTINF:-1 tvg-ID="cinemaeurope" tvg-logo="https://s.id/1d1dg" group-title="2.MOVIES",CINEMA EUROPE
+#EXTINF:-1 tvg-ID="cinemaeurope" tvg-logo="https://s.id/1Cj31" group-title="2.MOVIES",CINEMA EUROPE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 http://210.210.155.37/uq2663/h/h18/index.m3u8
-#EXTINF:-1 tvg-ID="rockant" tvg-logo="https://s.id/1d1dT" group-title="2.MOVIES",ROCK ANT
+#EXTINF:-1 tvg-ID="rockant" tvg-logo="https://s.id/1Cj3Q" group-title="2.MOVIES",ROCK ANT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 http://210.210.155.37/dr9445/h/h16/index.m3u8
-#EXTINF:-1 tvg-ID="rockext" tvg-logo="https://s.id/1d1eh" group-title="2.MOVIES",ROCK EXT
+#EXTINF:-1 tvg-ID="rockext" tvg-logo="https://s.id/1Cj3p" group-title="2.MOVIES",ROCK EXT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 http://210.210.155.37/dr9445/h/h15/index.m3u8
 
