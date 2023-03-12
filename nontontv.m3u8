@@ -633,7 +633,7 @@ http://iptvtree.net:8080/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/146812
 
 #EXTINF:-1 tvg-ID="movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTR8bQWKFpsiHfPd0tSPq0ROYV1f0SX_1Ksw&usqp=CAU" group-title="2.MOVIES", MOVIE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://tv1.yurend.net:25461/yurendtv/yurendtv3210@/191
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/191
 
 #EXTINF:-1 tvg-ID="max" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZkaxndImH5DFODqvXmCi8P-_a884v34EH1g&usqp=CAU" group-title="2.MOVIES", HBO MAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
