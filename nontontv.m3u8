@@ -30,16 +30,13 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 #EXTINF:-1 group-title="0.MALAYSIA" ch-number="113" tvg-id="113" tvg-chno="113" tvg-logo="https://s.id/1CimP",TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
-#EXTINF:-1 group-title="0.MALAYSIA" ch-number="114" tvg-id="114" tvg-chno="114" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_Rania_NEW.png", Astro Rania
+#EXTINF:-1 group-title="0.MALAYSIA" ch-number="114" tvg-id="114" tvg-chno="114" tvg-logo="https://s.id/1CiMb", Astro Aod
 http://tv1.yurend.net:25461/yurendtv/yurendtv@@/37
 
-#EXTINF:-1 group-title="0.MALAYSIA" ch-number="116" tvg-id="116" tvg-chno="116" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Astro_Ria.png", Astro Ria
-https://wild-union-4b0f.combi.workers.dev/https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
-
-#EXTINF:-1 group-title="0.MALAYSIA" ch-number="121" tvg-id="121" tvg-chno="121" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu44GeV3tZ8pcDuQUUuB8R6KkkuAFXOFZ-sw&usqp=CAU",Bernama
+#EXTINF:-1 group-title="0.MALAYSIA" ch-number="121" tvg-id="121" tvg-chno="121" tvg-logo="https://s.id/1CiOj", Bernama
 https://raw.githubusercontent.com/AqFad2811/BernamaHDYT/main/youtube.m3u8
 
-#EXTINF:-1 group-title="0.MALAYSIA" ch-number="122" tvg-id="122" tvg-chno="122" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Astro_Aura_NEW.png", Astro Aura
+#EXTINF:-1 group-title="0.MALAYSIA" ch-number="122" tvg-id="122" tvg-chno="122" tvg-logo="https://s.id/1CiLH", Astro Aura
 http://tv1.yurend.net:25461/yurendtv/yurendtv@@/49
 
 #EXTINF:-1 group-title="0.MALAYSIA" ch-number="123" tvg-id="123" tvg-chno="123" tvg-logo="https://s.id/1CikQ",Berita RTM
@@ -51,22 +48,22 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 #EXTINF:-1 group-title="0.MALAYSIA" ch-number="125" tvg-id="125" tvg-chno="125" tvg-logo="https://s.id/1jhlX", RTB Aneka
 https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
 
-#EXTINF:-1 group-title="0.MALAYSIA" ch-number="125" tvg-id="125" tvg-chno="125" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png", Astro Super Sport
+#EXTINF:-1 group-title="0.MALAYSIA" ch-number="125" tvg-id="125" tvg-chno="125" tvg-logo="https://s.id/1CiKM", Astro Super Sport 1
 http://tv1.yurend.net:25461/yurendtv/yurendtv@@/5
 
-#EXTINF:-1 group-title="0.MALAYSIA" ch-number="125" tvg-id="125" tvg-chno="125" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png", Astro Super Sport 2
+#EXTINF:-1 group-title="0.MALAYSIA" ch-number="125" tvg-id="125" tvg-chno="125" tvg-logo="https://s.id/1CiKM", Astro Super Sport 2
 http://tv1.yurend.net:25461/yurendtv/yurendtv@@/6
 
-#EXTINF:-1 group-title="0.MALAYSIA" ch-number="125" tvg-id="125" tvg-chno="125" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png", Astro Super Sport 3
+#EXTINF:-1 group-title="0.MALAYSIA" ch-number="125" tvg-id="125" tvg-chno="125" tvg-logo="https://s.id/1CiKM", Astro Super Sport 3
 http://tv1.yurend.net:25461/yurendtv/yurendtv@@/7
 
-#EXTINF:-1 group-title="0.MALAYSIA" ch-number="125" tvg-id="125" tvg-chno="125" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png", Astro Super Sport 4
+#EXTINF:-1 group-title="0.MALAYSIA" ch-number="125" tvg-id="125" tvg-chno="125" tvg-logo="https://s.id/1CiKM", Astro Super Sport 4
 http://tv1.yurend.net:25461/yurendtv/yurendtv@@/8
 
-#EXTINF:-1 group-title="0.MALAYSIA" ch-number="125" tvg-id="125" tvg-chno="125" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png", Astro Arena
+#EXTINF:-1 group-title="0.MALAYSIA" ch-number="125" tvg-id="125" tvg-chno="125" tvg-logo="https://s.id/1CiKG", Astro Arena
 http://tv1.yurend.net:25461/yurendtv/yurendtv@@/4
 
-#EXTINF:-1 group-title="0.MALAYSIA" ch-number="125" tvg-id="125" tvg-chno="125" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaczoypRIM0BG-3hE9IKNlJUvZpRe9zMx9og&usqp=CAU", Upin & Ipin
+#EXTINF:-1 group-title="0.MALAYSIA" ch-number="125" tvg-id="125" tvg-chno="125" tvg-logo="https://s.id/1CiKf", Upin & Ipin
 http://tv1.yurend.net:25461/live/omandi/omandiyurend@12/192.m3u8
 
 =====1.LOKAL=====
@@ -285,7 +282,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 http://rr.dens.tv/h/h91/index2.m3u8
 
-#EXTINF:-1 tvg-ID="astro prima" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/Astro_Prima.png" group-title="0.MALAYSIA", Astro Prima
+#EXTINF:-1 tvg-ID="astro prima" tvg-logo="https://s.id/1CiKY" group-title="0.MALAYSIA", Astro Prima
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 http://tv1.yurend.net:25461/yurendtv/yurendtv@@/209
 
