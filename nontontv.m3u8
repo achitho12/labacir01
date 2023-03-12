@@ -105,7 +105,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://s.id/1Ch1E",RCTI+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://d-rcti.rctiplus.id/rcti-sdi-avc1_450000=4-mp4a_96000=1.m3u8?auth_key=1678528763-eb7b2344b584b71e4cd8412bcb3dcf81-0-e8518d942322f5deebe09d30f467335f|referrer=https://www.rctiplus.com/
+https://d-rcti.rctiplus.id/rcti-sdi-avc1_210000=3-mp4a_96000=1.m3u8?auth_key=1678594070-988f2ca22168078c41052b6e604ca8bf-0-dc9fb2fa49dacbc8f57c4187a0282ef4|referrer=https://www.rctiplus.com/
 
 #EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://s.id/1Ch2q", GTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -125,7 +125,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mp
 
 #EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://s.id/1Ch2L" ,iNews+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://d-inews.rctiplus.id/inews-sdi-avc1_450000=4-mp4a_96000=1.m3u8?auth_key=1678528934-ea3466b30f537b16728918708db5e4e0-0-8089a5dbe00452239fac0e0a83d06662|referer=https://m.rctiplus.com/
+https://d-inews.rctiplus.id/inews-sdi-avc1_450000=4-mp4a_96000=1.m3u8?auth_key=1678594230-a0effde2094bee63fab3f22067920aa9-0-74987c947a973a2478e1d221523c03b1|referer=https://m.rctiplus.com/
 
 #EXTINF:-1 tvg-ID="antv" tvg-logo="https://s.id/1Ch58" group-title="1.LOKAL", ANTV 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
