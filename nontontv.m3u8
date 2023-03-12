@@ -100,11 +100,12 @@ https://mnctv-azure.rctiplus.id/mnctv-sdi-avc1_600000=5-mp4a_96000=1.m3u8|refere
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
-#EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://s.id/1Ch1E",Rcti (FHD)
+#EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://s.id/1Ch1E",Rcti+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-http://103.167.167.5:8111/play/a01c/index.m3u8
+https://d-rcti.rctiplus.id/rcti-sdi-avc1_210000=3-mp4a_96000=1.m3u8?auth_key=1678635819-0a22280b1df89677aed99f854fda3ac5-CVYauYuorE5TJuU0UkIciQSap3VEkFDWEQt61BFM-03cc3c874b312b494421cd7f18e1c8f4|referer=https://www.rctiplus.com/
 
 #EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://s.id/1Ch2q", Gtv
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
