@@ -105,7 +105,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-https://d-rcti.rctiplus.id/rcti-sdi-avc1_210000=3-mp4a_96000=1.m3u8?auth_key=1678635819-0a22280b1df89677aed99f854fda3ac5-CVYauYuorE5TJuU0UkIciQSap3VEkFDWEQt61BFM-03cc3c874b312b494421cd7f18e1c8f4|referer=https://www.rctiplus.com/
+https://rcti-azure.rctiplus.id/rcti-sdi-avc1_210000=3-mp4a_96000=1.m3u8|referer=https://m.rctiplus.com/
 
 #EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://s.id/1Ch2q", Gtv
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -125,7 +125,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mp
 
 #EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://s.id/1Ch2L" , iNews+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://d-inews.rctiplus.id/inews-sdi-avc1_450000=4-mp4a_96000=1.m3u8?auth_key=1678594230-a0effde2094bee63fab3f22067920aa9-0-74987c947a973a2478e1d221523c03b1|referer=https://m.rctiplus.com/
+https://d-inews.rctiplus.id/inews-sdi-avc1_210000=3-mp4a_96000=1.m3u8?auth_key=1678636258-c5377109f1c3c3d1aea5f606c76215c5-OfuryyibWQzg4M530M7lqMaQiTDhZAopXQeXRguB-ca806b85c90e6a4b233091b6903bc82a|referer=https://m.rctiplus.com/
 
 #EXTINF:-1 tvg-ID="antv" tvg-logo="https://s.id/1Ch58" group-title="1.LOKAL", Antv 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
