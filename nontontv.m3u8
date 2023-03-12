@@ -12,22 +12,22 @@ https://live-sg1.global.ssl.fastly.net/live-hls/tonton1_720p/index.m3u8
 #EXTINF:-1 group-title="0.MALAYSIA" ch-number="105" tvg-id="105" tvg-chno="105" tvg-logo="https://s.id/1Ciks",Drama Sangat
 https://live-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
 
-#EXTINF:-1 group-title="0.MALAYSIA" ch-number="107" tvg-id="107" tvg-chno="107" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhQaexjkQX7k6wbhdsEzGLCQd2DeuC3bmr4Q&usqp=CAU",DidikTV KPM
+#EXTINF:-1 group-title="0.MALAYSIA" ch-number="107" tvg-id="107" tvg-chno="107" tvg-logo="https://s.id/1CilO",DidikTV KPM
 https://live-sg1.global.ssl.fastly.net/live-hls/tonton2_720p/index.m3u8
 
-#EXTINF:-1 group-title="0.MALAYSIA" ch-number="108" tvg-id="108" tvg-chno="108" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJRnf7qK5hCuapd7qkpe1k392aNf3TiaeB-A&usqp=CAU",8TV
+#EXTINF:-1 group-title="0.MALAYSIA" ch-number="108" tvg-id="108" tvg-chno="108" tvg-logo="https://s.id/1CinQ",8TV
 https://live-sg1.global.ssl.fastly.net/live-hls/tonton3_720p/index.m3u8
 
-#EXTINF:-1 group-title="0.MALAYSIA" ch-number="109" tvg-id="109" tvg-chno="109" tvg-logo="https://1.bp.blogspot.com/-U2RU0zufKAU/XLbFfCEYCnI/AAAAAAAAKM8/ReKhMrwfTnUTnDYNQhZQC6V-M8x75jRkQCPcBGAYYCw/s713/tv9%2Bmalaysi",TV9
+#EXTINF:-1 group-title="0.MALAYSIA" ch-number="109" tvg-id="109" tvg-chno="109" tvg-logo="https://s.id/1CimD",TV9
 https://live-sg1.global.ssl.fastly.net/live-hls/tonton4_720p/index.m3u8
 
 #EXTINF:-1 group-title="0.MALAYSIA" ch-number="110" tvg-id="110" tvg-chno="110" tvg-logo="https://s.id/1CikH",OKEY
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
-#EXTINF:-1 group-title="0.MALAYSIA" ch-number="111" tvg-id="111" tvg-chno="111" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHtdbvOZZcc5ZAzEXab36oeVDjmMyt4NUhDw&usqp=CAU",Sukan RTM
+#EXTINF:-1 group-title="0.MALAYSIA" ch-number="111" tvg-id="111" tvg-chno="111" tvg-logo="https://s.id/1Cinj",Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
-#EXTINF:-1 group-title="0.MALAYSIA" ch-number="113" tvg-id="113" tvg-chno="113" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNBbxjsGrnSGFFinAR60KkMCfPebYTQBGXzg&usqp=CAU",TV6
+#EXTINF:-1 group-title="0.MALAYSIA" ch-number="113" tvg-id="113" tvg-chno="113" tvg-logo="https://s.id/1CimP",TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
 #EXTINF:-1 group-title="0.MALAYSIA" ch-number="114" tvg-id="114" tvg-chno="114" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_Rania_NEW.png", Astro Rania
