@@ -271,7 +271,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 
-#EXTINF:-1 tvg-id="mr.been" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT88o8qvGv0upFJzKlOsjrJTLbw14aBqsJMjw&usqp=CAU" group-title="1.LOKAL", MR.BEEN
+#EXTINF:-1 tvg-id="mr.been" tvg-logo="https://s.id/1Cife" group-title="1.LOKAL", MR.BEEN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://tv1.yurend.net:25461/yurendtv/yurendtv@@/193
 
@@ -299,19 +299,19 @@ http://tv1.yurend.net:25461/yurendtv/yurendtv@@/199
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 http://tv1.yurend.net:25461/yurendtv/yurendtv@@/200
 
-#EXTINF:-1 tvg-ID="bein1" tvg-logo="https://thumbor.prod.vidiocdn.com/Bmv3iTkuSqCj3J2swo0flndH8x8=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-60c673.jpg" group-title="1.LOKAL", Bein Sport 1
+#EXTINF:-1 tvg-ID="bein1" tvg-logo="https://s.id/1CieQ" group-title="1.LOKAL", Bein Sport 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://yurendtv.my.id/play.mpd?id=bein1&key=usee&type=drm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 http://tv1.yurend.net:25461/yurendtv/yurendtv@@/203
 
-#EXTINF:-1 tvg-ID="bein3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQUMU1fhQzoAr2Hm6jR4JZWtaY5452ap2AzA&usqp=CAU" group-title="1.LOKAL", Bein Sport 3
+#EXTINF:-1 tvg-ID="bein3" tvg-logo="https://s.id/1CieQ" group-title="1.LOKAL", Bein Sport 3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://yurendtv.my.id/play.mpd?id=bein2&key=usee&type=drm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 http://tv1.yurend.net:25461/yurendtv/yurendtv@@/204
 
-#EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQobkE4nyjmxdgpMgmw0UVG-ey9UbPnOoOwTA&usqp=CAU", CITRA DANGDUT
+#EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://s.id/1Cih1", CITRA DANGDUT
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
@@ -319,19 +319,17 @@ http://tv1.yurend.net:25461/yurendtv/yurendtv@@/204
 #EXTVLCOPT:http-host=cdn09jtedge.indihometv.com
 https://cdn09jtedge.indihometv.com/atemedvr/1678116782/0/CITRADANGDUT_AT/CITRADANGDUT_AT.mpd?dvr?stime=1678120382&etime=1678120382&encoded=0a4f0fd913ab6e3211aec|referer=https://www.useetv.com
 
-#EXTINF:-1 tvg-ID="disneychannel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOt-xZgNcc4aqc0ebeAkW0T2yQGu9mc4pSqQ&usqp=CAU" group-title="1.LOKAL", Disney Channel
+#EXTINF:-1 tvg-ID="disneychannel" tvg-logo="https://s.id/1Ciha" group-title="1.LOKAL", Disney Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://thomasandi.combi.workers.dev/ddy6/premium312/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-ID="disneyxd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCMpMIb3H5tVw3A795A2kNzYbdg9B-W8V3MQ&usqp=CAU" group-title="1.LOKAL", Disney Xd
+#EXTINF:-1 tvg-ID="disneyxd" tvg-logo="https://s.id/1Cihs" group-title="1.LOKAL", Disney Xd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://thomasandi.combi.workers.dev/ddy6/premium314/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-ID="mentari" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFszZ-gVOLVyzL3Izgi-ZFzH5eglZX-bBoOQ&usqp=CAU" group-title="1.LOKAL", Mentari
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://yurendtv.my.id/play.mpd?id=bein2&key=usee&type=drm
+#EXTINF:-1 tvg-ID="mentari" tvg-logo="https://s.id/1Cies" group-title="1.LOKAL", Mentari
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-http://yurendtv.my.id/play.m3u8?id=mentaritv&key=usee&type=hls
+https://yurendtv.herokuapp.com/hls.m3u8?id=8237
 
 #EXTINF:-1 tvg-ID="championstv1" tvg-logo="https://s.id/1Ci7c" group-title="1.LOKAL", Champions 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
