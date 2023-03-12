@@ -400,13 +400,13 @@ https://achitho12.github.io/labacir01/hls/bacir01/dash/cani_paria.m3u8
 
 ======2.MOVIES======
 
-#EXTINF:-1 tvg-ID="mcn" tvg-logo="https://s.id/1d1c9" group-title="2.MOVIES",MCN
+#EXTINF:-1 tvg-ID="mcn" tvg-logo="https://s.id/1CiVL" group-title="2.MOVIES",MCN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 http://210.210.155.37/uq2663/h/h192/index.m3u8
-#EXTINF:-1 tvg-ID="mca" tvg-logo="https://s.id/1d1cl" group-title="2.MOVIES",MCA
+#EXTINF:-1 tvg-ID="mca" tvg-logo="https://s.id/1CiW0" group-title="2.MOVIES",MCA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 http://210.210.155.37/uq2663/h/h193/index.m3u8
-#EXTINF:-1 tvg-ID="mfc" tvg-logo="https://s.id/1d1cu" group-title="2.MOVIES",MFC
+#EXTINF:-1 tvg-ID="mfc" tvg-logo="https://s.id/1CiWc" group-title="2.MOVIES",MFC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 http://210.210.155.37/uq2663/h/h194/index.m3u8
 #EXTINF:-1 tvg-ID="cinemaeurope" tvg-logo="https://s.id/1d1dg" group-title="2.MOVIES",CINEMA EUROPE
