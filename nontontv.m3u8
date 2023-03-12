@@ -97,15 +97,17 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://mnctv-azure.rctiplus.id/mnctv-sdi-avc1_600000=5-mp4a_96000=1.m3u8|referer=https://m.rctiplus.com/
 
-#EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://s.id/1Ch1E", RCTI
+#EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://s.id/1Ch1E", RCTI HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
-#EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://s.id/1Ch1E",RCTI+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://d-rcti.rctiplus.id/rcti-sdi-avc1_210000=3-mp4a_96000=1.m3u8?auth_key=1678594070-988f2ca22168078c41052b6e604ca8bf-0-dc9fb2fa49dacbc8f57c4187a0282ef4|referrer=https://www.rctiplus.com/
+#EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://s.id/1Ch1E",RCTI (FHD)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+http://103.167.167.5:8111/play/a01c/index.m3u8
 
 #EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://s.id/1Ch2q", GTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -342,144 +344,6 @@ http://103.167.167.5:8111/play/a01p/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 http://103.167.167.5:8111/play/a01q/index.m3u8
-
-#EXTINF:-1 tvg-ID="championstv3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_sEcwNja_PVShXyLi-4hXUsJIPAJ152JExA&usqp=CAU" group-title="1.LOKAL", Zee bioskop (labacir)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-http://103.167.167.5:8111/play/a01a/index.m3u8
-
-#EXTINF:-1 tvg-ID="championstv3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_sEcwNja_PVShXyLi-4hXUsJIPAJ152JExA&usqp=CAU" group-title="1.LOKAL", Cinema World (labacir)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-http://103.167.167.5:8111/play/a01f/index.m3u8
-
-#EXTINF:-1 tvg-ID="championstv3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_sEcwNja_PVShXyLi-4hXUsJIPAJ152JExA&usqp=CAU" group-title="1.LOKAL", Rcti (labacir)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-http://103.167.167.5:8111/play/a01c/index.m3u8
-
-#EXTINF:-1 tvg-ID="championstv3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_sEcwNja_PVShXyLi-4hXUsJIPAJ152JExA&usqp=CAU" group-title="1.LOKAL", Natgeo Wild (labacir)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-http://103.167.167.5:8111/play/a01d/index.m3u8
-
-#EXTINF:-1 tvg-ID="championstv3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_sEcwNja_PVShXyLi-4hXUsJIPAJ152JExA&usqp=CAU" group-title="1.LOKAL", Rock Action (labacir)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-http://103.167.167.5:8111/play/a01e/index.m3u8
-
-#EXTINF:-1 tvg-ID="championstv3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_sEcwNja_PVShXyLi-4hXUsJIPAJ152JExA&usqp=CAU" group-title="1.LOKAL", Mca (labacir)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-http://103.167.167.5:8111/play/a01g/index.m3u8
-
-#EXTINF:-1 tvg-ID="championstv3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_sEcwNja_PVShXyLi-4hXUsJIPAJ152JExA&usqp=CAU" group-title="1.LOKAL", Mcn (labacir)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-http://103.167.167.5:8111/play/a01h/index.m3u8
-
-#EXTINF:-1 tvg-ID="championstv3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_sEcwNja_PVShXyLi-4hXUsJIPAJ152JExA&usqp=CAU" group-title="1.LOKAL", Test Tv (labacir)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-http://103.167.167.5:8111/play/a01i/index.m3u8
-
-#EXTINF:-1 tvg-ID="championstv3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_sEcwNja_PVShXyLi-4hXUsJIPAJ152JExA&usqp=CAU" group-title="1.LOKAL", Test Tv (labacir)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-http://103.167.167.5:8111/play/a01j/index.m3u8
-
-#EXTINF:-1 tvg-ID="championstv3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_sEcwNja_PVShXyLi-4hXUsJIPAJ152JExA&usqp=CAU" group-title="1.LOKAL", Test Tv (labacir)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-http://103.167.167.5:8111/play/a01k/index.m3u8
-
-#EXTINF:-1 tvg-ID="championstv3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_sEcwNja_PVShXyLi-4hXUsJIPAJ152JExA&usqp=CAU" group-title="1.LOKAL", Test Tv (labacir)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-http://103.167.167.5:8111/play/a01l/index.m3u8
-
-#EXTINF:-1 tvg-ID="championstv3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_sEcwNja_PVShXyLi-4hXUsJIPAJ152JExA&usqp=CAU" group-title="1.LOKAL", Test Tv (labacir)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-http://103.167.167.5:8111/play/a01m/index.m3u8
-
-#EXTINF:-1 tvg-ID="championstv3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_sEcwNja_PVShXyLi-4hXUsJIPAJ152JExA&usqp=CAU" group-title="1.LOKAL", Test Tv (labacir)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-http://103.167.167.5:8111/play/a01n/index.m3u8
-
-#EXTINF:-1 tvg-ID="championstv3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_sEcwNja_PVShXyLi-4hXUsJIPAJ152JExA&usqp=CAU" group-title="1.LOKAL", Test Tv (labacir)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-http://103.167.167.5:8111/play/a01o/index.m3u8
-
-#EXTINF:-1 tvg-ID="championstv3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_sEcwNja_PVShXyLi-4hXUsJIPAJ152JExA&usqp=CAU" group-title="1.LOKAL", Test Tv (labacir)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-http://103.167.167.5:8111/play/a01r/index.m3u8
-
-#EXTINF:-1 tvg-ID="championstv3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_sEcwNja_PVShXyLi-4hXUsJIPAJ152JExA&usqp=CAU" group-title="1.LOKAL", Test Tv (labacir)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-http://103.167.167.5:8111/play/a01s/index.m3u8
-
-#EXTINF:-1 tvg-ID="championstv3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_sEcwNja_PVShXyLi-4hXUsJIPAJ152JExA&usqp=CAU" group-title="1.LOKAL", Test Tv (labacir)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-http://103.167.167.5:8111/play/a01t/index.m3u8
-
-#EXTINF:-1 tvg-ID="championstv3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_sEcwNja_PVShXyLi-4hXUsJIPAJ152JExA&usqp=CAU" group-title="1.LOKAL", Test Tv (labacir)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-http://103.167.167.5:8111/play/a01u/index.m3u8
-
-#EXTINF:-1 tvg-ID="championstv3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_sEcwNja_PVShXyLi-4hXUsJIPAJ152JExA&usqp=CAU" group-title="1.LOKAL", Test Tv (labacir)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-http://103.167.167.5:8111/play/a01v/index.m3u8
-
-#EXTINF:-1 tvg-ID="championstv3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_sEcwNja_PVShXyLi-4hXUsJIPAJ152JExA&usqp=CAU" group-title="1.LOKAL", Test Tv (labacir)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-http://103.167.167.5:8111/play/a01w/index.m3u8
-
-#EXTINF:-1 tvg-ID="championstv3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_sEcwNja_PVShXyLi-4hXUsJIPAJ152JExA&usqp=CAU" group-title="1.LOKAL", Test Tv (labacir)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-http://103.167.167.5:8111/play/a01x/index.m3u8
-
-#EXTINF:-1 tvg-ID="championstv3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_sEcwNja_PVShXyLi-4hXUsJIPAJ152JExA&usqp=CAU" group-title="1.LOKAL", Test Tv (labacir)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-http://103.167.167.5:8111/play/a02f/index.m3u8
-
-#EXTINF:-1 tvg-ID="championstv3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_sEcwNja_PVShXyLi-4hXUsJIPAJ152JExA&usqp=CAU" group-title="1.LOKAL", Test Tv (labacir)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-http://103.167.167.5:8111/play/a01z/index.m3u8
 
 #EXTINF:-1 tvg-ID="looney.tunes" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSodv7SHTVYlWZmgtg0k4Kh2wI3hD9PZZfVmQ&usqp=CAU" group-title="1.LOKAL", Looney Tunes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
