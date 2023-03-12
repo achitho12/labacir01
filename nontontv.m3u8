@@ -177,39 +177,39 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
 
-#EXTINF:-1 tvg-ID="rtv" tvg-logo="https://s.id/rtv_golive" group-title="1.LOKAL", RTV 1
+#EXTINF:-1 tvg-ID="rtv" tvg-logo="https://s.id/1ChYi" group-title="1.LOKAL", RTV 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://nyanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
-#EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://s.id/rtv_golive",RTV 2
+#EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://s.id/1ChYi",RTV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
 
-#EXTINF:-1 tvg-ID="kompastv" tvg-logo="https://s.id/kompastv_golive" group-title="1.LOKAL", KOMPASTV 1
+#EXTINF:-1 tvg-ID="kompastv" tvg-logo="https://s.id/1ChYM" group-title="1.LOKAL", KOMPASTV 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://nyanv-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 
-#EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://s.id/kompastv_golive",KOMPASTV 2
+#EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://s.id/1ChYM",KOMPASTV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/manifest.mpd
 
-#EXTINF:-1 tvg-ID="tvri" tvg-logo="https://s.id/tvri_golive" group-title="1.LOKAL", TVRI
+#EXTINF:-1 tvg-ID="tvri" tvg-logo="https://s.id/1ChZ7" group-title="1.LOKAL", TVRI
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://nyanv-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
 
-#EXTINF:-1 tvg-ID="jaktv" tvg-logo="https://s.id/jaktv_golive" group-title="1.LOKAL", JAKTV
+#EXTINF:-1 tvg-ID="jaktv" tvg-logo="https://s.id/1ChZy" group-title="1.LOKAL", JAKTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://nyanv-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 
-#EXTINF:-1 tvg-ID="jtv" tvg-logo="https://s.id/jtv_golive" group-title="1.LOKAL", JTV
+#EXTINF:-1 tvg-ID="jtv" tvg-logo="https://s.id/1ChZj" group-title="1.LOKAL", JTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
