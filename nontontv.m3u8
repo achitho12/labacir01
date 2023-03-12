@@ -273,27 +273,27 @@ https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 
 #EXTINF:-1 tvg-id="mr.been" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT88o8qvGv0upFJzKlOsjrJTLbw14aBqsJMjw&usqp=CAU" group-title="1.LOKAL", MR.BEEN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://tv1.yurend.net:25461/yurendtv/yurendtv3210@/193
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/193
 
 #EXTINF:-1 tvg-ID="useeprime" tvg-logo="https://s.id/1Ci5B" group-title="1.LOKAL", USEE PRIME
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
 
-#EXTINF:-1 tvg-ID="wion" tvg-logo="http://cdn.wionews.com/sites/default/files/2018/09/11/46514-WION.jpg" group-title="1.LOKAL",WION
+#EXTINF:-1 tvg-ID="wion" tvg-logo="https://s.id/1Ci8y" group-title="1.LOKAL",WION
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 http://rr.dens.tv/h/h91/index2.m3u8
 
-#EXTINF:-1 tvg-ID="mentari" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/Astro_Prima.png" group-title="0.MALAYSIA", Astro Prima
+#EXTINF:-1 tvg-ID="astro prima" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/Astro_Prima.png" group-title="0.MALAYSIA", Astro Prima
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 http://tv1.yurend.net:25461/yurendtv/yurendtv@@/209
 
-#EXTINF:-1 tvg-ID="useesport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4RBZwNPKqAq5gLGvr1j9hqB66PJKs8HHQmw&usqp=CAU" group-title="1.LOKAL", Usee Sport
+#EXTINF:-1 tvg-ID="useesport" tvg-logo="https://s.id/1Ci7M" group-title="1.LOKAL", Usee Sport
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://yurendtv.my.id/play.mpd?id=useesport&key=usee&type=drm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 http://tv1.yurend.net:25461/yurendtv/yurendtv@@/199
 
-#EXTINF:-1 tvg-ID="useesport2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4RBZwNPKqAq5gLGvr1j9hqB66PJKs8HHQmw&usqp=CAU" group-title="1.LOKAL", Usee Sport 2
+#EXTINF:-1 tvg-ID="useesport2" tvg-logo="https://s.id/1Ci7M" group-title="1.LOKAL", Usee Sport 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://yurendtv.my.id/play.mpd?id=useesports2&key=usee&type=drm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
@@ -333,13 +333,13 @@ https://thomasandi.combi.workers.dev/ddy6/premium314/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 http://yurendtv.my.id/play.m3u8?id=mentaritv&key=usee&type=hls
 
-#EXTINF:-1 tvg-ID="championstv1" tvg-logo="https://thumbor.prod.vidiocdn.com/zUeO5Z0qWsLChLPVtUmiW7wjXP4=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-3beebf.jpg" group-title="1.LOKAL", Champions 1
+#EXTINF:-1 tvg-ID="championstv1" tvg-logo="https://s.id/1Ci7c" group-title="1.LOKAL", Champions 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 http://103.167.167.5:8111/play/a01p/index.m3u8
 
-#EXTINF:-1 tvg-ID="championstv2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQta_RleShm2-ovBJ4Ffb1JxKW8Y_LoiEDvLQ&usqp=CAU" group-title="1.LOKAL",Champions 2
+#EXTINF:-1 tvg-ID="championstv2" tvg-logo="https://s.id/1Ci7c" group-title="1.LOKAL",Champions 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
