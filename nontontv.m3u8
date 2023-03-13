@@ -622,7 +622,8 @@ https://korea.hoheh.workers.dev/stream/ocn/stream/ocn_hq/chunks.m3u8
 #EXTINF:-1 group-title="2.MOVIES" tvg-logo="https://s.id/1CrpA", FLIK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 #EXTVLCOPT:http-referer=http://tv1.yurend.net:25461/
-http://tv1.yurend.net:25461/yurendtv/yurendtv@@/201|referer:http://tv1.yurend.net:25461/
+#http://tv1.yurend.net:25461/yurendtv/yurendtv@@/201|referer=http://tv1.yurend.net:25461/
+http://165.22.63.66:25461/yurendtv/yurendtv@@/201?token=HRdaURcNFw8bDgQAWlYDVFQHAQsACwoGU1tXUlEKXVleVwAIVgQNUQoaSREQEUJTBAltUFUbAwICU01EQUBdEzlcVhJeRwQXFRoRWg4AEgxUUgUBBg0MAQZSTUREWlxDXBcBAVxWAxcVGgBLFwBCWAQIbV1UT1BTV0BbCEFfVE1EWlxvAABYVFdcRwlBVRIaRw1BSRMDV0VeDk1EVlpMEwdBVxJeRwcCDgpHH0EGX0MLEEBAEwMbeXZATURRS0wECEZbXwpHDxdNS0cfQQxDaRcBQU1DXFhdVxBDXBYDGk1EWFNIOwZaW1ddBkcKCl5FR14QDAEbFRJfDQ8PQFxKPhZcVhJeRwQAAQhdER4=|referer=http://tv1.yurend.net:25461/
 
 ======3.KIDS======
 
