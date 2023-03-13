@@ -711,23 +711,23 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 http://210.210.155.37/dr9445/h/h02/index.m3u8|referer=http://www.dens.tv/
 
-#EXTINF:-1 tvg-ID="eggnetwork" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn0ueG_SlbRoIufaj0hkHzW9HdOLT5Xh6rEQ&usqp=CAU" group-title="3.CARTOON", EGG NETWORK
+#EXTINF:-1 tvg-ID="eggnetwork" tvg-logo="https://s.id/1Csmn" group-title="3.CARTOON", EGG NETWORK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 http://210.210.155.37/uq2663/h/h22/index.m3u8|referer=http://www.dens.tv/
 
-#EXTINF:-1 tvg-ID="mykids" tvg-logo="https://s.id/1d4gW" group-title="3.CARTOON", MY KIDZ
+#EXTINF:-1 tvg-ID="mykids" tvg-logo="https://s.id/1CsmU" group-title="3.CARTOON", MY KIDZ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 http://rr.dens.tv/h/h191/index.m3u8|referer=http://www.dens.tv/
 
-#EXTINF:-1 tvg-ID="spacetoon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp_mc6CU15zpVQB32bm-VTOoFPFfqHRVo1NQ&usqp=CAU" group-title="3.CARTOON",SPACETOON
+#EXTINF:-1 tvg-ID="spacetoon" tvg-logo="https://s.id/1Csno" group-title="3.CARTOON",SPACETOON
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist_w1249819737_b1296000_slAR.m3u8
 
-#EXTINF:-1 tvg-ID="onepiece" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdmcCw4tRdZWhX3kdvNODP3oWy4YlgXKnprw&usqp=CAU" group-title="3.CARTOON", ONE PIECE
+#EXTINF:-1 tvg-ID="onepiece" tvg-logo="https://s.id/1CsnJ" group-title="3.CARTOON", ONE PIECE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f7790b3ed0c88000720b241/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-ID="kidsflix" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_QuXRX5H3dVfujxrpjbtWfOURIDKhAxUmJA&usqp=CAU" group-title="3.CARTOON" ,KIDS FLIX
+#EXTINF:-1 tvg-ID="kidsflix" tvg-logo="https://s.id/1Csoj" group-title="3.CARTOON" ,KIDS FLIX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 
