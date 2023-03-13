@@ -573,7 +573,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://nyanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 
-#EXTINF:-1 tvg-ID="codaymovies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToAlO7IGdzrHMTi73613SBzSHdUZ4xhq9KfA&usqp=CAU" group-title="2.MOVIES",GOLIVE MOVIES
+#EXTINF:-1 tvg-ID="movies.hd" tvg-logo="https://s.id/1Cr8y" group-title="2.MOVIES",GOLIVE MOVIES
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
@@ -581,23 +581,23 @@ https://nyanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/
 #EXTVLCOPT:http-host=hpull.kktv8.com
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8|referer=http://hpull.kktv8.com/
 
-#EXTINF:-1 tvg-ID="movie sphere" tvg-logo="https://s.id/1d1fi" group-title="2.MOVIES",MOVIE SPHERE
+#EXTINF:-1 tvg-ID="movie sphere" tvg-logo="https://s.id/1Cr9O" group-title="2.MOVIES",MOVIE SPHERE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 http://moviesphere-roku.amagi.tv/playlist720lp.m3u8
 
-#EXTINF:-1 tvg-ID="redbox" tvg-logo="https://s.id/1d1fu" group-title="2.MOVIES",REDBOX
+#EXTINF:-1 tvg-ID="redbox" tvg-logo="https://s.id/1CraP" group-title="2.MOVIES",REDBOX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://rush-redbox.amagi.tv/playlist480p.m3u8
 
-#EXTINF:-1 tvg-ID="worldmovies" tvg-logo="https://s.id/1d1fG" group-title="2.MOVIES",WORLD MOVIES
+#EXTINF:-1 tvg-ID="worldmovies" tvg-logo="https://s.id/1Crac" group-title="2.MOVIES",WORLD MOVIES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d8594eb979c0007706de7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=73&deviceId=5f4d8594eb979c0007706de7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#EXTINF:-1 group-title="2.MOVIES" tvg-id="GEM.sg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSblZDGr6c0PEEkIHMMtt6KzmVH2040wGrQXQ&usqp=CAU" ,Gem
+#EXTINF:-1 group-title="2.MOVIES" tvg-id="GEM.sg" tvg-logo="https://s.id/1CrbN" ,Gem
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 http://rr.dens.tv/h/h19/index.m3u8
 
-#EXTINF:-1 group-title="2.MOVIES" tvg-id="KPlus.sg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2vqm8zv9Y2cimMu73ByGZK9cTqFV_WuRoQg&usqp=CAU" ,K+
+#EXTINF:-1 group-title="2.MOVIES" tvg-id="KPlus.sg" tvg-logo="https://s.id/1Crbd" ,K+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 http://rr.dens.tv/h/h08/index.m3u8
 
