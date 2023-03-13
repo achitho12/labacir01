@@ -767,27 +767,21 @@ http://tv1.yurend.net:25461/live/omandi/omandiyurend@12/207.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 http://tv1.yurend.net:25461/live/omandi/omandiyurend@12/206.m3u8
 
-#EXTINF:-1 tvg-id="saunthesheep" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuaIUYK6yjwaAlFR-Mov0oijCJuiS9INNjPA&usqp=CAU" group-title="3.CARTOON", SAUN THE SHEEP
+#EXTINF:-1 tvg-id="saunthesheep" tvg-logo="https://s.id/1CsDg" group-title="3.CARTOON", SAUN THE SHEEP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 http://tv1.yurend.net:25461/live/omandi/omandiyurend@12/205.m3u8
 
-#EXTINF:-1 tvg-id="larva" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR84gWGAvrOqPQiRW18ffa1SOoCl6dr2Dsf2g&usqp=CAU" group-title="3.CARTOON", LARVA
+#EXTINF:-1 tvg-id="larva" tvg-logo="https://s.id/1CsDv" group-title="3.CARTOON", LARVA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 http://tv1.yurend.net:25461/live/omandi/omandiyurend@12/197.m3u8
 
-#EXTINF:-1 tvg-id="donalduck" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoEWOc0MwE6gvOM52IIUpbZE4_Q5copnkshA&usqp=CAU" group-title="3.CARTOON", DONAL DUCK
+#EXTINF:-1 tvg-id="donalduck" tvg-logo="https://s.id/1CsDW" group-title="3.CARTOON", DONAL DUCK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 http://tv1.yurend.net:25461/live/omandi/omandiyurend@12/195.m3u8
 
-#EXTINF:-1 tvg-id="tom&jerry" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfqnALAPdmfWktSFVrJzyoKzQf08R9Pct3vQ&usqp=CAU" group-title="3.CARTOON", TOM & JERRY
+#EXTINF:-1 tvg-id="tom&jerry" tvg-logo="https://s.id/1CsEh" group-title="3.CARTOON", TOM & JERRY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://tv1.yurend.net:25461/live/omandi/omandiyurend@12/194.m3u8
-
-#EXTINF:-1 group-title="3.CARTOON" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzMhko-NwA-No0Vni48IA2AflXqUpWmbOKvA&usqp=CAU", DREAM WORK
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://yurendtv.my.id/play.mpd?id=dreamworks&key=usee&type=drm
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-http://yurendtv.my.id/play.mpd?id=dreamworks&key=usee&type=dash
 
 ======4.KNOWLEDGE======
 
