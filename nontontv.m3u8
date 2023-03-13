@@ -145,7 +145,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
 #EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://s.id/1Ch5q",Trans Tv 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-https://video.detik.com/transtv/smil:transtv-live.smil/playlist.m3u8
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-ID="trans7" tvg-logo="https://s.id/1Ci1r" group-title="1.LOKAL", Trans 7 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
