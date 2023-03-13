@@ -1,0 +1,15 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:11
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:10.998000,
+error_golive0.ts
+#EXTINF:9.999000,
+error_golive1.ts
+#EXTINF:9.999000,
+error_golive2.ts
+#EXTINF:9.999000,
+error_golive3.ts
+#EXTINF:1.749000,
+error_golive4.ts
+#EXT-X-ENDLIST
