@@ -316,18 +316,6 @@ http://tv1.yurend.net:25461/yurendtv/yurendtv@@/204
 #EXTVLCOPT:http-host=cdn09jtedge.indihometv.com
 https://cdn09jtedge.indihometv.com/atemedvr/1678116782/0/CITRADANGDUT_AT/CITRADANGDUT_AT.mpd?dvr?stime=1678120382&etime=1678120382&encoded=0a4f0fd913ab6e3211aec|referer=https://www.useetv.com
 
-#EXTINF:-1 tvg-ID="disneychannel" tvg-logo="https://s.id/1Ciha" group-title="1.LOKAL", Disney Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-https://thomasandi.combi.workers.dev/ddy6/premium312/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-ID="disneyxd" tvg-logo="https://s.id/1Cihs" group-title="1.LOKAL", Disney Xd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-https://thomasandi.combi.workers.dev/ddy6/premium314/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-ID="mentari" tvg-logo="https://s.id/1Cies" group-title="1.LOKAL", Mentari
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-https://yurendtv.herokuapp.com/hls.m3u8?id=8237
-
 #EXTINF:-1 tvg-ID="championstv1" tvg-logo="https://s.id/1Ci7c" group-title="1.LOKAL", Champions 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
@@ -339,14 +327,6 @@ http://103.167.167.5:8111/play/a01p/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 http://103.167.167.5:8111/play/a01q/index.m3u8
-
-#EXTINF:-1 tvg-ID="looney.tunes" tvg-logo="https://s.id/1CiAt" group-title="1.LOKAL", Looney Tunes
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-http://tv1.yurend.net:25461/yurendtv/yurendtv@@/196
-
-#EXTINF:-1 tvg-ID="biznet.kids" tvg-logo="https://s.id/1CiAX" group-title="1.LOKAL", Biznet Kids
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
 
 #EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN2tDvSOk4vkzF9T3YIE8a7uC4wHlgfgRS5g&usqp=CAU", Rapammi Apung
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -651,137 +631,157 @@ https://korea.hoheh.workers.dev/stream/ocn/stream/ocn_hq/chunks.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 http://tv1.yurend.net:25461/yurendtv/yurendtv@@/201
 
-======3.CARTOON======
+======3.KIDS======
 
-#EXTINF:-1 tvg-ID="nickjr" tvg-logo="https://s.id/1Cs86" group-title="3.CARTOON", NICK JR
+#EXTINF:-1 tvg-ID="nickjr" tvg-logo="https://s.id/1Cs86" group-title="3.KIDS", NICK JR
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://nyanv-live-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
 
-#EXTINF:-1 tvg-ID="nickelodeon" tvg-logo="https://s.id/1Cs8S" group-title="3.CARTOON", NICKELODEON
+#EXTINF:-1 tvg-ID="nickelodeon" tvg-logo="https://s.id/1Cs8S" group-title="3.KIDS", NICKELODEON
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://nyanv-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 
-#EXTINF:0 tvg-id="cbeebiesssia.uk" tvg-name="cbeebies" tvg-logo="https://s.id/1Cs9B" group-title="3.CARTOON", CBEEBIES
+#EXTINF:0 tvg-id="cbeebiesssia.uk" tvg-name="cbeebies" tvg-logo="https://s.id/1Cs9B" group-title=3.KIDS", CBEEBIES
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://nyanv-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 
-#EXTINF:0 tvg-id="kidstv.id" tvg-name="kidstv" tvg-logo="https://s.id/1Csa2" group-title="3.CARTOON", KIDS TV
+#EXTINF:0 tvg-id="kidstv.id" tvg-name="kidstv" tvg-logo="https://s.id/1Csa2" group-title=3.KIDS", KIDS TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://nyanv-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
 
-#EXTINF:0 tvg-id="miaomi.id" tvg-name="miaomi" tvg-logo="https://s.id/1CsaX" group-title="3.CARTOON", MIAOMI
+#EXTINF:0 tvg-id="miaomi.id" tvg-name="miaomi" tvg-logo="https://s.id/1CsaX" group-title="3.KIDS", MIAOMI
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://nyanv-live-cdn.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
 
-#EXTINF:0 tvg-id="babytvasia.uk" tvg-name="babytv" tvg-logo="https://s.id/1CsbG" group-title="3.CARTOON", BABY TV
+#EXTINF:0 tvg-id="babytvasia.uk" tvg-name="babytv" tvg-logo="https://s.id/1CsbG" group-title="3.KIDS", BABY TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://nyanv-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
 
-#EXTINF:0 tvg-id="cartoonnetworkasia.us" tvg-name="cartoonnetwork" tvg-logo="https://s.id/1Csc7" group-title="3.CARTOON", CARTOON NETWORK
+#EXTINF:0 tvg-id="cartoonnetworkasia.us" tvg-name="cartoonnetwork" tvg-logo="https://s.id/1Csc7" group-title="3.KIDS", CARTOON NETWORK
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://nyanv-live-cdn.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
 
-#EXTINF:0 tvg-id="boomerangSouthEastAsia.us" tvg-name="boomerang" tvg-logo="https://s.id/1Cscv" group-title="3.CARTOON", BOOMERANG
+#EXTINF:0 tvg-id="boomerangSouthEastAsia.us" tvg-name="boomerang" tvg-logo="https://s.id/1Cscv" group-title="3.KIDS", BOOMERANG
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://nyanv-live-cdn.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
 
-#EXTINF:-1 tvg-ID="animax" tvg-logo="https://s.id/1CscT" group-title="3.CARTOON", ANIMAX
+#EXTINF:-1 tvg-ID="animax" tvg-logo="https://s.id/1CscT" group-title="3.KIDS", ANIMAX
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://nyanv-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
-#EXTINF:-1 tvg-ID="aniplus" tvg-logo="https://s.id/1Csdn" group-title="3.CARTOON", ANIPLUS
+#EXTINF:-1 tvg-ID="aniplus" tvg-logo="https://s.id/1Csdn" group-title="3.KIDS", ANIPLUS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 http://210.210.155.37/dr9445/h/h02/index.m3u8|referer=http://www.dens.tv/
 
-#EXTINF:-1 tvg-ID="eggnetwork" tvg-logo="https://s.id/1Csmn" group-title="3.CARTOON", EGG NETWORK
+#EXTINF:-1 tvg-ID="eggnetwork" tvg-logo="https://s.id/1Csmn" group-title="3.KIDS", EGG NETWORK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 http://210.210.155.37/uq2663/h/h22/index.m3u8|referer=http://www.dens.tv/
 
-#EXTINF:-1 tvg-ID="mykids" tvg-logo="https://s.id/1CsmU" group-title="3.CARTOON", MY KIDZ
+#EXTINF:-1 tvg-ID="mykids" tvg-logo="https://s.id/1CsmU" group-title="3.KIDS", MY KIDZ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 http://rr.dens.tv/h/h191/index.m3u8|referer=http://www.dens.tv/
 
-#EXTINF:-1 tvg-ID="spacetoon" tvg-logo="https://s.id/1Csno" group-title="3.CARTOON",SPACETOON
+#EXTINF:-1 tvg-ID="spacetoon" tvg-logo="https://s.id/1Csno" group-title="3.KIDS",SPACETOON
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist_w1249819737_b1296000_slAR.m3u8
 
-#EXTINF:-1 tvg-ID="onepiece" tvg-logo="https://s.id/1CsnJ" group-title="3.CARTOON", ONE PIECE
+#EXTINF:-1 tvg-ID="onepiece" tvg-logo="https://s.id/1CsnJ" group-title="3.KIDS", ONE PIECE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f7790b3ed0c88000720b241/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-ID="kidsflix" tvg-logo="https://s.id/1Csoj" group-title="3.CARTOON" ,KIDS FLIX
+#EXTINF:-1 tvg-ID="kidsflix" tvg-logo="https://s.id/1Csoj" group-title="3.KIDS" ,KIDS FLIX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 
-#EXTINF:-1 tvg-ID="nickelodeonturtles" tvg-logo="https://s.id/1Csvk" group-title="3.CARTOON",NICKELODEON NINJA TURTLES
+#EXTINF:-1 tvg-ID="nickelodeonturtles" tvg-logo="https://s.id/1Csvk" group-title="3.KIDS",NICKELODEON NINJA TURTLES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://siloh.pluto.tv/lilo/production/Nick/02/master.m3u8
 
-#EXTINF:-1 tvg-ID="nickspongebob" tvg-logo="https://s.id/1CswP" group-title="3.CARTOON",NICK SPONGEBOB
+#EXTINF:-1 tvg-ID="nickspongebob" tvg-logo="https://s.id/1CswP" group-title="3.KIDS",NICK SPONGEBOB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://siloh.pluto.tv/lilo/production/Nick/01/master.m3u8
 
-#EXTINF:-1 tvg-ID="babyshark" tvg-logo="https://s.id/1Csxg" group-title="3.CARTOON",BABY SHARK
+#EXTINF:-1 tvg-ID="babyshark" tvg-logo="https://s.id/1Csxg" group-title="3.KIDS",BABY SHARK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_BabySharkTV/playlist.m3u8
 
-#EXTINF:-1 tvg-ID="naruto" tvg-logo="https://s.id/1CsxN" group-title="3.CARTOON",NARUTO
+#EXTINF:-1 tvg-ID="naruto" tvg-logo="https://s.id/1CsxN" group-title="3.KIDS",NARUTO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0c85bd2c9c10009370984/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c7e374a3-77f8-11ec-8df7-e1b1a799e6b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6dc122c4-9939-4ecc-8331-975968992978&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-ID="happykids" tvg-logo="https://s.id/1CsyF" group-title="3.CARTOON",HAPPY KIDS
+#EXTINF:-1 tvg-ID="happykids" tvg-logo="https://s.id/1CsyF" group-title="3.KIDS",HAPPY KIDS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://happykids-roku.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-ID="nickdora" tvg-logo="https://s.id/1Csz6" group-title="3.CARTOON",NICK DORA
+#EXTINF:-1 tvg-ID="nickdora" tvg-logo="https://s.id/1Csz6" group-title="3.KIDS",NICK DORA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://siloh.pluto.tv/lilo/production/Nick/03/master.m3u8
 
-#EXTINF:-1 tvg-ID="pbskids" tvg-logo="https://s.id/1CszG" group-title="3.CARTOON",PBS KIDS
+#EXTINF:-1 tvg-ID="pbskids" tvg-logo="https://s.id/1CszG" group-title="3.KIDS",PBS KIDS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 
-#EXTINF:-1 tvg-id="bernard" tvg-logo="https://s.id/1CszV" group-title="3.CARTOON", BERNARD
+#EXTINF:-1 tvg-id="bernard" tvg-logo="https://s.id/1CszV" group-title="3.KIDS", BERNARD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 http://tv1.yurend.net:25461/live/omandi/omandiyurend@12/207.m3u8
 
-#EXTINF:-1 tvg-id="Mr.been" tvg-logo="https://s.id/1CsA7" group-title="3.CARTOON", MR.BEEN
+#EXTINF:-1 tvg-id="Mr.been" tvg-logo="https://s.id/1CsA7" group-title="3.KIDS", MR.BEEN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 http://tv1.yurend.net:25461/live/omandi/omandiyurend@12/206.m3u8
 
-#EXTINF:-1 tvg-id="saunthesheep" tvg-logo="https://s.id/1CsDg" group-title="3.CARTOON", SAUN THE SHEEP
+#EXTINF:-1 tvg-id="saunthesheep" tvg-logo="https://s.id/1CsDg" group-title="3.KIDS", SAUN THE SHEEP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 http://tv1.yurend.net:25461/live/omandi/omandiyurend@12/205.m3u8
 
-#EXTINF:-1 tvg-id="larva" tvg-logo="https://s.id/1CsDv" group-title="3.CARTOON", LARVA
+#EXTINF:-1 tvg-id="larva" tvg-logo="https://s.id/1CsDv" group-title="3.KIDS", LARVA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 http://tv1.yurend.net:25461/live/omandi/omandiyurend@12/197.m3u8
 
-#EXTINF:-1 tvg-id="donalduck" tvg-logo="https://s.id/1CsDW" group-title="3.CARTOON", DONAL DUCK
+#EXTINF:-1 tvg-id="donalduck" tvg-logo="https://s.id/1CsDW" group-title="3.KIDS", DONAL DUCK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 http://tv1.yurend.net:25461/live/omandi/omandiyurend@12/195.m3u8
 
-#EXTINF:-1 tvg-id="tom&jerry" tvg-logo="https://s.id/1CsEh" group-title="3.CARTOON", TOM & JERRY
+#EXTINF:-1 tvg-id="tom&jerry" tvg-logo="https://s.id/1CsEh" group-title="3.KIDS", TOM & JERRY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://tv1.yurend.net:25461/live/omandi/omandiyurend@12/194.m3u8
+
+#EXTINF:-1 tvg-ID="looney.tunes" tvg-logo="https://s.id/1CiAt" group-title="3.KIDS", Looney Tunes
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+http://tv1.yurend.net:25461/yurendtv/yurendtv@@/196
+
+#EXTINF:-1 tvg-ID="biznet.kids" tvg-logo="https://s.id/1CiAX" group-title="3.KIDS", Biznet Kids
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
+
+#EXTINF:-1 tvg-ID="disneychannel" tvg-logo="https://s.id/1Ciha" group-title="3.KIDS", Disney Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+https://thomasandi.combi.workers.dev/ddy6/premium312/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-ID="disneyxd" tvg-logo="https://s.id/1Cihs" group-title="3.KIDS", Disney Xd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+https://thomasandi.combi.workers.dev/ddy6/premium314/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-ID="mentari" tvg-logo="https://s.id/1Cies" group-title="3.KIDS", Mentari
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+https://yurendtv.herokuapp.com/hls.m3u8?id=8237
 
 ======4.KNOWLEDGE======
 
