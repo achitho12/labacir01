@@ -362,7 +362,7 @@ https://achitho12.github.io/labacir01/hls/bacir01/dash/cani_paria.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://achitho12.github.io/labacir01/hls/bacir01/dash/kegani-ada-tongemmu.m3u8
 
-#EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://s.id/1CBj8", Kegani Ada Tongemmu
+#EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://s.id/1CBj8", Permaisuri (Cover)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://achitho12.github.io/labacir01/hls/bacir01/dash/permaisuri-cover.m3u8
 
