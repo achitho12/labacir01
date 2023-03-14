@@ -572,7 +572,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d8594eb979c00077
 
 #EXTINF:-1 group-title="2.MOVIES" tvg-id="GEM.sg" tvg-logo="https://s.id/1CrbN" ,Gem
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-http://rr.dens.tv/h/h19/index.m3u8
+#http://rr.dens.tv/h/h19/index.m3u8
+https://achitho12.github.io/labacir01/hls/error_golive.m3u8
 
 #EXTINF:-1 group-title="2.MOVIES" tvg-id="KPlus.sg" tvg-logo="https://s.id/1Crbd" ,K+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
@@ -691,7 +692,8 @@ http://210.210.155.37/dr9445/h/h02/index.m3u8|referer=http://www.dens.tv/
 
 #EXTINF:-1 tvg-ID="eggnetwork" tvg-logo="https://s.id/1Csmn" group-title="3.KIDS", EGG NETWORK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-http://210.210.155.37/uq2663/h/h22/index.m3u8|referer=http://www.dens.tv/
+#http://210.210.155.37/uq2663/h/h22/index.m3u8|referer=http://www.dens.tv/
+https://achitho12.github.io/labacir01/hls/error_golive.m3u8
 
 #EXTINF:-1 tvg-ID="mykids" tvg-logo="https://s.id/1CsmU" group-title="3.KIDS", MY KIDZ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
