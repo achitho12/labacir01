@@ -863,31 +863,31 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 ======5.RELIGION======
 
-#EXTINF:-1 tvg-ID="tvmu" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeAjaoOCd7FbuhZvCoC8MPn1jT5HX9mK9NGw&usqp=CAU" group-title="5.RELIGION",TVMU
+#EXTINF:-1 tvg-ID="tvmu" tvg-logo="https://s.id/1Czdp" group-title="5.RELIGION",TVMU
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://nyanv-live-cdn.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd
 
-#EXTINF:-1 tvg-ID="tv9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfhOSGqV4O3tsadj6XankGqrzh0pHmz17emg&usqp=CAU" group-title="5.RELIGION",TV9
+#EXTINF:-1 tvg-ID="tv9" tvg-logo="https://s.id/1Czew" group-title="5.RELIGION",TV9
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://nyanv-live-cdn.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd
 
-#EXTINF:-1 tvg-ID="alquran" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBRuHS8eJO8xOHXfM58TbU53Yc4WecInJCGA&usqp=CAU" group-title="5.RELIGION",AL-QURAN
+#EXTINF:-1 tvg-ID="alquran" tvg-logo="https://s.id/1CzeL" group-title="5.RELIGION",AL-QURAN
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://nyanv-live-cdn.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
 
-#EXTINF:-1 tvg-ID="muslimtv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5c1Tn9vTfrpDhHgYok3l8QKnok1_FifdJsw&usqp=CAU" group-title="5.RELIGION",MUSLIMTV
+#EXTINF:-1 tvg-ID="muslimtv" tvg-logo="https://s.id/1Cze5" group-title="5.RELIGION",MUSLIMTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
 
-#EXTINF:-1  group-title="5.RELIGION" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmmtVHDD4IcYgIZ3QocVrecCGBomkc2Nj4Zw&usqp=CAU",Reformed 21
+#EXTINF:-1  group-title="5.RELIGION" tvg-logo="https://s.id/1Czfu",Reformed 21
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
