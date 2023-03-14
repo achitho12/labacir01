@@ -34,7 +34,8 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 http://tv1.yurend.net:25461/yurendtv/yurendtv@@/209
 
 #EXTINF:-1 group-title="0.MALAYSIA" ch-number="114" tvg-id="114" tvg-chno="114" tvg-logo="https://s.id/1CiMb", Astro Aod
-http://tv1.yurend.net:25461/yurendtv/yurendtv@@/37
+#http://tv1.yurend.net:25461/yurendtv/yurendtv@@/37
+https://achitho12.github.io/labacir01/hls/error_golive.m3u8
 
 #EXTINF:-1 group-title="0.MALAYSIA" ch-number="121" tvg-id="121" tvg-chno="121" tvg-logo="https://s.id/1CiOj", Bernama
 https://raw.githubusercontent.com/AqFad2811/BernamaHDYT/main/youtube.m3u8
@@ -64,7 +65,8 @@ http://tv1.yurend.net:25461/yurendtv/yurendtv@@/7
 http://tv1.yurend.net:25461/yurendtv/yurendtv@@/8
 
 #EXTINF:-1 group-title="0.MALAYSIA" ch-number="125" tvg-id="125" tvg-chno="125" tvg-logo="https://s.id/1CiKG", Astro Arena
-http://tv1.yurend.net:25461/yurendtv/yurendtv@@/4
+#http://tv1.yurend.net:25461/yurendtv/yurendtv@@/4
+https://achitho12.github.io/labacir01/hls/error_golive.m3u8
 
 #EXTINF:-1 group-title="0.MALAYSIA" ch-number="125" tvg-id="125" tvg-chno="125" tvg-logo="https://s.id/1CiKf", Upin & Ipin
 http://tv1.yurend.net:25461/live/omandi/omandiyurend@12/192.m3u8
