@@ -83,11 +83,13 @@ http://mpwtv.my.id/vidioye/204-sctv.m3u8
 
 #EXTINF:-1 tvg-ID="indosiar" tvg-logo="https://s.id/1Ch0o" group-title="1.LOKAL", Indosiar 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-https://thomasxyurendav2.herokuapp.com/index.m3u8?id=205
+#https://thomasxyurendav2.herokuapp.com/index.m3u8?id=205
+http://210.210.155.37/qwr9ew/s/s04/01.m3u8
 
 #EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://s.id/1CgYZ",Sctv 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-https://thomasxyurendav2.herokuapp.com/index.m3u8?id=204
+#https://thomasxyurendav2.herokuapp.com/index.m3u8?id=204
+http://210.210.155.37/qwr9ew/s/s03/01.m3u8
 
 #EXTINF:-1 tvg-ID="mnctv" tvg-logo="https://s.id/1Ch1s" group-title="1.LOKAL", Mnctv
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
