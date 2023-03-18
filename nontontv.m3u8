@@ -328,6 +328,35 @@ http://103.167.167.5:8111/play/a01p/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 http://103.167.167.5:8111/play/a01q/index.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://CTv3BANGJAXIPTV.chello-mozamoza.repl.co
+#EXTINF:-1 tvg-logo="https://s.id/1Ci7c" group-title="1.LOKAL", Champions 3
+https://production-drm-vidio-com-event-3.akamaized.net/out/v1/ee66c2e0b8784d3d9f9585af6bdf9109/index.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://CTv5BANGJAXIPTV.chello-mozamoza.repl.co
+#EXTINF:-1 tvg-logo="https://s.id/1Ci7ceaming/uploads/livestreaming/image/9182/champions-tv-5-7838ab.jpg" group-title="1.LOKAL", Champions 5
+https://production-drm-vidio-com-ctv-5.akamaized.net/out/v1/6b83fda0adee41598d5e1a7097ddb8b5/index.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://CTv6BANGJAXIPTV.chello-mozamoza.repl.co
+#EXTINF:-1 tvg-logo="https://s.id/1Ci7c" group-title="1.LOKAL", Champions 6
+https://prod-drm-vidio-com-ctv-6.akamaized.net/out/v1/8ecc1b702b4a4871b51304a9cb82d561/index.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://CTvwc1BANGJAXIPTV.chello-mozamoza.repl.co
+#EXTINF:-1 tvg-logo="https://s.id/1Ci7c" group-title="1.LOKAL", Champions cup 1
+https://prod-drm-vidio-com-ctv-worldcup1.akamaized.net/out/v1/39d65abedd7c448c81463429b73288a0/index.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://CTvwc2BANGJAXIPTV.chello-mozamoza.repl.co
+#EXTINF:-1 tvg-logo="https://s.id/1Ci7c" group-title="1.LOKAL", Champions cup 2
+https://prod-drm-vidio-com-ctv-worldcup2.akamaized.net/out/v1/c8e8c362328d4b0fa97b2c3a8b934114/index.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+
+
+
+
 #EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN2tDvSOk4vkzF9T3YIE8a7uC4wHlgfgRS5g&usqp=CAU", Rapammi Apung
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://achitho12.github.io/labacir01/hls/bacir01/dash/bugis.m3u8
