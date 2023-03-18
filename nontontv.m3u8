@@ -73,6 +73,7 @@ http://tv1.yurend.net:25461/live/omandi/omandiyurend@12/192.m3u8
 
 =====1.LOKAL=====
 
+#EXTM3U
 #EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://s.id/1Ch0o", Indosiar 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 http://mpwtv.my.id/vidioye/205-indosiar.m3u8
@@ -378,10 +379,6 @@ https://prod-drm-vidio-com-ctv-worldcup1.akamaized.net/out/v1/39d65abedd7c448c81
 #EXTINF:-1 tvg-logo="https://s.id/1Ci7c" group-title="1.LOKAL", Champions cup 2 Vidio
 https://prod-drm-vidio-com-ctv-worldcup2.akamaized.net/out/v1/c8e8c362328d4b0fa97b2c3a8b934114/index.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-
-
-
-
 #EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN2tDvSOk4vkzF9T3YIE8a7uC4wHlgfgRS5g&usqp=CAU", Rapammi Apung
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://achitho12.github.io/labacir01/hls/bacir01/dash/bugis.m3u8
@@ -424,6 +421,7 @@ https://achitho12.github.io/labacir01/hls/bacir01/dash/permaisuri-cover.m3u8
 
 ======2.MOVIES======
 
+#EXTM3U
 #EXTINF:-1 tvg-ID="mcn" tvg-logo="https://s.id/1CiVL" group-title="2.MOVIES",MCN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 http://210.210.155.37/uq2663/h/h192/index.m3u8
@@ -682,6 +680,7 @@ http://tv1.yurend.net:25461/yurendtv/yurendtv@@/201|referer=http://tv1.yurend.ne
 
 ======3.KIDS======
 
+#EXTM3U
 #EXTINF:-1 tvg-ID="nickjr" tvg-logo="https://s.id/1Cs86" group-title="3.KIDS", NICK JR
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -831,6 +830,7 @@ https://thomasandi.combi.workers.dev/ddy6/premium314/tracks-v1a1/mono.m3u8
 
 ======4.KNOWLEDGE======
 
+#EXTM3U
 #EXTINF:-1 tvg-ID="besmart" tvg-logo="https://s.id/1CsOf" group-title="4.KNOWLEDGE",BESMART
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -913,6 +913,7 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 ======5.RELIGION======
 
+#EXTM3U
 #EXTINF:-1 tvg-ID="tvmu" tvg-logo="https://s.id/1Czdp" group-title="5.RELIGION",TVMU
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -966,6 +967,57 @@ https://nyanv-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://nyanv-live-cdn.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
+
+#EXTINF:-100 group-title="5.RELIGION" tvg-logo="https://s.id/1CXmK",RASYAAD TV
+https://h1.intechmedia.net/intech/ch6.m3u8
+
+#EXTINF:-100 group-title="5.RELIGION" tvg-logo="https://s.id/1CXnI",MEDS TV ACEH
+https://h1.intechmedia.net/intech/ch23.m3u8
+
+#EXTINF:-100 group-title="5.RELIGION" tvg-logo="https://s.id/1CXoM tv.png",UFA TV
+https://h1.intechmedia.net/intech/ch27.m3u8
+
+#EXTINF:-100 group-title="5.RELIGION" tvg-logo="https://s.id/1CXpH",RODJA TV
+https://tv.rodja.live/live/ngrp:rodja_all/playlist.m3u8
+
+#EXTINF:-101 group-title="5.RELIGION" tvg-logo="https://s.id/1CXqq",MAKKAH TV
+http://210.210.155.35/qwr9ew/s/s28/index.m3u8
+
+#EXTINF:-102 group-title="5.RELIGION" tvg-logo="https://s.id/1CXqX",MADINAH TV
+http://210.210.155.35/qwr9ew/s/s27/index.m3u8
+
+#EXTINF:-103 group-title="5.RELIGION" tvg-logo="https://s.id/1CXrG",SURAU TV
+http://119.235.249.58:1935/surautv/live/chunklist.m3u8
+
+#EXTINF:-104 group-title="5.RELIGION" tvg-logo="https://s.id/1CXsd",ASHIIL TV
+https://h1.intechmedia.net/intech/ch2.m3u8
+
+#EXTINF:-105 group-title="5.RELIGION" tvg-logo="https://s.id/1CXsK",AL IMAN TV
+http://tv.aliman.id:1935/aliman/HD/chunklist.m3u8
+
+#EXTINF:-106 group-title="5.RELIGION" tvg-logo="https://s.id/1CXtw",INSAN TV
+https://h1.intechmedia.net/intech/ch1.m3u8
+
+#EXTINF:-107 group-title="5.RELIGION" tvg-logo="https://s.id/1CXu6"",AHSAN TV
+https://h1.intechmedia.net/intech/ch4.m3u8
+
+#EXTINF:-108 group-title="5.RELIGION" tvg-logo="https://s.id/1CXur",ALFURQON TV
+https://h1.intechmedia.net/intech/ch24.m3u8
+
+#EXTINF:-109 group-title="5.RELIGION" tvg-logo="https://s.id/1CXvs",HIJRAH TV
+https://h1.intechmedia.net/intech/ch8.m3u8
+
+#EXTINF:-110 group-title="5.RELIGION" tvg-logo="https://s.id/1CXw5",SJP TV
+https://h1.intechmedia.net/intech/ch17.m3u8
+
+#EXTINF:-111 group-title="5.RELIGION" tvg-logo="https://s.id/1CXwC",NIAGA TV
+https://h1.intechmedia.net/intech/ch10.m3u8
+
+#EXTINF:-113 group-title="5.RELIGION" tvg-logo="https://s.id/1CXx3",IZZAH TV
+https://streaming.radiosalamjambi.com/izzahtv.m3u8
+
+#EXTINF:-114 group-title="5.RELIGION" tvg-logo="https://s.id/1CXxP",MUADZ TV
+http://wowza60.indostreamserver.com:1935/muadztv/live/chunklist.m3u8
 
 ======6.NEWS======
 
