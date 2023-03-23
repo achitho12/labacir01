@@ -706,8 +706,8 @@ https://sofy-ger-samsung.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ocn" tvg-logo="https://s.id/1CrqQ" group-title="2.MOVIES", OCN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-#https://korea.hoheh.workers.dev/stream/ocn/stream/ocn_hq/chunks.m3u8
-https://achitho12.github.io/labacir01/hls/error_golive.m3u8
+https://korea.makanjaxyurend.workers.dev/stream/ocn/stream/ocn_hq/chunks.m3u8
+#https://achitho12.github.io/labacir01/hls/error_golive.m3u8
 
 #EXTINF:-1 group-title="2.MOVIES" tvg-logo="https://s.id/1CrpA", FLIK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
