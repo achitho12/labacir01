@@ -335,7 +335,7 @@ https://production-drm-vidio-com-plcs.akamaized.net/out/v1/323e0081ae1e471194808
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 #EXTVLCOPT:http-referer=https://www.useetv.com
 #EXTVLCOPT:http-host=cdn09jtedge.indihometv.com
-https://cdn09jtedge.indihometv.com/atemedvr/1678116782/0/CITRADANGDUT_AT/CITRADANGDUT_AT.mpd?dvr?stime=1678120382&etime=1678120382&encoded=0a4f0fd913ab6e3211aec|referer=https://www.useetv.com
+https://cdn09jtedge.indihometv.com/atemedvr/1679549905/0/CITRADANGDUT_AT/CITRADANGDUT_AT.mpd?dvr?stime=1679553505&etime=1679553505&encoded=08f5a36901ec02eb54b42|referer=https://www.useetv.com
 
 #EXTINF:-1 tvg-ID="championstv1" tvg-logo="https://s.id/1Ci7c" group-title="1.LOKAL", Champions 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
