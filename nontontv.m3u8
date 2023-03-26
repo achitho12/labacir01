@@ -315,22 +315,6 @@ http://yurend.com/play.mpd?id=cdrama&key=usee&type=dash|referer=https://www.usee
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://5effe161e0fba.streamlock.net/live/ngrp:TIC.stream_all/.m3u8
 
-#EXTINF:-1 tvg-ID="useesport" tvg-logo="https://s.id/1Ci7M" group-title="1.LOKAL", Usee Sport
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-http://tv1.yurend.net:25461/yurendtv/yurendtv@@/199
-
-#EXTINF:-1 tvg-ID="useesport2" tvg-logo="https://s.id/1Ci7M" group-title="1.LOKAL", Usee Sport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-http://tv1.yurend.net:25461/yurendtv/yurendtv@@/200
-
-#EXTINF:-1 tvg-ID="bein1" tvg-logo="https://s.id/1CieQ" group-title="1.LOKAL", Bein Sport 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-http://tv1.yurend.net:25461/yurendtv/yurendtv@@/203
-
-#EXTINF:-1 tvg-ID="bein3" tvg-logo="https://s.id/1CieQ" group-title="1.LOKAL", Bein Sport 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-http://tv1.yurend.net:25461/yurendtv/yurendtv@@/204
-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://Bein1BANGJAXIPTV.chello-mozamoza.repl.co
 #EXTINF:-1 tvg-logo="https://s.id/1CieQ" group-title="1.LOKAL", Bein 1 Vidio
