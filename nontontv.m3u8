@@ -31,7 +31,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
 #EXTINF:-1 tvg-ID="astro prima" tvg-logo="https://s.id/1CiKY" group-title="0.MALAYSIA", Astro Prima
-http://tv1.yurend.net:25461/yurendtv/yurendtv@@/209
+#http://tv1.yurend.net:25461/yurendtv/yurendtv@@/209
 
 #EXTINF:-1 group-title="0.MALAYSIA" ch-number="114" tvg-id="114" tvg-chno="114" tvg-logo="https://s.id/1CiMb", Astro Aod
 #http://tv1.yurend.net:25461/yurendtv/yurendtv@@/37
@@ -41,7 +41,7 @@ https://achitho12.github.io/labacir01/hls/error_golive.m3u8
 https://raw.githubusercontent.com/AqFad2811/BernamaHDYT/main/youtube.m3u8
 
 #EXTINF:-1 group-title="0.MALAYSIA" ch-number="122" tvg-id="122" tvg-chno="122" tvg-logo="https://s.id/1CiLH", Astro Aura
-https://wild-union-4b0f.combi.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_primary.mpd
+#https://wild-union-4b0f.combi.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_primary.mpd
 
 #EXTINF:-1 group-title="0.MALAYSIA" ch-number="123" tvg-id="123" tvg-chno="123" tvg-logo="https://s.id/1CikQ",Berita RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
@@ -53,23 +53,23 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
 
 #EXTINF:-1 group-title="0.MALAYSIA" ch-number="125" tvg-id="125" tvg-chno="125" tvg-logo="https://s.id/1CiKM", Astro Super Sport 1
-http://tv1.yurend.net:25461/yurendtv/yurendtv@@/5
+#http://tv1.yurend.net:25461/yurendtv/yurendtv@@/5
 
 #EXTINF:-1 group-title="0.MALAYSIA" ch-number="125" tvg-id="125" tvg-chno="125" tvg-logo="https://s.id/1CiKM", Astro Super Sport 2
-http://tv1.yurend.net:25461/yurendtv/yurendtv@@/6
+#http://tv1.yurend.net:25461/yurendtv/yurendtv@@/6
 
 #EXTINF:-1 group-title="0.MALAYSIA" ch-number="125" tvg-id="125" tvg-chno="125" tvg-logo="https://s.id/1CiKM", Astro Super Sport 3
-http://tv1.yurend.net:25461/yurendtv/yurendtv@@/7
+#http://tv1.yurend.net:25461/yurendtv/yurendtv@@/7
 
 #EXTINF:-1 group-title="0.MALAYSIA" ch-number="125" tvg-id="125" tvg-chno="125" tvg-logo="https://s.id/1CiKM", Astro Super Sport 4
-http://tv1.yurend.net:25461/yurendtv/yurendtv@@/8
+#http://tv1.yurend.net:25461/yurendtv/yurendtv@@/8
 
 #EXTINF:-1 group-title="0.MALAYSIA" ch-number="125" tvg-id="125" tvg-chno="125" tvg-logo="https://s.id/1CiKG", Astro Arena
 #http://tv1.yurend.net:25461/yurendtv/yurendtv@@/4
-https://achitho12.github.io/labacir01/hls/error_golive.m3u8
+#https://achitho12.github.io/labacir01/hls/error_golive.m3u8
 
 #EXTINF:-1 group-title="0.MALAYSIA" ch-number="125" tvg-id="125" tvg-chno="125" tvg-logo="https://s.id/1CiKf", Upin & Ipin
-http://tv1.yurend.net:25461/live/omandi/omandiyurend@12/192.m3u8
+#http://tv1.yurend.net:25461/live/omandi/omandiyurend@12/192.m3u8
 
 =====1.LOKAL=====
 
