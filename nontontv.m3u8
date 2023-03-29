@@ -35,7 +35,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
 #EXTINF:-1 group-title="0.MALAYSIA" ch-number="114" tvg-id="114" tvg-chno="114" tvg-logo="https://s.id/1CiMb", Astro Aod
 #http://tv1.yurend.net:25461/yurendtv/yurendtv@@/37
-https://achitho12.github.io/labacir01/hls/error_golive.m3u8
+#https://achitho12.github.io/labacir01/hls/error_golive.m3u8
 
 #EXTINF:-1 group-title="0.MALAYSIA" ch-number="121" tvg-id="121" tvg-chno="121" tvg-logo="https://s.id/1CiOj", Bernama
 https://raw.githubusercontent.com/AqFad2811/BernamaHDYT/main/youtube.m3u8
@@ -285,7 +285,7 @@ https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 
 #EXTINF:-1 tvg-id="mr.been" tvg-logo="https://s.id/1Cife" group-title="1.LOKAL", Mr.Been
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-http://tv1.yurend.net:25461/yurendtv/yurendtv@@/193
+#http://tv1.yurend.net:25461/yurendtv/yurendtv@@/193
 
 #EXTINF:-1 tvg-ID="useeprime" tvg-logo="https://s.id/1Ci5B" group-title="1.LOKAL", Usee Prime
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
