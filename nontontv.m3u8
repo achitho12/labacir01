@@ -694,7 +694,8 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8
 
 #EXTINF:-1 tvg-ID="max" tvg-logo="https://s.id/1Crqv" group-title="2.MOVIES", HBO MAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-http://163.172.33.7:25461/live/serveramsterdam/2292020/33.m3u8
+#http://163.172.33.7:25461/live/serveramsterdam/2292020/33.m3u8
+https://dje6yassknq8t.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-ID="sofytv" tvg-logo="https://s.id/1Crrn" group-title="2.MOVIES" ,SOFYTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
