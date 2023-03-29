@@ -689,6 +689,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/628e685ba3811100070551
 http://iptvtree.net:8080/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/146812
 
 #EXTINF:-1 tvg-ID="movies" tvg-logo="https://s.id/1Cr8y" group-title="2.MOVIES", GOLIVE MOVIES 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8
 
 #EXTINF:-1 tvg-ID="max" tvg-logo="https://s.id/1Crqv" group-title="2.MOVIES", HBO MAX
@@ -700,6 +701,7 @@ http://163.172.33.7:25461/live/serveramsterdam/2292020/33.m3u8
 https://sofy-ger-samsung.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ocn" tvg-logo="https://s.id/1CrqQ" group-title="2.MOVIES", OCN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8
 
 #EXTINF:-1 group-title="2.MOVIES" tvg-logo="https://s.id/1CrpA", FLIK
