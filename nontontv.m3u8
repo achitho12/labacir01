@@ -655,12 +655,9 @@ https://rush-redbox.amagi.tv/playlist480p.m3u8
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d8594eb979c0007706de7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=73&deviceId=5f4d8594eb979c0007706de7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:-1 group-title="2.MOVIES" tvg-id="GEM.sg" tvg-logo="https://s.id/1CrbN" ,Gem
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-#http://rr.dens.tv/h/h19/index.m3u8
-https://achitho12.github.io/labacir01/hls/error_golive.m3u8
+http://rr.dens.tv/h/h19/index.m3u8
 
 #EXTINF:-1 group-title="2.MOVIES" tvg-id="KPlus.sg" tvg-logo="https://s.id/1Crbd" ,K+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 http://rr.dens.tv/h/h08/index.m3u8
 
 #EXTINF:-1 tvg-ID="blutv1" tvg-logo="https://s.id/1Cro8" group-title="2.MOVIES",BLU TV1
@@ -692,9 +689,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/628e685ba3811100070551
 http://iptvtree.net:8080/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/146812
 
 #EXTINF:-1 tvg-ID="movies" tvg-logo="https://s.id/1Cr8y" group-title="2.MOVIES", GOLIVE MOVIES 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-#EXTVLCOPT:http-referer=http://tv1.yurend.net:25461/
-http://tv1.yurend.net:25461/yurendtv/yurendtv@@/191|referer=http://tv1.yurend.net:25461/
+https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8
 
 #EXTINF:-1 tvg-ID="max" tvg-logo="https://s.id/1Crqv" group-title="2.MOVIES", HBO MAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
@@ -705,14 +700,12 @@ http://163.172.33.7:25461/live/serveramsterdam/2292020/33.m3u8
 https://sofy-ger-samsung.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ocn" tvg-logo="https://s.id/1CrqQ" group-title="2.MOVIES", OCN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-https://korea.makanjaxyurend.workers.dev/stream/ocn/stream/ocn_hq/chunks.m3u8
-#https://achitho12.github.io/labacir01/hls/error_golive.m3u8
+https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8
 
 #EXTINF:-1 group-title="2.MOVIES" tvg-logo="https://s.id/1CrpA", FLIK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-#EXTVLCOPT:http-referer=http://tv1.yurend.net:25461/
-http://tv1.yurend.net:25461/yurendtv/yurendtv@@/201|referer=http://tv1.yurend.net:25461/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://newanv-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 
 ======3.KIDS======
 
