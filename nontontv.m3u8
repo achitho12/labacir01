@@ -399,6 +399,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s.id/1Es7g" group-title="1.LOKAL",SPOTV ON
+https://cdn-hk-33.cloudrsst.com/live/spotv_on_540/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://s.id/1CXVM" group-title="1.LOKAL",Soccer Channel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
@@ -469,7 +472,7 @@ https://achitho12.github.io/labacir01/hls/bacir01/dash/permaisuri-cover.m3u8
 https://achitho12.github.io/labacir01/hls/bacir01/rcti_720p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://s.id/1Eg2k" group-title="1.LOKAL",Dunia Lain
-https://delivery.ksa.my.id/stream/dunialain/playlist.m3u8?token=ym1wtrp&v=20200807
+#https://delivery.ksa.my.id/stream/dunialain/playlist.m3u8?token=ym1wtrp&v=20200807
 
 ======2.MOVIES======
 
@@ -2455,6 +2458,15 @@ https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 #EXTINF:-1 tvg-id="tnt sport5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG9aiE875ItGFhuI68BF5ejNXbg2F7bw_enQ&usqp=CAU" group-title="8.SPORTS", TNT Sports 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-id="JSports1.jp" tvg-name="J Sports 1" tvg-logo="https://dl.dropboxusercontent.com/s/y5bcqcswr6cwvj5/jsports1.png" group-title="8.SPORTS",J Sports 1
+https://redlabmcdn.s.llnwi.net/nv02/bs15hd/index.m3u8
+
+#EXTINF:-1 tvg-id="JSports2.jp" tvg-name="J Sports 2" tvg-logo="https://dl.dropboxusercontent.com/s/ddk1o6rhjatjfe6/jsports2.png" group-title="8.SPORTS",J Sports 2
+https://redlabmcdn.s.llnwi.net/nv02/bs11hd/index.m3u8
+
+#EXTINF:-1 tvg-id="JSports3.jp" tvg-name="J Sports 3" tvg-logo="https://dl.dropboxusercontent.com/s/dld3bdmruyc40yn/jsports3.png" group-title="8.SPORTS",J Sports 3
+https://redlabmcdn.s.llnwi.net/nv02/bs12hd/index.m3u8
 
 ======9.LIGA BRI======
 
