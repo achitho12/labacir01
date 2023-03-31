@@ -317,7 +317,7 @@ https://yurendtv.herokuapp.com/hls.m3u8?id=8237
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 #EXTVLCOPT:http-referer=https://www.useetv.com
 #EXTVLCOPT:http-host=cdn09jtedge.indihometv.com
-https://cdn09jtedge.indihometv.com/atemedvr/1679549905/0/CITRADANGDUT_AT/CITRADANGDUT_AT.mpd?dvr?stime=1679553505&etime=1679553505&encoded=08f5a36901ec02eb54b42|referer=https://www.useetv.com
+#https://cdn09jtedge.indihometv.com/atemedvr/1679549905/0/CITRADANGDUT_AT/CITRADANGDUT_AT.mpd?dvr?stime=1679553505&etime=1679553505&encoded=08f5a36901ec02eb54b42|referer=https://www.useetv.com
 
 #EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://s.id/1Dr5I", Citra Drama
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -325,7 +325,7 @@ https://cdn09jtedge.indihometv.com/atemedvr/1679549905/0/CITRADANGDUT_AT/CITRADA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 #EXTVLCOPT:http-referer=https://www.useetv.com
 #EXTVLCOPT:http-host=cdn09jtedge.indihometv.com
-http://yurend.com/play.mpd?id=cdrama&key=usee&type=dash|referer=https://www.useetv.com
+#http://yurend.com/play.mpd?id=cdrama&key=usee&type=dash|referer=https://www.useetv.com
 
 #EXTINF:-1 tvg-ID="tic" tvg-logo="https://s.id/1CsTC" group-title="1.LOKAL",TIC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
