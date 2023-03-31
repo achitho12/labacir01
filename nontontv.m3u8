@@ -820,7 +820,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0c85bd2c9c100093
 
 #EXTINF:-1 tvg-ID="happykids" tvg-logo="https://s.id/1CsyF" group-title="3.KIDS",HAPPY KIDS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-https://happykids-roku.amagi.tv/playlist.m3u8
+#https://happykids-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-ID="nickdora" tvg-logo="https://s.id/1Csz6" group-title="3.KIDS",NICK DORA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
@@ -832,31 +832,31 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 
 #EXTINF:-1 tvg-id="bernard" tvg-logo="https://s.id/1CszV" group-title="3.KIDS", BERNARD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-http://tv1.yurend.net:25461/live/omandi/omandiyurend@12/207.m3u8
+#http://tv1.yurend.net:25461/live/omandi/omandiyurend@12/207.m3u8
 
 #EXTINF:-1 tvg-id="Mr.been" tvg-logo="https://s.id/1CsA7" group-title="3.KIDS", MR.BEEN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-http://tv1.yurend.net:25461/live/omandi/omandiyurend@12/206.m3u8
+#http://tv1.yurend.net:25461/live/omandi/omandiyurend@12/206.m3u8
 
 #EXTINF:-1 tvg-id="saunthesheep" tvg-logo="https://s.id/1CsDg" group-title="3.KIDS", SAUN THE SHEEP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-http://tv1.yurend.net:25461/live/omandi/omandiyurend@12/205.m3u8
+#http://tv1.yurend.net:25461/live/omandi/omandiyurend@12/205.m3u8
 
 #EXTINF:-1 tvg-id="larva" tvg-logo="https://s.id/1CsDv" group-title="3.KIDS", LARVA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-http://tv1.yurend.net:25461/live/omandi/omandiyurend@12/197.m3u8
+#http://tv1.yurend.net:25461/live/omandi/omandiyurend@12/197.m3u8
 
 #EXTINF:-1 tvg-id="donalduck" tvg-logo="https://s.id/1CsDW" group-title="3.KIDS", DONAL DUCK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-http://tv1.yurend.net:25461/live/omandi/omandiyurend@12/195.m3u8
+#http://tv1.yurend.net:25461/live/omandi/omandiyurend@12/195.m3u8
 
 #EXTINF:-1 tvg-id="tom&jerry" tvg-logo="https://s.id/1CsEh" group-title="3.KIDS", TOM & JERRY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://tv1.yurend.net:25461/live/omandi/omandiyurend@12/194.m3u8
+#http://tv1.yurend.net:25461/live/omandi/omandiyurend@12/194.m3u8
 
 #EXTINF:-1 tvg-ID="looney.tunes" tvg-logo="https://s.id/1CiAt" group-title="3.KIDS", Looney Tunes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-http://tv1.yurend.net:25461/yurendtv/yurendtv@@/196
+#http://tv1.yurend.net:25461/yurendtv/yurendtv@@/196
 
 #EXTINF:-1 tvg-ID="biznet.kids" tvg-logo="https://s.id/1CiAX" group-title="3.KIDS", Biznet Kids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
@@ -864,11 +864,11 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w41736285
 
 #EXTINF:-1 tvg-ID="disneychannel" tvg-logo="https://s.id/1Ciha" group-title="3.KIDS", Disney Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-https://thomasandi.combi.workers.dev/ddy6/premium312/tracks-v1a1/mono.m3u8
+#https://thomasandi.combi.workers.dev/ddy6/premium312/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-ID="disneyxd" tvg-logo="https://s.id/1Cihs" group-title="3.KIDS", Disney Xd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-https://thomasandi.combi.workers.dev/ddy6/premium314/tracks-v1a1/mono.m3u8
+#https://thomasandi.combi.workers.dev/ddy6/premium314/tracks-v1a1/mono.m3u8
 
 ======4.KNOWLEDGE======
 
