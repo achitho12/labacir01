@@ -72,6 +72,10 @@ https://webudit.onlinewebtv.lol/lb/premium126/index.m3u8?|referer=https://widevi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.onlinewebtv.lol/lb/premium43/index.m3u8?|referer=https://widevine.licenses4.me/
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s.id/1ErZ2" group-title="0.MALAYSIA",ASTRO CRICKET
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.onlinewebtv.lol/lb/premium370/index.m3u8?|referer=https://widevine.licenses4.me/
+
 #EXTINF:-1 group-title="0.MALAYSIA" ch-number="125" tvg-id="125" tvg-chno="125" tvg-logo="https://s.id/1CiKG", Astro Arena
 #http://tv1.yurend.net:25461/yurendtv/yurendtv@@/4
 #https://achitho12.github.io/labacir01/hls/error_golive.m3u8
