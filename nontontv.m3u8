@@ -2483,23 +2483,20 @@ https://webudit.onlinewebtv.lol/lb/premium550/index.m3u8|referer=https://widevin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.onlinewebtv.lol/lb/premium597/index.m3u8|referer=https://streamservicehd.click/
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/ViX_Logo.png/1200px-ViX_Logo.png", group-title=8.SPORTS",V!X
+#EXTINF:-1 tvg-logo="https://s.id/1EDjL", group-title=8.SPORTS",V!X
 https://linear-439.frequency.stream/dist/vix/439/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/ViX_Logo.png/1200px-ViX_Logo.png", group-title="8.SPORTS",V!X La Liga 1
+#EXTINF:-1 tvg-logo="https://s.id/1EDjL", group-title="8.SPORTS",V!X La Liga 1
 https://linear-489.frequency.stream/dist/vix/489/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/ViX_Logo.png/1200px-ViX_Logo.png", group-title="8.SPORTS",V!X La Liga 2
+#EXTINF:-1 tvg-logo="https://s.id/1EDjL", group-title="8.SPORTS",V!X La Liga 2
 https://linear-490.frequency.stream/dist/vix/490/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/ViX_Logo.png/1200px-ViX_Logo.png", group-title="8.SPORTS",V!X La Liga 3
+#EXTINF:-1 tvg-logo="https://s.id/1EDjL", group-title="8.SPORTS",V!X La Liga 3
 https://linear-506.frequency.stream/dist/vix/506/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/ViX_Logo.png/1200px-ViX_Logo.png", group-title="8.SPORTS",V!X La Liga 4
+#EXTINF:-1 tvg-logo="https://s.id/1EDjL", group-title="8.SPORTS",V!X La Liga 4
 https://linear-507.frequency.stream/dist/vix/507/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBoZzLb5zBTVbhenOIvhsPcuezHodLfT4y9g&usqp=CAU" group-title="3. SPORTS",ARRYADIA 3
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1000000=3-mp4a_130400_qad=1.m3u8
 
 ======9.LIGA BRI======
 
