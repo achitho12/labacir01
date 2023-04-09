@@ -93,7 +93,7 @@ http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 
 #EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://s.id/1Ch0o", Indosiar sepak bola
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-http://103.167.167.5:8111/play/a00r/index.m3u8
+#http://103.167.167.5:8111/play/a00r/index.m3u8
 
 #EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://s.id/1CgYZ", Sctv 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
@@ -115,7 +115,7 @@ http://210.210.155.37/qwr9ew/s/s03/01.m3u8
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 #EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://s.id/1Ch1s", Mnctv+ HD
-http://103.167.167.5:8111/play/a011/index.m3u8
+#http://103.167.167.5:8111/play/a011/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #https://mnctv-azure.rctiplus.id/mnctv-sdi-avc1_600000=5-mp4a_96000=1.m3u8|referer=https://m.rctiplus.com/
 
@@ -128,7 +128,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://s.id/1Ch1E",Rcti+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 #https://d-rcti.rctiplus.id/rcti-sdi-avc1_800000=6-mp4a_96000=1.m3u8?auth_key=1678774352-53d752e195dbe535e36dc46926badf82-0-7d12cb6284a500837cdafb71add73bc9|referer=https://m.rctiplus.com/
-http://103.167.167.5:8111/play/a01c/index.m3u8
+#http://103.167.167.5:8111/play/a01c/index.m3u8
 
 #EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://s.id/1Ch2q", Gtv
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -139,7 +139,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://s.id/1Ch2q", Gtv+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 #https://gtv-azure.rctiplus.id/gtv-sdi.m3u8|referer=https://m.rctiplus.com/
-http://103.167.167.5:8111/play/a014/index.m3u8
+#http://103.167.167.5:8111/play/a014/index.m3u8
 
 #EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://s.id/1Ch2L", iNews
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -149,7 +149,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mp
 
 #EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://s.id/1Ch2L" , iNews+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-https://inews-azure.rctiplus.id/inews-sdi.m3u8|referer=https://m.rctiplus.com/
+#https://inews-azure.rctiplus.id/inews-sdi.m3u8|referer=https://m.rctiplus.com/
 
 #EXTINF:-1 tvg-ID="antv" tvg-logo="https://s.id/1Ch58" group-title="1.LOKAL", Antv 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -348,11 +348,11 @@ https://production-drm-vidio-com-plcs.akamaized.net/out/v1/323e0081ae1e471194808
 
 #EXTINF:-1 tvg-ID="championstv1" tvg-logo="https://s.id/1Ci7c" group-title="1.LOKAL", Champions 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-http://103.167.167.5:8111/play/a01p/index.m3u8
+#http://103.167.167.5:8111/play/a01p/index.m3u8
 
 #EXTINF:-1 tvg-ID="championstv2" tvg-logo="https://s.id/1Ci7c" group-title="1.LOKAL",Champions 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-http://103.167.167.5:8111/play/a01q/index.m3u8
+#http://103.167.167.5:8111/play/a01q/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://Ctv1.chello-mozamoza.repl.co
