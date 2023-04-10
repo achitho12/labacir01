@@ -88,8 +88,8 @@ https://webudit.onlinewebtv.lol/lb/premium370/index.m3u8?|referer=https://widevi
 #EXTM3U
 #EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://s.id/1Ch0o", Indosiar 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-http://mpwtv.my.id/vidioye/205-indosiar.m3u8
-#https://thomasxyurendav2.herokuapp.com/index.m3u8?id=205
+#http://mpwtv.my.id/vidioye/205-indosiar.m3u8
+https://thomasxyurendav2.herokuapp.com/index.m3u8?id=205
 
 #EXTINF:-1 tvg-ID="indosiar" tvg-logo="https://s.id/1Ch0o" group-title="1.LOKAL", Indosiar 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
@@ -100,8 +100,8 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3
 
 #EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://s.id/1CgYZ", Sctv 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-http://mpwtv.my.id/vidioye/204-sctv.m3u8
-#https://thomasxyurendav2.herokuapp.com/index.m3u8?id=204
+#http://mpwtv.my.id/vidioye/204-sctv.m3u8
+https://thomasxyurendav2.herokuapp.com/index.m3u8?id=204
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
