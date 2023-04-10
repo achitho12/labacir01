@@ -1,6 +1,6 @@
 <?php
 
-header('Location: http://www.google.com/');
+header('Location: https://nontontv.page.link/error-link/');
 exit;
 
 ?>
