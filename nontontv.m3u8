@@ -136,7 +136,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://s.id/1Ch1E",Rcti+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-https://error301.page.link/301error
+#https://error301.page.link/301error
 
 #EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://s.id/1Ch2q", Gtv
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
