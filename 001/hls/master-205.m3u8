@@ -16,4 +16,3 @@ https://etslive-2-vidio-com.akamaized.net/exp=1698641813~acl=/hls-b/ingest_204_*
 https://etslive-2-vidio-com.akamaized.net/exp=1698641813~acl=/hls-b/ingest_204_*/*~hmac=7645bd001eab258224c6a962122fc7c12326047c8ff558af474e7bca660a5749/hls-b/ingest_204_360p/index.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=375000,NAME=240p,RESOLUTION=426x240
 https://etslive-2-vidio-com.akamaized.net/exp=1698641813~acl=/hls-b/ingest_204_*/*~hmac=7645bd001eab258224c6a962122fc7c12326047c8ff558af474e7bca660a5749/hls-b/ingest_204_240p/index.m3u8
-
