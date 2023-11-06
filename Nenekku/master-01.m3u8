@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1610670,RESOLUTION=1280x536,FRAME-RATE=30.000,CODECS="avc1.64001f,mp4a.40.2"
+https://58.cloudvideo.tv/hls/mfqjxdmdqho6sr7qw6pe5okm5g5t4gpl4ileduz3h5b5yek3vhqwpykrmkhq/index-v1-a1.m3u8
+
+#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=155392,RESOLUTION=1280x536,CODECS="avc1.64001f",URI="https://58.cloudvideo.tv/hls/mfqjxdmdqho6sr7qw6pe5okm5g5t4gpl4ileduz3h5b5yek3vhqwpykrmkhq/iframes-v1-a1.m3u8"
