@@ -578,28 +578,43 @@
             "name": "Knowledge",
             "channels": [
             {
-                    
-                    "referer": "https:\/\/indihome.co.id\/",
+                    "drm_id": "AnimalP",
+                    "referer": "",
                     "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEi6vr5ACCkasReszsIz2jhTb3EohuPp6wPgSm59J6SUBdcCBidZnk_77p9b0ABrwZJW0i-b2DqXRc5dQdlAOlteEfufPzZt3VTwviXv9nm-cnRpqt_bGDnaa-EZVKrmwfinKTEXsLgVfBSSe0_i0t3XRaXsVx3u9xv2qhGMmhT8J3hjaQFqOUTQcazNErQ\/s1280\/20240910_190037.jpg",
                     "name": "Animal Planet",
-                    "stream_url": "https:\/\/inditv.openwindow042.workers.dev\/https:\/\/cdn09jtedge.indihometv.com\/joss\/194\/animalplanet\/index.m3u8",
+                    "stream_url": "https://atemecdnbalancer-voe.sysln.id/live/eds/AnimalPlanetHD/mpd/AnimalPlanetHD.mpd",
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
-            {
-                    
-                    "referer": "https:\/\/indihome.co.id\/",
-                    "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEgUt4EuTW-iNMtW4pqOwCFRP__eDA2n9lpNrYRRPL2Su7UW3wHFAuKy1bz7_NbgHVu9AMbsJGkDZajNYUS1LHp_uWBYCFpL-tmu1qDcwzr78zOIoyFF1FXWf40gqV2D3j87Blkk-pIyrLSe4Fpn2i9EkUvGZGgELCS9xBcASTn3Ulww97_kSPd0tyfzkUE\/s1280\/20240910_185630.jpg",
-                    "name": "Discovery Asia",
-                    "stream_url": "https:\/\/inditv.openwindow042.workers.dev\/https:\/\/cdn09jtedge.indihometv.com\/joss\/194\/discoveryasia\/index.m3u8",
-                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
-                },
-            
                 {
-                    "drm_id": "OUTDOOR",
-                    "referer": "https:\/\/www.visionplus.id",
-                    "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/c3150d7b\/dba4_r32.jpg",
-                    "name": "Outdoor Channel",
-                    "stream_url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/outdoorchannel\/sa_dash_vmx\/outdoorchannel.mpd",
+                    "drm_id": "HgtvF",
+                    "referer": "",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWOgxZOKVmRgxvA5LJwlk0fZUDJwshpPwzHxwwM9CS2j8jarV-j6I6ua6U0XPWFiW-peqSEMHBRZ61NP_VxRYMGBqRMaE0NeazjpevTPAOe-bQLuJO419TIqik6Gl4rMdAQAXs4pSyxiyS1890EXIvXakO0lAVt3rChOCKr135qE0o-mFz7TQDNDkekw8/s1280/20240916_002437.jpg",
+                    "name": "Hgtv",
+                    "stream_url": "https://atemecdnbalancer-voe.sysln.id/live/eds/HGTVHD/mpd/HGTVHD.mpd",
+                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
+                },
+                {
+                    "drm_id": "Discovery",
+                    "referer": "",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8WnyRTQt5KcgcFr5VfGtqKjppOIxqXg2ijfnxQZBO8zTpJ9xyjltrewVamR9a-22wnN2Fo-6YjU0xR2WJy9tBV3qIm_4zyIYGkyRiI3JOuhidnw3iZFgh0E1TAl8ztfhNKWqZtIyZ0HM5EqUIvFlr8aPul9kN0K1hjv9NHqy4AeSkzKLczSWRoHWmdf8/s1280/20240916_002129.jpg",
+                    "name": "Discovery HD",
+                    "stream_url": "https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mpd/DiscoveryHD.mpd",
+                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
+                },    
+                {
+                    "drm_id": "DiscoveryA",
+                    "referer": "",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1HSF6b8E55zLz6UtrJwI17ei5ZhkMA86Sz5Tfk5OBvf5UpjHYi5vzZDg7aQA09u9xbona_We7HFjyFJouWcfQVdMTwax5SAyaQ42KC1Rus11Yh5jEHuwjdkVHvR-wUYgX4azBecjlGyEDJzNe5pbBXLrbs1eIrqBCzRlJ7Gu1Bf2IGRPcKLOzU2hWxuc/s1280/20240916_002019.jpg",
+                    "name": "Discovery Asia",
+                    "stream_url": "https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryAsiaHD/mpd/DiscoveryAsiaHD.mpd",
+                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
+                },
+                {
+                    "drm_id": "Dmax",
+                    "referer": "",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZoxKOxQIyLL1gmptjUpmMXEVcBt35a9UqQmoB3zX0YErCzCYIv3RU-IprU15nzzwA5nmh72UMfKNvuwqssaEcgNxvRXZxUr1cRscpOJdaZPhg9olot3qiTudb7aTCaxdDMsHvaQsr7NMPqK_c2WvwU_BxBll8UyPyXpk2Wt82gRRKYjETmi2lua54Jgo/s1280/20240916_002239.jpg",
+                    "name": "Dmax",
+                    "stream_url": "https://atemecdnbalancer-voe.sysln.id/live/eds/DMAXHD/mpd/DMAXHD.mpd",
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
@@ -2090,6 +2105,31 @@
        {
             "drm_id": "INEWS",
             "drm_key": "a31cf5136789514b7e12b9cc99307c84:980e54d671ffc2b2f4cf54e75cae0ac2",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "HgtvF",
+            "drm_key": "4d3d70298a8f442f9dee7c11a47c3edf:ff7a89f008a62664e5ebd821187296d1",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "AnimalP",
+            "drm_key": "fe0d35dd7f2045e58bfdfeea879a8ae9:6a61e84d6c9147aa68c06d68f1d7b218",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "Discovery",
+            "drm_key": "00cff33589a6468eb98e4db7aad46ca0:53bb2de4f3a4ed84661e4fc527a1fc09",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "DiscoveryA",
+            "drm_key": "27c8a08eabcd4bbc88eda3690cbf6aaf:bb078e32f6df14ca97bff5b8aee8caf5",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "Dmax",
+            "drm_key": "62fae935e91c4e8d9e835a294ea81909:328cfed51cba1bfa41f1bda219ceeff8",
             "drm_type": "clearkey"
         },
         {
