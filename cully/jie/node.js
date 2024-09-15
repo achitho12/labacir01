@@ -6,7 +6,7 @@
             {
                     "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiO-ritvG1T4JmD_BpPdqIZp6wY9j85Tn4lZPIov91fVNbud06dWiMnLm6HV7KBmGpk_bjS9wDLxv4dm9vJzddfxgzXMoaF9G56MXj6OzIIql7PnNfGh3FAry5ypUnJNcABwUlkJwOgUuagqdsPpg-Tq0-i1ZmAZ2SR2Pl1aKzYiAZ_eDIvMdJxXAzOFVQ/s1280/20240915_144000.jpg",
                     "name": "Update",
-                    "stream_url": "https://www.mediafire.com/file/5cosq4mk8o0rb5p/Xstream.apk/file",
+                    "stream_url": "https://achithovhenrank01.github.io/jeco-play/cully/mho/achijie.mp4",
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
@@ -1393,8 +1393,15 @@
                 {       
                     "referer": "https://mhdtv.co.in/daddy/?play=84",
                     "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFp_VY3hVuEJszXM7WFphdKS5S-amA7nt1Vz1_cCgdGyj66n7lATIdBj5ROCJLfHhKBuoXy22vXBYoI3oVZ84lgbc1iSMZ_VXaTtTYmjI8MClqtC7bLSpM8t8idbD3B9pHGiPAbXpzeMUWbTnE5DiQKeMfIAyEzYg5naxN2-Bz6_nDNOZshZJ4feKdCGg/s1280/20240914_132627.jpg",
-                    "name": "M+ Laliga",
+                    "name": "M+ Laliga 1",
                     "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=84",
+                    "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
+                },
+                {       
+                    "referer": "https://mhdtv.co.in/daddy/?play=11",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFp_VY3hVuEJszXM7WFphdKS5S-amA7nt1Vz1_cCgdGyj66n7lATIdBj5ROCJLfHhKBuoXy22vXBYoI3oVZ84lgbc1iSMZ_VXaTtTYmjI8MClqtC7bLSpM8t8idbD3B9pHGiPAbXpzeMUWbTnE5DiQKeMfIAyEzYg5naxN2-Bz6_nDNOZshZJ4feKdCGg/s1280/20240914_132627.jpg",
+                    "name": "M+ Laliga 2",
+                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=11",
                     "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
                 },
                 {       
