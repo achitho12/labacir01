@@ -113,10 +113,10 @@
                 },
                 {
                 	"drm_id": "indoho",
-                	"referer": "https:\/\/indihome.co.id",
+                	"referer": "https://www.dens.tv",
                     "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjB48LIfQJQVinh98gFLNZnQF3YpTQCfc0gDYkLYpqW-xDatRRYfuACAJL6O-ugKX9zFeHOJoe1HdvpZfeHST2ShVbwEfOy8Bg6w2SdJFkFn9jURzUsD0JQOSkr2ZahJVhk0CellBV1otD73x1UFWxZzefKbcJ_DFEtTnNM54VjSaM-rH2nbmWDys2zvcg/s1280/20240911_190934.jpg",
                     "name": "Kbs world",
-                    "stream_url": "https:\/\/inditv.openwindow042.workers.dev\/https:\/\/cdn08jtedge.indihometv.com\/dassdvr\/133\/kbsworld_dash\/manifest_useetv.mpd",
+                    "stream_url": "http://op-group1-swiftservehd-1.dens.tv/h/h243/index.m3u8?app_type=web&userid=lite&chname=KBS_World_Free_Trial-",
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
@@ -200,9 +200,10 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
+                	"referer": "https://www.dens.tv",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/c8369888\/3fdb_r32.jpg",
                     "name": "Rtv",
-                    "stream_url": "https:\/\/inditv.openwindow042.workers.dev\/https:\/\/cdn09jtedge.indihometv.com\/joss\/130\/rtv\/index.m3u8?c",
+                    "stream_url": "http://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&userid=lite&chname=RTV",
                     "user_agent": "MaxStreamPlayer\/3.1.4 (Linux;Android 12) ExoPlayerLib\/2.9.6"
                 },
                 {
@@ -270,11 +271,11 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                	"referer": "https:\/\/indihome.co.id\/",
+                	"referer": "https://www.dens.tv",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/b32939e5\/00e6_r32.jpg",
                     "name": "Net.",
-                    "stream_url": "https:\/\/inditv.openwindow042.workers.dev\/https:\/\/cdn09jtedge.indihometv.com\/joss\/133\/net\/index.m3u8?c",
-                    "user_agent": "MaxStreamPlayer\/3.1.4 (Linux;Android 12) ExoPlayerLib\/2.9.6"
+                    "stream_url": "http://op-group1-swiftservehd-1.dens.tv/h/h223/index.m3u8?app_type=web&userid=lite&chname=NET.",
+                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
                 	"referer": "https:\/\/indihome.co.id\/",
