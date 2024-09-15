@@ -751,14 +751,14 @@
                 	"referer": "https:\/\/indihome.co.id\/",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/88be1dec\/1906_r32.jpg",
                     "name": "Galaxy Premium",
-                    "stream_url": "https:\/\/inditv.openwindow042.workers.dev\/https:\/\/cdn09jtedge.indihometv.com\/joss\/133\/galaxypremium\/index.m3u8?c",
+                    "stream_url": "https:\/\/cdn09jtedge.indihometv.com\/joss\/133\/galaxypremium\/index.m3u8?c",
                     "user_agent": "MaxStreamPlayer\/3.1.4 (Linux;Android 12) ExoPlayerLib\/2.9.6"
                 },
                 {
                 	"referer": "https:\/\/indihome.co.id\/",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/b5a89a93\/3a1b_r32.jpg",
                     "name": "Galaxy",
-                    "stream_url": "https:\/\/inditv.openwindow042.workers.dev\/https:\/\/cdn09jtedge.indihometv.com\/joss\/133\/galaxy\/index.m3u8?c",
+                    "stream_url": "https:\/\/cdn09jtedge.indihometv.com\/joss\/133\/galaxy\/index.m3u8?c",
                     "user_agent": "MaxStreamPlayer\/3.1.4 (Linux;Android 12) ExoPlayerLib\/2.9.6"
                 },
                 {
@@ -893,14 +893,14 @@
                 	"referer": "https:\/\/indihome.co.id\/",
                     "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjDYWkz172_8GkCcmkhAW7YPfQPVJu3qsaGW5yxLZdSevcIM8NZqDmvFQrDw4bVoAEzLTDHgiqzc5hpuHsY7wpWPFVXHpaFpb301VtRiHlehEKvR49DoL-xn8mSnW9SmMVlLDS5tjL7JlsDZUUsfKckfWjEu0E2cjB2fbnnitPi-rB6V3wVAdnMnkzX1Jc\/s1280\/20240910_001842.jpg",
                     "name": "Flik",
-                    "stream_url": "https:\/\/inditv.openwindow042.workers.dev\/https:\/\/cdn09jtedge.indihometv.com\/joss\/133\/flik\/index.m3u8?c",
+                    "stream_url": "https:\/\/cdn09jtedge.indihometv.com\/joss\/133\/flik\/index.m3u8?c",
                     "user_agent": "MaxStreamPlayer\/3.1.4 (Linux;Android 12) ExoPlayerLib\/2.9.6"
                 },
                 {
                 	"referer": "https:\/\/indihome.co.id\/",
                     "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjpFwXXvDgMM-4jTVsRnbUfio3YdIoXfJ-qDA5OwB33HPTTgF0_oBi83un6ysEB-6VQthlRk96oUJMzOTsPmFC2DCiEz_kcWW34Kf2Z_7QXctF8lQtFgdQw9Dwzqc51UQzOmMMlmWDzikCfddqbwTDLw8rt3bkRnne4Ab9g6GhXIoYtQR22RgIzyeIyBVM\/s1280\/20240910_002303.jpg",
                     "name": "Bioskop Indonesia",
-                    "stream_url": "https:\/\/inditv.openwindow042.workers.dev\/https:\/\/cdn09jtedge.indihometv.com\/joss\/130\/bioskopindonesia\/index.m3u8?c",
+                    "stream_url": "https:\/\/cdn09jtedge.indihometv.com\/joss\/130\/bioskopindonesia\/index.m3u8?c",
                     "user_agent": "MaxStreamPlayer\/3.1.4 (Linux;Android 12) ExoPlayerLib\/2.9.6"
                 },
                 {
