@@ -754,19 +754,19 @@
                 },
                 {
                 	"drm_id": "indoho",
-                	"referer": "https:\/\/indihome.co.id\/",
+                	"referer": "https://www.indihometv.com/",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/88be1dec\/1906_r32.jpg",
                     "name": "Galaxy Premium",
                     "stream_url": "https:\/\/cdn09jtedge.indihometv.com\/joss\/133\/galaxypremium\/index.m3u8?c",
-                    "user_agent": "MaxStreamPlayer\/3.1.4 (Linux;Android 12) ExoPlayerLib\/2.9.6"
+                    "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36 ExoPlayerLib\/2.9.6"
                 },
                 {
                 	"drm_id": "indoho",
-                	"referer": "https:\/\/indihome.co.id\/",
+                	"referer": "https://www.indihometv.com/",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/b5a89a93\/3a1b_r32.jpg",
                     "name": "Galaxy",
                     "stream_url": "https:\/\/cdn09jtedge.indihometv.com\/joss\/133\/galaxy\/index.m3u8?c",
-                    "user_agent": "MaxStreamPlayer\/3.1.4 (Linux;Android 12) ExoPlayerLib\/2.9.6"
+                    "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36 ExoPlayerLib\/2.9.6"
                 },
                 {
                     "drm_id": "MCN",
