@@ -586,6 +586,14 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
+                    "drm_id": "OUTDOOR",
+                    "referer": "https:\/\/www.visionplus.id",
+                    "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/c3150d7b\/dba4_r32.jpg",
+                    "name": "Outdoor Channel",
+                    "stream_url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/outdoorchannel\/sa_dash_vmx\/outdoorchannel.mpd",
+                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
+                },
+                {
                     "drm_id": "HgtvF",
                     "referer": "",
                     "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWOgxZOKVmRgxvA5LJwlk0fZUDJwshpPwzHxwwM9CS2j8jarV-j6I6ua6U0XPWFiW-peqSEMHBRZ61NP_VxRYMGBqRMaE0NeazjpevTPAOe-bQLuJO419TIqik6Gl4rMdAQAXs4pSyxiyS1890EXIvXakO0lAVt3rChOCKr135qE0o-mFz7TQDNDkekw8/s1280/20240916_002437.jpg",
