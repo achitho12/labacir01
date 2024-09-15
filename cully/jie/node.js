@@ -936,11 +936,12 @@
                     "stream_url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/HitsMovies\/sa_dash_vmx\/HitsMovies.mpd",
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
-                {                	
+                { 
+               	"referer": "https://www.dens.tv/",
                     "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEgGz91gtppt2-uoBERo5MeBxpKEYjl0aXWNmL9Qg1Rfxx4Pt4L-ebYvF9aB3qMGl0Ae4Nn5th81Phlmq2F-3FpqI726PBZSlq1fSJXT1GAnZXkZEq-tQPUYBJoi_0dPUdID5YyHxXeK-s_P0S4v5vd277uKoxvRlbqcvgWED5OO5qSEkAqrvcWHEMogayg\/s1280\/20240911_024702.jpg",
                     "name": "Kplus",
-                    "stream_url": "https:\/\/inditv.openwindow042.workers.dev\/https:\/\/streaming.indihometv.com\/atm\/DASH\/kplus\/manifest_wuseetv.mpd",
-                    "user_agent": "MaxStreamPlayer\/3.1.4 (Linux;Android 12) ExoPlayerLib\/2.9.6"
+                    "stream_url": "http://op-group1-swiftservehd-1.dens.tv/h/h08/index.m3u8?app_type=web&userid=lite&chname=K-PLUS_HD",
+                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {                	
                     "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEh6xy7qsbMAGLCCZ4zfZlIL3jnkAtXD4vtrV3D9Dw16LPyxsnmA_p1OHPf3x4juYWMRS21TxsLmvEygnU12fpdwJcopYm-CbAHJ2NtnhWP8z3IrXSikTdTD2tEZhMw63xHf4IZQUT0_eejQQaSpMn1Vd6BKlO4hWBy0tdkz9tRZjsJFai5U7PhKGGTEBvA\/s1280\/20240911_034403.jpg",
