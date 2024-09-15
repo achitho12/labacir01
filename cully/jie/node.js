@@ -750,7 +750,7 @@
                     "logo_url": "https:\/\/s.id\/29Cyt",
                     "name": "Cinemax",
                     "stream_url": "https:\/\/atemeshield1-voe.sysln.id\/live\/eds\/CinemaxHD\/mpd\/CinemaxHD.mpd",
-                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
+                    "user_agent": "Mozilla/5.0 (Linux; U; en-US) AppleWebKit/528.5+ (KHTML, like Gecko, Safari/528.5+) Version/4.0 Kindle/3.0 (screen 600x800; rotate)"
                 },
                 {
                 	"drm_id": "indoho",
@@ -758,7 +758,7 @@
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/88be1dec\/1906_r32.jpg",
                     "name": "Galaxy Premium",
                     "stream_url": "https:\/\/cdn09jtedge.indihometv.com\/joss\/133\/galaxypremium\/index.m3u8?c",
-                    "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36 ExoPlayerLib\/2.9.6"
+                    "user_agent": "Mozilla/5.0 (Linux; U; en-US) AppleWebKit/528.5+ (KHTML, like Gecko, Safari/528.5+) Version/4.0 Kindle/3.0 (screen 600x800; rotate)"
                 },
                 {
                 	"drm_id": "indoho",
@@ -766,7 +766,7 @@
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/b5a89a93\/3a1b_r32.jpg",
                     "name": "Galaxy",
                     "stream_url": "https:\/\/cdn09jtedge.indihometv.com\/joss\/133\/galaxy\/index.m3u8?c",
-                    "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36 ExoPlayerLib\/2.9.6"
+                    "user_agent": "Mozilla/5.0 (Linux; U; en-US) AppleWebKit/528.5+ (KHTML, like Gecko, Safari/528.5+) Version/4.0 Kindle/3.0 (screen 600x800; rotate)"
                 },
                 {
                     "drm_id": "MCN",
