@@ -70,7 +70,7 @@
                    "referer": "https:\/\/indihome.co.id\/",
                     "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEicJfWSbP_0Ei04ps-EOl2xA2P2nNUpZVJ2V1qCriFUzg63CVNf1YDHIIMf6PxWtu_euSPSInvQ0gTezMYNZrqAXkH58hkQJKcTq4lCW1u6WiJvQENtgraWigDDOtcrP_IR6XGvWoZhwAuhGIhzoBZCUdKrcgtnHaHu2g_FHvtYDQMzri3HbUN1RL4M9Bk\/s1280\/20240910_000055.jpg",
                     "name": "Citra Dangdut",
-                    "stream_url": "https:\/\/cdn09jtedge.indihometv.com\/joss\/130\/citradangdut\/index.m3u8?c",
+                    "stream_url": "https://inditv.openwindow042.workers.dev/https://cdn09jtedge.indihometv.com/joss/130/citradangdut/index.m3u8?c",
                     "user_agent": "MaxStreamPlayer/3.1.12 (Linux;Android 13) ExoPlayerLib/2.12.2"
                 },
                 {
@@ -78,7 +78,7 @@
                    "referer": "https:\/\/indihome.co.id\/",
                     "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEh3a59j4bHn_fH1Jt5LmmxUPrRgiqfSCOQzrDbbl6lpBlP5SWDOY5ozNT7lLeRReq3rN3oP67Eh28MnUhm95AQ4kA0pvPyRIyfpx6FJAXfYhq2KpBgHfiLgcaAp10cJidz9ej7-gUTDjfbX8gUZWRtVJpY-Hqjyw5kXZgi4zKygQY-X8TLlWgBfRvh5dmA\/s1280\/20240909_231650.jpg",
                     "name": "Citra Drama",
-                    "stream_url": "https:\/\/cdn09jtedge.indihometv.com\/joss\/130\/cdrama\/index.m3u8?c",
+                    "stream_url": "https://inditv.openwindow042.workers.dev/https:\/\/cdn09jtedge.indihometv.com\/joss\/130\/cdrama\/index.m3u8?c",
                     "user_agent": "MaxStreamPlayer/3.1.12 (Linux;Android 13) ExoPlayerLib/2.12.2"
                 },
                 {
@@ -283,13 +283,13 @@
                 	"referer": "https:\/\/indihome.co.id\/",
                     "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjVq5HDH8POEHXH0IIJJ-Us-wc_S534cLVxWU_R_M6WR6ZTj0YPM3gWguwm0q9wkOuWFtsgicA9CPu7OBU8TEOqgYAeca4hLxie21FAJZ1BGtVDcPMZlm8NqnyAxJIO3-akeibycwa01a8a1NRKTsXFmoOB5sPjCzdMZ21wzyl0Ur3DeODzeOGbm-5vjyA\/s1280\/20240910_015539.jpg",
                     "name": "Mentari",
-                    "stream_url": "https:\/\/cdn09jtedge.indihometv.com\/joss\/134\/mentaritv\/index.m3u8?c",
+                    "stream_url": "https://inditv.openwindow042.workers.dev/https:\/\/cdn09jtedge.indihometv.com\/joss\/134\/mentaritv\/index.m3u8?c",
                     "user_agent": "Mozilla/5.0 (Linux; U; en-US) AppleWebKit/528.5+ (KHTML, like Gecko, Safari/528.5+) Version/4.0 Kindle/3.0 (screen 600x800; rotate)"
                 },
                 {
                 	"drm_id": "indoho",
                     "referer": "https:\/\/indihome.co.id\/",
-                    "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEib9x80W_MRuUnF4u_S0l0A9RIuBIN1p5OyYLCi8Z90jNZPTXg5tJXE2l58qEI3FScehx2JzdALpPUcjJf_bXmk4QRKlOVVAY2qgBWvBeOIdKglgkldVrGnnuEwEKeeanlmHOgBK1Ho_SD5eklFJ3CYDd_wwRJEqZl1VZCVj_RJjUM-7Un_moqo5qTaWIk\/s1280\/20240911_023719.jpg",
+                    "logo_url": "https://inditv.openwindow042.workers.dev/https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEib9x80W_MRuUnF4u_S0l0A9RIuBIN1p5OyYLCi8Z90jNZPTXg5tJXE2l58qEI3FScehx2JzdALpPUcjJf_bXmk4QRKlOVVAY2qgBWvBeOIdKglgkldVrGnnuEwEKeeanlmHOgBK1Ho_SD5eklFJ3CYDd_wwRJEqZl1VZCVj_RJjUM-7Un_moqo5qTaWIk\/s1280\/20240911_023719.jpg",
                     "name": "Dunia Lain",
                     "stream_url": "https:\/\/cdn09jtedge.indihometv.com\/joss\/130\/dunialain\/index.m3u8?c",
                     "user_agent": "Mozilla/5.0 (Linux; U; en-US) AppleWebKit/528.5+ (KHTML, like Gecko, Safari/528.5+) Version/4.0 Kindle/3.0 (screen 600x800; rotate)"
@@ -757,7 +757,7 @@
                 	"referer": "https://www.indihometv.com/",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/88be1dec\/1906_r32.jpg",
                     "name": "Galaxy Premium",
-                    "stream_url": "https:\/\/cdn09jtedge.indihometv.com\/joss\/133\/galaxypremium\/index.m3u8?c",
+                    "stream_url": "https://inditv.openwindow042.workers.dev/https:\/\/cdn09jtedge.indihometv.com\/joss\/133\/galaxypremium\/index.m3u8?c",
                     "user_agent": "Mozilla/5.0 (Linux; U; en-US) AppleWebKit/528.5+ (KHTML, like Gecko, Safari/528.5+) Version/4.0 Kindle/3.0 (screen 600x800; rotate)"
                 },
                 {
@@ -765,7 +765,7 @@
                 	"referer": "https://www.indihometv.com/",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/b5a89a93\/3a1b_r32.jpg",
                     "name": "Galaxy",
-                    "stream_url": "https:\/\/cdn09jtedge.indihometv.com\/joss\/133\/galaxy\/index.m3u8?c",
+                    "stream_url": "https://inditv.openwindow042.workers.dev/https:\/\/cdn09jtedge.indihometv.com\/joss\/133\/galaxy\/index.m3u8?c",
                     "user_agent": "Mozilla/5.0 (Linux; U; en-US) AppleWebKit/528.5+ (KHTML, like Gecko, Safari/528.5+) Version/4.0 Kindle/3.0 (screen 600x800; rotate)"
                 },
                 {
@@ -901,7 +901,7 @@
                 	"referer": "https://www.indihometv.com/",
                     "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjDYWkz172_8GkCcmkhAW7YPfQPVJu3qsaGW5yxLZdSevcIM8NZqDmvFQrDw4bVoAEzLTDHgiqzc5hpuHsY7wpWPFVXHpaFpb301VtRiHlehEKvR49DoL-xn8mSnW9SmMVlLDS5tjL7JlsDZUUsfKckfWjEu0E2cjB2fbnnitPi-rB6V3wVAdnMnkzX1Jc\/s1280\/20240910_001842.jpg",
                     "name": "Flik",
-                    "stream_url": "https:\/\/cdn09jtedge.indihometv.com\/joss\/133\/flik\/index.m3u8?c",
+                    "stream_url": "https://inditv.openwindow042.workers.dev/https:\/\/cdn09jtedge.indihometv.com\/joss\/133\/flik\/index.m3u8?c",
                     "user_agent": "Mozilla/5.0 (Linux; U; en-US) AppleWebKit/528.5+ (KHTML, like Gecko, Safari/528.5+) Version/4.0 Kindle/3.0 (screen 600x800; rotate)"
                 },
                 {
@@ -909,7 +909,7 @@
                 	"referer": "https://www.indihometv.com/",
                     "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjpFwXXvDgMM-4jTVsRnbUfio3YdIoXfJ-qDA5OwB33HPTTgF0_oBi83un6ysEB-6VQthlRk96oUJMzOTsPmFC2DCiEz_kcWW34Kf2Z_7QXctF8lQtFgdQw9Dwzqc51UQzOmMMlmWDzikCfddqbwTDLw8rt3bkRnne4Ab9g6GhXIoYtQR22RgIzyeIyBVM\/s1280\/20240910_002303.jpg",
                     "name": "Bioskop Indonesia",
-                    "stream_url": "https:\/\/cdn09jtedge.indihometv.com\/joss\/130\/bioskopindonesia\/index.m3u8?c",
+                    "stream_url": "https://inditv.openwindow042.workers.dev/https:\/\/cdn09jtedge.indihometv.com\/joss\/130\/bioskopindonesia\/index.m3u8?c",
                     "user_agent": "Mozilla/5.0 (Linux; U; en-US) AppleWebKit/528.5+ (KHTML, like Gecko, Safari/528.5+) Version/4.0 Kindle/3.0 (screen 600x800; rotate)"
                 },
                 {
