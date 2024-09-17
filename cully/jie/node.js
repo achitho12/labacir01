@@ -1011,374 +1011,374 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {       
-                    "referer": "https://mhdtv.co.in/daddy/?play=111",
+                    "referer": "https://qqwebplay.xyz/%20",
                     "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVHa8XJzf4Cb1X_D9jCYTlICMHtagTIrfidcQsuyU3BZGWETUksnApZOtoOMCLXDv6qDKSIT980X9l7M5cvqrxd4waJMIqe0kRraS4jTYawPv2Sm8yuk9fYBYd7woi9oh69S54p13Og7Wz7XNuJwkxXjAf5-M3Wti1qAJZJLGLD9mYcG7W_hU-Ltx5MZA/s1280/20240915_042201.jpg",
                     "name": "Tsn 1",
-                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=111",
+                    "stream_url": "https://webhdrunns.mizhls.ru/lb/premium111/index.m3u8?",
                     "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
                 },
                 {       
-                    "referer": "https://mhdtv.co.in/daddy/?play=112",
+                    "referer": "https://qqwebplay.xyz/%20",
                     "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVHa8XJzf4Cb1X_D9jCYTlICMHtagTIrfidcQsuyU3BZGWETUksnApZOtoOMCLXDv6qDKSIT980X9l7M5cvqrxd4waJMIqe0kRraS4jTYawPv2Sm8yuk9fYBYd7woi9oh69S54p13Og7Wz7XNuJwkxXjAf5-M3Wti1qAJZJLGLD9mYcG7W_hU-Ltx5MZA/s1280/20240915_042201.jpg",
                     "name": "Tsn 2",
-                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=112",
+                    "stream_url": "https://webhdrunns.mizhls.ru/lb/premium112/index.m3u8?",
                     "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
                 },
                 {       
-                    "referer": "https://mhdtv.co.in/daddy/?play=113",
+                    "referer": "https://qqwebplay.xyz/%20",
                     "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVHa8XJzf4Cb1X_D9jCYTlICMHtagTIrfidcQsuyU3BZGWETUksnApZOtoOMCLXDv6qDKSIT980X9l7M5cvqrxd4waJMIqe0kRraS4jTYawPv2Sm8yuk9fYBYd7woi9oh69S54p13Og7Wz7XNuJwkxXjAf5-M3Wti1qAJZJLGLD9mYcG7W_hU-Ltx5MZA/s1280/20240915_042201.jpg",
                     "name": "Tsn 3",
-                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=113",
+                    "stream_url": "https://webhdrunns.mizhls.ru/lb/premium113/index.m3u8?",
                     "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
                 },
                 {       
-                    "referer": "https://mhdtv.co.in/daddy/?play=114",
+                    "referer": "https://qqwebplay.xyz/%20",
                     "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVHa8XJzf4Cb1X_D9jCYTlICMHtagTIrfidcQsuyU3BZGWETUksnApZOtoOMCLXDv6qDKSIT980X9l7M5cvqrxd4waJMIqe0kRraS4jTYawPv2Sm8yuk9fYBYd7woi9oh69S54p13Og7Wz7XNuJwkxXjAf5-M3Wti1qAJZJLGLD9mYcG7W_hU-Ltx5MZA/s1280/20240915_042201.jpg",
                     "name": "Tsn 4",
-                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=114",
+                    "stream_url": "https://webhdrunns.mizhls.ru/lb/premium114/index.m3u8?",
                     "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
                 },
                 {       
-                    "referer": "https://mhdtv.co.in/daddy/?play=115",
+                    "referer": "https://qqwebplay.xyz/%20",
                     "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVHa8XJzf4Cb1X_D9jCYTlICMHtagTIrfidcQsuyU3BZGWETUksnApZOtoOMCLXDv6qDKSIT980X9l7M5cvqrxd4waJMIqe0kRraS4jTYawPv2Sm8yuk9fYBYd7woi9oh69S54p13Og7Wz7XNuJwkxXjAf5-M3Wti1qAJZJLGLD9mYcG7W_hU-Ltx5MZA/s1280/20240915_042201.jpg",
                     "name": "Tsn 5",
-                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=115",
+                    "stream_url": "https://webhdrunns.mizhls.ru/lb/premium115/index.m3u8?",
                     "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
                 },
                 {       
-                    "referer": "https://mhdtv.co.in/daddy/?play=465",
+                    "referer": "https://qqwebplay.xyz/%20",
                     "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3QhBKPBUrboh-d1Ax5DfwJJsbcpb5AO1DQhZJSeWw1ntEMcBnf7OdU1ORoLhZrqfcMNjLla7RvIVAmY0bOKxI9R3j8rSHkutegqBafhbnizgy8KbxQkxE5iUKceipfy5L-OCBRilQ3w-PfT8yWy6gD0jFGj__Iytn7pxwvaLFkgj0SnSsGESfb12A9WA/s1280/20240915_041534.jpg",
                     "name": "Diema Sport 1",
-                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=465",
+                    "stream_url": "https://webhdrunns.mizhls.ru/lb/premium465/index.m3u8?",
                     "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
                 },
                 {       
-                    "referer": "https://mhdtv.co.in/daddy/?play=466",
+                    "referer": "https://qqwebplay.xyz/%20",
                     "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3QhBKPBUrboh-d1Ax5DfwJJsbcpb5AO1DQhZJSeWw1ntEMcBnf7OdU1ORoLhZrqfcMNjLla7RvIVAmY0bOKxI9R3j8rSHkutegqBafhbnizgy8KbxQkxE5iUKceipfy5L-OCBRilQ3w-PfT8yWy6gD0jFGj__Iytn7pxwvaLFkgj0SnSsGESfb12A9WA/s1280/20240915_041534.jpg",
                     "name": "Diema Sport 2",
-                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=466",
+                    "stream_url": "https://webhdrunns.mizhls.ru/lb/premium466/index.m3u8?",
                     "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
                 },
                 {       
-                    "referer": "https://mhdtv.co.in/daddy/?play=467",
+                    "referer": "https://qqwebplay.xyz/%20",
                     "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3QhBKPBUrboh-d1Ax5DfwJJsbcpb5AO1DQhZJSeWw1ntEMcBnf7OdU1ORoLhZrqfcMNjLla7RvIVAmY0bOKxI9R3j8rSHkutegqBafhbnizgy8KbxQkxE5iUKceipfy5L-OCBRilQ3w-PfT8yWy6gD0jFGj__Iytn7pxwvaLFkgj0SnSsGESfb12A9WA/s1280/20240915_041534.jpg",
                     "name": "Diema Sport 3",
-                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=467",
+                    "stream_url": "https://webhdrunns.mizhls.ru/lb/premium467/index.m3u8?",
                     "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
                 },
                 {       
-                    "referer": "https://mhdtv.co.in/daddy/?play=583",
+                    "referer": "https://qqwebplay.xyz/%20",
                     "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEYiKhj9gi7iUIZA_MmgvAv5_y7_VYZp336Y0Zef7Gzry5dog0hdK4605EdbzcS6Lm2UI0LGSSXVTKUl68Wf1tOGmLYkqJUoMgVoEv75lgvKaUXhU1ZxE1EbC0Ej3A8jgSwRJXmOMeTwxW9jC9kXgzjqKr2tzGdkxt32Ga5ZJa5gjDNopwZgDvxTMmHJ0/s1280/20240915_040701.jpg",
                     "name": "Prima Sport 1",
-                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=583",
+                    "stream_url": "https://webhdrunns.mizhls.ru/lb/premium583/index.m3u8?",
                     "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
                 },
                 {       
-                    "referer": "https://mhdtv.co.in/daddy/?play=584",
+                    "referer": "https://qqwebplay.xyz/%20",
                     "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEYiKhj9gi7iUIZA_MmgvAv5_y7_VYZp336Y0Zef7Gzry5dog0hdK4605EdbzcS6Lm2UI0LGSSXVTKUl68Wf1tOGmLYkqJUoMgVoEv75lgvKaUXhU1ZxE1EbC0Ej3A8jgSwRJXmOMeTwxW9jC9kXgzjqKr2tzGdkxt32Ga5ZJa5gjDNopwZgDvxTMmHJ0/s1280/20240915_040701.jpg",
                     "name": "Prima Sport 2",
-                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=584",
+                    "stream_url": "https://webhdrunns.mizhls.ru/lb/premium584/index.m3u8?",
                     "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
                 },
                 {       
-                    "referer": "https://mhdtv.co.in/daddy/?play=585",
+                    "referer": "https://qqwebplay.xyz/%20",
                     "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEYiKhj9gi7iUIZA_MmgvAv5_y7_VYZp336Y0Zef7Gzry5dog0hdK4605EdbzcS6Lm2UI0LGSSXVTKUl68Wf1tOGmLYkqJUoMgVoEv75lgvKaUXhU1ZxE1EbC0Ej3A8jgSwRJXmOMeTwxW9jC9kXgzjqKr2tzGdkxt32Ga5ZJa5gjDNopwZgDvxTMmHJ0/s1280/20240915_040701.jpg",
                     "name": "Prima Sport 3",
-                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=585",
+                    "stream_url": "https://webhdrunns.mizhls.ru/lb/premium585/index.m3u8?",
                     "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
                 },
                 {       
-                    "referer": "https://mhdtv.co.in/daddy/?play=586",
+                    "referer": "https://qqwebplay.xyz/%20",
                     "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEYiKhj9gi7iUIZA_MmgvAv5_y7_VYZp336Y0Zef7Gzry5dog0hdK4605EdbzcS6Lm2UI0LGSSXVTKUl68Wf1tOGmLYkqJUoMgVoEv75lgvKaUXhU1ZxE1EbC0Ej3A8jgSwRJXmOMeTwxW9jC9kXgzjqKr2tzGdkxt32Ga5ZJa5gjDNopwZgDvxTMmHJ0/s1280/20240915_040701.jpg",
                     "name": "Prima Sport 4",
-                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=586",
+                    "stream_url": "https://webhdrunns.mizhls.ru/lb/premium586/index.m3u8?",
                     "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
                 },
                 {       
-                    "referer": "https://mhdtv.co.in/daddy/?play=439",
+                    "referer": "https://qqwebplay.xyz/%20",
                     "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjY7Q6JHv1uMvmlBWQEpgxyF1aXkezCTSR9ut5Ppp9N9htQQQvMHODicyBDAnx5APiJMAZIsTxTt3tB8cK0zFbv8Z5m-5ABpfNnhHCwHaN4SqSDFHTqcejabrcAlA19JaF7fLlTrcYNJntsNSeMTgozZ7QX0zSrJjSyb4h8LG5ivEbZr296nBc2uupGt6E/s1280/20240915_035849.jpg",
                     "name": "Orange Sport 1",
-                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=439",
+                    "stream_url": "https://webhdrunns.mizhls.ru/lb/premium439/index.m3u8?",
                     "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
                 },
                 {       
-                    "referer": "https://mhdtv.co.in/daddy/?play=440",
+                    "referer": "https://qqwebplay.xyz/%20",
                     "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjY7Q6JHv1uMvmlBWQEpgxyF1aXkezCTSR9ut5Ppp9N9htQQQvMHODicyBDAnx5APiJMAZIsTxTt3tB8cK0zFbv8Z5m-5ABpfNnhHCwHaN4SqSDFHTqcejabrcAlA19JaF7fLlTrcYNJntsNSeMTgozZ7QX0zSrJjSyb4h8LG5ivEbZr296nBc2uupGt6E/s1280/20240915_035849.jpg",
                     "name": "Orange Sport 2",
-                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=440",
+                    "stream_url": "https://webhdrunns.mizhls.ru/lb/premium440/index.m3u8?",
                     "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
                 },
                 {       
-                    "referer": "https://mhdtv.co.in/daddy/?play=441",
+                    "referer": "https://qqwebplay.xyz/%20",
                     "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjY7Q6JHv1uMvmlBWQEpgxyF1aXkezCTSR9ut5Ppp9N9htQQQvMHODicyBDAnx5APiJMAZIsTxTt3tB8cK0zFbv8Z5m-5ABpfNnhHCwHaN4SqSDFHTqcejabrcAlA19JaF7fLlTrcYNJntsNSeMTgozZ7QX0zSrJjSyb4h8LG5ivEbZr296nBc2uupGt6E/s1280/20240915_035849.jpg",
                     "name": "Orange Sport 3",
-                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=441",
+                    "stream_url": "https://webhdrunns.mizhls.ru/lb/premium441/index.m3u8?",
                     "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
                 },
                 {       
-                    "referer": "https://mhdtv.co.in/daddy/?play=442",
+                    "referer": "https://qqwebplay.xyz/%20",
                     "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjY7Q6JHv1uMvmlBWQEpgxyF1aXkezCTSR9ut5Ppp9N9htQQQvMHODicyBDAnx5APiJMAZIsTxTt3tB8cK0zFbv8Z5m-5ABpfNnhHCwHaN4SqSDFHTqcejabrcAlA19JaF7fLlTrcYNJntsNSeMTgozZ7QX0zSrJjSyb4h8LG5ivEbZr296nBc2uupGt6E/s1280/20240915_035849.jpg",
                     "name": "Orange Sport 4",
-                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=442",
+                    "stream_url": "https://webhdrunns.mizhls.ru/lb/premium442/index.m3u8?",
                     "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
                 },
                 {       
-                    "referer": "https://mhdtv.co.in/daddy/?play=631",
+                    "referer": "https://qqwebplay.xyz/%20",
                     "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFXIlXsdHSGzEXOUiL7rkVZiI49U-oDsztmflO1A7Jk0kY6nOy87SVrAtGrqT-0Y7k9HnL0GGSphyphenhyphend4YA9tR0OXy_YwuCzXwEm_WU5JftsvIMrLqC0kh29kIV8p9tx3pW_x5rgIY4HyVrPcdl05b5GW3Wx_KhfuiLnXubW-xE27r3ya21lIMixgDV1HM8/s1280/20240915_035205.jpg",
                     "name": "Nova Sport 1",
-                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=631",
+                    "stream_url": "https://webhdrunns.mizhls.ru/lb/premium631/index.m3u8?",
                     "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
                 },
                 {       
-                    "referer": "https://mhdtv.co.in/daddy/?play=632",
+                    "referer": "https://qqwebplay.xyz/%20",
                     "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFXIlXsdHSGzEXOUiL7rkVZiI49U-oDsztmflO1A7Jk0kY6nOy87SVrAtGrqT-0Y7k9HnL0GGSphyphenhyphend4YA9tR0OXy_YwuCzXwEm_WU5JftsvIMrLqC0kh29kIV8p9tx3pW_x5rgIY4HyVrPcdl05b5GW3Wx_KhfuiLnXubW-xE27r3ya21lIMixgDV1HM8/s1280/20240915_035205.jpg",
                     "name": "Nova Sport 2",
-                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=632",
+                    "stream_url": "https://webhdrunns.mizhls.ru/lb/premium632/index.m3u8?",
                     "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
                 },
                 {       
-                    "referer": "https://mhdtv.co.in/daddy/?play=633",
+                    "referer": "https://qqwebplay.xyz/%20",
                     "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFXIlXsdHSGzEXOUiL7rkVZiI49U-oDsztmflO1A7Jk0kY6nOy87SVrAtGrqT-0Y7k9HnL0GGSphyphenhyphend4YA9tR0OXy_YwuCzXwEm_WU5JftsvIMrLqC0kh29kIV8p9tx3pW_x5rgIY4HyVrPcdl05b5GW3Wx_KhfuiLnXubW-xE27r3ya21lIMixgDV1HM8/s1280/20240915_035205.jpg",
                     "name": "Nova Sport 3",
-                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=633",
+                    "stream_url": "https://webhdrunns.mizhls.ru/lb/premium633/index.m3u8?",
                     "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
                 },
                 {       
-                    "referer": "https://mhdtv.co.in/daddy/?play=634",
+                    "referer": "https://qqwebplay.xyz/%20",
                     "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFXIlXsdHSGzEXOUiL7rkVZiI49U-oDsztmflO1A7Jk0kY6nOy87SVrAtGrqT-0Y7k9HnL0GGSphyphenhyphend4YA9tR0OXy_YwuCzXwEm_WU5JftsvIMrLqC0kh29kIV8p9tx3pW_x5rgIY4HyVrPcdl05b5GW3Wx_KhfuiLnXubW-xE27r3ya21lIMixgDV1HM8/s1280/20240915_035205.jpg",
                     "name": "Nova Sport 4",
-                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=634",
+                    "stream_url": "https://webhdrunns.mizhls.ru/lb/premium634/index.m3u8?",
                     "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
                 },
                 {       
-                    "referer": "https://mhdtv.co.in/daddy/?play=91",
+                    "referer": "https://qqwebplay.xyz/%20",
                     "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjABYhuSOSCe7V3H5pLtQ-c0iS90H_2RHGPiGe7zKWylx6EweMCMYTmI-OEjdhswyI8Xc2E8z0hiaqV7mZFarO9hZ33-MlopabV-tMU8fyswW_fNXtZZ0N1F5o2Fe7WDk0ywt4vzmSe4fAWSgUJorM3Xrxgrx-W891VXDm_BgydfdstPsh9xZrI5rwmOOQ/s1280/20240914_025618.jpg",
                     "name": "Bein Sport 1",
-                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=91",
+                    "stream_url": "https://webhdrunns.mizhls.ru/lb/premium91/index.m3u8?",
                     "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
                 },
                 {       
-                    "referer": "https://mhdtv.co.in/daddy/?play=92",
+                    "referer": "https://qqwebplay.xyz/%20",
                     "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgU_FOYls5w9cAxTEbNd4Waj4hp4uOwRNR0t0H16ArLtkcmFfGSBdaeyoA0h78dpov4iV-uzmq-QRdqdaDH-7B-pyem6Abka2XpxPsgt5t4MQnU5rXJSy5VUkrTK8s1GPJ9rMU4T6lUcxhbShhyg3J0fgXogdaxWcVOlHi4Z8lRyXWDhfXjj2oEOJth2zc/s1280/20240914_025659.jpg",
                     "name": "Bein Sport 2",
-                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=92",
+                    "stream_url": "https://webhdrunns.mizhls.ru/lb/premium92/index.m3u8?",
                     "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
                 },
                 {       
-                    "referer": "https://mhdtv.co.in/daddy/?play=93",
+                    "referer": "https://qqwebplay.xyz/%20",
                     "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8fHf4GXRbELHQJkDBWkMXpANqXu3H0_EqnPocieqhZpRWjbMhsPxZlEm5TWSzzUAWWxSZdwlvjmQpuO1Q-iGvB74XcsrSmAcJD65ePjoWT_QvpWiBnuUI-ISsr2gmgcwocGWeqAC9BN3JO1SDzhyphenhyphencDS03EUKH7dOYjgnTj7XGblLWcUvdIUP9giGeGe4/s1280/20240914_025753.jpg",
                     "name": "Bein Sport 3",
-                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=93",
+                    "stream_url": "https://webhdrunns.mizhls.ru/lb/premium93/index.m3u8?",
                     "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
                 },
                 {       
-                    "referer": "https://mhdtv.co.in/daddy/?play=94",
+                    "referer": "https://qqwebplay.xyz/%20",
                     "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC5HevrvTX_bQ-ryFS5I6pkONCWPfxtuAOElEIWJG8S0_9W4usMhZJzjtJt1C3aSvleNk_FsufEDuuo2vdUxD2qvgSD_k0xRKtPGs5ARF8-JHb9P-rKWDBP6PIgqNcpGWu3iX30qKs24DtOBmm9Ts8gkKMroj7-X1ilcuTwqMnlADNfV0NKIU3N7oonn0/s1280/20240914_031329.jpg",
                     "name": "Bein Sport 4",
-                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=94",
+                    "stream_url": "https://webhdrunns.mizhls.ru/lb/premium94/index.m3u8?",
                     "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
                 },
                 {       
-                    "referer": "https://mhdtv.co.in/daddy/?play=95",
+                    "referer": "https://qqwebplay.xyz/%20",
                     "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-bwmYgS1Jm4mUW1AO9pi9zb7ASPycYU51wi68mEOtjHTPR98S_PRgGHsTkgGa1mK1KPlXpDXWox1sSUF98ux5NeVMZxIBgm8IC7WyCBrtmB5iDg4aYfgmlaQS6hZa703tzL6oCCjdgoZIFz8T1yjLj5dcCxK0VR89DrDYT7MEphOcYqci2_VH_CmX490/s1280/20240914_031413.jpg",
                     "name": "Bein Sport 5",
-                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=95",
+                    "stream_url": "https://webhdrunns.mizhls.ru/lb/premium95/index.m3u8?",
                     "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
                 },
                 {       
-                    "referer": "https://mhdtv.co.in/daddy/?play=96",
+                    "referer": "https://qqwebplay.xyz/%20",
                     "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqpQYcOfg1Ireg4e9CX04K-gHGlnAYyX7kT8oF_Wo5zq9OolnC7VDeuyGQlBKgZYTKPqnWxrkDZMLw5pwfoZEvVztwyHd7S6DnVJI0lSzUbry7SW5rkPYbR5X64JPy2q6F9YQcIZnLh2ey1rn1e1yBsBtmEthBkKJU4XgzxtxnSu7ANbf8TMJd6_DL60w/s1280/20240914_031441.jpg",
                     "name": "Bein Sport 6",
-                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=96",
+                    "stream_url": "https://webhdrunns.mizhls.ru/lb/premium96/index.m3u8?",
                     "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
                 },
                 {       
-                    "referer": "https://mhdtv.co.in/daddy/?play=97",
+                    "referer": "https://qqwebplay.xyz/%20",
                     "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWxCd4NV7qdSNw8AfUlONtIMuXm71UQhbpkG3cIKshRUEGjia1j-VNlQRphbj0Wv8ZMEVlhG6HR_kFyKmR6uAqCp56KI4esA92uVpQ4G0rp0INRlLHS30ZbchozAFONsnhRAw96INvyDFkS84Cfr3K7xbeRg1xNTgh4H9ds_UMrWmxt8tRFO9ArDu84iM/s1280/20240914_031521.jpg",
                     "name": "Bein Sport 7",
-                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=97",
+                    "stream_url": "https://webhdrunns.mizhls.ru/lb/premium97/index.m3u8?",
                     "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
                 },
                 {       
-                    "referer": "https://mhdtv.co.in/daddy/?play=98",
+                    "referer": "https://qqwebplay.xyz/%20",
                     "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_eaH_xhhW8yT8SrUI4sQNqWNMUiu5RkD_lRDCQJuDY9ISFLu3pcH6hDYykEY9eKhPjMPDDPiFcIITyApma3hbAkDWI7U-5-4H51i8c_ty2a7RqWhimSfKKlg88zLDqyXnfaxr43n0YMziGruRgbsCPCYkmG5DFLAiTcULUXIPaCgHIy2b2GbkvDgKFZE/s1280/20240914_031614.jpg",
                     "name": "Bein Sport 8",
-                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=98",
+                    "stream_url": "https://webhdrunns.mizhls.ru/lb/premium98/index.m3u8?",
                     "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
                 },
                 {       
-                    "referer": "https://mhdtv.co.in/daddy/?play=99",
+                    "referer": "https://qqwebplay.xyz/%20",
                     "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOZcDOt5KdcygATCBp1P7Vv9-Znv0eRLZVRsyxjKK4qZEHlyGcZ_uXglDBVVk9oGpyieB_FOjf3k0hJ0mGsDyNosldH3o-PQ_5Zm_XK6Fcg9uc-4r57H8ns3xo4CNJ7K49ZbwvJuXOjAjjO-reRhVnkmeZyHZgzkjAJkrvfkDgAC-TSeVeb8rnljMwQ-Q/s1280/20240914_031643.jpg",
                     "name": "Bein Sport 9",
-                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=99",
+                    "stream_url": "https://webhdrunns.mizhls.ru/lb/premium99/index.m3u8?",
                     "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
                 },
                 {       
-                    "referer": "https://mhdtv.co.in/daddy/?play=123",
+                    "referer": "https://qqwebplay.xyz/%20",
                     "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUAPWyVdWX3x0o8_KdpGu9W0cmiYHSPiazdtjT0niD4pjRyHKjEq5o6scQx1iNlIqZNFqkSjDGH5jT0MigJatso2d7MBfVj4pJ5F5eIVbxiqs5EhHuXw6t_6m28SJC3KttDyOZJ634w3AXJK_TKX_eh_hYdwOfXMmyeqcLF3JcYKnyO1aMScbKuHMw-l4/s1280/20240914_103746.jpg",
                     "name": "Astro Super Sport",
-                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=123",
+                    "stream_url": "https://webhdrunns.mizhls.ru/lb/premium123/index.m3u8?",
                     "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
                 },
                 {       
-                    "referer": "https://mhdtv.co.in/daddy/?play=124",
+                    "referer": "https://qqwebplay.xyz/%20",
                     "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5l6FoBU6ONya0_hpEcLS20JMmuRhG6jf-EvxcyeMgTBJKGeXwx9Ykn8-p2naW7kNZvH3m0DNy7WQDEwFgEFrR0sKOu44BzK4asYynvaiiVeFuiIxaePoxFLwJPjC-il1GT2HLLIrZjXWscUbua3Boycv_OCc2p7uVv8vBO3mpifLUCL6-FUMPV4qRDGQ/s1280/20240914_103807.jpg",
                     "name": "Astro Super Sport 2",
-                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=124",
+                    "stream_url": "https://webhdrunns.mizhls.ru/lb/premium124/index.m3u8?",
                     "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
                 },
                 {       
-                    "referer": "https://mhdtv.co.in/daddy/?play=125",
+                    "referer": "https://qqwebplay.xyz/%20",
                     "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh23FNkDHOSU73wnk9i8IJ-dHQVqj5fxVJdzITmzmTizmxiieeE4LNAHxYbJeX3FTYWOZmDNrqxq4QKGHdqUxoUdzYadVJMDEsvI8FYXSoErAdcBqIrcQrDh_0SObYMIEnv0dsS1h8sqcUqvGQZWKBacgssPAz_ljMZ3VKmqvzPglykroWqK3Xvv5YSL7o/s1280/20240914_103833.jpg",
                     "name": "Astro Super Sport 3",
-                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=125",
+                    "stream_url": "https://https://webhdrunns.mizhls.ru/lb/premium125/index.m3u8?",
                     "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
                 },
                 {       
-                    "referer": "https://mhdtv.co.in/daddy/?play=126",
+                    "referer": "https://qqwebplay.xyz/%20",
                     "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkrnfiwVRy0eYj5zE3rf4P-BLAnOWuftw129qgZ8T_bXPBc5WxuyAWVoYgXrSMggrkafUXP6JRurBKGW3mOsTobelu3wbHxj2AZOzaJdwI9K504qIlHwNMmOSgL3HTlQJ50uJpR0vEB8kyhHxrv1UcD-UVS6olOdsLH65xGJ6onVDRZoVnyi6uITVyqXo/s1280/20240914_103853.jpg",
                     "name": "Astro Super Sport 4",
-                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=126",
+                    "stream_url": "https://webhdrunns.mizhls.ru/lb/premium126/index.m3u8?",
                     "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
                 },
                 {       
-                    "referer": "https://mhdtv.co.in/daddy/?play=62",
+                    "referer": "https://qqwebplay.xyz/%20",
                     "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjABYhuSOSCe7V3H5pLtQ-c0iS90H_2RHGPiGe7zKWylx6EweMCMYTmI-OEjdhswyI8Xc2E8z0hiaqV7mZFarO9hZ33-MlopabV-tMU8fyswW_fNXtZZ0N1F5o2Fe7WDk0ywt4vzmSe4fAWSgUJorM3Xrxgrx-W891VXDm_BgydfdstPsh9xZrI5rwmOOQ/s1280/20240914_025618.jpg",
                     "name": "Bein Sport 1 Turkey",
-                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=62",
+                    "stream_url": "https://webhdrunns.mizhls.ru/lb/premium62/index.m3u8?",
                     "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
                 },
                 {       
-                    "referer": "https://mhdtv.co.in/daddy/?play=63",
+                    "referer": "https://qqwebplay.xyz/%20",
                     "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgU_FOYls5w9cAxTEbNd4Waj4hp4uOwRNR0t0H16ArLtkcmFfGSBdaeyoA0h78dpov4iV-uzmq-QRdqdaDH-7B-pyem6Abka2XpxPsgt5t4MQnU5rXJSy5VUkrTK8s1GPJ9rMU4T6lUcxhbShhyg3J0fgXogdaxWcVOlHi4Z8lRyXWDhfXjj2oEOJth2zc/s1280/20240914_025659.jpg",
                     "name": "Bein Sport 2 Turkey",
-                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=63",
+                    "stream_url": "https://webhdrunns.mizhls.ru/lb/premium63/index.m3u8?",
                     "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
                 },
                 {       
-                    "referer": "https://mhdtv.co.in/daddy/?play=64",
+                    "referer": "https://qqwebplay.xyz/%20",
                     "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8fHf4GXRbELHQJkDBWkMXpANqXu3H0_EqnPocieqhZpRWjbMhsPxZlEm5TWSzzUAWWxSZdwlvjmQpuO1Q-iGvB74XcsrSmAcJD65ePjoWT_QvpWiBnuUI-ISsr2gmgcwocGWeqAC9BN3JO1SDzhyphenhyphencDS03EUKH7dOYjgnTj7XGblLWcUvdIUP9giGeGe4/s1280/20240914_025753.jpg",
                     "name": "Bein Sport 3 Turkey",
-                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=64",
+                    "stream_url": "https://webhdrunns.mizhls.ru/lb/premium64/index.m3u8?",
                     "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
                 },
                 {       
-                    "referer": "https://mhdtv.co.in/daddy/?play=67",
+                    "referer": "https://qqwebplay.xyz/%20",
                     "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC5HevrvTX_bQ-ryFS5I6pkONCWPfxtuAOElEIWJG8S0_9W4usMhZJzjtJt1C3aSvleNk_FsufEDuuo2vdUxD2qvgSD_k0xRKtPGs5ARF8-JHb9P-rKWDBP6PIgqNcpGWu3iX30qKs24DtOBmm9Ts8gkKMroj7-X1ilcuTwqMnlADNfV0NKIU3N7oonn0/s1280/20240914_031329.jpg",
                     "name": "Bein Sport 4 Turkey",
-                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=67",
+                    "stream_url": "https://webhdrunns.mizhls.ru/lb/premium67/index.m3u8?",
                     "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
                 },
                 {       
-                    "referer": "https://mhdtv.co.in/daddy/?play=100",
+                    "referer": "https://qqwebplay.xyz/%20",
                     "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKupmU8O-djuWKlJTa666d9wV7StKYDiN-vcoylKB4pAO7aU_OOOHyZWl9j_JDU9VYLviJt9Ta6aBK2b6LjtbRGbly61xK7Kx8ilUwdOBU_zmfsMZlK02N2gQ9NZEg9oyijm1AdYtnLOlyRw1fGUVimTgHGoAdy50XtNytNHaZCNZEYwm_JvsZVAyp3Uw/s1280/20240914_125539.jpg",
                     "name": "Bein Sport 1 Extra",
-                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=100",
+                    "stream_url": "https://webhdrunns.mizhls.ru/lb/premium100/index.m3u8?",
                     "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
                 },
                 {       
-                    "referer": "https://mhdtv.co.in/daddy/?play=101",
+                    "referer": "https://qqwebplay.xyz/%20",
                     "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaq2mpKPAkRDThabictgG0GR_1guQNkLmTWCdXmudVrY7SMMkTbiBX0-UFdOGtAOlQYcRbpdtb3jRGjzdHAwNmoJ74u09Rmzjan4vLmgxMkGfll2dfYzjXJU-fQIUk6upK0xopAkg975esyxINXJ1taeDuVYmp758GdQeqWKi7uVrIdUhWmDkTws1kgTk/s1280/20240914_125905.jpg",
                     "name": "SK 1",
-                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=101",
+                    "stream_url": "https://webhdrunns.mizhls.ru/lb/premium101/index.m3u8?",
                     "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
                 },
                 {       
-                    "referer": "https://mhdtv.co.in/daddy/?play=102",
+                    "referer": "https://qqwebplay.xyz/%20",
                     "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaq2mpKPAkRDThabictgG0GR_1guQNkLmTWCdXmudVrY7SMMkTbiBX0-UFdOGtAOlQYcRbpdtb3jRGjzdHAwNmoJ74u09Rmzjan4vLmgxMkGfll2dfYzjXJU-fQIUk6upK0xopAkg975esyxINXJ1taeDuVYmp758GdQeqWKi7uVrIdUhWmDkTws1kgTk/s1280/20240914_125905.jpg",
                     "name": "SK 2",
-                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=102",
+                    "stream_url": "https://webhdrunns.mizhls.ru/lb/premium102/index.m3u8?",
                     "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
                 },
                 {       
-                    "referer": "https://mhdtv.co.in/daddy/?play=103",
+                    "referer": "https://qqwebplay.xyz/%20",
                     "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaq2mpKPAkRDThabictgG0GR_1guQNkLmTWCdXmudVrY7SMMkTbiBX0-UFdOGtAOlQYcRbpdtb3jRGjzdHAwNmoJ74u09Rmzjan4vLmgxMkGfll2dfYzjXJU-fQIUk6upK0xopAkg975esyxINXJ1taeDuVYmp758GdQeqWKi7uVrIdUhWmDkTws1kgTk/s1280/20240914_125905.jpg",
                     "name": "SK 3",
-                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=103",
+                    "stream_url": "https://webhdrunns.mizhls.ru/lb/premium103/index.m3u8?",
                     "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
                 },
                 {       
-                    "referer": "https://mhdtv.co.in/daddy/?play=104",
+                    "referer": "https://qqwebplay.xyz/%20",
                     "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaq2mpKPAkRDThabictgG0GR_1guQNkLmTWCdXmudVrY7SMMkTbiBX0-UFdOGtAOlQYcRbpdtb3jRGjzdHAwNmoJ74u09Rmzjan4vLmgxMkGfll2dfYzjXJU-fQIUk6upK0xopAkg975esyxINXJ1taeDuVYmp758GdQeqWKi7uVrIdUhWmDkTws1kgTk/s1280/20240914_125905.jpg",
                     "name": "SK 4",
-                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=104",
+                    "stream_url": "https://webhdrunns.mizhls.ru/lb/premium104/index.m3u8?",
                     "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
                 },
                 {       
-                    "referer": "https://mhdtv.co.in/daddy/?play=78",
+                    "referer": "https://qqwebplay.xyz/%20",
                     "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcq8jRGXZ1OrVJbL1JWybAWa542Dy1gxzq1aIXUNrbgMxi4TOWbnqZOhoK8xJtZl0fbIjBEaVXL8ADobXpqO5peMwlWHDTP32V6rLvXymnhNHRNY2OanteT1X8DvhhGQ0zjlasty3Eh78vCcS6EBTXLkn1FcS9JcguR6Z3zZfLJpt1tCrUWSPVzXfVsgE/s1280/20240914_130609.jpg",
                     "name": "Sportv",
-                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=78",
+                    "stream_url": "https://webhdrunns.mizhls.ru/lb/premium78/index.m3u8?",
                     "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
                 },
                 {       
-                    "referer": "https://mhdtv.co.in/daddy/?play=79",
+                    "referer": "https://qqwebplay.xyz/%20",
                     "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcq8jRGXZ1OrVJbL1JWybAWa542Dy1gxzq1aIXUNrbgMxi4TOWbnqZOhoK8xJtZl0fbIjBEaVXL8ADobXpqO5peMwlWHDTP32V6rLvXymnhNHRNY2OanteT1X8DvhhGQ0zjlasty3Eh78vCcS6EBTXLkn1FcS9JcguR6Z3zZfLJpt1tCrUWSPVzXfVsgE/s1280/20240914_130609.jpg",
                     "name": "Sportv 2",
-                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=79",
+                    "stream_url": "https://webhdrunns.mizhls.ru/lb/premium79/index.m3u8?",
                     "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
                 },
                 {       
-                    "referer": "https://mhdtv.co.in/daddy/?play=80",
+                    "referer": "https://qqwebplay.xyz/%20",
                     "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcq8jRGXZ1OrVJbL1JWybAWa542Dy1gxzq1aIXUNrbgMxi4TOWbnqZOhoK8xJtZl0fbIjBEaVXL8ADobXpqO5peMwlWHDTP32V6rLvXymnhNHRNY2OanteT1X8DvhhGQ0zjlasty3Eh78vCcS6EBTXLkn1FcS9JcguR6Z3zZfLJpt1tCrUWSPVzXfVsgE/s1280/20240914_130609.jpg",
                     "name": "Sportv 3",
-                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=80",
+                    "stream_url": "https://webhdrunns.mizhls.ru/lb/premium80/index.m3u8?",
                     "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
                 },
                 {       
-                    "referer": "https://mhdtv.co.in/daddy/?play=408",
+                    "referer": "https://qqwebplay.xyz/%20",
                     "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiD3AKMGSppmiYpZ2jm0DUVpOj42DCsZNiiRLEQwMNIGFvZS2wPcDKdvz8R2A9flKc4YqHg4dx3N3Byii8pIGGLxi7h3I2pm-oohQfGlV8lA5XDjn8PbxvevWvpZuPYTtbCcR5YFJIa-myKKu2MZ9N7LpZbpKc4VCvKHs-1RD2ok901-hnumZRXuq4gq5o/s1280/20240914_122016.jpg",
                     "name": "SN 1",
-                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=408",
+                    "stream_url": "https://webhdrunns.mizhls.ru/lb/premium408/index.m3u8?",
                     "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
                 },
                 {       
-                    "referer": "https://mhdtv.co.in/daddy/?play=409",
+                    "referer": "https://qqwebplay.xyz/%20",
                     "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiD3AKMGSppmiYpZ2jm0DUVpOj42DCsZNiiRLEQwMNIGFvZS2wPcDKdvz8R2A9flKc4YqHg4dx3N3Byii8pIGGLxi7h3I2pm-oohQfGlV8lA5XDjn8PbxvevWvpZuPYTtbCcR5YFJIa-myKKu2MZ9N7LpZbpKc4VCvKHs-1RD2ok901-hnumZRXuq4gq5o/s1280/20240914_122016.jpg",
                     "name": "SN 2",
-                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=409",
+                    "stream_url": "https://webhdrunns.mizhls.ru/lb/premium409/index.m3u8?",
                     "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
                 },
                 {       
-                    "referer": "https://mhdtv.co.in/daddy/?play=410",
+                    "referer": "https://qqwebplay.xyz/%20",
                     "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiD3AKMGSppmiYpZ2jm0DUVpOj42DCsZNiiRLEQwMNIGFvZS2wPcDKdvz8R2A9flKc4YqHg4dx3N3Byii8pIGGLxi7h3I2pm-oohQfGlV8lA5XDjn8PbxvevWvpZuPYTtbCcR5YFJIa-myKKu2MZ9N7LpZbpKc4VCvKHs-1RD2ok901-hnumZRXuq4gq5o/s1280/20240914_122016.jpg",
                     "name": "SN 3",
-                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=410",
+                    "stream_url": "https://webhdrunns.mizhls.ru/lb/premium410/index.m3u8?",
                     "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
                 },
                 {       
-                    "referer": "https://mhdtv.co.in/daddy/?play=411",
+                    "referer": "https://qqwebplay.xyz/%20",
                     "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiD3AKMGSppmiYpZ2jm0DUVpOj42DCsZNiiRLEQwMNIGFvZS2wPcDKdvz8R2A9flKc4YqHg4dx3N3Byii8pIGGLxi7h3I2pm-oohQfGlV8lA5XDjn8PbxvevWvpZuPYTtbCcR5YFJIa-myKKu2MZ9N7LpZbpKc4VCvKHs-1RD2ok901-hnumZRXuq4gq5o/s1280/20240914_122016.jpg",
                     "name": "SN 4",
-                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=411",
+                    "stream_url": "https://webhdrunns.mizhls.ru/lb/premium411/index.m3u8?",
                     "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
                 },
                 {       
-                    "referer": "https://mhdtv.co.in/daddy/?play=400",
+                    "referer": "https://qqwebplay.xyz/%20",
                     "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0MsAQe6iA6qsFlAGzmdFl6UjA4bBlUFGIqgiaAoKcnJJyfnHnMANfgLGVE4yaIzJ93WEp8PLt582N0AlA52cHbdsPDdmOGk9ckHkTI1_NtZJpldjDdt64qIrrDP1NE0ghOo7vL7I0te33QohbuDHD7kUnz6gXlx735GAC5V4N_3M-3CG5UuYKOjBBjfY/s1280/20240914_120026.jpg",
                     "name": "DIGI Sport 1 HD",
-                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=400",
+                    "stream_url": "https://webhdrunns.mizhls.ru/lb/premium400/index.m3u8?",
                     "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
                 },
                 {       
-                    "referer": "https://mhdtv.co.in/daddy/?play=401",
+                    "referer": "https://qqwebplay.xyz/%20",
                     "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0MsAQe6iA6qsFlAGzmdFl6UjA4bBlUFGIqgiaAoKcnJJyfnHnMANfgLGVE4yaIzJ93WEp8PLt582N0AlA52cHbdsPDdmOGk9ckHkTI1_NtZJpldjDdt64qIrrDP1NE0ghOo7vL7I0te33QohbuDHD7kUnz6gXlx735GAC5V4N_3M-3CG5UuYKOjBBjfY/s1280/20240914_120026.jpg",
                     "name": "DIGI Sport 2 HD",
-                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=401",
+                    "stream_url": "https://webhdrunns.mizhls.ru/lb/premium401/index.m3u8?",
                     "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
                 },
                 {       
-                    "referer": "https://mhdtv.co.in/daddy/?play=402",
+                    "referer": "https://qqwebplay.xyz/%20",
                     "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0MsAQe6iA6qsFlAGzmdFl6UjA4bBlUFGIqgiaAoKcnJJyfnHnMANfgLGVE4yaIzJ93WEp8PLt582N0AlA52cHbdsPDdmOGk9ckHkTI1_NtZJpldjDdt64qIrrDP1NE0ghOo7vL7I0te33QohbuDHD7kUnz6gXlx735GAC5V4N_3M-3CG5UuYKOjBBjfY/s1280/20240914_120026.jpg",
                     "name": "DIGI Sport 3 HD",
-                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=402",
+                    "stream_url": "https://webhdrunns.mizhls.ru/lb/premium402/index.m3u8?",
                     "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
                 },
                 {       
-                    "referer": "https://mhdtv.co.in/daddy/?play=403",
+                    "referer": "https://qqwebplay.xyz/%20",
                     "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0MsAQe6iA6qsFlAGzmdFl6UjA4bBlUFGIqgiaAoKcnJJyfnHnMANfgLGVE4yaIzJ93WEp8PLt582N0AlA52cHbdsPDdmOGk9ckHkTI1_NtZJpldjDdt64qIrrDP1NE0ghOo7vL7I0te33QohbuDHD7kUnz6gXlx735GAC5V4N_3M-3CG5UuYKOjBBjfY/s1280/20240914_120026.jpg",
                     "name": "DIGI Sport 4 HD",
-                    "stream_url": "https://mhdtv.co.in/daddy/stream.m3u8?id=403",
+                    "stream_url": "https://webhdrunns.mizhls.ru/lb/premium403/index.m3u8?",
                     "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
                 },
                 {       
