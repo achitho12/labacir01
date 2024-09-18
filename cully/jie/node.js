@@ -2,21 +2,7 @@
     "categories": [
             {
             "name": "National Tv",
-            "channels": [
-            {
-            	    "drm_id": "bri1",
-                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiO-ritvG1T4JmD_BpPdqIZp6wY9j85Tn4lZPIov91fVNbud06dWiMnLm6HV7KBmGpk_bjS9wDLxv4dm9vJzddfxgzXMoaF9G56MXj6OzIIql7PnNfGh3FAry5ypUnJNcABwUlkJwOgUuagqdsPpg-Tq0-i1ZmAZ2SR2Pl1aKzYiAZ_eDIvMdJxXAzOFVQ/s1280/20240915_144000.jpg",
-                    "name": "Bri live 1",
-                    "stream_url": "https://sritv.serv00.net/red/play.mpd?id=17622&type=dash",
-                    "user_agent": "VidioPlayer/4.3.0-WITH_ADS "
-                },
-                {
-            	    "drm_id": "bri2",
-                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiO-ritvG1T4JmD_BpPdqIZp6wY9j85Tn4lZPIov91fVNbud06dWiMnLm6HV7KBmGpk_bjS9wDLxv4dm9vJzddfxgzXMoaF9G56MXj6OzIIql7PnNfGh3FAry5ypUnJNcABwUlkJwOgUuagqdsPpg-Tq0-i1ZmAZ2SR2Pl1aKzYiAZ_eDIvMdJxXAzOFVQ/s1280/20240915_144000.jpg",
-                    "name": "Bri live 2",
-                    "stream_url": "https://gatotkaca007.serv00.net/red/play.mpd?id=205&type=dash",
-                    "user_agent": "VidioPlayer/4.3.0-WITH_ADS "
-                },
+            "channels": [          
                 {
                     "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiO-ritvG1T4JmD_BpPdqIZp6wY9j85Tn4lZPIov91fVNbud06dWiMnLm6HV7KBmGpk_bjS9wDLxv4dm9vJzddfxgzXMoaF9G56MXj6OzIIql7PnNfGh3FAry5ypUnJNcABwUlkJwOgUuagqdsPpg-Tq0-i1ZmAZ2SR2Pl1aKzYiAZ_eDIvMdJxXAzOFVQ/s1280/20240915_144000.jpg",
                     "name": "Channel Pengganti",
