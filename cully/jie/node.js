@@ -2128,7 +2128,7 @@
         {
             "drm_id": "bri1",
             "drm_key": "https://sritv.serv00.net/red/play.php?id=17622&type=drm",
-            "drm_type": "clearkey"
+            "drm_type": "com.widevine.alpha"
         },
         {
             "drm_id": "HgtvF",
