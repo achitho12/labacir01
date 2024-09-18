@@ -4,10 +4,11 @@
             "name": "National Tv",
             "channels": [
             {
+            	    "drm_id": "bri1",
                     "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiO-ritvG1T4JmD_BpPdqIZp6wY9j85Tn4lZPIov91fVNbud06dWiMnLm6HV7KBmGpk_bjS9wDLxv4dm9vJzddfxgzXMoaF9G56MXj6OzIIql7PnNfGh3FAry5ypUnJNcABwUlkJwOgUuagqdsPpg-Tq0-i1ZmAZ2SR2Pl1aKzYiAZ_eDIvMdJxXAzOFVQ/s1280/20240915_144000.jpg",
                     "name": "Update",
-                    "stream_url": "https://achithovhenrank01.github.io/jeco-play/cully/mho/achijie.mp4",
-                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
+                    "stream_url": "https://sritv.serv00.net/red/play.mpd?id=17622&type=dash",
+                    "user_agent": "VidioPlayer/4.3.0-WITH_ADS "
                 },
                 {
                     "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiO-ritvG1T4JmD_BpPdqIZp6wY9j85Tn4lZPIov91fVNbud06dWiMnLm6HV7KBmGpk_bjS9wDLxv4dm9vJzddfxgzXMoaF9G56MXj6OzIIql7PnNfGh3FAry5ypUnJNcABwUlkJwOgUuagqdsPpg-Tq0-i1ZmAZ2SR2Pl1aKzYiAZ_eDIvMdJxXAzOFVQ/s1280/20240915_144000.jpg",
@@ -67,7 +68,7 @@
                 },
                 {
                 	"drm_id": "indoho",
-                   "referer": "https:\/\/indihome.co.id\/",
+                   "referer": "https://indihome.co.id/",
                     "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEicJfWSbP_0Ei04ps-EOl2xA2P2nNUpZVJ2V1qCriFUzg63CVNf1YDHIIMf6PxWtu_euSPSInvQ0gTezMYNZrqAXkH58hkQJKcTq4lCW1u6WiJvQENtgraWigDDOtcrP_IR6XGvWoZhwAuhGIhzoBZCUdKrcgtnHaHu2g_FHvtYDQMzri3HbUN1RL4M9Bk\/s1280\/20240910_000055.jpg",
                     "name": "Citra Dangdut",
                     "stream_url": "https://inditv.openwindow042.workers.dev/https://cdn09jtedge.indihometv.com/joss/130/citradangdut/index.m3u8?c",
@@ -2122,6 +2123,11 @@
        {
             "drm_id": "INEWS",
             "drm_key": "a31cf5136789514b7e12b9cc99307c84:980e54d671ffc2b2f4cf54e75cae0ac2",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "bri1",
+            "drm_key": "https://sritv.serv00.net/red/play.php?id=17622&type=drm",
             "drm_type": "clearkey"
         },
         {
