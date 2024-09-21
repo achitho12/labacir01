@@ -283,7 +283,7 @@
                 {
                 	"drm_id": "indoho",
                     "referer": "https:\/\/indihome.co.id\/",
-                    "logo_url": "https://inditv.openwindow042.workers.dev/https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEib9x80W_MRuUnF4u_S0l0A9RIuBIN1p5OyYLCi8Z90jNZPTXg5tJXE2l58qEI3FScehx2JzdALpPUcjJf_bXmk4QRKlOVVAY2qgBWvBeOIdKglgkldVrGnnuEwEKeeanlmHOgBK1Ho_SD5eklFJ3CYDd_wwRJEqZl1VZCVj_RJjUM-7Un_moqo5qTaWIk\/s1280\/20240911_023719.jpg",
+                    "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEib9x80W_MRuUnF4u_S0l0A9RIuBIN1p5OyYLCi8Z90jNZPTXg5tJXE2l58qEI3FScehx2JzdALpPUcjJf_bXmk4QRKlOVVAY2qgBWvBeOIdKglgkldVrGnnuEwEKeeanlmHOgBK1Ho_SD5eklFJ3CYDd_wwRJEqZl1VZCVj_RJjUM-7Un_moqo5qTaWIk\/s1280\/20240911_023719.jpg",
                     "name": "Dunia Lain",
                     "stream_url": "https:\/\/cdn09jtedge.indihometv.com\/joss\/130\/dunialain\/index.m3u8?c",
                     "user_agent": "IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1"
