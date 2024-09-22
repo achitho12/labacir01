@@ -1862,14 +1862,14 @@
                     
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/9e11438e\/f5ad_r32.jpg",
                     "name": "Spotv",
-                    "stream_url": "https:\/\/inditv.openwindow042.workers.dev\/https:\/\/cdn09jtedge.indihometv.com\/joss\/133\/beib1\/index.m3u8?c",
+                    "stream_url": "https:\/\/cdn09jtedge.indihometv.com\/joss\/133\/beib1\/index.m3u8?c",
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
                     
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/9c1465ab\/79a6_r32.jpg",
                     "name": "Spotv 2",
-                    "stream_url": "https:\/\/inditv.openwindow042.workers.dev\/https:\/\/cdn09jtedge.indihometv.com\/joss\/133\/beib2\/index.m3u8?c",
+                    "stream_url": "https:\/\/cdn09jtedge.indihometv.com\/joss\/133\/beib2\/index.m3u8?c",
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
