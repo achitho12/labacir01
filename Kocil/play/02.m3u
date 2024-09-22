@@ -11,10 +11,10 @@
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/SoccerChannel2020.png" group-title="AFC",Soccer channel
 #EXTVLCOPT:http-referrer=https://nowsports.in/sliv/play.php?id=7541236
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Nintendo 3DS; U; ; en) Version/1.7412.EU
 https://nowsports.in/sliv/stream.php?id=7541236
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/SoccerChannel2020.png" group-title="AFC",Soccer channel
 #EXTVLCOPT:http-referrer=https://nowsports.in/sliv/play.php?id=96585698
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Nintendo 3DS; U; ; en) Version/1.7412.EU
 https://nowsports.in/sliv/stream.php?id=96585698
