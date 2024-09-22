@@ -2201,13 +2201,13 @@
         },
         {
             "drm_id": "cp3",
-            "drm_key": "https://sritv.serv00.net/red/play.php?id=6786&type=drm",
-            "drm_type": "com.widevine.alpha"
+            "drm_key": "3d1c52f71333f0651f9b7971eba4d6d7:5394d82a0d04a629f95b83ce6612973b",
+            "drm_type": "clearkey"
         },
         {
             "drm_id": "cp2",
-            "drm_key": "https://sritv.serv00.net/red/play.php?id=6686&type=drm",
-            "drm_type": "com.widevine.alpha"
+            "drm_key": "8097f89903c0c6afbe3fbb4f82c07e12:0e9dde48ac7cbe59447e68d6eefe7583",
+            "drm_type": "clearkey"
         },
         {
             "drm_id": "cp1",
