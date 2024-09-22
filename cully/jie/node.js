@@ -1004,6 +1004,62 @@
                     "stream_url": "https:\/\/cdnlb.tvplayhome.lt\/live\/eds\/TV3_Sport3_HD_HVC\/GO3_LIVE_DASH_AVC\/TV3_Sport3_HD_HVC.mpd",
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
+                {
+                	"drm_id": "cp1",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3A_944-6a2_ThqCmqPNix1DPF6jX6J0aOEHJDF7AiBT9WIJd9429zjaMfqxTDTp2jvdcSkPUw4vGjfC5Z1GOi_gtXkdGokdiaHVZSOah7Lb-5TUGWZVhNzfsQNK1e-0T2IfufNXJowFAWQV7DcOuFbdBSPZPZTvkYShWUglGXIrqa8ueZ67m0nupGUeM/s1280/20240922_092745.jpg",
+                    "name": "Champ 1",
+                    "stream_url": "https:\/\/sritv.serv00.net\/red\/play.mpd?id=6685&type=dash",
+                    "user_agent": "VidioPlayer/4.3.0-WITH_ADS"
+                },
+                {
+                	"drm_id": "cp2",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3A_944-6a2_ThqCmqPNix1DPF6jX6J0aOEHJDF7AiBT9WIJd9429zjaMfqxTDTp2jvdcSkPUw4vGjfC5Z1GOi_gtXkdGokdiaHVZSOah7Lb-5TUGWZVhNzfsQNK1e-0T2IfufNXJowFAWQV7DcOuFbdBSPZPZTvkYShWUglGXIrqa8ueZ67m0nupGUeM/s1280/20240922_092745.jpg",
+                    "name": "Champ 2",
+                    "stream_url": "https:\/\/sritv.serv00.net\/red\/play.mpd?id=6686&type=dash",
+                    "user_agent": "VidioPlayer/4.3.0-WITH_ADS"
+                },
+                {
+                	"drm_id": "cp3",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3A_944-6a2_ThqCmqPNix1DPF6jX6J0aOEHJDF7AiBT9WIJd9429zjaMfqxTDTp2jvdcSkPUw4vGjfC5Z1GOi_gtXkdGokdiaHVZSOah7Lb-5TUGWZVhNzfsQNK1e-0T2IfufNXJowFAWQV7DcOuFbdBSPZPZTvkYShWUglGXIrqa8ueZ67m0nupGUeM/s1280/20240922_092745.jpg",
+                    "name": "Champ 3",
+                    "stream_url": "https:\/\/sritv.serv00.net\/red\/play.mpd?id=6786&type=dash",
+                    "user_agent": "VidioPlayer/4.3.0-WITH_ADS"
+                },
+                {
+                	"drm_id": "cp5",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3A_944-6a2_ThqCmqPNix1DPF6jX6J0aOEHJDF7AiBT9WIJd9429zjaMfqxTDTp2jvdcSkPUw4vGjfC5Z1GOi_gtXkdGokdiaHVZSOah7Lb-5TUGWZVhNzfsQNK1e-0T2IfufNXJowFAWQV7DcOuFbdBSPZPZTvkYShWUglGXIrqa8ueZ67m0nupGUeM/s1280/20240922_092745.jpg",
+                    "name": "Champ 5",
+                    "stream_url": "https:\/\/sritv.serv00.net\/red\/play.mpd?id=9182&type=dash",
+                    "user_agent": "VidioPlayer/4.3.0-WITH_ADS"
+                },
+                {
+                	"drm_id": "cp6",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3A_944-6a2_ThqCmqPNix1DPF6jX6J0aOEHJDF7AiBT9WIJd9429zjaMfqxTDTp2jvdcSkPUw4vGjfC5Z1GOi_gtXkdGokdiaHVZSOah7Lb-5TUGWZVhNzfsQNK1e-0T2IfufNXJowFAWQV7DcOuFbdBSPZPZTvkYShWUglGXIrqa8ueZ67m0nupGUeM/s1280/20240922_092745.jpg",
+                    "name": "Champ 6",
+                    "stream_url": "https:\/\/sritv.serv00.net\/red\/play.mpd?id=9183&type=dash",
+                    "user_agent": "VidioPlayer/4.3.0-WITH_ADS"
+                },
+                {
+                	"drm_id": "beb1",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjABYhuSOSCe7V3H5pLtQ-c0iS90H_2RHGPiGe7zKWylx6EweMCMYTmI-OEjdhswyI8Xc2E8z0hiaqV7mZFarO9hZ33-MlopabV-tMU8fyswW_fNXtZZ0N1F5o2Fe7WDk0ywt4vzmSe4fAWSgUJorM3Xrxgrx-W891VXDm_BgydfdstPsh9xZrI5rwmOOQ/s1280/20240914_025618.jpg",
+                    "name": "Bein S1",
+                    "stream_url": "https:\/\/sritv.serv00.net\/red\/play.mpd?id=6299&type=dash",
+                    "user_agent": "VidioPlayer/4.3.0-WITH_ADS"
+                },
+                {
+                	"drm_id": "beb2",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgU_FOYls5w9cAxTEbNd4Waj4hp4uOwRNR0t0H16ArLtkcmFfGSBdaeyoA0h78dpov4iV-uzmq-QRdqdaDH-7B-pyem6Abka2XpxPsgt5t4MQnU5rXJSy5VUkrTK8s1GPJ9rMU4T6lUcxhbShhyg3J0fgXogdaxWcVOlHi4Z8lRyXWDhfXjj2oEOJth2zc/s1280/20240914_025659.jpg",
+                    "name": "Bein S2",
+                    "stream_url": "https:\/\/sritv.serv00.net\/red\/play.mpd?id=17875&type=dash",
+                    "user_agent": "VidioPlayer/4.3.0-WITH_ADS"
+                },
+                {
+                	"drm_id": "beb3",
+                    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8fHf4GXRbELHQJkDBWkMXpANqXu3H0_EqnPocieqhZpRWjbMhsPxZlEm5TWSzzUAWWxSZdwlvjmQpuO1Q-iGvB74XcsrSmAcJD65ePjoWT_QvpWiBnuUI-ISsr2gmgcwocGWeqAC9BN3JO1SDzhyphenhyphencDS03EUKH7dOYjgnTj7XGblLWcUvdIUP9giGeGe4/s1280/20240914_025753.jpg",
+                    "name": "Bein S3",
+                    "stream_url": "https:\/\/sritv.serv00.net\/red\/play.mpd?id=6317&type=dash",
+                    "user_agent": "VidioPlayer/4.3.0-WITH_ADS"
+                },
                 {       
                     "referer": "https://qqwebplay.xyz/%20",
                     "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVHa8XJzf4Cb1X_D9jCYTlICMHtagTIrfidcQsuyU3BZGWETUksnApZOtoOMCLXDv6qDKSIT980X9l7M5cvqrxd4waJMIqe0kRraS4jTYawPv2Sm8yuk9fYBYd7woi9oh69S54p13Og7Wz7XNuJwkxXjAf5-M3Wti1qAJZJLGLD9mYcG7W_hU-Ltx5MZA/s1280/20240915_042201.jpg",
@@ -2119,14 +2175,44 @@
             "drm_type": "clearkey"
         },
         {
-            "drm_id": "bri1",
-            "drm_key": "https://sritv.serv00.net/red/play.php?id=17622&type=drm",
+            "drm_id": "beb1",
+            "drm_key": "27df7de969fbb319605be693e9aa65ed:4d38a401cc9e76fe8660f40362468c4e",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "beb2",
+            "drm_key": "6d8181bca994eaa57329e04c98122868:da9b3e7a19a1430b19047792fc6add67",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "beb3",
+            "drm_key": "b5dfecbb10fe0d3638ea692f9c501d69:a0c27751c01554f8d792304c82303955",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "cp6",
+            "drm_key": "4ca1cf7890604c98959160aa80a8fc3e:4a545ab7495d40f186a5bf3d88d47802",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "cp5",
+            "drm_key": "7af7c0ac3c77478be9712bfc0f0d28b4:845b9d91cefb70530380e8749d8dc201",
+            "drm_type": "clearkey"
+        },
+        {
+            "drm_id": "cp3",
+            "drm_key": "https://sritv.serv00.net/red/play.php?id=6786&type=drm",
             "drm_type": "com.widevine.alpha"
         },
         {
-            "drm_id": "bri2",
-            "drm_key": "https://gatotkaca007.serv00.net/red/play.php?id=205&type=drm",
+            "drm_id": "cp2",
+            "drm_key": "https://sritv.serv00.net/red/play.php?id=6686&type=drm",
             "drm_type": "com.widevine.alpha"
+        },
+        {
+            "drm_id": "cp1",
+            "drm_key": "13e7faed04a9c3b9be8ca5203d606faf:9fc30798749a49a8cfaf7a2915952395",
+            "drm_type": "clearkey"
         },
         {
             "drm_id": "HgtvF",
