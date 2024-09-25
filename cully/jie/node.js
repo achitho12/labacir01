@@ -107,6 +107,18 @@
                     "stream_url": "https:\/\/atemecdnbalancer-voe.sysln.id\/live\/eds\/IndosiarHD\/mpd\/IndosiarHD.mpd",
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
+                {                    
+                    "logo_url": "https:\/\/s.id\/29Cyk",
+                    "name": "Indosiar",
+                    "stream_url": "https:\/\/achitho12.github.io\/bed\/Indoku\/master.m3u8",
+                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
+                },
+                {                    
+                    "logo_url": "https:\/\/s.id\/29Cyk",
+                    "name": "Indosiar",
+                    "stream_url": "https:\/\/achitho12.github.io\/bed\/Indoku\/master-1.m3u8",
+                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
+                },
                 {                	
                 	"referer": "https://www.dens.tv",
                     "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjB48LIfQJQVinh98gFLNZnQF3YpTQCfc0gDYkLYpqW-xDatRRYfuACAJL6O-ugKX9zFeHOJoe1HdvpZfeHST2ShVbwEfOy8Bg6w2SdJFkFn9jURzUsD0JQOSkr2ZahJVhk0CellBV1otD73x1UFWxZzefKbcJ_DFEtTnNM54VjSaM-rH2nbmWDys2zvcg/s1280/20240911_190934.jpg",
