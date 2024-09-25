@@ -113,10 +113,11 @@
                     "stream_url": "https:\/\/achitho12.github.io\/bed\/Indoku\/master.m3u8",
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
-                {                    
+                {
+                	"referer": "https://ben.quietlywheat23.shop/",
                     "logo_url": "https:\/\/s.id\/29Cyk",
                     "name": "Indosiar",
-                    "stream_url": "https:\/\/achitho12.github.io\/bed\/Indoku\/master-1.m3u8",
+                    "stream_url": "https://fhlsport20.fls77.xyz/token-JBUok%2BKRe%2FCG72Ypy%2FY6yD2DlJvW0C3jOSD8wPdMFTmj5LOWHUFdCI0uqh1LX0lJBCeIxjNmkg%3D%3Da/cfall/s2001/v3b/p615731nnUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_576431.m3u8",
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {                	
